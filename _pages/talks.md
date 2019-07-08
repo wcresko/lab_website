@@ -1,6 +1,6 @@
 ---
 title: "Seminars and Talks"
-layout: splash
+layout: single
 permalink: /talks/
 author_profile: false
 header:
