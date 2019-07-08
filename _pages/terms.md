@@ -2,6 +2,13 @@
 permalink: /terms/
 title: "Terms and Privacy Policy"
 modified: 2016-06-06
+author_profile: false
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.25"
+  overlay_image: /header.jpg/
+  caption: "Photo credit: [**Quick Check on Last Name Now**](https://unsplash.com)"
+excerpt: "Bluppity say something not stupidity ________ ...................... And then some more"
 ---
 
 {% include base_path %}
