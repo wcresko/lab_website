@@ -6,21 +6,29 @@ author_profile: false
 header:
   overlay_color: "#000"
   overlay_filter: "0.25"
-  overlay_image: /header.jpg/
-  caption: "Photo credit: [**Quick Check on Last Name Now**](https://unsplash.com)"
+  overlay_image: /header2.jpg/
+  caption: "Photo credit: **Quick Yeates**"
 excerpt: "The amazing team that keeps it all running"
 ---
 
-[Bill Cresko, PI](/cresko/)
+## Bill Cresko, Principal Investigator
+
+![](../images/lab_folks/cresko.jpg){:height="200px" width="200px"}
+>I am a geneticist who specializes in quantitative evolutionary genomics. Our laboratory studies the developmental genetic and genomic basis of evolution in natural populations using a variety of laboratory and field approaches tightly connected to innovation in genomics and quantitative biology.
+[Bill Cresko Bio](../_pages/cresko.md)
 
 ## Present Members
 
 **Susie Bassham, Senior Research Associate**
+
+![](../images/lab_folks/bassham.jpg){:height="200px" width="200px"}
+
 > What are the developmental and genetic bases of evolution in natural populations?
 Using a variety of molecular genetic tools, I try to uncover genome-scale patterns
 that underlie phenotypic variation in wild populations of fish, and to direct this
 knowledge to the study of developmental pathways that contribute to novel or modified
 morphologies.
+[Susie Bassham Bio](../_pages/cresko.md)
 
 ____________
 
