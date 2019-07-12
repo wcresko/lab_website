@@ -6,8 +6,8 @@ author_profile: false
 header:
   overlay_color: "#000"
   overlay_filter: "0.25"
-  overlay_image: /header.jpg/
-  caption: "Photo credit: [**Quick Check on Last Name Now**](https://unsplash.com)"
+  overlay_image: /header2.jpg/
+  caption: "Photo credit: **Quick Yeates**"
 excerpt: "Publications from the laboratory in reverse chronological order"
 ---
 
