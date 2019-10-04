@@ -1,5 +1,5 @@
 ---
-title: "Present and Past Members of the Cresko Laboratory"
+title: "Present and Past Members of the Lab"
 layout: splash
 permalink: /lab_members/
 author_profile: false
