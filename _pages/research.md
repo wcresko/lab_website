@@ -6,7 +6,7 @@ author_profile: false
 header:
   overlay_color: "#000"
   overlay_filter: "0.25"
-  overlay_image: /header.jpg/
+  overlay_image: /images/header2.jpg
   caption: "Photo credit: [**Quick Check on Last Name Now**](https://unsplash.com)"
 excerpt: "Brief descriptions of the major focal areas of research in the laboratory"
 ---
