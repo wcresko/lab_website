@@ -17,7 +17,7 @@ excerpt: "Publications from the laboratory in reverse chronological order"
 
 2019 • CM Small, M Currey, EA Beck, S Bassham, WA Cresko. 2018. Highly reproducible 16S sequencing facilitates measurement of host genetic influences on the stickleback gut microbiome. mSystems (accepted).
 
-2019 • M Currrey, S Bassham and WA Cresko. Genetic divergence outpaces phenotypic divergence among threespine stickleback populations in old freshwater habitats. Biol. J. Linnean Society (accepted).
+2019 • M Currey, S Bassham and WA Cresko. Genetic divergence outpaces phenotypic divergence among threespine stickleback populations in old freshwater habitats. Biol. J. Linnean Society (accepted).
 
 2019 • CH O’Connor, KL Sikkink, TC Nelson, J Fierst, WA Cresko, PC Phillips. Complex pleiotropic genetic architecture of evolved heat stress and oxidative stress resistance in the nematode Caenorhabditis remanei. bioRxiv, 515320.
 
