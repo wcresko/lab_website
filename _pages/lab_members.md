@@ -33,7 +33,11 @@ morphologies.
 ____________
 
 **Mark Currey, Senior Research Assistant**
-> Mark needs to say something about himself
+
+![](../images/lab_folks/Mark1.jpg){:height="200px" width="200px"}
+
+>  I will do this later.
+[Mark Currey Bio](../_pages/cresko.md)
 
 ____________
 
