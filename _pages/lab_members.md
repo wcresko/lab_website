@@ -34,9 +34,16 @@ ____________
 
 **Mark Currey, Senior Research Assistant**
 
-![](../images/lab_folks/Mark1.jpg){:height="200px" width="200px"}
+![](../images/lab_folks/Mark2.jpg){:height="200px" width="200px"}
 
->  I will do this later.
+>  I’m interested in understanding the vast variety of life. How is morphological 
+variation, seen in populations of the same species, partitioned among different 
+environments and what are the genetic and genomic factors associated with this 
+partitioning? To get at this I’m investigating the distribution of populations of 
+threespine stickleback in Oregon, looking for patterns of association between 
+phenotype and environment, and ultimately querying the genomes of these populations 
+to associate patterns we see at the phenotypic level with patterns at the genetic 
+and genomic level.  
 [Mark Currey Bio](../_pages/cresko.md)
 
 ____________
