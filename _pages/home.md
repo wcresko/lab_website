@@ -6,31 +6,24 @@ date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.35"
-  overlay_image: ../images/header2.jpg/
-  actions:
-    - label: "Download"
-      url: "https://github.com/mmistakes/minimal-mistakes/"
+  overlay_image: /images/header2.jpg/
   caption: "Photo credit: [**Quick Yeates**]"
-excerpt: "A scientific laboratory dedicated to research on evolutionary genomics"
+excerpt: "An evolutionary genomics research on laboratory"
 intro:
   - excerpt: "Interested in learning more about our work, or joining the laboratory, explore the links above"
   - type: "center"
 feature_row:
-  - image_path: /AnadPools.jpg/
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /red_head.jpg/
+  - image_path: /images/AnadPools.jpg/
+    alt: "anadromous pools"
+    title: "Anadromous stickleback habitat"
+  - image_path: /images/red_head.jpg/
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: /image88.jpg/
+    alt: "stickleback bones"
+    title: "stickleback bones"
+  - image_path: /images/image88.jpg/
     title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    alt: "stickleback bones"
+    title: "stickleback bones"
 ---
 
 {% include feature_row id="intro" type="center" %}
