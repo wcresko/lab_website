@@ -1,5 +1,5 @@
 ---
-title: "Present and Past Members of the Lab"
+title: "Present and Past Lab Members"
 layout: splash
 permalink: /lab_members/
 author_profile: false
