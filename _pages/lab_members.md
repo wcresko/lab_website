@@ -48,6 +48,19 @@ and genomic level.
 
 ____________
 
+**Emily Beck, Research Associate**
+
+![](../images/lab_folks/emilybeck.png){:height="200px" width="200px"}
+
+>  I am a geneticist with a long-standing interest in how genetic interactions 
+influence evolutionary dynamics and how those dynamics impact disease states. My 
+doctoral thesis work primarily focused on mitochondrial and nuclear genome interactions 
+as they relate to speciation in Drosophila. As a postdoctoral research fellow, I significantly 
+extended my experiences to focus on host-microbe interactions and their broader influences on 
+progression of disease states in outbred threespine stickleback fish (Gasterosteus aculeatus).
+
+____________
+
 **Clay Small, Research Associate**
 
 ![](../images/lab_folks/clay.png){:height="200px" width="200px"}
@@ -87,13 +100,21 @@ heritability of the microbiome and other related child health traits.
 ____________
 **Sophia Frantz, Ph.D. Student**
 
-![](../images/lab_folks/Mark3.jpg){:height="200px" width="200px"}
+![](../images/lab_folks/sophia.jpg){:height="200px" width="200px"}
 
 > Sophia needs to say something about herself
 
 ____________
-**Emily Niebergall, Undergraduate Honors College Student**
+**Starla Chambrose, Undergraduate Researcher; Clark Honors College**
 
+![](../images/lab_folks/emilyn.jpg){:height="200px" width="200px"}
+
+> Need statement
+
+____________
+**Emily Niebergall, Undergraduate Researcher; Clark Honors College**
+
+![](../images/lab_folks/emilyn.jpg){:height="200px" width="200px"}
 
 > I am interested in studying the onset of adaptive immunity in threespine stickleback fish. By pinpointing 
 the onset of the adaptive immune system, threespine stickleback can be advanced as models for immunogenetics 
@@ -105,12 +126,14 @@ ____________
 ## Past Members
 
 **Kristin Sikkink**
-xxxx
+
+![](../images/lab_folks/ksikkink.jpg){:height="200px" width="200px"}
 
 ____________
 
 **Kristin Alligood**
-xxxx
+
+![](../images/lab_folks/alligood.jpg){:height="200px" width="200px"}
 
 ____________
 
