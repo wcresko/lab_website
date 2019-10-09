@@ -49,6 +49,9 @@ and genomic level.
 ____________
 
 **Clay Small, Research Associate**
+
+![](../images/lab_folks/clay.png){:height="200px" width="200px"}
+
 > The characterization of transcriptomic phenotypes using RNA-seq is a promising approach for understanding
 how genomes serve as conduits for the origin, maintenance and modification of ecologically relevant traits.
 To this end, I study the male pregnancy transcriptome in syngnathid fishes, and how genotype-by-environment
@@ -57,6 +60,9 @@ interactions affect the microbe-associated gastrointestinal transcriptome of thr
 ____________
 
 **Martin Stervander, Postdoctoral Scholar**
+
+![](../images/lab_folks/martin.jpg){:height="200px" width="200px"}
+
 > I am broadly interested in evolutionary biology and ecology, with a passion
 for birds. In my PhD project, I used traditional and “next generation” DNA
 sequencing to study speciation processes in several groups of birds, and
@@ -68,15 +74,31 @@ pipefishes and seahorses.
 ____________
 
 **Hannah Tavalire, Postdoctoral Scholar**
-> Hannah needs to say something about herself
+
+![](../images/lab_folks/hannah.jpg){:height="200px" width="200px"}
+
+> My broad research interests center around determining the genetic and environmental basis for phenotypic 
+traits using genomic and classical quantitative genetics approaches. Specifically, I am interested in the 
+intimate coevolutionary relationships between hosts and their symbionts, whether these relationships are 
+categorized as parasitic, commensal, or mutualistic in nature. I am currently working on the Early Growth 
+and Development Study (EGDS) with Leslie Leve, using a quantitative genetics approach to estimate the 
+heritability of the microbiome and other related child health traits.
 
 ____________
 **Sophia Frantz, Ph.D. Student**
+
+![](../images/lab_folks/Mark3.jpg){:height="200px" width="200px"}
+
 > Sophia needs to say something about herself
 
 ____________
 **Emily Niebergall, Undergraduate Honors College Student**
-> Emily needs to say something about herself
+
+
+> I am interested in studying the onset of adaptive immunity in threespine stickleback fish. By pinpointing 
+the onset of the adaptive immune system, threespine stickleback can be advanced as models for immunogenetics 
+studies. I am also interested in studying the impact of microbial influence on the development of the adaptive 
+immune system.
 
 ____________
 
