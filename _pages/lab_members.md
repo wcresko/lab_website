@@ -98,6 +98,7 @@ and Development Study (EGDS) with Leslie Leve, using a quantitative genetics app
 heritability of the microbiome and other related child health traits.
 
 ____________
+
 **Sophia Frantz, Ph.D. Student**
 
 ![](../images/lab_folks/sophia.jpg){:height="200px" width="200px"}
@@ -105,6 +106,7 @@ ____________
 > Sophia needs to say something about herself
 
 ____________
+
 **Starla Chambrose, Undergraduate Researcher; Clark Honors College**
 
 ![](../images/lab_folks/starla.jpg){:height="200px" width="200px"}
@@ -112,6 +114,7 @@ ____________
 > Need statement
 
 ____________
+
 **Emily Niebergall, Undergraduate Researcher; Clark Honors College**
 
 ![](../images/lab_folks/emilyn.jpg){:height="200px" width="200px"}
@@ -122,6 +125,7 @@ studies. I am also interested in studying the impact of microbial influence on t
 immune system.
 
 ____________
+
 **Nia Harper, Undergraduate Researchere**
 
 ![](../images/lab_folks/nia.jpg){:height="200px" width="200px"}
@@ -129,14 +133,24 @@ ____________
 > Add something for Nia
 
 ____________
+
 **Jade Kast, Undergraduate Researcher**
 
 ![](../images/lab_folks/jade.jpg){:height="200px" width="200px"}
 
 > Add something for Jade
+
 ____________
 
 ## Past Members
+
+## Postdocs
+
+**Kat Milligan-Myhre**
+
+> Assistant Professor at University of Alaska, Anchorage
+
+____________
 
 **Kristin Sikkink**
 
