@@ -107,7 +107,7 @@ ____________
 ____________
 **Starla Chambrose, Undergraduate Researcher; Clark Honors College**
 
-![](../images/lab_folks/emilyn.jpg){:height="200px" width="200px"}
+![](../images/lab_folks/starla.jpg){:height="200px" width="200px"}
 
 > Need statement
 
@@ -121,6 +121,19 @@ the onset of the adaptive immune system, threespine stickleback can be advanced 
 studies. I am also interested in studying the impact of microbial influence on the development of the adaptive 
 immune system.
 
+____________
+**Nia Harper, Undergraduate Researchere**
+
+![](../images/lab_folks/nia.jpg){:height="200px" width="200px"}
+
+> Add something for Nia
+
+____________
+**Jade Kast, Undergraduate Researcher**
+
+![](../images/lab_folks/jade.jpg){:height="200px" width="200px"}
+
+> Add something for Jade
 ____________
 
 ## Past Members
