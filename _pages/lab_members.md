@@ -36,7 +36,7 @@ ____________
 
 ![](../images/lab_folks/Mark3.jpg){:height="200px" width="200px"}
 
->  TEST!!!  I’m interested in understanding the vast variety of life. How is morphological
+>  TEST again I’m interested in understanding the vast variety of life. How is morphological
 variation, seen in populations of the same species, partitioned among different
 environments and what are the genetic and genomic factors associated with this
 partitioning? To get at this I’m investigating the distribution of populations of
