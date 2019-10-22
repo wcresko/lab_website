@@ -7,7 +7,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.25"
   overlay_image: /images/header2.jpg
-  caption: "Photo credit: [**Quick Yeates"
+  caption: "Photo credit: [**Quick Yeates**]"
 excerpt: "Brief descriptions of the major focal areas of research in the laboratory"
 ---
 
