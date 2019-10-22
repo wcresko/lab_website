@@ -7,7 +7,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.35"
   overlay_image: /images/header2.jpg
-  caption: "Photo credit: [**Quick Yeates**]"
+  caption: "Photo credit: **Quick Yeates**"
 excerpt: "An evolutionary genomics research laboratory"
 intro:
   - excerpt: "Interested in learning more about our work, or joining the laboratory, explore the links above"
