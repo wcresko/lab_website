@@ -11,7 +11,7 @@ header:
 excerpt: "An evolutionary genomics research laboratory"
 intro:
   - excerpt: "Interested in learning more about our work, or joining the laboratory, explore the links above"
-  - type: "center"
+  - type: "left"
 feature_row:
   - image_path: /images/AnadPools.jpg
     alt: "anadromous pools"

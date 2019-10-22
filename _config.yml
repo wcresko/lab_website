@@ -25,7 +25,7 @@ url                      : "https://wcresko.github.io/lab_website"
 baseurl                  : "/lab_website"
 repository               : "wcresko/lab_website"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "assests/images/site_logo.jpg"
+logo                     : "/images/site_logo.jpg"
 masthead_title           : "Cresko Lab @UO"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Bill Cresko"
-  avatar           : "/lab_folks/cresko.jpg/"
+  avatar           : "/images/lab_folks/cresko.jpg/"
   bio              : "Evolutionary Geneticist"
   location         : "Eugene, Oregon"
   email            : "wcresko@uoregon.edu"
