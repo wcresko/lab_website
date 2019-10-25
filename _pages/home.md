@@ -21,7 +21,7 @@ gallery:
     image_path: /images/red_head.jpg
     alt: "stickleback bones"
     title: "stickleback bones"
-  - url: /images/pipehead.jpg
+  - url: /images/eggs.jpg
     image_path: /images/eggs.jpg
     alt: "pipefish embryos"
     title: "pipefish embryos"
