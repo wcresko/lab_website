@@ -22,9 +22,9 @@ gallery:
     alt: "stickleback bones"
     title: "stickleback bones"
   - url: /images/pipehead.jpg
-    image_path: /images/red_head.jpg
-    alt: "pipefish head"
-    title: "pipefish head"
+    image_path: /images/eggs.jpg
+    alt: "pipefish embryos"
+    title: "pipefish embryos"
 ---
 
 {% include gallery caption="Images of research in our laboratory" %}
