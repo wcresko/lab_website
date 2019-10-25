@@ -10,21 +10,21 @@ header:
   caption: "Photo credit: **Quick Yeates**"
 excerpt: "An evolutionary genomics research laboratory"
 intro:
-  - excerpt: "Interested in learning more about our work, or joining the laboratory, explore the links above"
+  - excerpt: "Interested in learning more about our work - explore the links above"
   - type: "left"
-feature_row:
-  - image_path: /images/AnadPools.jpg
+gallery:
+  - url: /images/AnadPools.jpg
+    image_path: /images/AnadPools.jpg
     alt: "anadromous pools"
     title: "Anadromous stickleback habitat"
-  - image_path: /images/red_head.jpg
+  - url: /images/red_head.jpg
+    image_path: /images/red_head.jpg
     alt: "stickleback bones"
     title: "stickleback bones"
-  - image_path: /images/pipehead.jpg
+  - url: /images/pipehead.jpg
+    image_path: /images/pipehead.jpg
     alt: "pipefish head"
     title: "pipefish head"
-  - type: "center"
 ---
 
-{% include feature_row id="intro" type="center" %}
-
-{% include feature_row %}
+{% include gallery caption="This is a sample gallery with **Markdown support**." %}
