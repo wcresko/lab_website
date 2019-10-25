@@ -25,6 +25,10 @@ gallery:
     image_path: /images/pipehead.jpg
     alt: "pipefish head"
     title: "pipefish head"
+  - url: /images/pipehead.jpg
+    image_path: /images/pipehead.jpg
+    alt: "pipefish head"
+    title: "pipefish head"
 ---
 
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+{% include gallery caption="Images of research in our laboratory" %}
