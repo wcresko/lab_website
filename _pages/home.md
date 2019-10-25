@@ -22,6 +22,7 @@ feature_row:
   - image_path: /images/pipehead.jpg
     alt: "pipefish head"
     title: "pipefish head"
+  - type: "center"
 ---
 
 {% include feature_row id="intro" type="center" %}
