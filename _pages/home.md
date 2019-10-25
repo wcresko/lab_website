@@ -18,8 +18,10 @@ feature_row:
     title: "Anadromous stickleback habitat"
   - image_path: /images/red_head.jpg
     alt: "stickleback bones"
-    title: "Stickleback bones"
+    title: "stickleback bones"
   - image_path: /images/pipehead.jpg
     alt: "stickleback bones"
-    title: "Pipefish bones"
+    title: "stickleback bones"
 ---
+
+{% include feature_row %}
