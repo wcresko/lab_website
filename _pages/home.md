@@ -22,11 +22,7 @@ gallery:
     alt: "stickleback bones"
     title: "stickleback bones"
   - url: /images/pipehead.jpg
-    image_path: /images/pipehead.jpg
-    alt: "pipefish head"
-    title: "pipefish head"
-  - url: /images/pipehead.jpg
-    image_path: /images/pipehead.jpg
+    image_path: /images/red_head.jpg
     alt: "pipefish head"
     title: "pipefish head"
 ---
