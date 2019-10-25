@@ -20,8 +20,10 @@ feature_row:
     alt: "stickleback bones"
     title: "stickleback bones"
   - image_path: /images/pipehead.jpg
-    alt: "stickleback bones"
-    title: "stickleback bones"
+    alt: "pipefish head"
+    title: "pipefish head"
 ---
+
+{% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
