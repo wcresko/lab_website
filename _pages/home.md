@@ -19,8 +19,7 @@ feature_row:
   - image_path: /images/red_head.jpg
     alt: "stickleback bones"
     title: "stickleback bones"
-  - image_path: /images/image88.jpg
-    title: "Placeholder 3"
+  - image_path: /images/pipehead.jpg
     alt: "stickleback bones"
     title: "stickleback bones"
 ---
