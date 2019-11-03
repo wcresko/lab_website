@@ -1,6 +1,6 @@
 <!doctype html>
 <!--
-  Minimal Mistakes Jekyll Theme 4.16.4 by Michael Rose
+  Minimal Mistakes Jekyll Theme 4.17.2 by Michael Rose
   Copyright 2013-2019 Michael Rose - mademistakes.com | @mmistakes
   Free for personal and commercial use under the MIT license
   https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
@@ -10,8 +10,10 @@
     <meta charset="utf-8">
 
 <!-- begin _includes/seo.html --><title>Teaching - Cresko Laboratory</title>
-<meta name="description" content="Formal courses and short workshops that Bill has taught">
+<meta name="description" content="Formal courses and short workshops">
 
+
+  <meta name="author" content="Bill Cresko">
 
 
 <meta property="og:type" content="website">
@@ -21,22 +23,22 @@
 <meta property="og:url" content="http://localhost:4000/lab_website/teaching/">
 
 
-  <meta property="og:description" content="Formal courses and short workshops that Bill has taught">
+  <meta property="og:description" content="Formal courses and short workshops">
 
 
 
-  <meta property="og:image" content="http://localhost:4000/lab_website/header2.jpg/">
+  <meta property="og:image" content="http://localhost:4000/lab_website/images/header2.jpg">
 
 
 
   <meta name="twitter:site" content="@wcresko">
   <meta name="twitter:title" content="Teaching">
-  <meta name="twitter:description" content="Formal courses and short workshops that Bill has taught">
+  <meta name="twitter:description" content="Formal courses and short workshops">
   <meta name="twitter:url" content="http://localhost:4000/lab_website/teaching/">
 
   
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:image" content="http://localhost:4000/lab_website/header2.jpg/">
+    <meta name="twitter:image" content="http://localhost:4000/lab_website/images/header2.jpg">
   
 
   
@@ -57,19 +59,16 @@
 
 
 
-
-
-
-  <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
       "@type": "Person",
       "name": "Bill Cresko",
-      "url": "http://localhost:4000/lab_website",
-      "sameAs": null
-    }
-  </script>
-
+      "url": "http://localhost:4000/lab_website/"
+    
+  }
+</script>
 
 
 
@@ -91,7 +90,7 @@
 <!-- For all browsers -->
 <link rel="stylesheet" href="/lab_website/assets/css/main.css">
 
-<!--[if IE ]>
+<!--[if IE]>
   <style>
     /* old IE unsupported flexbox fixes */
     .greedy-nav .site-title {
@@ -117,6 +116,14 @@
   </head>
 
   <body class="layout--splash">
+    <nav class="skip-links">
+  <h2 class="screen-reader-text">Skip links</h2>
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
 
     <!--[if lt IE 9]>
 <div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
@@ -129,9 +136,12 @@
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
         
-          <a class="site-logo" href="/lab_website/"><img src="/lab_website/assests/images/site_logo.jpg" alt=""></a>
+          <a class="site-logo" href="/lab_website/"><img src="/lab_website/images/red_head.jpg" alt=""></a>
         
-        <a class="site-title" href="/lab_website/">Cresko Lab @UO</a>
+        <a class="site-title" href="/lab_website/">
+          Cresko Lab @UO
+          
+        </a>
         <ul class="visible-links"><li class="masthead__menu-item">
               <a href="/lab_website/home/" >Home</a>
             </li><li class="masthead__menu-item">
@@ -146,6 +156,10 @@
               <a href="/lab_website/talks/" >Talks</a>
             </li><li class="masthead__menu-item">
               <a href="/lab_website/teaching/" >Teaching</a>
+            </li><li class="masthead__menu-item">
+              <a href="/lab_website/categories/" >Categories</a>
+            </li><li class="masthead__menu-item">
+              <a href="/lab_website/tags/" >Tags</a>
             </li><li class="masthead__menu-item">
               <a href="/lab_website/year-archive/" >News</a>
             </li></ul>
@@ -183,7 +197,7 @@
 
 
 <div class="page__hero--overlay"
-  style="background-color: #000; background-image: linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)), url('/lab_website/header2.jpg/');"
+  style="background-color: #000; background-image: linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)), url('/lab_website/images/header2.jpg');"
 >
   
     <div class="wrapper">
@@ -194,7 +208,7 @@
         
       </h1>
       
-        <p class="page__lead">Formal courses and short workshops that Bill has taught
+        <p class="page__lead">Formal courses and short workshops
 </p>
       
       
@@ -213,12 +227,18 @@
 <div id="main" role="main">
   <article class="splash" itemscope itemtype="https://schema.org/CreativeWork">
     <meta itemprop="headline" content="Teaching">
-    <meta itemprop="description" content="Formal courses and short workshops that Bill has taught">
+    <meta itemprop="description" content="Formal courses and short workshops">
     
     
 
     <section class="page__content" itemprop="text">
-      <p>TO BE COMPLETED</p>
+      <p>BI 253. Foundations III: Evolution and Biodiversity. This is the third of three courses in the Foundations Introductory Biology sequence.  In this course we examine the patterns and mechanisms of evolutionary change over the past 4.5 billion years that have led to the vast diversity of life that exists on earth today.  In addition, we explore the ecology of individuals, populations, communities and ecosystems, and whole ecological interactions at all of these levels affect patterns of biodiversity, and impact many aspects of human societies. In the first two weeks students learn about gene regulation and regulatory networks during development, with particular emphasis on a few key cell signaling pathways.  For the following three weeks of the course, students examine the evolution of the major groups of plants, animals and fungi, and interpret particular aspects of these radiations in light of the ‘conserved genetic toolkit’.  The second half of the course focuses on ecological and evolutionary mechanisms that cause the patterns students learned about over the first five weeks, such as dynamics of populations, interactions among species and the structure of ecosystems.  Also, students learn about the evolutionary processes of mutation, selection, genetic drift and speciation.  All of these concepts are illustrated with examples from the natural world.  You will also explore how important ecological and evolutionary concepts are for understanding many aspects of human health and well being.</p>
+
+<p>BI 380. Evolution. This course aims to provide students with a foundational understanding of the field of evolution. The course will focus on the processes of evolution, and build from the breakthroughs of Darwin, through the maturation of the field by the melding of genetics and evolution in the Modern Synthesis, to recent breakthroughs in molecular evolution and genomics. We focus on the core concepts in evolutionary thinking, with interesting examples drawn from studies of a variety of organisms. Students learn through lectures, problems sets and discussions of papers from the primary literature.</p>
+
+<p>BI 486/586. Population Genetics. This course aims to provide students with an understanding of the history of the field of population genetics, the processes that govern the genetic composition of populations, and the spatiotemporal patterns that arise from these processes. This goal is accomplished through an exploration of the genetic mechanisms of evolutionary change within and among populations using a mixture of lectures, readings from textbooks and the primary literature, and particularly through problem solving using mathematical modeling.</p>
+
+<p>BI 496/596. Conservation Genetics.  Organismal populations and species can become endangered when their habitats are lost or altered, and these deleterious effects can be caused by changes in genetic diversity. Over ecological time scales the loss of diversity may reduce the viability of populations in fragmented habitats, and increase extinction probabilities for entire species. In addition, the loss of genetic diversity can have more long term, evolutionary consequences. The rate of evolutionary change in a population is proportional to available genetic diversity, the loss of which may retard the rate of evolution in response to habitat loss. Loss of genetic diversity is of practical concern for humans. All of life’s library is encoded by DNA, and loss of genetic diversity may remove a vast repository of resources for future discoveries in drugs, materials and energy, to name just a few. This course aims to teach students about the effects of habitat loss, exploitation, and/or environmental change on the genetic composition of natural populations, and how these changes affect the viability of these populations. In addition, students learn how to define evolutionarily significant units for management decisions. Lastly, conservation geneticists are often called on to make prescriptions for maintaining biological diversity, and to explain the importance to human well being for doing so. Students learn how to employ tools and techniques from population, quantitative and molecular genetics, as well as systematics and phylogenetics in addressing conservation problems.</p>
 
     </section>
   </article>
@@ -228,19 +248,26 @@
 
     
       <div class="search-content">
-        <div class="search-content__inner-wrap"><input type="search" id="search" aria-placeholder="Enter your search term..." class="search-input" tabindex="-1" placeholder="Enter your search term..." />
-    <div id="results" class="results"></div></div>
+        <div class="search-content__inner-wrap"><form class="search-content__form" onkeydown="return event.key != 'Enter';">
+    <label class="sr-only" for="search">
+      Enter your search term...
+    </label>
+    <input type="search" id="search" class="search-input" tabindex="-1" placeholder="Enter your search term..." />
+  </form>
+  <div id="results" class="results"></div></div>
 
       </div>
     
 
-    <div class="page__footer">
+    <div id="footer" class="page__footer">
       <footer>
         <!-- start custom footer snippets -->
 
 <!-- end custom footer snippets -->
         <div class="page__footer-follow">
   <ul class="social-icons">
+    
+      <li><strong>Follow:</strong></li>
     
 
     
@@ -268,7 +295,7 @@
 
     
   <script src="/lab_website/assets/js/main.min.js"></script>
-  <script defer src="https://use.fontawesome.com/releases/v5.8.2/js/all.js" integrity="sha384-DJ25uNYET2XCl5ZF++U8eNxPWqcKohUUBUpKGlNLMchM7q4Wjg2CUpjHLaL8yYPH" crossorigin="anonymous"></script>
+  <script src="https://kit.fontawesome.com/4eee35f757.js"></script>
 
 
 

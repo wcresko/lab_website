@@ -1,6 +1,6 @@
 <!doctype html>
 <!--
-  Minimal Mistakes Jekyll Theme 4.16.4 by Michael Rose
+  Minimal Mistakes Jekyll Theme 4.17.2 by Michael Rose
   Copyright 2013-2019 Michael Rose - mademistakes.com | @mmistakes
   Free for personal and commercial use under the MIT license
   https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
@@ -12,6 +12,8 @@
 <!-- begin _includes/seo.html --><title>In the air - Cresko Laboratory</title>
 <meta name="description" content="This post will show up by default. To disable scheduling of future posts, edit config.yml and set future: false.">
 
+
+  <meta name="author" content="Bill Cresko">
 
 
 <meta property="og:type" content="article">
@@ -41,7 +43,7 @@
 
 
 
-  <meta property="article:published_time" content="2019-06-21T00:00:00-07:00">
+  <meta property="article:published_time" content="2019-06-21T00:00:00-06:00">
 
 
 
@@ -57,19 +59,16 @@
 
 
 
-
-
-
-  <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
       "@type": "Person",
       "name": "Bill Cresko",
-      "url": "http://localhost:4000/lab_website",
-      "sameAs": null
-    }
-  </script>
-
+      "url": "http://localhost:4000/lab_website/"
+    
+  }
+</script>
 
 
 
@@ -91,7 +90,7 @@
 <!-- For all browsers -->
 <link rel="stylesheet" href="/lab_website/assets/css/main.css">
 
-<!--[if IE ]>
+<!--[if IE]>
   <style>
     /* old IE unsupported flexbox fixes */
     .greedy-nav .site-title {
@@ -117,6 +116,14 @@
   </head>
 
   <body class="layout--single">
+    <nav class="skip-links">
+  <h2 class="screen-reader-text">Skip links</h2>
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
 
     <!--[if lt IE 9]>
 <div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
@@ -129,9 +136,12 @@
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
         
-          <a class="site-logo" href="/lab_website/"><img src="/lab_website/assests/images/site_logo.jpg" alt=""></a>
+          <a class="site-logo" href="/lab_website/"><img src="/lab_website/images/red_head.jpg" alt=""></a>
         
-        <a class="site-title" href="/lab_website/">Cresko Lab @UO</a>
+        <a class="site-title" href="/lab_website/">
+          Cresko Lab @UO
+          
+        </a>
         <ul class="visible-links"><li class="masthead__menu-item">
               <a href="/lab_website/home/" >Home</a>
             </li><li class="masthead__menu-item">
@@ -146,6 +156,10 @@
               <a href="/lab_website/talks/" >Talks</a>
             </li><li class="masthead__menu-item">
               <a href="/lab_website/teaching/" >Teaching</a>
+            </li><li class="masthead__menu-item">
+              <a href="/lab_website/categories/" >Categories</a>
+            </li><li class="masthead__menu-item">
+              <a href="/lab_website/tags/" >Tags</a>
             </li><li class="masthead__menu-item">
               <a href="/lab_website/year-archive/" >News</a>
             </li></ul>
@@ -186,7 +200,7 @@
       
 
       
-        <img src="/lab_website/lab_folks/cresko.jpg/" alt="Bill Cresko" itemprop="image">
+        <img src="/lab_website/images/lab_folks/cresko.jpg/" alt="Bill Cresko" itemprop="image">
       
     </div>
   
@@ -196,9 +210,10 @@
       <h3 class="author__name" itemprop="name">Bill Cresko</h3>
     
     
-      <p class="author__bio" itemprop="description">
-        Evolutionary Geneticist
-      </p>
+      <div class="author__bio" itemprop="description">
+        <p>Evolutionary Geneticist</p>
+
+      </div>
     
   </div>
 
@@ -325,6 +340,7 @@
 
 
   less than 1 minute read
+
 </p>
           
         </header>
@@ -332,7 +348,7 @@
 
       <section class="page__content" itemprop="text">
         
-        <p>This post will show up by default. To disable scheduling of future posts, edit <code class="highlighter-rouge">config.yml</code> and set <code class="highlighter-rouge">future: false</code>.</p>
+        <p>This post will show up by default. To disable scheduling of future posts, edit <code class="language-plaintext highlighter-rouge">config.yml</code> and set <code class="language-plaintext highlighter-rouge">future: false</code>.</p>
 
         
       </section>
@@ -366,11 +382,13 @@
 
 
         
-          <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time datetime="2019-06-21T00:00:00-07:00">June 21, 2019</time></p>
+          <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Published:</strong> <time datetime="2019-06-21T00:00:00-06:00">June 21, 2019</time></p>
         
       </footer>
 
       <section class="page__share">
+  
+    <h4 class="page__share-title">Share on</h4>
   
 
   <a href="https://twitter.com/intent/tweet?via=%40wcresko&text=In+the+air%20http%3A%2F%2Flocalhost%3A4000%2Flab_website%2Fposts%2F2019%2Fplane%2F" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
@@ -388,8 +406,7 @@
 ">Previous</a>
     
     
-      <a href="/lab_website/posts/2019/Nelson_2019_Genetics/" class="pagination--pager" title="Publication in Genetics
-">Next</a>
+      <a href="#" class="pagination--pager disabled">Next</a>
     
   </nav>
 
@@ -413,34 +430,6 @@
     
     <h2 class="archive__item-title" itemprop="headline">
       
-        <a href="/lab_website/posts/2019/Nelson_2019_Genetics/" rel="permalink">Publication in Genetics
-</a>
-      
-    </h2>
-    
-      <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> 
-
-
-
-
-  less than 1 minute read
-</p>
-    
-    <p class="archive__item-excerpt" itemprop="description">Thom Nelson et al. latest paper published in Genetics!
-</p>
-  </article>
-</div>
-
-        
-          
-
-
-
-<div class="grid__item">
-  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
-    
-    <h2 class="archive__item-title" itemprop="headline">
-      
         <a href="/lab_website/blog/welcome-to-jekyll/" rel="permalink">Welcome to Jekyll!
 </a>
       
@@ -452,6 +441,7 @@
 
 
   less than 1 minute read
+
 </p>
     
     <p class="archive__item-excerpt" itemprop="description">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different wa...</p>
@@ -468,20 +458,14 @@
     
     <h2 class="archive__item-title" itemprop="headline">
       
-        <a href="/lab_website/posts/2012/08/blog-post-1/" rel="permalink">Blog Post number 1
+        <a href="/lab_website/examples/jekyll/post-exclude-search/" rel="permalink">Exclude Post from Search Index
 </a>
       
     </h2>
     
-      <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> 
+    <p class="archive__item-excerpt" itemprop="description">This post should not appear in the search index because it has the following YAML Front Matter:
 
-
-
-
-  less than 1 minute read
 </p>
-    
-    <p class="archive__item-excerpt" itemprop="description">This is a sample blog post. Lorem ipsum I can’t remember the rest of lorem ipsum and don’t have an internet connection right now. Testing testing testing thi...</p>
   </article>
 </div>
 
@@ -495,20 +479,33 @@
     
     <h2 class="archive__item-title" itemprop="headline">
       
-        <a href="https://github.com">Post: Link
-</a> <a href="/lab_website/blog/post-link/" rel="permalink"><i class="fas fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+        <a href="/lab_website/examples/layout/uncategorized/layout-header-video/" rel="permalink">Layout: Header Video
+</a>
       
     </h2>
     
-      <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> 
+    <p class="archive__item-excerpt" itemprop="description">This post should display a header with a responsive video, if the theme supports it.
 
-
-
-
-  less than 1 minute read
 </p>
+  </article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
     
-    <p class="archive__item-excerpt" itemprop="description">This theme supports link posts, made famous by John Gruber. To use, just add link: http://url-you-want-linked to the post’s YAML front matter and you’re done.
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="/lab_website/examples/jekyll/gemified-theme-beta/" rel="permalink">Gemified Theme – Beta Release
+</a>
+      
+    </h2>
+    
+    <p class="archive__item-excerpt" itemprop="description">Hot on the heels of Jekyll v3.3.0 is a beta release of Minimal Mistakes… as a gemified theme.
 
 </p>
   </article>
@@ -525,19 +522,26 @@
 
     
       <div class="search-content">
-        <div class="search-content__inner-wrap"><input type="search" id="search" aria-placeholder="Enter your search term..." class="search-input" tabindex="-1" placeholder="Enter your search term..." />
-    <div id="results" class="results"></div></div>
+        <div class="search-content__inner-wrap"><form class="search-content__form" onkeydown="return event.key != 'Enter';">
+    <label class="sr-only" for="search">
+      Enter your search term...
+    </label>
+    <input type="search" id="search" class="search-input" tabindex="-1" placeholder="Enter your search term..." />
+  </form>
+  <div id="results" class="results"></div></div>
 
       </div>
     
 
-    <div class="page__footer">
+    <div id="footer" class="page__footer">
       <footer>
         <!-- start custom footer snippets -->
 
 <!-- end custom footer snippets -->
         <div class="page__footer-follow">
   <ul class="social-icons">
+    
+      <li><strong>Follow:</strong></li>
     
 
     
@@ -565,7 +569,7 @@
 
     
   <script src="/lab_website/assets/js/main.min.js"></script>
-  <script defer src="https://use.fontawesome.com/releases/v5.8.2/js/all.js" integrity="sha384-DJ25uNYET2XCl5ZF++U8eNxPWqcKohUUBUpKGlNLMchM7q4Wjg2CUpjHLaL8yYPH" crossorigin="anonymous"></script>
+  <script src="https://kit.fontawesome.com/4eee35f757.js"></script>
 
 
 

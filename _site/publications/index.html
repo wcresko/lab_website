@@ -1,6 +1,6 @@
 <!doctype html>
 <!--
-  Minimal Mistakes Jekyll Theme 4.16.4 by Michael Rose
+  Minimal Mistakes Jekyll Theme 4.17.2 by Michael Rose
   Copyright 2013-2019 Michael Rose - mademistakes.com | @mmistakes
   Free for personal and commercial use under the MIT license
   https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
@@ -12,6 +12,8 @@
 <!-- begin _includes/seo.html --><title>Publications - Cresko Laboratory</title>
 <meta name="description" content="Publications from the laboratory in reverse chronological order">
 
+
+  <meta name="author" content="Bill Cresko">
 
 
 <meta property="og:type" content="website">
@@ -25,7 +27,7 @@
 
 
 
-  <meta property="og:image" content="http://localhost:4000/lab_website/header2.jpg/">
+  <meta property="og:image" content="http://localhost:4000/lab_website/images/header2.jpg">
 
 
 
@@ -36,7 +38,7 @@
 
   
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:image" content="http://localhost:4000/lab_website/header2.jpg/">
+    <meta name="twitter:image" content="http://localhost:4000/lab_website/images/header2.jpg">
   
 
   
@@ -57,19 +59,16 @@
 
 
 
-
-
-
-  <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
       "@type": "Person",
       "name": "Bill Cresko",
-      "url": "http://localhost:4000/lab_website",
-      "sameAs": null
-    }
-  </script>
-
+      "url": "http://localhost:4000/lab_website/"
+    
+  }
+</script>
 
 
 
@@ -91,7 +90,7 @@
 <!-- For all browsers -->
 <link rel="stylesheet" href="/lab_website/assets/css/main.css">
 
-<!--[if IE ]>
+<!--[if IE]>
   <style>
     /* old IE unsupported flexbox fixes */
     .greedy-nav .site-title {
@@ -117,6 +116,14 @@
   </head>
 
   <body class="layout--splash">
+    <nav class="skip-links">
+  <h2 class="screen-reader-text">Skip links</h2>
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
 
     <!--[if lt IE 9]>
 <div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
@@ -129,9 +136,12 @@
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
         
-          <a class="site-logo" href="/lab_website/"><img src="/lab_website/assests/images/site_logo.jpg" alt=""></a>
+          <a class="site-logo" href="/lab_website/"><img src="/lab_website/images/red_head.jpg" alt=""></a>
         
-        <a class="site-title" href="/lab_website/">Cresko Lab @UO</a>
+        <a class="site-title" href="/lab_website/">
+          Cresko Lab @UO
+          
+        </a>
         <ul class="visible-links"><li class="masthead__menu-item">
               <a href="/lab_website/home/" >Home</a>
             </li><li class="masthead__menu-item">
@@ -146,6 +156,10 @@
               <a href="/lab_website/talks/" >Talks</a>
             </li><li class="masthead__menu-item">
               <a href="/lab_website/teaching/" >Teaching</a>
+            </li><li class="masthead__menu-item">
+              <a href="/lab_website/categories/" >Categories</a>
+            </li><li class="masthead__menu-item">
+              <a href="/lab_website/tags/" >Tags</a>
             </li><li class="masthead__menu-item">
               <a href="/lab_website/year-archive/" >News</a>
             </li></ul>
@@ -183,7 +197,7 @@
 
 
 <div class="page__hero--overlay"
-  style="background-color: #000; background-image: linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)), url('/lab_website/header2.jpg/');"
+  style="background-color: #000; background-image: linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)), url('/lab_website/images/header2.jpg');"
 >
   
     <div class="wrapper">
@@ -224,7 +238,7 @@
 
 <p>2019 • CM Small, M Currey, EA Beck, S Bassham, WA Cresko. 2018. Highly reproducible 16S sequencing facilitates measurement of host genetic influences on the stickleback gut microbiome. mSystems (accepted).</p>
 
-<p>2019 • M Currrey, S Bassham and WA Cresko. Genetic divergence outpaces phenotypic divergence among threespine stickleback populations in old freshwater habitats. Biol. J. Linnean Society (accepted).</p>
+<p>2019 • M Currey, S Bassham and WA Cresko. Genetic divergence outpaces phenotypic divergence among threespine stickleback populations in old freshwater habitats. Biol. J. Linnean Society (accepted).</p>
 
 <p>2019 • CH O’Connor, KL Sikkink, TC Nelson, J Fierst, WA Cresko, PC Phillips. Complex pleiotropic genetic architecture of evolved heat stress and oxidative stress resistance in the nematode Caenorhabditis remanei. bioRxiv, 515320.</p>
 
@@ -476,19 +490,26 @@ Trends in Ecology and Evolutionary Biology. 25. 705-712.</p>
 
     
       <div class="search-content">
-        <div class="search-content__inner-wrap"><input type="search" id="search" aria-placeholder="Enter your search term..." class="search-input" tabindex="-1" placeholder="Enter your search term..." />
-    <div id="results" class="results"></div></div>
+        <div class="search-content__inner-wrap"><form class="search-content__form" onkeydown="return event.key != 'Enter';">
+    <label class="sr-only" for="search">
+      Enter your search term...
+    </label>
+    <input type="search" id="search" class="search-input" tabindex="-1" placeholder="Enter your search term..." />
+  </form>
+  <div id="results" class="results"></div></div>
 
       </div>
     
 
-    <div class="page__footer">
+    <div id="footer" class="page__footer">
       <footer>
         <!-- start custom footer snippets -->
 
 <!-- end custom footer snippets -->
         <div class="page__footer-follow">
   <ul class="social-icons">
+    
+      <li><strong>Follow:</strong></li>
     
 
     
@@ -516,7 +537,7 @@ Trends in Ecology and Evolutionary Biology. 25. 705-712.</p>
 
     
   <script src="/lab_website/assets/js/main.min.js"></script>
-  <script defer src="https://use.fontawesome.com/releases/v5.8.2/js/all.js" integrity="sha384-DJ25uNYET2XCl5ZF++U8eNxPWqcKohUUBUpKGlNLMchM7q4Wjg2CUpjHLaL8yYPH" crossorigin="anonymous"></script>
+  <script src="https://kit.fontawesome.com/4eee35f757.js"></script>
 
 
 

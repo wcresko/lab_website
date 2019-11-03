@@ -1,6 +1,6 @@
 <!doctype html>
 <!--
-  Minimal Mistakes Jekyll Theme 4.16.4 by Michael Rose
+  Minimal Mistakes Jekyll Theme 4.17.2 by Michael Rose
   Copyright 2013-2019 Michael Rose - mademistakes.com | @mmistakes
   Free for personal and commercial use under the MIT license
   https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
@@ -10,8 +10,10 @@
     <meta charset="utf-8">
 
 <!-- begin _includes/seo.html --><title>Cresko Laboratory @ The University of Oregon - Cresko Laboratory</title>
-<meta name="description" content="A scientific laboratory dedicated to research on evolutionary genomics">
+<meta name="description" content="An evolutionary genomics research laboratory">
 
+
+  <meta name="author" content="Bill Cresko">
 
 
 <meta property="og:type" content="article">
@@ -21,29 +23,29 @@
 <meta property="og:url" content="http://localhost:4000/lab_website/home/">
 
 
-  <meta property="og:description" content="A scientific laboratory dedicated to research on evolutionary genomics">
+  <meta property="og:description" content="An evolutionary genomics research laboratory">
 
 
 
-  <meta property="og:image" content="http://localhost:4000/images/header2.jpg/">
+  <meta property="og:image" content="http://localhost:4000/lab_website/images/header2.jpg">
 
 
 
   <meta name="twitter:site" content="@wcresko">
   <meta name="twitter:title" content="Cresko Laboratory @ The University of Oregon">
-  <meta name="twitter:description" content="A scientific laboratory dedicated to research on evolutionary genomics">
+  <meta name="twitter:description" content="An evolutionary genomics research laboratory">
   <meta name="twitter:url" content="http://localhost:4000/lab_website/home/">
 
   
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:image" content="http://localhost:4000/images/header2.jpg/">
+    <meta name="twitter:image" content="http://localhost:4000/lab_website/images/header2.jpg">
   
 
   
 
 
 
-  <meta property="article:published_time" content="2016-03-23T08:48:41-07:00">
+  <meta property="article:published_time" content="2016-03-23T09:48:41-06:00">
 
 
 
@@ -59,19 +61,16 @@
 
 
 
-
-
-
-  <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
       "@type": "Person",
       "name": "Bill Cresko",
-      "url": "http://localhost:4000/lab_website",
-      "sameAs": null
-    }
-  </script>
-
+      "url": "http://localhost:4000/lab_website/"
+    
+  }
+</script>
 
 
 
@@ -93,7 +92,7 @@
 <!-- For all browsers -->
 <link rel="stylesheet" href="/lab_website/assets/css/main.css">
 
-<!--[if IE ]>
+<!--[if IE]>
   <style>
     /* old IE unsupported flexbox fixes */
     .greedy-nav .site-title {
@@ -119,6 +118,14 @@
   </head>
 
   <body class="layout--splash">
+    <nav class="skip-links">
+  <h2 class="screen-reader-text">Skip links</h2>
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
 
     <!--[if lt IE 9]>
 <div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
@@ -131,9 +138,12 @@
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
         
-          <a class="site-logo" href="/lab_website/"><img src="/lab_website/assests/images/site_logo.jpg" alt=""></a>
+          <a class="site-logo" href="/lab_website/"><img src="/lab_website/images/red_head.jpg" alt=""></a>
         
-        <a class="site-title" href="/lab_website/">Cresko Lab @UO</a>
+        <a class="site-title" href="/lab_website/">
+          Cresko Lab @UO
+          
+        </a>
         <ul class="visible-links"><li class="masthead__menu-item">
               <a href="/lab_website/home/" >Home</a>
             </li><li class="masthead__menu-item">
@@ -148,6 +158,10 @@
               <a href="/lab_website/talks/" >Talks</a>
             </li><li class="masthead__menu-item">
               <a href="/lab_website/teaching/" >Teaching</a>
+            </li><li class="masthead__menu-item">
+              <a href="/lab_website/categories/" >Categories</a>
+            </li><li class="masthead__menu-item">
+              <a href="/lab_website/tags/" >Tags</a>
             </li><li class="masthead__menu-item">
               <a href="/lab_website/year-archive/" >News</a>
             </li></ul>
@@ -185,7 +199,7 @@
 
 
 <div class="page__hero--overlay"
-  style="background-color: #000; background-image: linear-gradient(rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35)), url('/images/header2.jpg/');"
+  style="background-color: #000; background-image: linear-gradient(rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35)), url('/lab_website/images/header2.jpg');"
 >
   
     <div class="wrapper">
@@ -196,22 +210,16 @@
         
       </h1>
       
-        <p class="page__lead">A scientific laboratory dedicated to research on evolutionary genomics
+        <p class="page__lead">An evolutionary genomics research laboratory
 </p>
       
       
       
       
-        <p>
-        
-          
-          <a href="https://github.com/mmistakes/minimal-mistakes/" class="btn btn--light-outline btn--large">Download</a>
-        
-      
     </div>
   
   
-    <span class="page__hero-caption">Photo credit: [<strong>Quick Yeates</strong>]
+    <span class="page__hero-caption">Photo credit: <strong>Quick Yeates</strong>
 </span>
   
 </div>
@@ -221,172 +229,37 @@
 <div id="main" role="main">
   <article class="splash" itemscope itemtype="https://schema.org/CreativeWork">
     <meta itemprop="headline" content="Cresko Laboratory @ The University of Oregon">
-    <meta itemprop="description" content="A scientific laboratory dedicated to research on evolutionary genomics">
+    <meta itemprop="description" content="An evolutionary genomics research laboratory">
     <meta itemprop="datePublished" content="March 23, 2016">
     
 
     <section class="page__content" itemprop="text">
       
-<div class="feature__wrapper">
-
+<figure class="third ">
   
-
     
-
-    <div class="feature__item--center">
-      <div class="archive__item">
-        
-
-        <div class="archive__item-body">
-          
-
-          
-            <div class="archive__item-excerpt">
-              <p>Interested in learning more about our work, or joining the laboratory, explore the links above</p>
-
-            </div>
-          
-
-          
-        </div>
-      </div>
-    </div>
-  
-
+      <a href="/lab_website/images/AnadPools.jpg" title="Anadromous stickleback habitat">
+        <img src="/lab_website/images/AnadPools.jpg" alt="anadromous pools" />
+      </a>
     
-
-    <div class="feature__item--center">
-      <div class="archive__item">
-        
-
-        <div class="archive__item-body">
-          
-
-          
-
-          
-        </div>
-      </div>
-    </div>
   
-
-</div>
-
-<div class="feature__wrapper">
-
-  
-
     
-
-    <div class="feature__item">
-      <div class="archive__item">
-        
-          <div class="archive__item-teaser">
-            <img src="/lab_website/AnadPools.jpg/" alt="placeholder image 1" />
-            
-          </div>
-        
-
-        <div class="archive__item-body">
-          
-            <h2 class="archive__item-title">Placeholder 1</h2>
-          
-
-          
-            <div class="archive__item-excerpt">
-              <p>This is some sample content that goes here with <strong>Markdown</strong> formatting.</p>
-
-            </div>
-          
-
-          
-        </div>
-      </div>
-    </div>
-  
-
+      <a href="/lab_website/images/red_head.jpg" title="stickleback bones">
+        <img src="/lab_website/images/red_head.jpg" alt="stickleback bones" />
+      </a>
     
-
-    <div class="feature__item">
-      <div class="archive__item">
-        
-          <div class="archive__item-teaser">
-            <img src="/lab_website/red_head.jpg/" alt="placeholder image 2" />
-            
-              <span class="archive__item-caption">Image courtesy of <a href="https://unsplash.com/">Unsplash</a>
-</span>
-            
-          </div>
-        
-
-        <div class="archive__item-body">
-          
-            <h2 class="archive__item-title">Placeholder 2</h2>
-          
-
-          
-            <div class="archive__item-excerpt">
-              <p>This is some sample content that goes here with <strong>Markdown</strong> formatting.</p>
-
-            </div>
-          
-
-          
-            <p><a href="/lab_website/#test-link" class="btn btn--primary">Read More</a></p>
-          
-        </div>
-      </div>
-    </div>
   
-
     
-
-    <div class="feature__item">
-      <div class="archive__item">
-        
-          <div class="archive__item-teaser">
-            <img src="/lab_website/image88.jpg/" alt="" />
-            
-          </div>
-        
-
-        <div class="archive__item-body">
-          
-            <h2 class="archive__item-title">Placeholder 3</h2>
-          
-
-          
-            <div class="archive__item-excerpt">
-              <p>This is some sample content that goes here with <strong>Markdown</strong> formatting.</p>
-
-            </div>
-          
-
-          
-        </div>
-      </div>
-    </div>
+      <a href="/lab_website/images/eggs.jpg" title="pipefish embryos">
+        <img src="/lab_website/images/eggs.jpg" alt="pipefish embryos" />
+      </a>
+    
   
-
-</div>
-
-<div class="feature__wrapper">
-
   
-
-</div>
-
-<div class="feature__wrapper">
-
+    <figcaption>Images of research in our laboratory
+</figcaption>
   
-
-</div>
-
-<div class="feature__wrapper">
-
-  
-
-</div>
+</figure>
 
     </section>
   </article>
@@ -396,19 +269,26 @@
 
     
       <div class="search-content">
-        <div class="search-content__inner-wrap"><input type="search" id="search" aria-placeholder="Enter your search term..." class="search-input" tabindex="-1" placeholder="Enter your search term..." />
-    <div id="results" class="results"></div></div>
+        <div class="search-content__inner-wrap"><form class="search-content__form" onkeydown="return event.key != 'Enter';">
+    <label class="sr-only" for="search">
+      Enter your search term...
+    </label>
+    <input type="search" id="search" class="search-input" tabindex="-1" placeholder="Enter your search term..." />
+  </form>
+  <div id="results" class="results"></div></div>
 
       </div>
     
 
-    <div class="page__footer">
+    <div id="footer" class="page__footer">
       <footer>
         <!-- start custom footer snippets -->
 
 <!-- end custom footer snippets -->
         <div class="page__footer-follow">
   <ul class="social-icons">
+    
+      <li><strong>Follow:</strong></li>
     
 
     
@@ -436,7 +316,7 @@
 
     
   <script src="/lab_website/assets/js/main.min.js"></script>
-  <script defer src="https://use.fontawesome.com/releases/v5.8.2/js/all.js" integrity="sha384-DJ25uNYET2XCl5ZF++U8eNxPWqcKohUUBUpKGlNLMchM7q4Wjg2CUpjHLaL8yYPH" crossorigin="anonymous"></script>
+  <script src="https://kit.fontawesome.com/4eee35f757.js"></script>
 
 
 
