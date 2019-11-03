@@ -1,4 +1,3 @@
-# main links links
 main:
   - title: "Home"
     url: /home/
@@ -20,6 +19,12 @@ main:
 
   - title: "Teaching"
     url: /teaching/
+    
+  - title: "Categories"
+    url: /categories/
+    
+  - title: "Tags"
+    url: /tags/
 
   - title: "News"
     url: /year-archive/
