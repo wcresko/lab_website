@@ -13,8 +13,8 @@ intro:
   - excerpt: "Interested in learning more about our work - explore the links above"
   - type: "left"
 gallery:
-  - url: /images/AnadPools.jpg
-    image_path: /pages/research.html
+  - url: /pages/research.html
+    image_path: /images/AnadPools.jpg
     alt: "anadromous pools"
     title: "Anadromous stickleback habitat"
   - url: /images/red_head.jpg
