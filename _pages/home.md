@@ -14,7 +14,7 @@ intro:
   - type: "left"
 gallery:
   - url: /images/AnadPools.jpg
-    image_path: /images/AnadPools.jpg
+    image_path: /pages/research.html
     alt: "anadromous pools"
     title: "Anadromous stickleback habitat"
   - url: /images/red_head.jpg
