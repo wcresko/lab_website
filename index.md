@@ -1,7 +1,6 @@
 ---
 title: "Cresko Laboratory @ The University of Oregon"
 layout: home
-permalink: /home/
 author_profile: false
 header:
   overlay_color: "#000"
