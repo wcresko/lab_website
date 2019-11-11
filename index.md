@@ -1,6 +1,7 @@
 ---
 title: "Cresko Laboratory @ The University of Oregon"
 layout: home
+permalink: /home/
 author_profile: false
 header:
   overlay_color: "#000"
@@ -25,3 +26,5 @@ gallery:
     alt: "pipefish embryos"
     title: "pipefish embryos"
 ---
+
+{% include gallery caption="Images of research in our laboratory" %}
