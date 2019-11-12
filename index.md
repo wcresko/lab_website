@@ -24,6 +24,10 @@ gallery:
     image_path: /images/gwas.pdf
     alt: "Stickleback GWAS"
     title: "stickleback GWAS"
+  - url: /research/
+    image_path: /images/scovelli.jpg
+    alt: "Stickleback GWAS"
+    title: "stickleback GWAS"
 ---
 
 {% include gallery caption="Click on images to learn about research in our laboratory" %}
