@@ -25,7 +25,7 @@ url                      : "https://wcresko.github.io/lab_website"
 baseurl                  : "/lab_website"
 repository               : "wcresko/lab_website"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/images/red_head.jpg"
+logo                     : "/images/CreskoLabLogo.png"
 masthead_title           : "Cresko Lab @UO"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
