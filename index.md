@@ -21,7 +21,15 @@ gallery:
     alt: "stickleback bones"
     title: "Stickleback bones"
   - url: /research/
-    image_path: /images/gwas.pdf
+    image_path: /images/gwas.png
+    alt: "Stickleback GWAS"
+    title: "stickleback GWAS"
+  - url: /research/
+    image_path: /images/scovelli.jpg
+    alt: "Stickleback GWAS"
+    title: "stickleback GWAS"
+  - url: /research/
+    image_path: /images/scovelli.jpg
     alt: "Stickleback GWAS"
     title: "stickleback GWAS"
   - url: /research/
