@@ -16,14 +16,14 @@ gallery:
     image_path: /images/AnadPools.jpg
     alt: "anadromous pools"
     title: "Anadromous stickleback habitat"
-  - url: /images/red_head.jpg
+  - url: /research/
     image_path: /images/red_head.jpg
     alt: "stickleback bones"
-    title: "stickleback bones"
-  - url: /images/eggs.jpg
-    image_path: /images/eggs.jpg
-    alt: "pipefish embryos"
-    title: "pipefish embryos"
+    title: "Stickleback bones"
+  - url: /research/
+    image_path: /images/gwas.pdf
+    alt: "Stickleback GWAS"
+    title: "stickleback GWAS"
 ---
 
-{% include gallery caption="Images of research in our laboratory" %}
+{% include gallery caption="Click on images to learn about research in our laboratory" %}
