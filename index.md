@@ -12,11 +12,11 @@ intro:
   - excerpt: "Interested in learning more about our work - explore the links above"
   - type: "left"
 gallery:
-  - url: /research/
+  - url: /research_popgen/
     image_path: /images/AnadPools.jpg
     alt: "anadromous pools"
     title: "Anadromous stickleback habitat"
-  - url: /research/
+  - url: /research_genome/
     image_path: /images/red_head.jpg
     alt: "stickleback bones"
     title: "Stickleback bones"
