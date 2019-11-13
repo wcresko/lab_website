@@ -47,8 +47,6 @@ excerpt: "Publications from the laboratory in reverse chronological order"
 
 2015 • Allendorf, F. W., S. Bassham, W. A. Cresko, M. T. Limborg, L. W. Seeb, J. E. Seeb. Response to May and Delany: We Never Said Wright was Wrong. J Hered 106, 767-768.
 
-2015 • Allendorf, F. W., S. Bassham, W. A. Cresko, M. T. Limborg, L. W. Seeb, J. E. Seeb. Response to May and Delaney: We never said Wright was wrong. J. of Heredity. 106(3): 217-227.
-
 2015 • Sikkink, K. L., R. M. Reynolds, W. A. Cresko, and P. C. Phillips. 2015. Environmentally induced changes in correlated responses to selection reveal variable pleiotropy across a complex genetic network. Evolution 69:1128-1142.
 
 2015 • Petersen, A. M., D. Dillon, R. R. Bernhardt, R. Torunsky, J. H. Postlethwait, F. A. von Hippel, C. Loren Buck, and W. A. Cresko. 2015. Perchlorate disrupts embryonic androgen synthesis and reproductive development in threespine stickleback without changing whole-body levels of thyroid hormone. Gen Comp Endocrinol 210:130-144.
