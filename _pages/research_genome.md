@@ -1,5 +1,5 @@
 ---
-title: "Research Areas in the Laboratory"
+title: "Genome Evolution"
 layout: splash
 permalink: /research_genome/
 author_profile: false
@@ -8,10 +8,8 @@ header:
   overlay_filter: "0.25"
   overlay_image: /images/header2.jpg
   caption: "Photo credit: [**Quick Yeates**]"
-excerpt: "Brief descriptions of the major focal areas of research in the laboratory"
+excerpt: "How does DNA sequence divergence lead to phenotypic evolution?"
 ---
-
-__Genome evolution__
 
 Beneath the phenomena of evolutionary adaptation lies a complex lattice in which population level processes intersect with developmental and genomic constraints.
 The Cresko Lab explores these multilevel interactions in the threespine stickleback fish, which has many attractive advantages: countless replicate natural 
