@@ -151,19 +151,19 @@ ____________
 
 **Kat Milligan-Myhre**
 
-> Assistant Professor at University of Alaska, Anchorage
+> Assistant Professor at University of Alaska, Anchorage, https://drkatlab.wordpress.com
 
 ____________
 
 **Kristin Sikkink**
 
-![](../images/lab_folks/ksikkink.jpg){:height="200px" width="200px"}
+
 
 ____________
 
 **Kristin Alligood**
 
-![](../images/lab_folks/alligood.jpg){:height="200px" width="200px"}
+
 
 ____________
 
