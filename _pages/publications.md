@@ -11,27 +11,27 @@ header:
 excerpt: "Publications from the laboratory in reverse chronological order"
 ---
 
-2019 • TC Nelson, JG Crandall, CM Ituarte, JM Catchen, WA Cresko. Selection, linkage, and population structure interact to shape genetic variation among threespine stickleback genomes. Genetics (in press)
+2019 • Nelson, T.C., J.G. Crandall, C.M. Ituarte, J.M. Catchen, and W.A. Cresko. Selection, linkage, and population structure interact to shape genetic variation among threespine stickleback genomes. Genetics. 212: 1367-1382. 
 
-2019 • KL Sikkink, RM Reynolds, CM Ituarte, WA Cresko, PC Phillips. Environmental and evolutionary drivers of the modular gene regulatory network underlying phenotypic plasticity for stress resistance in the nematode Caenorhabditis remanei. G3. 9 (3), 969-982
+2019 • Sikkink, K.L., R.M. Reynolds, C.M. Ituarte, W.A. Cresko, and P.C. Phillips. Environmental and evolutionary drivers of the modular gene regulatory network underlying phenotypic plasticity for stress resistance in the nematode Caenorhabditis remanei. G3. 9 (3), 969-982.
 
-2019 • CM Small, M Currey, EA Beck, S Bassham, WA Cresko. 2018. Highly reproducible 16S sequencing facilitates measurement of host genetic influences on the stickleback gut microbiome. mSystems (accepted).
+2019 • Small, C. M., M. Currey, E.A. Beck, S. Bassham, and W.A. Cresko. Highly reproducible 16S sequencing facilitates measurement of host genetic influences on the stickleback gut microbiome. mSystems. 4(4).
 
-2019 • MC Currey, SL Bassham, WA Cresko. Genetic divergence outpaces phenotypic divergence among threespine stickleback populations in old freshwater habitats. Biol. J. Linnean Society. 128(2): 415-434.
+2019 • Currey, M.C., S.L. Bassham, and W.A. Cresko. Genetic divergence outpaces phenotypic divergence among threespine stickleback populations in old freshwater habitats. Biol. J. Linnean Society. 128(2): 415-434.
 
-2019 • RA Steury. MC Currey, WA Cresko, BJM, Bohannan. Population genetic divergence and environment influence the gut microbiome in Oregon threespine stickleback. Genes. 10(7): 484.
+2019 • Steury, R. A., and Currey M.C., W.A. Cresko, and B.J.M., Bohannan. Population genetic divergence and environment influence the gut microbiome in Oregon threespine stickleback. Genes. 10(7): 484.
 
-2019 • CH O’Connor, KL Sikkink, TC Nelson, J Fierst, WA Cresko, PC Phillips. Complex pleiotropic genetic architecture of evolved heat stress and oxidative stress resistance in the nematode Caenorhabditis remanei. bioRxiv, 515320.
+2019 • O’Connor C.H., K.L. Sikkink, T.C. Nelson, J. Fierst, W.A. Cresko, and P.C. Phillips. Complex pleiotropic genetic architecture of evolved heat stress and oxidative stress resistance in the nematode Caenorhabditis remanei. bioRxiv, 515320.
 
-2018 • S Bassham, J Catchen, E Lescak, FA von Hippel, WA Cresko. Repeated selection of alternatively adapted haplotypes creates sweeping genomic remodeling in stickleback. Genetics. 209(3): 921-939.
+2018 • Bassham, S., J. Catchen, E. Lescak, F.A. von Hippel, and W.A. Cresko. Repeated selection of alternatively adapted haplotypes creates sweeping genomic remodeling in stickleback. Genetics. 209(3): 921-939.
 
-2018 • Thomas C Nelson, WA Cresko. Ancient genomic variation underlies repeated ecological adaptation in young stickleback populations." Evolution Letters 2(1): 9-21.
+2018 • Nelson, T.C., and W.A. Cresko. Ancient genomic variation underlies repeated ecological adaptation in young stickleback populations. Evolution Letters 2(1): 9-21.
 
-2018 • Leve LD, Neiderhiser JM, Harold GT, Natsuaki MN, Bohannan BJ, Cresko WA. Naturalistic Experimental Designs as Tools for Understanding the Role of Genes and the Environment in Prevention Research. Prevention Science. (19) 1, 68-78.
+2018 • Leve, L.D., J.M. Neiderhiser, G.T. Harold, M.N. Natsuaki, B.J. Bohannan, and W.A. Cresko. Naturalistic Experimental Designs as Tools for Understanding the Role of Genes and the Environment in Prevention Research. Prevention Science. (19) 1, 68-78.
 
-2017 • Currey, M., S. Bassham, S. Perry, and WA Cresko. Developmental timing differences underlie armor loss across threespine stickleback populations. Evolution and Development. 19(6): 231-243.
+2017 • Currey, M., S. Bassham, S. Perry, and W.A. Cresko. Developmental timing differences underlie armor loss across threespine stickleback populations. Evolution and Development. 19(6): 231-243.
 
-2017 • Small CM, Milligan-Myhre K, Bassham S, Guillemin K, Cresko WA. Host Genotype and Microbiota Contribute Asymmetrically to Transcriptional Variation in the Threespine Stickleback Gut. Genome Biol Evol. 9(3):504-20.
+2017 • Small C.M., K. Milligan-Myhre, S. Bassham, K. Guillemin, and W.A. Cresko. Host Genotype and Microbiota Contribute Asymmetrically to Transcriptional Variation in the Threespine Stickleback Gut. Genome Biol Evol. 9(3):504-20.
 
 2017 • Gardell AM, von Hippel FA, Adams EM, Dillon DM, Petersen AM, Postlethwait JH, Cresko WA, and CL Buck. Exogenous iodide ameliorates perchlorate-induced thyroid phenotypes in threespine stickleback. Gen Comp Endocrinol. 243:60-9.
 
@@ -41,7 +41,7 @@ excerpt: "Publications from the laboratory in reverse chronological order"
 
 2016 • A M Gardell, F A von Hippel, E M Adams, D M Dillon, A M Petersen, J H Postlethwait, WA Cresko, C L Buck. Exogenous iodide ameliorates perchlorate-induced thyroid phenotypes in threespine stickleback. General and Comparative Endocrinology. 243. 60-69.
 
-2016 • Milligan-Myhre, K. A., C. M. Small, M. Agarawal, E. K. Mittge, W. A. Cresko, and K. Guillemin. Innate immune responses to gut microbiota differ between threespine stickleback populations. Disease Models & Mechanisms. 9(2): 187-98.
+2016 • Milligan-Myhre, K. A., C. M. Small, E. K. Mittge, M. Agarawal, M. Currey, W. A. Cresko, and K. Guillemin. Innate immune responses to gut microbiota differ between oceanic and freshwater threespine stickleback populations. Disease Models & Mechanisms. 9(2): 187-98.
 
 2016 • Petersen, A., N. Earp, M. Redmond, J. H. Postlethwait, F. A. von Hippel, C. L. Buck and W. A. Cresko. Perchlorate exposure reduces primary germ cell number in female stickleback. PLoS One. 11 (7), e0157792
 
@@ -65,11 +65,11 @@ excerpt: "Publications from the laboratory in reverse chronological order"
 
 2014 • Sikkink, K. L., Reynolds, R. M., Ituarte, C. M., Cresko, W. A. & Phillips, P. C. Rapid evolution of phenotypic plasticity and shifting thresholds of genetic assimilation in the nematode Caenorhabditis remanei. G3: Genes, Genomes, Genetics 4(6). 1103-1112.
 
-2014 • Sikkink, K. L., C. M. Ituarte, R. M. Reynolds, W. A. Cresko, and P. C. Phillips. 2014. The transgenerational effects of heat stress in the nematode Caenorhabditis remanei are negative and rapidly eliminated under direct selection for increased stress resistance in larvae. Genomics 104:438-446.
+2014 • Sikkink, K. L., C. M. Ituarte, R. M. Reynolds, W. A. Cresko, and P. C. Phillips. The transgenerational effects of heat stress in the nematode Caenorhabditis remanei are negative and rapidly eliminated under direct selection for increased stress resistance in larvae. Genomics 104:438-446.
 
-2014 • Voelker, R. B., W. A. Cresko, and J. A. Berglund. 2014. Computational approaches to mine publicly available databases. Methods Mol Biol 1126:325-340.
+2014 • Voelker, R. B., W. A. Cresko, and J. A. Berglund. Computational approaches to mine publicly available databases. Methods Mol Biol 1126:325-340.
 
-2014 • Jamniczky, H. A., E. E. Harper, R. Garner, W. A. Cresko, P. C. Wainwright, B. Hallgrímsson, and C. B. Kimmel. 2014. Association between integration structure and functional evolution in the opercular four‐bar apparatus of the threespine stickleback, Gasterosteus aculeatus (Pisces: Gasterosteidae). Biological Journal of the Linnean Society 111:375-390.
+2014 • Jamniczky, H. A., E. E. Harper, R. Garner, W. A. Cresko, P. C. Wainwright, B. Hallgrímsson, and C. B. Kimmel. Association between integration structure and functional evolution in the opercular four‐bar apparatus of the threespine stickleback, Gasterosteus aculeatus (Pisces: Gasterosteidae). Biological Journal of the Linnean Society 111:375-390.
 
 2013 • Catchen, J., S. Bassham, T. Wilson, M. Currey, C. O’Brien, Q. Yeates and W A Cresko. The population structure and recent colonization history of Oregon threespine stickleback determined using RAD-seq. Molecular Ecology 22 (11): 2864–2883.
 
