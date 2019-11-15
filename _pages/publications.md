@@ -17,7 +17,9 @@ excerpt: "Publications from the laboratory in reverse chronological order"
 
 2019 • CM Small, M Currey, EA Beck, S Bassham, WA Cresko. 2018. Highly reproducible 16S sequencing facilitates measurement of host genetic influences on the stickleback gut microbiome. mSystems (accepted).
 
-2019 • M Currey, S Bassham and WA Cresko. Genetic divergence outpaces phenotypic divergence among threespine stickleback populations in old freshwater habitats. Biol. J. Linnean Society (accepted).
+2019 • MC Currey, SL Bassham, WA Cresko. Genetic divergence outpaces phenotypic divergence among threespine stickleback populations in old freshwater habitats. Biol. J. Linnean Society. 128(2): 415-434.
+
+2019 • RA Steury. MC Currey, WA Cresko, BJM, Bohannan. Population genetic divergence and environment influence the gut microbiome in Oregon threespine stickleback. Genes. 10(7): 484.
 
 2019 • CH O’Connor, KL Sikkink, TC Nelson, J Fierst, WA Cresko, PC Phillips. Complex pleiotropic genetic architecture of evolved heat stress and oxidative stress resistance in the nematode Caenorhabditis remanei. bioRxiv, 515320.
 
@@ -124,7 +126,7 @@ PLoS Genetics 6(2); e1000862. (Faculty of 1000 must read)
 
 2008 • Baird, N. A., P. D. Etter, T. S. Atwood, M. C. Currey, A. L. Shiver, Z. A. Lewis, E. U. Selker, W. A. Cresko and E. A. Johnson. Rapid SNP discovery and genetic mapping using sequenced RAD markers. PLoS One 3(10): e3376. (Faculty of 1000 must read)
 
-2008 • Kimmel, C. B., B. Ullmann, M. Currey, W. E. Aguirre and W. A. Cresko. Heterotopy explains opercular shape evolution in Alaskan threespine sticklebacks. Behaviour 145: 669-691.
+2008 • Kimmel, C. B., W. E. Aguirre, B. Ullmann, M. Currey, and W. A. Cresko. Allometric change accompanies opercular shape evolution in Alaskan threespine sticklebacks. Behaviour. 145: 669-691.
 
 2008 • Lewis, Z. R., M. C. McClellan, J. H. Postlethwait, W. A. Cresko and R. H. Kaplan. Female-specific increases in primordial germ cells marks sex differentiation in threespine stickleback (Gasterosteus aculeatus). J. of Morphology. 269:909-921.
 
@@ -146,7 +148,7 @@ PLoS Genetics 6(2); e1000862. (Faculty of 1000 must read)
 
 2004 • Force, A. G., W. A. Cresko and F. Pickett.  Informational accretion, gene duplication and the mechanisms of genetic module parcellation. in Schlosser, G. and G. P. Wagner (eds.) Modularity in Development and Evolution.  University of Chicago Press, Chicago. 350-375.
 
-2004 • Postlethwait, J. H., A. Amores, W. A. Cresko, and Y. Yan. Evolutionary and developmental consequences of teleost genome duplication. Trends in Genetics 20 (10): 481-490.
+2004 • Postlethwait, J. H., A. Amores, W. A. Cresko, A. Singer, and Y. Yan. Subfunction partitioning, the teleost radiation and the annotation of the human genome. Trends in Genetics 20 (10): 481-490.
 
 2004 • Cresko, W. A., A. Amores, C. Wilson, J. Murphy, M. Currey, P. Phillips, M. Bell, C. Kimmel and J. Postlethwait. Parallel genetic basis for repeated evolution of armor loss in Alaskan threespine stickleback populations. Proc. Natl. Acad. Sci. USA. 101. 6050-6055.
 

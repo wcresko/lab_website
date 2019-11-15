@@ -36,7 +36,7 @@ ____________
 
 ![](../images/lab_folks/Mark3.jpg){:height="200px" width="200px"}
 
->  TEST again I’m interested in understanding the vast variety of life. How is morphological
+> I’m interested in understanding the vast variety of life. How is morphological
 variation, seen in populations of the same species, partitioned among different
 environments and what are the genetic and genomic factors associated with this
 partitioning? To get at this I’m investigating the distribution of populations of
@@ -50,7 +50,7 @@ ____________
 
 **Emily Beck, Research Associate**
 
-![](../images/lab_folks/emilybeck.png){:height="200px" width="200px"}
+![](../images/lab_folks/Beck_Emily.png){:height="200px" width="200px"}
 
 >  I am a geneticist with a long-standing interest in how genetic interactions 
 influence evolutionary dynamics and how those dynamics impact disease states. My 
