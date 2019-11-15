@@ -33,7 +33,7 @@ excerpt: "Publications from the laboratory in reverse chronological order"
 
 2017 • Small C.M., K. Milligan-Myhre, S. Bassham, K. Guillemin, and W.A. Cresko. Host Genotype and Microbiota Contribute Asymmetrically to Transcriptional Variation in the Threespine Stickleback Gut. Genome Biol Evol. 9(3): 504-20.
 
-2017 • Gardell A.M., von Hippel F.A., Adams E.M., Dillon D.M., Petersen A.M., Postlethwait J.H., Cresko W.A., and C.L. Buck. Exogenous iodide ameliorates perchlorate-induced thyroid phenotypes in threespine stickleback. Gen Comp Endocrinol. 243: 60-9.
+2017 • Gardell A.M., F.A. von Hippel, E.M. Adams, D.M. Dillon, A.M. Petersen, J.H. Postlethwait, W.A. Cresko, and C.L. Buck. Exogenous iodide ameliorates perchlorate-induced thyroid phenotypes in threespine stickleback. Gen Comp Endocrinol. 243: 60-9.
 
 2017 • Lescak E.A., M.A. Wund, S. Bassham, J. Catchen, D. Prince, R. Lucas, G. Dominguez, F.A. von Hippel, and W.A. Cresko. Ancient three-spined stickleback (Gasterosteus aculeatus) mtDNA lineages are not associated with phenotypic or nuclear genetic variation. Biol. J. Linnean Society. 122(3): 579-588.
 
@@ -63,7 +63,7 @@ excerpt: "Publications from the laboratory in reverse chronological order"
 
 2015 • Furin, C.G., F.A. von Hippel, J.H. Postlethwait, C.L. Buck, W.A. Cresko, and T.M. O'Hara. Developmental timing of sodium perchlorate exposure alters angiogenesis, thyroid follicle proliferation and sexual maturation in stickleback. Gen. Comp. Endocrinology. 219: 24-35.
 
-2014 • Sikkink, K.L., Reynolds, R.M., Ituarte, C.M., Cresko, W.A. & Phillips, P.C. Rapid evolution of phenotypic plasticity and shifting thresholds of genetic assimilation in the nematode Caenorhabditis remanei. G3: Genes, Genomes, Genetics. 4(6): 1103-1112.
+2014 • Sikkink, K.L., R.M. Reynolds, C.M. Ituarte, W.A. Cresko, and P.C. Phillips. Rapid evolution of phenotypic plasticity and shifting thresholds of genetic assimilation in the nematode Caenorhabditis remanei. G3: Genes, Genomes, Genetics. 4(6): 1103-1112.
 
 2014 • Sikkink, K.L., C.M. Ituarte, R.M. Reynolds, W.A. Cresko, and P.C. Phillips. The transgenerational effects of heat stress in the nematode Caenorhabditis remanei are negative and rapidly eliminated under direct selection for increased stress resistance in larvae. Genomics. 104: 438-446.
 
