@@ -90,12 +90,11 @@ ____________
 
 ![](../images/lab_folks/hannah.jpg){:height="200px" width="200px"}
 
-> My broad research interests center around determining the genetic and environmental basis for phenotypic 
-traits using genomic and classical quantitative genetics approaches. Specifically, I am interested in the 
-intimate coevolutionary relationships between hosts and their symbionts, whether these relationships are 
-categorized as parasitic, commensal, or mutualistic in nature. I am currently working on the Early Growth 
-and Development Study (EGDS) with Leslie Leve, using a quantitative genetics approach to estimate the 
-heritability of the microbiome and other related child health traits.
+> My broad research interests center around determining the genetic and environmental 
+basis for phenotypic traits using genomic and classical quantitative genetics approaches. 
+Specifically, I am interested in how the microbiome is shaped by host and environmental 
+factors and how host-microbe interactions affect host health and fitness in human and 
+fish populations.  
 
 ____________
 
@@ -109,9 +108,13 @@ ____________
 
 **Starla Chambrose, Undergraduate Researcher; Clark Honors College**
 
-![](../images/lab_folks/starla.jpg){:height="200px" width="200px"}
+![](../images/lab_folks/Starla.PNG){:height="200px" width="200px"}
 
-> Need statement
+> My broad research interests include studying the genetic underpinnings of morphological 
+variation and the evolution of developmental pathways. To this end, I am currently 
+investigating the role of the evenskipped gene eve1 in threespine stickleback, which 
+appears to have a role in tooth formation and body axis determination in other teleost 
+models.
 
 ____________
 
@@ -130,7 +133,7 @@ ____________
 
 ![](../images/lab_folks/nia.jpg){:height="200px" width="200px"}
 
-> Add something for Nia
+> 
 
 ____________
 
@@ -138,7 +141,7 @@ ____________
 
 ![](../images/lab_folks/jade.jpg){:height="200px" width="200px"}
 
-> Add something for Jade
+> 
 
 ____________
 
