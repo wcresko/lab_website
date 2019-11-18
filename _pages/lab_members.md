@@ -10,6 +10,7 @@ header:
   caption: "Photo credit: **Quick Yeates**"
 excerpt: "The amazing team that keeps it all running"
 ---
+## Present Members
 
 ## Bill Cresko, Principal Investigator
 
@@ -17,7 +18,6 @@ excerpt: "The amazing team that keeps it all running"
 >I am a geneticist who specializes in quantitative evolutionary genomics. Our laboratory studies the developmental genetic and genomic basis of evolution in natural populations using a variety of laboratory and field approaches tightly connected to innovation in genomics and quantitative biology.
 [Bill Cresko Bio](../_pages/cresko.md)
 
-## Present Members
 
 **Susie Bassham, Senior Research Associate**
 
@@ -129,7 +129,7 @@ immune system.
 
 ____________
 
-**Nia Harper, Undergraduate Researchere**
+**Nia Harper, Undergraduate Researcher**
 
 ![](../images/lab_folks/nia.jpg){:height="200px" width="200px"}
 
@@ -151,26 +151,173 @@ ____________
 
 **Kat Milligan-Myhre**
 
-> Assistant Professor at University of Alaska, Anchorage, https://drkatlab.wordpress.com
+> Assistant Professor at University of Alaska, Anchorage
 
 ____________
 
+**Ann Petersen**
+
+> Assistant Professor at Oregon State University, Cascades
+
+____________
+
+**Julian Catchen**
+
+> Assistant Professor at University of Illinois, Urbana-Champaign
+
+____________
+
+**Paul Hohenlohe**
+
+> Assistant Professor at University of Idaho
+
+____________
+
+## Graduate Students
+
 **Kristin Sikkink**
 
-
+> Postdoctoral Research Associate, University of Minnesota
 
 ____________
 
 **Kristin Alligood**
 
-
+> Research Associate Oregon Department of Fish and Wildlife
 
 ____________
 
 **Thom Nelson**
-xxxx
+
+> Postdoctoral Research Associate, University of Montana
 
 ____________
 
 **Allison Fuiten**
-xxxx
+
+> Postdoctoral Research Associate, Oregon Health and Science University
+
+____________
+
+**Emily Lescak**
+
+> Research Associate, Alaska Department of Fish and Game
+
+____________
+
+**Andrew Nishida**
+
+> Computational Scientist, Altius Institute for Biomedical Sciences
+
+____________
+
+**Alida Gerristen**
+
+> Postdoctoral Research Associate, National Renewable Energy Laboratory
+
+____________
+
+**Conor O'Brien**
+
+> Senior Consultant at Deloitte Consulting
+
+____________
+
+**Quick Yeates-Burghart**
+
+> 
+
+## Research Assistants
+
+
+**Kate Ituarte**
+
+> Resident - Harvard University
+
+____________
+
+**Nicholas Stiffler**
+
+> Software Developer, University of Oregon
+
+____________
+
+**Roberta Torunsky**
+
+> Founder of Healing Alma, Wellness and Fitness
+
+____________
+
+**Nicole Nishimura**
+
+> Manager at Sessrumnir LLC
+
+____________
+
+**Joseph Dunham**
+
+> 
+
+____________
+
+**Frances Sung**
+
+> Research Associate UCLA
+
+
+## Undergraduate Researchers
+
+
+**Jack Peplinksi**
+
+____________
+
+**John Crandall**
+
+____________
+
+**Sophie Sichel**
+
+____________
+
+**Erik Parker**
+
+____________
+
+**Shira Mali**
+
+____________
+
+**John Letaw**
+
+____________
+
+**Maya Rommwatt**
+
+____________
+
+**Taylor Wilson**
+
+____________
+
+**Steve Perry**
+
+____________
+
+**Ryan Bourdo**
+
+____________
+
+**James Bolle**
+
+____________
+
+**Larissa Unruh**
+
+____________
+
+**Jenna Wood**
+
+____________
+
+**Emily Armstrong Buck**
