@@ -102,7 +102,9 @@ ____________
 
 ![](../images/lab_folks/sophia.jpg){:height="200px" width="200px"}
 
-> Sophia needs to say something about herself
+> I am interested in evolutionary genetics and am researching the genetic determinants 
+of recombination rate variation and the consequences of this variation for evolutionary processes. 
+I am co-advised by Dr. Nadia Singh.
 
 ____________
 
