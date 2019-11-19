@@ -13,17 +13,17 @@ intro:
   - type: "left"
 gallery:
   - url: /research_popgen_genome/
-    image_path: /images/AnadPools.jpg
-    alt: "anadromous pools"
-    title: "Anadromous stickleback habitat"
+    image_path: /images/pop_gene.jpg
+    alt: "pop_gen"
+    title: "Population genetics and genomics"
   - url: /research_evo-devo/
-    image_path: /images/red_head.jpg
+    image_path: /images/evo_devo.jpg
     alt: "stickleback bones"
-    title: "Stickleback bones"
+    title: "Evolution of Development"
   - url: /research_host-micorbe_interactions/
-    image_path: /images/gwas.png
-    alt: "Stickleback GWAS"
-    title: "stickleback GWAS"
+    image_path: /images/host_microbe.jpg
+    alt: "Host-microbe"
+    title: "Host-microbe interactions"
 
 ---
 
