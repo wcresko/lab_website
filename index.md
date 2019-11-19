@@ -13,15 +13,15 @@ intro:
   - type: "left"
 gallery:
   - url: /research_popgen_genome/
-    image_path: /images/pop_gen.jpg
+    image_path: /images/day7.(035).2473.jpg
     alt: "pop_gen"
     title: "Population genetics and genomics"
   - url: /research_evo-devo/
-    image_path: /images/evo_devo.jpg
+    image_path: /images/image.pgen.v06.i02.g001.tif
     alt: "stickleback bones"
     title: "Evolution of Development"
   - url: /research_host-micorbe_interactions/
-    image_path: /images/host_microbe.jpg
+    image_path: /images/eggs.jpg
     alt: "Host-microbe"
     title: "Host-microbe interactions"
 
