@@ -16,11 +16,11 @@ gallery:
     image_path: /images/day7.(035).2473.jpg
     alt: "pop_gen"
     title: "Population genetics and genomics"
-  - url: /research_evo-devo/
+  - url: /research_evo_devo/
     image_path: /images/image.pgen.v06.i02.g001.tif
     alt: "stickleback bones"
     title: "Evolution of Development"
-  - url: /research_host-micorbe_interactions/
+  - url: /research_host_microbe_interactions/
     image_path: /images/eggs.jpg
     alt: "Host-microbe"
     title: "Host-microbe interactions"

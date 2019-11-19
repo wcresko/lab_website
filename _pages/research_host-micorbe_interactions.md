@@ -1,7 +1,7 @@
 ---
 title: "Research Areas in the Laboratory"
 layout: splash
-permalink: /research_host-microbe_interactions/
+permalink: /research_host_microbe_interactions/
 author_profile: false
 header:
   overlay_color: "#000"
