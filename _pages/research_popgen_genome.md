@@ -1,7 +1,7 @@
 ---
 title: "Research Areas in the Laboratory"
 layout: splash
-permalink: /research_popgen/
+permalink: /research_popgen_genome/
 author_profile: false
 header:
   overlay_color: "#000"
@@ -11,7 +11,7 @@ header:
 excerpt: "Brief descriptions of the major focal areas of research in the laboratory"
 ---
 
-__Population genomics__
+__Population genomics and genome evolution__
 
 Beneath the phenomena of evolutionary adaptation lies a complex lattice in which population level processes intersect with developmental and genomic constraints.
 The Cresko Lab explores these multilevel interactions in the threespine stickleback fish, which has many attractive advantages: countless replicate natural 

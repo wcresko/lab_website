@@ -12,30 +12,19 @@ intro:
   - excerpt: "Interested in learning more about our work - explore the links above"
   - type: "left"
 gallery:
-  - url: /research_popgen/
+  - url: /research_popgen_genome/
     image_path: /images/AnadPools.jpg
     alt: "anadromous pools"
     title: "Anadromous stickleback habitat"
-  - url: /research_genome/
+  - url: /research_evo-devo/
     image_path: /images/red_head.jpg
     alt: "stickleback bones"
     title: "Stickleback bones"
-  - url: /research/
+  - url: /research_host-micorbe_interactions/
     image_path: /images/gwas.png
     alt: "Stickleback GWAS"
     title: "stickleback GWAS"
-  - url: /research/
-    image_path: /images/scovelli.jpg
-    alt: "Stickleback GWAS"
-    title: "stickleback GWAS"
-  - url: /research/
-    image_path: /images/scovelli.jpg
-    alt: "Stickleback GWAS"
-    title: "stickleback GWAS"
-  - url: /research/
-    image_path: /images/scovelli.jpg
-    alt: "Stickleback GWAS"
-    title: "stickleback GWAS"
+
 ---
 
 {% include gallery caption="Click on images to learn about research in our laboratory" %}
