@@ -13,7 +13,7 @@ intro:
   - type: "left"
 gallery:
   - url: /research_popgen_genome/
-    image_path: /images/pop_gene.jpg
+    image_path: /images/pop_gen.jpg
     alt: "pop_gen"
     title: "Population genetics and genomics"
   - url: /research_evo-devo/
