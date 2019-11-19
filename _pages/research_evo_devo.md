@@ -1,7 +1,7 @@
 ---
 title: "Research Areas in the Laboratory"
 layout: splash
-permalink: /research/
+permalink: /research_evo_devo/
 author_profile: false
 header:
   overlay_color: "#000"
