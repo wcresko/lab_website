@@ -10,7 +10,7 @@ header:
   caption: "Photo credit: **Quick Yeates**"
 excerpt: "The amazing team that keeps it all running"
 ---
-## Present Members
+### Present Members
 
 ## Bill Cresko, Principal Investigator
 
@@ -147,7 +147,7 @@ ____________
 
 ____________
 
-## Past Members
+### Past Members
 
 ## Postdocs
 
@@ -271,9 +271,6 @@ ____________
 
 
 **Jack Peplinksi**
-
-____________
-
 **John Crandall**
 
 ____________

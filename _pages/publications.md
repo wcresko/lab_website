@@ -11,21 +11,21 @@ header:
 excerpt: "Publications from the laboratory in reverse chronological order"
 ---
 
-2019 • Nelson, T.C., **J.G. Crandall**, **C.M. Ituarte**, J.M. Catchen, and W.A. Cresko. Selection, linkage, and population structure interact to shape genetic variation among threespine stickleback genomes. Genetics. 212: 1367-1382. 
+2019 • **Nelson, T.C.**, <ins> J.G. Crandall </ins>, <ins> C.M. Ituarte </ins>, J.M. Catchen, and W.A. Cresko. Selection, linkage, and population structure interact to shape genetic variation among threespine stickleback genomes. Genetics. 212: 1367-1382. 
 
-2019 • <ins> Sikkink, K.L. </ins>, R.M. Reynolds, **C.M. Ituarte**, W.A. Cresko, and P.C. Phillips. Environmental and evolutionary drivers of the modular gene regulatory network underlying phenotypic plasticity for stress resistance in the nematode Caenorhabditis remanei. G3. 9(3): 969-982.
+2019 • **Sikkink, K.L.**, R.M. Reynolds, <ins> C.M. Ituarte </ins>, W.A. Cresko, and P.C. Phillips. Environmental and evolutionary drivers of the modular gene regulatory network underlying phenotypic plasticity for stress resistance in the nematode Caenorhabditis remanei. G3. 9(3): 969-982.
 
 2019 • Small, C. M., M. Currey, E.A. Beck, S. Bassham, and W.A. Cresko. Highly reproducible 16S sequencing facilitates measurement of host genetic influences on the stickleback gut microbiome. mSystems. 4(4): e00331-19.
 
 2019 • Currey, M.C., S.L. Bassham, and W.A. Cresko. Genetic divergence outpaces phenotypic divergence among threespine stickleback populations in old freshwater habitats. Biol. J. Linnean Society. 128(2): 415-434.
 
-2019 • Steury, R. A., and Currey M.C., W.A. Cresko, and B.J.M., Bohannan. Population genetic divergence and environment influence the gut microbiome in Oregon threespine stickleback. Genes. 10(7): 484.
+2019 • **Steury, R. A.**, and Currey M.C., W.A. Cresko, and B.J.M., Bohannan. Population genetic divergence and environment influence the gut microbiome in Oregon threespine stickleback. Genes. 10(7): 484.
 
-2019 • O’Connor C.H., K.L. Sikkink, T.C. Nelson, J. Fierst, W.A. Cresko, and P.C. Phillips. Complex pleiotropic genetic architecture of evolved heat stress and oxidative stress resistance in the nematode Caenorhabditis remanei. bioRxiv: 515320.
+2019 • **O’Connor C.H.**, **K.L. Sikkink**, **T.C. Nelson**, J. Fierst, W.A. Cresko, and P.C. Phillips. Complex pleiotropic genetic architecture of evolved heat stress and oxidative stress resistance in the nematode Caenorhabditis remanei. bioRxiv: 515320.
 
 2018 • Bassham, S., J. Catchen, E. Lescak, F.A. von Hippel, and W.A. Cresko. Repeated selection of alternatively adapted haplotypes creates sweeping genomic remodeling in stickleback. Genetics. 209(3): 921-939.
 
-2018 • Nelson, T.C., and W.A. Cresko. Ancient genomic variation underlies repeated ecological adaptation in young stickleback populations. Evolution Letters 2(1): 9-21.
+2018 • **Nelson, T.C.**, and W.A. Cresko. Ancient genomic variation underlies repeated ecological adaptation in young stickleback populations. Evolution Letters 2(1): 9-21.
 
 2018 • Leve, L.D., J.M. Neiderhiser, G.T. Harold, M.N. Natsuaki, B.J. Bohannan, and W.A. Cresko. Naturalistic Experimental Designs as Tools for Understanding the Role of Genes and the Environment in Prevention Research. Prevention Science. (19) 1: 68-78.
 
