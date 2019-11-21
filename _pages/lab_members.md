@@ -153,25 +153,25 @@ ____________
 
 **Kat Milligan-Myhre**
 
-> Assistant Professor at University of Alaska, Anchorage - [Lab Website](https://drkatlab.wordpress.com/author/napaaqtuk/)
+> Assistant Professor at University of Alaska, Anchorage - [Website](https://drkatlab.wordpress.com/author/napaaqtuk/)
 
 ____________
 
 **Ann Petersen**
 
-> Assistant Professor at Oregon State University, Cascades
+> Assistant Professor at Oregon State University, Cascades - [Website](http://blogs.oregonstate.edu/sticklebackproject/)
 
 ____________
 
 **Julian Catchen**
 
-> Assistant Professor at University of Illinois, Urbana-Champaign
+> Assistant Professor at University of Illinois, Urbana-Champaign - [Website](http://catchenlab.life.illinois.edu)
 
 ____________
 
 **Paul Hohenlohe**
 
-> Assistant Professor at University of Idaho
+> Assistant Professor at University of Idaho - [Website](http://hohenlohelab.github.io)
 
 ____________
 
