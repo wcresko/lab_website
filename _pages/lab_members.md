@@ -26,8 +26,7 @@ excerpt: "The amazing team that keeps it all running"
 > What are the developmental and genetic bases of evolution in natural populations?
 Using a variety of molecular genetic tools, I try to uncover genome-scale patterns
 that underlie phenotypic variation in wild populations of fish, and to direct this
-knowledge to the study of developmental pathways that contribute to novel or modified
-morphologies.
+knowledge to the study of developmental pathways that contribute to novel or modified morphologies.
 [Susie Bassham Bio](../_pages/bassham.md)
 
 ____________
