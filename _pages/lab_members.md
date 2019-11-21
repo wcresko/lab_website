@@ -50,7 +50,7 @@ ____________
 
 **Emily Beck, Research Associate**
 
-![](../images/lab_folks/beck_2.jpg){:height="200px" width="200px"}
+![](../images/lab_folks/e_beck.jpg){:height="200px" width="200px"}
 
 >  I am a geneticist with a long-standing interest in how genetic interactions 
 influence evolutionary dynamics and how those dynamics impact disease states. My 
