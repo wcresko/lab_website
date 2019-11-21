@@ -13,7 +13,7 @@ excerpt: "Publications from the laboratory in reverse chronological order"
 
 2019 • Nelson, T.C., **J.G. Crandall**, **C.M. Ituarte**, J.M. Catchen, and W.A. Cresko. Selection, linkage, and population structure interact to shape genetic variation among threespine stickleback genomes. Genetics. 212: 1367-1382. 
 
-2019 • <ins> Sikkink, K.L. </ins>, R.M. Reynolds, C.M. Ituarte, W.A. Cresko, and P.C. Phillips. Environmental and evolutionary drivers of the modular gene regulatory network underlying phenotypic plasticity for stress resistance in the nematode Caenorhabditis remanei. G3. 9(3): 969-982.
+2019 • <ins> Sikkink, K.L. </ins>, R.M. Reynolds, **C.M. Ituarte**, W.A. Cresko, and P.C. Phillips. Environmental and evolutionary drivers of the modular gene regulatory network underlying phenotypic plasticity for stress resistance in the nematode Caenorhabditis remanei. G3. 9(3): 969-982.
 
 2019 • Small, C. M., M. Currey, E.A. Beck, S. Bassham, and W.A. Cresko. Highly reproducible 16S sequencing facilitates measurement of host genetic influences on the stickleback gut microbiome. mSystems. 4(4): e00331-19.
 
