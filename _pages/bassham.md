@@ -1,7 +1,7 @@
 ---
 title: "Susan Bassham"
 layout: splash
-permalink: /cresko/
+permalink: /bassham/
 author_profile: false
 header:
   overlay_color: "#000"
