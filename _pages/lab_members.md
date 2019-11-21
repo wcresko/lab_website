@@ -6,11 +6,11 @@ author_profile: false
 header:
   overlay_color: "#000"
   overlay_filter: "0.25"
-  overlay_image: /images/header2.jpg
-  caption: "Photo credit: **Quick Yeates**"
+  overlay_image: /images/header_fish.jpg
+  caption: ""
 excerpt: "The amazing team that keeps it all running"
 ---
-### Present Members
+# Present Members
 
 ## Bill Cresko, Principal Investigator
 
@@ -147,7 +147,7 @@ ____________
 
 ____________
 
-### Past Members
+# Past Members
 
 ## Postdocs
 
@@ -271,20 +271,17 @@ ____________
 
 
 **Jack Peplinksi**
+____________
 **John Crandall**
-
 ____________
 
 **Sophie Sichel**
-
 ____________
 
 **Erik Parker**
-
 ____________
 
 **Shira Mali**
-
 ____________
 
 **John Letaw**
