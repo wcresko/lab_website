@@ -28,7 +28,7 @@ Using a variety of molecular genetic tools, I try to uncover genome-scale patter
 that underlie phenotypic variation in wild populations of fish, and to direct this
 knowledge to the study of developmental pathways that contribute to novel or modified
 morphologies.
-[Susie Bassham Bio](../_pages/cresko.md)
+[Susie Bassham Bio](../_pages/bassham.md)
 
 ____________
 
@@ -44,7 +44,7 @@ threespine stickleback in Oregon, looking for patterns of association between
 phenotype and environment, and ultimately querying the genomes of these populations
 to associate patterns we see at the phenotypic level with patterns at the genetic
 and genomic level.  
-[Mark Currey Bio](../_pages/cresko.md)
+[Mark Currey Bio](../_pages/currey.md)
 
 ____________
 
