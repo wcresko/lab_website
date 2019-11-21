@@ -153,7 +153,7 @@ ____________
 
 **Kat Milligan-Myhre**
 
-> Assistant Professor at University of Alaska, Anchorage
+> Assistant Professor at University of Alaska, Anchorage - [Lab Website](https://drkatlab.wordpress.com/author/napaaqtuk/)
 
 ____________
 
