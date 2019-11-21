@@ -21,7 +21,7 @@ gallery:
     alt: "stickleback bones"
     title: "Evolution of Development"
   - url: /research_host_microbe_interactions/
-    image_path: /images/host_microbe3.jpg
+    image_path: /images/host_microbe2.jpg
     alt: "Host-microbe"
     title: "Host-microbe interactions"
 
