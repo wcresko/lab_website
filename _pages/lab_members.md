@@ -7,7 +7,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.25"
   overlay_image: /images/header_fish.jpg
-  caption: ""
+  caption: "Photo credit: **KA**"
 excerpt: "The amazing team that keeps it all running"
 ---
 # Present Members
@@ -272,16 +272,21 @@ ____________
 
 **Jack Peplinksi**
 ____________
+
 **John Crandall**
+
 ____________
 
 **Sophie Sichel**
+
 ____________
 
 **Erik Parker**
+
 ____________
 
 **Shira Mali**
+
 ____________
 
 **John Letaw**
