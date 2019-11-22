@@ -8,18 +8,8 @@ header:
   overlay_filter: "0.25"
   overlay_image: /images/willamette2_header.jpg
   caption: "Main Stem of the Willamette River"
-excerpt: "Curious about everything fishy"
+excerpt: ""
 ---
-
-**History**: 
-•	A.A. Chemeketa Community College
-•	B.S. Biology, University of Oregon
-•	M.S. Population Genetics, University of Oregon
-
-**Thesis Title**: “The Phenotypic and Genetic Distribution of Threespine Stickleback that Inhabit the Willamette Basin, Oregon, USA”
-
-**Research Interests**: I'm interested in understanding the vast variety of life. How is morphological variation, seen in populations of the same species, partitioned among different environments and what are the genetic and genomic factors associated with this partitioning? To get at this I'm investigating the distribution of populations of threespine stickleback in Oregon, looking for patterns of association between phenotype and environment, and ultimately querying the genomes of these populations to associate patterns we see at the phenotypic level with patterns at the genetic and genomic level.
-
 
 **Biography**: Martin Stervander is a postdoctoral research fellow on a three-year grant from the Swedish Research Council. In the Cresko Lab at the Institute of Ecology and Evolution (IE2), University of Oregon, he does research in comparative genomics of syngnathid fishes. With a background in phylogenetic and phylogenomic analyses of birds, his overall research interests span microevolutionary dynamics to large-scale macroevolution. Stervander received his PhD at Lund University, Sweden, in 2015 with a thesis on speciation in birds. His PhD advisors were Drs. Bengt Hansson and Staffan Bensch. Stervander has published some 20 papers that have been cited over a thousand times.
 
