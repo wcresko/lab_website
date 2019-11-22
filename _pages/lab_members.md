@@ -82,12 +82,12 @@ focused on natural selection on bill morphology. In my postdoc project I keep
 my eye on the feeding apparatus, but go below the surface to study the
 development and evolution of the highly derived craniofacial morphology of
 pipefishes and seahorses.
-
+[Martin Stervander Bio](../_pages/stervander.md)
 ____________
 
 **Hannah Tavalire, Postdoctoral Scholar**
 
-![](../images/lab_folks/hannah.jpg){:height="200px" width="200px"}
+![](../images/lab_folks/hannah2.jpg){:height="200px" width="200px"}
 
 > My broad research interests center around determining the genetic and environmental 
 basis for phenotypic traits using genomic and classical quantitative genetics approaches. 
