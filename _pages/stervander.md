@@ -1,7 +1,7 @@
 ---
 title: "Martin Stervander"
 layout: splash
-permalink: /currey/
+permalink: /stervander/
 author_profile: false
 header:
   overlay_color: "#000"

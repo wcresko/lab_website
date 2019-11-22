@@ -6,8 +6,8 @@ author_profile: false
 header:
   overlay_color: "#000"
   overlay_filter: "0.25"
-  overlay_image: /images/currey_header.jpg
-  caption: "Pudding Creek, Middle Fork of the Willamette River"
+  overlay_image: /images/currey2_header.jpg
+  caption: "Collecting @ Riverend, McKenzie River"
 excerpt: "Curious about everything fishy"
 ---
 
