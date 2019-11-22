@@ -6,8 +6,8 @@ author_profile: false
 header:
   overlay_color: "#000"
   overlay_filter: "0.25"
-  overlay_image: /images/header2.jpg
-  caption: "Photo credit: **Quick Yeates**"
+  overlay_image: /images/green_island_header.jpg
+  caption: "Green Island, Willamette River"
 excerpt: "Formal courses and short workshops"
 ---
 

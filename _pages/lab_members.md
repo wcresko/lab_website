@@ -6,8 +6,8 @@ author_profile: false
 header:
   overlay_color: "#000"
   overlay_filter: "0.25"
-  overlay_image: /images/header_fish1.jpg
-  caption: "Photo credit: **KA**"
+  overlay_image: /images/cresko_lab_header.jpg
+  caption: "Cresko Lab, Summer 2018"
 excerpt: "The amazing team that keeps it all running"
 ---
 # Present Members

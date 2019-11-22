@@ -6,8 +6,8 @@ author_profile: false
 header:
   overlay_color: "#000"
   overlay_filter: "0.25"
-  overlay_image: /images/header2.jpg
-  caption: "Photo credit: **Quick Yeates**"
+  overlay_image: /images/cushman_slough_header.jpg
+  caption: "Cushman Slough, Siuslaw River"
 excerpt: "Publications from the laboratory in reverse chronological order"
 ---
 

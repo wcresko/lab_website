@@ -5,8 +5,8 @@ author_profile: false
 header:
   overlay_color: "#000"
   overlay_filter: "0.25"
-  overlay_image: /images/lily_lake_header.jpg
-  caption: "Lily Lake"
+  overlay_image: /images/willamette_river_header.jpg
+  caption: "Main Stem of the Willamette River"
 excerpt: "An evolutionary genomics laboratory"
 intro:
   - excerpt: "Interested in learning more about our work - explore the links above"
