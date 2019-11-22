@@ -7,7 +7,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.25"
   overlay_image: /images/currey_header.jpg
-  caption: ""
+  caption: "Pudding Creek, Middle Fork of the Willamette River"
 excerpt: "Curious about everything fishy"
 ---
 
