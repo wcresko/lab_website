@@ -83,6 +83,7 @@ my eye on the feeding apparatus, but go below the surface to study the
 development and evolution of the highly derived craniofacial morphology of
 pipefishes and seahorses.
 [Martin Stervander Bio](../_pages/stervander.md)
+
 ____________
 
 **Hannah Tavalire, Postdoctoral Scholar**
