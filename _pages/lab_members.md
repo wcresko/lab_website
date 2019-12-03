@@ -252,7 +252,7 @@ ____________
 
 **Roberta Torunsky**
 
-> Founder of Healing Alma, Wellness and Fitness
+> Founder of Healing Alma
 
 ____________
 
