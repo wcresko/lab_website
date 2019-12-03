@@ -234,7 +234,7 @@ ____________
 
 **Kate Ituarte**
 
-> Resident - Harvard University
+> Resident, Harvard University
 
 ____________
 
@@ -270,7 +270,7 @@ ____________
 
 **Frances Sung**
 
-> Research Associate UCLA
+> Research Associate, UCLA
 
 
 ## Undergraduate Researchers
