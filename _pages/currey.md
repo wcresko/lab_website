@@ -7,7 +7,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.25"
   overlay_image: /images/currey2_header.jpg
-  caption: "Collecting @ Riverend, McKenzie River"
+  caption: "Collecting @ Riverbend, McKenzie River"
 excerpt: "Curious about everything fishy"
 ---
 
