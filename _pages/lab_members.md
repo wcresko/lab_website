@@ -244,6 +244,12 @@ ____________
 
 ____________
 
+**Jason Sydes**
+
+> Research Assistant, Postlethwait Lab - University of Oregon
+
+____________
+
 **Roberta Torunsky**
 
 > Founder of Healing Alma, Wellness and Fitness
