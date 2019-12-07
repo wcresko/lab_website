@@ -1,6 +1,9 @@
 main:
   - title: "About"
     url: /about/
+    
+  - title: "News"
+    url: /posts/
 
   - title: "Research"
     url: /research/
@@ -23,5 +26,4 @@ main:
   - title: "Tags"
     url: /tags/
 
-  - title: "News"
-    url: /year-archive/
+

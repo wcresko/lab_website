@@ -1,5 +1,5 @@
 ---
-title: "Genome Evolution"
+title: "Population Genomics and Genome Evolution"
 layout: splash
 permalink: /research_genome/
 author_profile: false

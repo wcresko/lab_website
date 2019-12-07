@@ -12,12 +12,12 @@ intro:
   - excerpt: "Interested in learning more about our work - explore the links above"
   - type: "left"
 gallery:
-  - url: /research_popgen_genome/
+  - url: /research_genome/
     image_path: /images/popgen_genome2.jpg
     alt: "pop_gen"
     title: "Population genetics and genomics"
   - url: /research_evo_devo/
-    image_path: /images/image.pgen.v06.i02.g001.tif
+    image_path: /images/double_head.jpg
     alt: "stickleback bones"
     title: "Evolution of Development"
   - url: /research_host_microbe_interactions/
