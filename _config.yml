@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Bill Cresko"
-  avatar           : "/images/lab_folks/cresko.jpg/"
+  avatar           : "/images/lab_folks/cresko.jpg"
   bio              : "Evolutionary Geneticist"
   location         : "Eugene, Oregon"
   email            :
