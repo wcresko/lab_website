@@ -84,7 +84,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : "@wcresko"
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -111,8 +111,8 @@ author:
   avatar           : "/images/lab_folks/cresko.jpg/"
   bio              : "Evolutionary Geneticist"
   location         : "Eugene, Oregon"
-  email            : "wcresko@uoregon.edu"
-  github           : "wcresko"
+  email            :
+  github           :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
