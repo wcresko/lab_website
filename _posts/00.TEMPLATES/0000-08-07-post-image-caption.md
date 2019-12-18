@@ -1,10 +1,9 @@
 ---
 title: "Post: Image (Caption)"
 categories:
-  - Post Formats
+  - Template
 tags:
-  - image
-  - Post Formats
+  - Template
 ---
 
 {% capture fig_img %}

@@ -1,12 +1,9 @@
 ---
 title: "Markup: Text Alignment"
 categories:
-  - Markup
+  - Template
 tags:
-  - alignment
-  - content
-  - css
-  - markup
+  - Template
 ---
 
 ### Default

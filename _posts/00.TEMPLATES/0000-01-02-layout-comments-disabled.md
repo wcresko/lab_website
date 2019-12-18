@@ -2,11 +2,9 @@
 title: "Layout: Comments Disabled"
 comments: false
 categories:
-  - Layout
-  - Uncategorized
+  - Template
 tags:
-  - comments
-  - layout
+  - Template
 ---
 
 This post has its comments disabled.

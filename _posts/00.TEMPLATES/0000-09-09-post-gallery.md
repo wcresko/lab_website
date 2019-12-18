@@ -1,11 +1,9 @@
 ---
 title: "Post: Gallery"
 categories:
-  - Post Formats
+  - Template
 tags:
-  - gallery
-  - Post Formats
-  - tiled
+  - Template
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: /assets/images/unsplash-gallery-image-1-th.jpg
@@ -121,7 +119,7 @@ gallery2:
     alt: "Fog in the trees"
 ```
 
-And place it like so: 
+And place it like so:
 
 ```liquid
 {% raw %}{% include gallery id="gallery2" caption="This is a second gallery example with images hosted externally." %}{% endraw %}

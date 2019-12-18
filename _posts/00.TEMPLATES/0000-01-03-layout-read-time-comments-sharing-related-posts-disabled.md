@@ -5,13 +5,9 @@ comments: false
 share: false
 related: false
 categories:
-  - Layout
-  - Uncategorized
+  - Template
 tags:
-  - related posts
-  - social
-  - comments
-  - layout
+  - Template
 ---
 
 This post has reading time, comments, social sharing links, and related posts disabled.

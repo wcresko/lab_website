@@ -2,12 +2,9 @@
 title: "Layout: Excerpt (Generated)"
 excerpt_separator: "<!--more-->"
 categories:
-  - Layout
-  - Uncategorized
+  - Template
 tags:
-  - content
-  - excerpt
-  - layout
+  - Template
 ---
 
 This is the post content. Archive-index pages should display an auto-generated excerpt of this content.

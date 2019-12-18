@@ -4,12 +4,9 @@ header:
   teaser: /assets/images/page-header-teaser.png
   og_image: /assets/images/page-header-og-image.png
 categories:
-  - Layout
-  - Uncategorized
+  - Template
 tags:
-  - edge case
-  - image
-  - layout
+  - Template
 last_modified_at: 2017-10-26T15:12:19-04:00
 ---
 

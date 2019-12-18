@@ -2,11 +2,9 @@
 title: "Layout: Related Posts Disabled"
 related: false
 categories:
-  - Layout
-  - Uncategorized
+  - Template
 tags:
-  - related posts
-  - layout
+  - Template
 ---
 
 This post has related posts disabled.

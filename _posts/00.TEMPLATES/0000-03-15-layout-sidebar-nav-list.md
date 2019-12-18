@@ -5,6 +5,10 @@ author_profile: false
 sidebar:
   title: "Sample Title"
   nav: sidebar-sample
+categories:
+  - Template
+tags:
+  - Template
 ---
 
 This post has a custom navigation list set in the post's YAML Front Matter.

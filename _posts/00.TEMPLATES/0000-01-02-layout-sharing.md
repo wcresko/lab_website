@@ -2,11 +2,9 @@
 title: "Layout: Social Sharing Links Enabled"
 share: true
 categories:
-  - Layout
-  - Uncategorized
+  - Template
 tags:
-  - social
-  - layout
+  - Template
 ---
 
 This post should display social sharing links.

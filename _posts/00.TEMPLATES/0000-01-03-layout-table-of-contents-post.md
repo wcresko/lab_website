@@ -4,7 +4,7 @@ header:
   image: assets/images/unsplash-image-9.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 tags:
-  - table of contents
+  - Template
 toc: true
 toc_label: "Unique Title"
 toc_icon: "heart"

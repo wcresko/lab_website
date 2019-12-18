@@ -3,13 +3,9 @@ title: "Markup: HTML Tags and Formatting"
 header:
   teaser: "assets/images/markup-syntax-highlighting-teaser.jpg"
 categories:
-  - Markup
+  - Template
 tags:
-  - content
-  - css
-  - formatting
-  - html
-  - markup
+  - Template
 toc: true
 ---
 
@@ -73,8 +69,8 @@ Do It Live
 
 ## Unordered Lists (Nested)
 
-  * List item one 
-      * List item one 
+  * List item one
+      * List item one
           * List item one
           * List item two
           * List item three
@@ -88,8 +84,8 @@ Do It Live
 
 ## Ordered List (Nested)
 
-  1. List item one 
-      1. List item one 
+  1. List item one
+      1. List item one
           1. List item one
           2. List item two
           3. List item three

@@ -4,13 +4,9 @@ header:
   image: /assets/images/unsplash-image-6.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 categories:
-  - Layout
-  - Uncategorized
+  - Template
 tags:
-  - edge case
-  - featured image
-  - image
-  - layout
+  - Template
 ---
 
 This post should display a **header image**, if the theme supports it.

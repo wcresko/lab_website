@@ -2,12 +2,9 @@
 title: "Layout: Excerpt (Defined)"
 excerpt: "This is a user-defined post excerpt. It should be displayed in place of the post content in archive-index pages."
 categories:
-  - Layout
-  - Uncategorized
+  - Template
 tags:
-  - content
-  - excerpt
-  - layout
+  - Template
 ---
 
 This is the post content. It should be displayed in place of the user-defined excerpt in archive-index pages.

@@ -1,11 +1,9 @@
 ---
 title: "Markup: Title *with* **Markdown**"
 categories:
-  - Markdown
+  - Template
 tags:
-  - css
-  - html
-  - title
+  - Template
 ---
 
 Verify that:
