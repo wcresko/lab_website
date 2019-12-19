@@ -149,7 +149,7 @@
 <lastmod>0000-05-22T00:00:00-08:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/lab_website/post%20formats/post-video-youtube/</loc>
+<loc>http://localhost:4000/lab_website/template/post-video-youtube/</loc>
 <lastmod>0000-06-02T00:00:00-08:00</lastmod>
 </url>
 <url>
@@ -207,6 +207,10 @@
 <url>
 <loc>http://localhost:4000/lab_website/news/SCORE/</loc>
 <lastmod>2019-11-01T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/lab_website/manuscripts/microbial_methods/</loc>
+<lastmod>2019-11-05T00:00:00-08:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/lab_website/manuscripts/Neutrophil_QTL/</loc>
