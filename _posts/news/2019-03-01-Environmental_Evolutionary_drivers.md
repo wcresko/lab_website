@@ -12,7 +12,7 @@ tags:
   - Transcriptional Network
   - Heat Stress
   - Oxidative Stress
-  - *CAENORHABDITIS REMANEI*
+  - CAENORHABDITIS REMANEI
   - RNA-Seq
 link: https://www.g3journal.org/content/9/3/969.abstract
 ---
