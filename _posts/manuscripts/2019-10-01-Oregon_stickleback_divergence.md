@@ -13,4 +13,4 @@ tags:
 link: https://academic.oup.com/biolinnean/article/128/2/415/5543242
 ---
 
-A recent publication from a Cresko Lab senior research scientist - Mark Currey [link](#).
+A recent publication from a Cresko Lab senior research scientist, Mark Currey.

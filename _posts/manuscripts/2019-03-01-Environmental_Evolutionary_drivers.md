@@ -1,5 +1,5 @@
 ---
-title: "Environmental and Evolutionary Drivers of the Modular Gene Regulatory Network Underlying Phenotypic Plasticity for Stress Resistance in the Nematode Caenorhabditis remanei"
+title: "Environmental and Evolutionary Drivers of the Modular Gene Regulatory Network Underlying Phenotypic Plasticity for Stress Resistance in the Nematode *Caenorhabditis remanei*"
 categories:
   - Manuscripts
 tags:
@@ -12,9 +12,10 @@ tags:
   - Transcriptional Network
   - Heat Stress
   - Oxidative Stress
-  - CAENORHABDITIS REMANEI
+  - Caenorhabditis remanei
   - RNA-Seq
+  - G3
 link: https://www.g3journal.org/content/9/3/969.abstract
 ---
 
-A recent publication from former graduate student Kristin Sikkink. [link](#).
+A recent publication from former graduate student Kristin Sikkink in collaboration with the Phillips laboratory.
