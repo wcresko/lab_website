@@ -2,8 +2,6 @@
 title: "Post: Image (Linked with Caption)"
 categories:
   - Template
-tags:
-  - Template
 ---
 
 {% capture fig_img %}

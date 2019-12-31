@@ -5,8 +5,6 @@ header:
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 categories:
   - Template
-tags:
-  - Template
 ---
 
 This post should display a **header image**, if the theme supports it.

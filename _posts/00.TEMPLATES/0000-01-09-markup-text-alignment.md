@@ -2,8 +2,6 @@
 title: "Markup: Text Alignment"
 categories:
   - Template
-tags:
-  - Template
 ---
 
 ### Default

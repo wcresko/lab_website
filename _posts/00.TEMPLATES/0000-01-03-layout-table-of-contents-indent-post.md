@@ -1,6 +1,6 @@
 ---
 title: "Layout: Post with Nested Table of Contents"
-tags:
+categories:
   - Template
 toc: true
 ---

@@ -1,8 +1,6 @@
 ---
 title: "Layout: Read Time Disabled"
 read_time: false
-tags:
-  - Template
 categories:
   - Template
 ---

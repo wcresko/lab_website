@@ -2,8 +2,6 @@
 title: "Markup: Title *with* **Markdown**"
 categories:
   - Template
-tags:
-  - Template
 ---
 
 Verify that:

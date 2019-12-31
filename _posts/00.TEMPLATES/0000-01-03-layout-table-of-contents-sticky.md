@@ -1,6 +1,6 @@
 ---
 title: "Layout: Post with Sticky Table of Contents"
-tags:
+categories:
   - Template
 toc: true
 toc_sticky: true

@@ -8,8 +8,6 @@ header:
       url: "https://unsplash.com"
 categories:
   - Template
-tags:
-  - Template
 last_modified_at: 2018-03-20T16:00:52-04:00
 ---
 

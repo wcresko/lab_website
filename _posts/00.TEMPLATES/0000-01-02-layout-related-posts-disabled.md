@@ -3,8 +3,6 @@ title: "Layout: Related Posts Disabled"
 related: false
 categories:
   - Template
-tags:
-  - Template
 ---
 
 This post has related posts disabled.

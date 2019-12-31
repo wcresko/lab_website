@@ -4,8 +4,6 @@ header:
   overlay_color: "#333"
 categories:
   - Template
-tags:
-  - Template
 ---
 
 This post should display a **header with a solid background color**, if the theme supports it.

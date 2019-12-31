@@ -2,8 +2,6 @@
 title: "Markup: Image Alignment"
 categories:
   - Template
-tags:
-  - Template
 ---
 
 Welcome to image alignment! The best way to demonstrate the ebb and flow of the various image positioning options is to nestle them snuggly among an ocean of words. Grab a paddle and let's get started.

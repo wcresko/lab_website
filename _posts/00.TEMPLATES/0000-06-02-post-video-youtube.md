@@ -2,8 +2,6 @@
 title: "Post: Video (YouTube)"
 categories:
   - Template
-tags:
-  - Template
 ---
 
 YouTube video embed below.

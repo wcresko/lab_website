@@ -2,8 +2,6 @@
 title: "Markup: Title with Special&nbsp;---&nbsp;Characters"
 categories:
   - Template
-tags:
-  - Template
 ---
 
 Putting special characters in the title should have no adverse effect on the layout or functionality.

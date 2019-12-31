@@ -4,8 +4,6 @@ header:
   teaser: "assets/images/markup-syntax-highlighting-teaser.jpg"
 categories:
   - Template
-tags:
-  - Template
 toc: true
 ---
 

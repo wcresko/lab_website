@@ -6,8 +6,6 @@ share: false
 related: false
 categories:
   - Template
-tags:
-  - Template
 ---
 
 This post has reading time, comments, social sharing links, and related posts disabled.

@@ -3,8 +3,6 @@ title: "Layout: More Tag"
 excerpt_separator: <!--more-->
 categories:
   - Template
-tags:
-  - Template
 ---
 
 This content is before the [excerpt separator tag](http://jekyllrb.com/docs/posts/#post-excerpts).
