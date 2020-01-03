@@ -180,11 +180,11 @@ PLoS Genetics 6(2):e1000862. (Faculty of 1000 must read)
 
 **Press and Review Article Coverage of our Research**
 
-2018 • How an earthquake shook up stickleback genomes. Genes to Genomes GSA Blog
+2018 • How an earthquake shook up stickleback genomes. Genes to Genomes GSA Blog [Website](http://genestogenomes.org/how-an-earthquake-shook-up-stickleback-genomes/)
 
-2017 • Hold your (sea)horses – here’s the pipefish genome. BiomedCentral
+2017 • Hold your (sea)horses – here’s the pipefish genome. BiomedCentral [Website](https://blogs.biomedcentral.com/on-biology/2016/12/20/pipefishgenome/)
 
-2016 • Andrews et al. Harnessing the power of RADseq for ecological and evolutionary genomics. Nature Reviews Genetics
+2016 • Andrews et al. Harnessing the power of RADseq for ecological and evolutionary genomics. Nature Reviews Genetics [Website](https://www.nature.com/articles/nrg.2015.28)
 
 2016 • Earthquakes and rapid evolution. The Molecular Ecologist
 
