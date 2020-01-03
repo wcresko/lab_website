@@ -41,8 +41,6 @@ excerpt: "Publications from the laboratory in reverse chronological order"
 
 2016 • Small, C., S. Bassham, J. Catchen, A. Amores, A.M. Fuiten, R.S. Brown, A.G. Jones, and W.A. Cresko. The genome of the Gulf pipefish enables understanding of evolutionary innovations. Genome Biology. 17(1): 58-65.
 
-2016 • Gardell A.M., F.A. von Hippel, E.M. Adams, D.M. Dillon, A.M. Petersen, J.H. Postlethwait, W.A. Cresko, and C.L. Buck. Exogenous iodide ameliorates perchlorate-induced thyroid phenotypes in threespine stickleback. General and Comparative Endocrinology. 243: 60-69.
-
 2016 • Milligan-Myhre, K.A., C.M. Small, E.K. Mittge, M. Agarawal, M. Currey, W.A. Cresko, and K. Guillemin. Innate immune responses to gut microbiota differ between oceanic and freshwater threespine stickleback populations. Disease Models & Mechanisms. 9(2): 187-98.
 
 2016 • Petersen, A., N. Earp, M. Redmond, J.H. Postlethwait, F.A. von Hippel, C.L. Buck and W.A. Cresko. Perchlorate exposure reduces primary germ cell number in female stickleback. PLoS One. 11(7): e0157792
