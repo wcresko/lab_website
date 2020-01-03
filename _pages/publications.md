@@ -11,6 +11,8 @@ header:
 excerpt: "Publications from the laboratory in reverse chronological order"
 ---
 
+2019 • Beck, E.A., M.C. Currey, C.M. Small, and W.A. Cresko. QTL Mapping of Intestinal neutrophil variation in threespine stickleback reveals possible gene targets connecting intestinal inflammation and systemic health. **G3**. (Early online)
+
 2019 • **Nelson, T.C.**, <ins> J.G. Crandall </ins>, <ins> C.M. Ituarte </ins>, J.M. Catchen, and W.A. Cresko. Selection, linkage, and population structure interact to shape genetic variation among threespine stickleback genomes. __Genetics__. 212: 1367-1382. 
 
 2019 • **Sikkink, K.L.**, R.M. Reynolds, <ins> C.M. Ituarte </ins>, W.A. Cresko, and P.C. Phillips. Environmental and evolutionary drivers of the modular gene regulatory network underlying phenotypic plasticity for stress resistance in the nematode Caenorhabditis remanei. **G3**. 9(3): 969-982.
