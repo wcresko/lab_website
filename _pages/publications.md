@@ -216,7 +216,7 @@ PLoS Genetics 6(2):e1000862. (Faculty of 1000 must read)
 
 2010 • News from the field: Stickleback Genomes Shining Bright Light on Evolution. NSF Press Release [Website](https://www.nsf.gov/news/news_summ.jsp?cntn_id=116516)
 
-2010 • The parallel lives of threespine stickleback. Discover Magazine Online [Website](http://blogs.discovermagazine.com/gnxp/2010/03/the-parallel-lives-of-threespine-stickleback/#.XctNOS2ZN3Q)
+2010 • The parallel lives of threespine stickleback. Discover Magazine Online [Website](https://www.discovermagazine.com/health/the-parallel-lives-of-threespine-stickleback)
 
 2010 • Stapley, J., J. Reger, P. G. D. Feulner, C. Smadja, J. Galindo, R. Ekblom, C. Bennison, A. D. Ball, A. P. Beckerman and J. Slate. Adaptation Genomics: the next generation.
 Trends in Ecology and Evolutionary Biology. 25. 705-712. [Website](https://www.ncbi.nlm.nih.gov/pubmed/20952088)
@@ -233,11 +233,9 @@ Trends in Ecology and Evolutionary Biology. 25. 705-712. [Website](https://www.n
 
 2008 • Fitness in a changing world. NSF Press Release [Website](https://www.nsf.gov/news/news_summ.jsp?cntn_id=112436)
 
-2006 • Platt, J. E. Macroevolution: Alive and well in sticklebacks. The American Biology Teacher. 68:5-6.
+2006 • Platt, J. E. Macroevolution: Alive and well in sticklebacks. The American Biology Teacher [Website](https://abt.ucpress.edu/content/68/1/5)
 
-2006 • Perchlorate affects stickleback sexual development. Anchorage Daily News 
-
-2006 • Perchlorate affects stickleback sexual development. Environmental Health Perspectives [Website](\https://ehp.niehs.nih.gov/doi/full/10.1289/ehp.114-a637a)
+2006 • Reproductive Toxicity: New Take on Perchlorate Effects. Environmental Health Perspectives [Website](https://ehp.niehs.nih.gov/doi/10.1289/ehp.114-a637a)
 
 2006 • Raloff, J. A. Macho moms: Perchlorate pollutant masculinizes fish. Science News [Website](https://www.sciencenews.org/article/macho-moms-perchlorate-pollutant-masculinizes-fish)
 
