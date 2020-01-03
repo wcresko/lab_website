@@ -186,74 +186,68 @@ PLoS Genetics 6(2):e1000862. (Faculty of 1000 must read)
 
 2016 • Andrews et al. Harnessing the power of RADseq for ecological and evolutionary genomics. Nature Reviews Genetics [Website](https://www.nature.com/articles/nrg.2015.28)
 
-2016 • Earthquakes and rapid evolution. The Molecular Ecologist
+2016 • Earthquakes and rapid evolution. The Molecular Ecologist [Website](https://www.molecularecologist.com/2016/01/earthquakes-and-rapid-evolution/)
 
-2015 • Copenhaver, G.P. and G.S. Barsh. A decad(e) of reasons to contribute to a PLoS community-run Journal. - A commentary on our 2010 paper in PloS Genetics (Hohenlohe, Bassham et al.) that was chosen one of the 10 most important papers (out of 5000) in the first decade of PLoS Genetics.
+2015 • Copenhaver, G.P. and G.S. Barsh. A decad(e) of reasons to contribute to a PLoS community-run Journal. - A commentary on our 2010 paper in PloS Genetics (Hohenlohe, Bassham et al.) that was chosen one of the 10 most important papers (out of 5000) in the first decade of PLoS Genetics.[Website](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005557)
 
-2015 • Interview on Oregon Public Broadcasting’s Think Out Loud about stickleback evolution. OPB.
+2015 • Interview on Oregon Public Broadcasting’s Think Out Loud about stickleback evolution. OPB [Website](https://www.opb.org/radio/programs/thinkoutloud/segment/evolution-can-happen-quicker-than-previously-thought/)
 
-2015 • Small fish takes evolution fast track - Interview with Dr. Susie Bassham. Scientific American
+2015 • Small fish takes evolution fast track - Interview with Dr. Susie Bassham. Scientific American [Website](https://www.scientificamerican.com/video/fish-on-evolution-s-fast-track/)
 
-2015 • Small fish species evolved rapidly following 1964 Alaska earthquake. ScienceDaily
+2015 • Small fish species evolved rapidly following 1964 Alaska earthquake. ScienceDaily [Website](https://www.sciencedaily.com/releases/2015/12/151214165724.htm)
 
-2015 • Fang, J. Catastrophic Earthquake Drove Fish Evolution In Just 50 Years. IFL Science
+2015 • Fang, J. Catastrophic Earthquake Drove Fish Evolution In Just 50 Years. IFL Science [Website](https://www.iflscience.com/plants-and-animals/catastrophic-earthquake-drove-fish-evolution-just-50-years/)
 
-2015 • Interview on Jefferson Public Radio about stickleback evolution. OPB
+2015 • Kiger, P.J. Earthquake forced rapid evolution in fish. Discovery News [Website](https://www.seeker.com/earthquake-forced-rapid-evolution-in-fish-1770617657.html)
 
-2015 • Kiger, P.J. Earthquake forced rapid evolution in fish. Discovery News.
+2015 • Small fish species evolved rapidly following 1964 Alaska earthquake. Phys.Org [Website](https://phys.org/news/2015-12-small-fish-species-evolved-rapidly.html)
 
-2015 • Small fish species evolved rapidly following 1964 Alaska earthquake. phys.Org.
+2015 • Big Earthquake jolted fish into fast evolution. Futurity [Website](https://www.futurity.org/threespine-stickleback-fish-evolution-1070162-2/)
 
-2015 • Big Earthquake jolted fish into fast evolution. Futurity.
+2015 • Mathewson, S. Stickleback fish evolved rapidly to living in freshwater ponds following major earthquake. Nature World News [Website](https://www.natureworldnews.com/articles/18779/20151215/stickleback-fish-rapidly-evolved-living-freshwater-ponds-following-major-earthquake.htm)
 
-2015 • Mathewson, S. Stickleback fish evolved rapidly to living in freshwater ponds following major earthquake. Nature World News.
+2013 • Julian Catchen helps us dig into Stacks. The Molecular Ecologist [Website](https://www.molecularecologist.com/2013/04/qa-julian-catchen-helps-us-dig-into-stacks/)
 
-2013 • Julian Catchen helps us dig into Stacks. The Molecular Ecologist
+2011 • RAD-Tagging is demystifying genome sequencing. NewsWise [Website](https://www.newswise.com/articles/rad-tagging-technology-is-demystifying-genome-sequencing)
 
-2011 • RAD-Tagging is demystifying genome sequencing. NewsWise. 2011 • Pennisi E: Using DNA to Reveal a Mosquito's History. Science 2011, 331:1006-1007.
+2010 • Genomic Study IDs Parallel Adaptations in Independent Stickleback Populations. GenomeWeb [Website](https://www.genomeweb.com/sequencing/genomic-study-ids-parallel-adaptations-independent-stickleback-populations)
 
-2010 • Genomic Study IDs Parallel Adaptations in Independent Stickleback Populations. GenomeWeb
+2010 • Stickleback Genomes Shining Bright Light on Evolution. ScienceDaily [Website](https://www.sciencedaily.com/releases/2010/02/100225214757.htm)
 
-2010 • Stickleback Genomes Shining Bright Light on Evolution. ScienceDaily
+2010 • News from the field: Stickleback Genomes Shining Bright Light on Evolution. NSF Press Release [Website](https://www.nsf.gov/news/news_summ.jsp?cntn_id=116516)
 
-2010 • News from the field: Stickleback Genomes Shining Bright Light on Evolution. NSF Press Release.
-
-2010 • The parallel lives of threespine stickleback. Discover Magazine Online. March 5th
+2010 • The parallel lives of threespine stickleback. Discover Magazine Online [Website](http://blogs.discovermagazine.com/gnxp/2010/03/the-parallel-lives-of-threespine-stickleback/#.XctNOS2ZN3Q)
 
 2010 • Stapley, J., J. Reger, P. G. D. Feulner, C. Smadja, J. Galindo, R. Ekblom, C. Bennison, A. D. Ball, A. P. Beckerman and J. Slate. Adaptation Genomics: the next generation.
-Trends in Ecology and Evolutionary Biology. 25. 705-712.
+Trends in Ecology and Evolutionary Biology. 25. 705-712. [Website](https://www.ncbi.nlm.nih.gov/pubmed/20952088)
 
-2010 • News from the field: Genetic Structure of First Animal to Show Evolutionary Response to Climate Change Determined. NSF Press Release.
+2010 • News from the field: Genetic Structure of First Animal to Show Evolutionary Response to Climate Change Determined. NSF Press Release [Website](https://www.nsf.gov/news/news_summ.jsp?cntn_id=117577)
 
-2010 • Mosquitoes: Genetic Structure of First Animal to Show Evolutionary Response to Climate Change Determined. ScienceDaily
+2010 • Mosquitoes: Genetic Structure of First Animal to Show Evolutionary Response to Climate Change Determined. ScienceDaily [Website](https://www.sciencedaily.com/releases/2010/08/100824132357.htm)
 
-2010 • Genomic Study IDs Parallel Adaptations in Independent Stickleback Pops. GenomeWeb Daily
+2010 • Genomic Study IDs Parallel Adaptations in Independent Stickleback Pops. GenomeWeb Daily [Website](https://www.genomeweb.com/sequencing/genomic-study-ids-parallel-adaptations-independent-stickleback-populations)
 
-2010 • Stickleback Genomes Shining Bright Light on Evolution. ScienceDaily
+2010 • Stickleback Genomes Shining Bright Light on Evolution. ScienceDaily [Website](https://www.sciencedaily.com/releases/2010/02/100225214757.htm)
 
-2010 • News from the field: Stickleback Genomes Shining Bright Light on Evolution. NSF Press Release.
+2009 • Maher, B. Biology’s next top model. Nature 458; 695-698. [Website](https://www.nature.com/articles/458695a)
 
-2010 • The parallel lives of threespine stickleback. Discover Magazine Online. March 5th
-
-2009 • Maher, B. Biology’s next top model. Nature 458; 695-698.
-
-2008 • Fitness in a changing world. NSF Press Release Oct 2008.
+2008 • Fitness in a changing world. NSF Press Release [Website](https://www.nsf.gov/news/news_summ.jsp?cntn_id=112436)
 
 2006 • Platt, J. E. Macroevolution: Alive and well in sticklebacks. The American Biology Teacher. 68:5-6.
 
-2006 • Perchlorate affects stickleback sexual development. Anchorage Daily News.
+2006 • Perchlorate affects stickleback sexual development. Anchorage Daily News 
 
-2006 • Perchlorate affects stickleback sexual development. Environmental Health Perspectives.
+2006 • Perchlorate affects stickleback sexual development. Environmental Health Perspectives [Website](\https://ehp.niehs.nih.gov/doi/full/10.1289/ehp.114-a637a)
 
-2006 • Raloff, J. A. Macho moms: Perchlorate pollutant masculinizes fish. Science News 170(7).
+2006 • Raloff, J. A. Macho moms: Perchlorate pollutant masculinizes fish. Science News [Website](https://www.sciencenews.org/article/macho-moms-perchlorate-pollutant-masculinizes-fish)
 
-2004 • Foster, S. A., and J. A. Baker. Evolution in parallel:new insights from a classic system. Trends in Ecology and Evolution 19; 456-459.
+2004 • Foster, S. A., and J. A. Baker. Evolution in parallel:new insights from a classic system. Trends in Ecology and Evolution 19; 456-459. [Website](https://www.sciencedirect.com/science/article/pii/S0169534704002010?via%3Dihub) 
 
-2004 • Pennisi, E. Evolutionary Biology, Changing fish’s bony armor in the wink of a gene. Science. 304; 1737-1739.
+2004 • Pennisi, E. Evolutionary Biology, Changing fish’s bony armor in the wink of a gene. Science. 304; 1737-1739. [Website](https://science.sciencemag.org/content/304/5678/1736)
 
-2004 • Secko, D., Big cross lands sticklebacks in the spotlight. The Scientist 18(21): 16.
+2004 • Secko, D., Big cross lands sticklebacks in the spotlight. The Scientist 18(21): 16. [Website](https://www.the-scientist.com/research/big-cross-lands-sticklebacks-in-the-spotlight-49390)
 
-2004 • Tickle, C. and N. Cole. Morphological Diversity: Taking the spine out of three-spine stickleback. Current Biology 14(11): 422-424.
+2004 • Tickle, C. and N. Cole. Morphological Diversity: Taking the spine out of three-spine stickleback. Current Biology 14(11): 422-424. [Website](https://reader.elsevier.com/reader/sd/pii/S0960982204003616?token=0E604FC40746B442934DA23D7C781117D0BE0E3F77E12E665CBCD8B5D0C9AE8D67DB3CD48E5FA98FB46BD41642B89C01)
 
 
 {% if author.googlescholar %}
