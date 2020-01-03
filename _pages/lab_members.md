@@ -21,7 +21,7 @@ excerpt: "The amazing team that keeps it all running"
 
 **Susie Bassham, Senior Research Associate**
 
-![](../images/lab_folks/bassham.jpg){:height="200px" width="200px"}
+![](../images/lab_folks/Bassham.png){:height="200px" width="200px"}
 
 > What are the developmental and genetic bases of evolution in natural populations?
 Using a variety of molecular genetic tools, I try to uncover genome-scale patterns
