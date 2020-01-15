@@ -11,7 +11,6 @@ tags:
   - Quantitative genetics
 share: true
 related: true
-author_profile: false
 
 ---
 
