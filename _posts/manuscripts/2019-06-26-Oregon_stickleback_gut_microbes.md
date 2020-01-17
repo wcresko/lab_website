@@ -1,4 +1,7 @@
 ---
+share: true
+related: true
+author_profile: false
 title: "Population Genetic Divergence and Environment Influence the Gut Microbiome in Oregon Threespine Stickleback"
 categories:
   - Manuscripts
@@ -14,7 +17,8 @@ tags:
   - Population genomics
   - Genetic Divergence
   - Ecology
-link: https://www.mdpi.com/2073-4425/10/7/484
 ---
 
-Host genetics and ecological effects on gut microbiome in threespine stickleback from Oregon [link](#).
+Host genetics and ecological effects on gut microbiome in threespine stickleback from Oregon.
+
+[READ THE PAPER](https://www.mdpi.com/2073-4425/10/7/484)

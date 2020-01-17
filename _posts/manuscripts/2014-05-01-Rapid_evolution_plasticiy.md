@@ -1,4 +1,7 @@
 ---
+share: true
+related: true
+author_profile: false
 title: "Rapid Evolution of Phenotypic Plasticity and Shifting Thresholds of Genetic Assimilation in the Nematode *Caenorhabditis remanei*"
 categories:
   - Manuscripts
@@ -14,7 +17,8 @@ tags:
   - heat shock proteins
   - heat stress
   - hormesis
-link: https://www.sciencedirect.com/science/article/pii/S0888754314001918?via%3Dihub
 ---
 
 Apparent genetic assimilation can result from shifting thresholds of induction across environments and that analysis of the broader environmental context is critically important for understanding the evolution of phenotypic plasticity.
+
+[READ THE PAPER](https://www.sciencedirect.com/science/article/pii/S0888754314001918?via%3Dihub)

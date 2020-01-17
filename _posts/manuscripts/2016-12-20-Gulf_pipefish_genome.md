@@ -1,4 +1,7 @@
 ---
+share: true
+related: true
+author_profile: false
 title: "The genome of the Gulf pipefish enables understanding of evolutionary innovations"
 categories:
   - Manuscripts
@@ -11,7 +14,8 @@ tags:
   - Brown
   - Jones
   - Cresko
-link: https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-1126-6
 ---
 
-Here we present the genome of the Gulf pipefish. 
+Here we present the genome of the Gulf pipefish.
+
+[READ THE PAPER](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-1126-6)

@@ -1,4 +1,7 @@
 ---
+share: true
+related: true
+author_profile: false
 title: "Response to May and Delany: We Never Said Wright was Wrong"
 categories:
   - Manuscripts
@@ -8,7 +11,8 @@ tags:
   - Cresko
   - Limborg
   - Seeb
-link: https://academic.oup.com/jhered/article/106/6/767/2614255
 ---
 
-We never said Wright was wrong. 
+We never said Wright was wrong.
+
+[READ THE PAPER](https://academic.oup.com/jhered/article/106/6/767/2614255)
