@@ -12,7 +12,6 @@ tags:
   - Natsuaki
   - Bohannan
   - Cresko
-link:
 ---
 
 Prevention relevance of three such human designs: (1) children adopted at birth by parents to whom they are not genetically related (common garden approach); (2) sibling designs where one sibling is reared from birth with unrelated adoptive parents and the other sibling is reared from birth by the biological mother of the sibling pair (cross-fostering approach); and (3) in vitro fertilization designs, including egg donation, sperm donation, embryo donation, and surrogacy (prenatal cross-fostering approach).
