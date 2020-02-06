@@ -10,4 +10,4 @@ tags:
 ---
 The Elk Horn Brewery names a beer for the Cresko Lab: Threespine IPA
 
-![IPA]({{ site.url }}{{ site.baseurl }}/images/news/IPA.jpg)
+![IPA]({{ site.url }}{{ site.baseurl }}/images/news/IPA.jpeg)
