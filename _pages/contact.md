@@ -31,11 +31,11 @@ phone: (541) 346-5189
 Susie Bassham - sbassham@uoregon.edu  
 Emily Beck - ebeck8@uoregon.edu  
 Mark Currey - mcurrey@uoregon.edu   
-Sophia Frantz - sfrantz@uoregon.edu
-Emily Niebergall -
-Clay Small - csmall@uoregon.edu
-Martin Stervander - mste@uoregon.edu
-Hannah Tavalire - tavalire@uoregon.edu
+Sophia Frantz - sfrantz@uoregon.edu  
+Emily Niebergall -  
+Clay Small - csmall@uoregon.edu  
+Martin Stervander - mste@uoregon.edu  
+Hannah Tavalire - tavalire@uoregon.edu  
 
 ### Prospective Students:
 If you are interested in joining the Cresko Lab as an undergraduate researcher, graduate student, or postdoctoral scholar please read our recent papers and then email Dr. Cresko at the above address.
