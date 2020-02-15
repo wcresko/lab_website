@@ -121,6 +121,10 @@
 <lastmod>2019-03-01T00:00:00-08:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/lab_website/news/ThreespineIPA/</loc>
+<lastmod>2019-05-01T00:00:00-07:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/lab_website/manuscripts/Oregon_stickleback_gut_microbes/</loc>
 <lastmod>2019-06-26T00:00:00-07:00</lastmod>
 </url>
@@ -147,6 +151,10 @@
 <url>
 <loc>http://localhost:4000/lab_website/news/Happy2020/</loc>
 <lastmod>2019-12-30T00:00:00-08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/lab_website/manuscripts/chromonomer/</loc>
+<lastmod>2020-02-05T00:00:00-08:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/lab_website/about/</loc>
