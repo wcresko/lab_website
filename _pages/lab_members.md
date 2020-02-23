@@ -329,3 +329,123 @@ ____________
 ____________
 
 **Emily Armstrong Buck**
+
+
+___________________________________________
+
+
+Past Laboratory Members
+-----------------------
+
+## Postdoctoral Research Associates & Fellows
+
+Kat Milligan-Myhre
+
+Stacey Wagner
+
+Ann Petersen
+
+Julian Catchen
+
+Paul Hohenlohe
+
+Beverly Ajie
+
+
+## Graduate Students
+
+Kristin Alligood
+
+Thom Nelson
+
+Allison Fuiten
+
+Emily Lescak
+
+Kristin Sikkink
+
+Andrew Nishida
+
+Alida Gerritsen
+
+Kimberly Lum
+
+Conor O'Brien
+
+Quick Yeates-Burghart
+
+
+## Research Assistants
+
+Kate Ituarte
+
+Nicholas Stiffler
+
+Roberta Torunsky
+
+Nicole Nishimura
+
+Joseph Dunham
+
+Frances Sung
+
+
+## Undergraduate Researchers
+
+John Crandall
+
+Sophie Sichel
+
+Erik Parker
+
+Shira Mali
+
+John Letaw
+
+Maya Rommwatt
+
+Taylor Wilson
+
+Ryan Bourdo
+
+Mike Miller
+
+James Bolle
+
+Steve Perry
+
+Larissa Unruh
+
+Jennea Wood
+
+Emily Armstrong Buck
+
+
+Ryan Bourdo, Undergraduate researcher
+Jennea Wood, Undergraduate reseracher
+Larissa Unruh, Undergraduate researcher
+James Bolle, Undergraduate researcher
+Jessica Ava	Univ. of Oregon		Graduated
+Emma Kostin-Conley	Univ. of Oregon		Undergraduate
+Caroline Emui-Wei	Univ. of Oregon		Working in lab
+Ryan Bourdo	Univ. of Oregon		Working in lab
+Clayton Merz	New Mexico Tech		Applying for Grad School
+Shannon Cannon	Louisiana State	African American	Undergraduate
+Jennea Wood	Univ. of Oregon		Working in lab
+Emily Buck	Univ. of Oregon		Working in lab
+_
+
+
+## Sabbatical Visitors
+
+Beren Robinson
+
+Bob Kaplan
+
+
+
+
+
+
+
+_
