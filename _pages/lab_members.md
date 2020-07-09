@@ -108,6 +108,18 @@ I am co-advised by Dr. Nadia Singh.
 
 ____________
 
+**Hope Healey, Ph.D. Student**
+
+![](../images/lab_folks/HopeH.jpg){:height="200px" width="200px"}
+
+> I am interested in the developmental genetic basis of novel teleost morphologies. In particular, 
+I am fascinated by syngnathids due to their highly modified traits and alterations in key developmental 
+gene families. I hope to understand how gene regulatory networks have been modified in syngnathids to 
+create unique morphologies such as their derived craniofacial features.
+[Mark Currey Bio](../_pages/currey.md)
+
+____________
+
 **Starla Chambrose, Undergraduate Researcher; Clark Honors College**
 
 ![](../images/lab_folks/Starla.PNG){:height="200px" width="200px"}
