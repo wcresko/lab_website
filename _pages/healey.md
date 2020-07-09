@@ -1,14 +1,14 @@
 ---
 title: "Hope Healey"
 layout: splash
-permalink: /currey/
+permalink: /healey/
 author_profile: false
 header:
   overlay_color: "#000"
   overlay_filter: "0.25"
-  overlay_image: /images/currey2_header.jpg
-  caption: "Collecting @ Riverbend, McKenzie River"
-excerpt: "Curious about everything fishy"
+  overlay_image: /images/willamette2_header.jpg
+  caption: "Main Stem of the Willamette River"
+excerpt: ""
 ---
 
 Hope Healey is a graduate student in the Cresko lab where she does research on syngnathid fishes. 
