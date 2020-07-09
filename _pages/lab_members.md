@@ -116,7 +116,7 @@ ____________
 I am fascinated by syngnathids due to their highly modified traits and alterations in key developmental 
 gene families. I hope to understand how gene regulatory networks have been modified in syngnathids to 
 create unique morphologies such as their derived craniofacial features.
-[Mark Currey Bio](../_pages/currey.md)
+[Hope Healey Bio](../_pages/healey.md)
 
 ____________
 
