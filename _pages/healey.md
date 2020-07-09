@@ -6,8 +6,8 @@ author_profile: false
 header:
   overlay_color: "#000"
   overlay_filter: "0.25"
-  overlay_image: /images/willamette2_header.jpg
-  caption: "Main Stem of the Willamette River"
+  overlay_image: /images/willamette_river_header.jpg
+  caption: "Willamette River"
 excerpt: ""
 ---
 
@@ -23,4 +23,4 @@ and is fortunate to continue working unique fish models in the Cresko lab.
 
 **Research Interests**: Fish, Gene Duplication, Development, Evolution
 
-**Further info**: [Hope Healey’s website](https://blogs.uoregon.edu/hhealey/), [Twitter](hhttps://twitter.com/hope_a_soap)
+**Further info**: [Hope Healey’s website](https://blogs.uoregon.edu/hhealey/), [Twitter](https://twitter.com/hope_a_soap)
