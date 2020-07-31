@@ -11,13 +11,13 @@ header:
 excerpt: "Publications from the laboratory in reverse chronological order"
 ---
 
-**BOLD** indicates a graduate student  
-<ins>UNDERLINE</ins> indicates an undergraduate student  
+**BOLD** indicates a graduate student at the time of publication 
+<ins>UNDERLINE</ins> indicates an undergraduate student at the time of publication
 
 
 ## 2020
 
-2019 • Beck, E.A., M.C. Currey, C.M. Small, and W.A. Cresko. QTL Mapping of Intestinal neutrophil variation in threespine stickleback reveals possible gene targets connecting intestinal inflammation and systemic health. **G3**. (Early online)
+2020 • Beck, E.A., M.C. Currey, C.M. Small, and W.A. Cresko. QTL Mapping of Intestinal neutrophil variation in threespine stickleback reveals possible gene targets connecting intestinal inflammation and systemic health. **G3**. 10(2): 613-622. \[[reprint](https://doi.org/10.1534/g3.119.400685)\]
 
 
 ## 2019
