@@ -31,8 +31,6 @@ phone: (541) 346-5189
 Susie Bassham - sbassham@uoregon.edu  
 Emily Beck - ebeck8@uoregon.edu  
 Mark Currey - mcurrey@uoregon.edu   
-Sophia Frantz - sfrantz@uoregon.edu  
-Emily Niebergall -  
 Clay Small - csmall@uoregon.edu  
 Martin Stervander - mste@uoregon.edu  
 Hannah Tavalire - tavalire@uoregon.edu  
