@@ -356,9 +356,10 @@ ____________
 ____________
 
 **Shannon Cannon**
+
 ____________
 
-**Jennea Wood*
+**Jennea Wood**
 
 
 ___________________________________________
@@ -368,9 +369,12 @@ ___________________________________________
 
 ____________
 
-Beren Robinson
+**Beren Robinson** 
+
+> [Website](https://www.uoguelph.ca/ib/robinson)
 
 ____________
 
-Bob Kaplan
+**Bob Kaplan**
 
+> [Website](https://www.reed.edu/biology/professors/rkaplan/)

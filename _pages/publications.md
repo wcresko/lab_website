@@ -19,10 +19,14 @@ excerpt: "Publications from the laboratory in reverse chronological order"
 
 2020 • Beck, E.A., M.C. Currey, C.M. Small, and W.A. Cresko. QTL Mapping of Intestinal neutrophil variation in threespine stickleback reveals possible gene targets connecting intestinal inflammation and systemic health. **G3**. 10(2): 613-622. \[[reprint](https://doi.org/10.1534/g3.119.400685)\]
 
+2020 • **Galloway, J.**, W.A. Cresko, P. Ralph. A few stickleback suffice for the transportation of alleles to new lakes. **G3**. 10(2): 505-514. \[[reprint](https://doi.org/10.1534/g3.119.400564)\]
+
 
 ## 2019
 
-2019 • **Nelson, T.C.**, <ins> J.G. Crandall </ins>, <ins> C.M. Ituarte </ins>, J.M. Catchen, and W.A. Cresko. Selection, linkage, and population structure interact to shape genetic variation among threespine stickleback genomes. __Genetics__. 212: 1367-1382. 
+2019 • Tavalire, H., W.A. Cresko, L. Leave. Determining the contributions of stress and inflammation to child health: harnessing the complementary strengths of fish models and human subjects research. **Behaviour Genetics**. 49(6): 504-505
+
+2019 • **Nelson, T.C.**, <ins> J.G. Crandall </ins>, <ins> C.M. Ituarte </ins>, J.M. Catchen, and W.A. Cresko. Selection, linkage, and population structure interact to shape genetic variation among threespine stickleback genomes. **Genetics**. 212: 1367-1382. 
 
 2019 • **Sikkink, K.L.**, R.M. Reynolds, <ins> C.M. Ituarte </ins>, W.A. Cresko, and P.C. Phillips. Environmental and evolutionary drivers of the modular gene regulatory network underlying phenotypic plasticity for stress resistance in the nematode Caenorhabditis remanei. **G3**. 9(3): 969-982.
 
@@ -70,7 +74,7 @@ Prevention Research. *Prevention Science* 1--11.
 2017 • Lescak E.A., M.A. Wund, S. Bassham, J. Catchen, D. Prince, R. Lucas, G. Dominguez, F.A. von Hippel, and W.A. Cresko. Ancient three-spined stickleback (Gasterosteus aculeatus) mtDNA lineages are not associated with phenotypic or nuclear genetic variation. Biol. J. Linnean Society. 122(3): 579-588.
 
 
-##2016
+## 2016
 
 2016 • Small, C., S. Bassham, J. Catchen, A. Amores, A.M. Fuiten, R.S. Brown, A.G. Jones, and W.A. Cresko. The genome of the Gulf pipefish enables understanding of evolutionary innovations. Genome Biology. 17(1): 58-65.
 
