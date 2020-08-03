@@ -1,16 +1,13 @@
 ---
-title: "Allison Fuiten is awarded a Doctoral Dissertation Improvement Grant."
+title: "Martin Stervander awarded prestigiuos Marie Curie Fellowship by the European Union!"
 categories:
   - News
 tags:
-  - Fuiten
+  - Celebration
   - Award
-  - DDIG
-  - celebration!
+  - Fellowship
+  - Stervander
 ---
 
-Allison Fuiten is awarded a [Doctoral Dissertation Improvement Grant
-(DDIG)](http://www.nsf.gov/pubs/2005/nsf05607/nsf05607.htm) from the
-[NSF](http://www.nsf.gov/pubs/2005/nsf05607/nsf05607.htm) to examine the
-functional basis of genetic changes behind the derived vertebrate
-characters present in pipefish.
+Martin has been awarded a Marie Curie Fellowship by the European Union, to spend two years at the Natural History Museum London (UK) studying the genomics of flight loss in birds, employing some of the skills in comparative genomics dveloped in the Cresko Lab. The title of the project is "The genomic underpinnings of convergent evolution: Repeated loss of flight in island rails, the greatest avian colonizers". Marie Curie Fellowships are highly competitive, but this project proposal scored in the top 70 of 9,700 evaluate proposals! 
+![MSCA_logo]({{ site.url }}{{ site.baseurl }}/images/news/MSCA_logo.jpg)
