@@ -1,5 +1,5 @@
 ---
-title: "Susan Bassham interviewed by Jefferson Public Radio".
+title: "Susan Bassham interviewed by Jefferson Public Radio."
 categories:
   - News
 tags:

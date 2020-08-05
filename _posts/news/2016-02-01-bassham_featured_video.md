@@ -1,5 +1,5 @@
 ---
-title: "Susan Bassham featured in Scientific American's Sustainability 60-second Science Video".
+title: "Susan Bassham featured in Scientific American's Sustainability 60-second Science Video."
 categories:
   - News
 tags:
