@@ -8,6 +8,6 @@ tags:
   - Award
   - Conference
   - EVO-WIBO
-  ---
+---
 
 Mark Currey wins best technician poster at EVO-WIBO conference [EVO-WIBO](https://www.zoology.ubc.ca/evo-wibo/).
