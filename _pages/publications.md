@@ -90,76 +90,27 @@ excerpt: "Publications from the laboratory in reverse chronological order"
 
 ## 2014
 
-2014 • Sikkink, K.L., R.M. Reynolds, C.M. Ituarte, W.A. Cresko, and P.C. Phillips. Rapid evolution of phenotypic plasticity and shifting thresholds of genetic assimilation in the nematode Caenorhabditis remanei. **G3: Genes, Genomes, Genetics**. 4(6): 1103-1112.
+2014 • **Sikkink, K.L.**, R.M. Reynolds, <ins> C.M. Ituarte </ins>, W.A. Cresko, and P.C. Phillips. Rapid evolution of phenotypic plasticity and shifting thresholds of genetic assimilation in the nematode Caenorhabditis remanei. **G3: Genes, Genomes, Genetics**. 4(6): 1103-1112. \[[reprint](http://dx.doi.org/10.1534/g3.114.010553)\]
 
-2014 • Sikkink, K.L., <ins> C.M. Ituarte </ins>, R.M. Reynolds, W.A. Cresko, and P.C. Phillips. The transgenerational effects of heat stress in the nematode Caenorhabditis remanei are negative and rapidly eliminated under direct selection for increased stress resistance in larvae. **Genomics**. 104: 438-446.
+2014 • **Sikkink, K.L.**, <ins> C.M. Ituarte </ins>, R.M. Reynolds, W.A. Cresko, and P.C. Phillips. The transgenerational effects of heat stress in the nematode Caenorhabditis remanei are negative and rapidly eliminated under direct selection for increased stress resistance in larvae. **Genomics**. 104: 438-446. \[[reprint](http://dx.doi.org/10.1016/j.ygeno.2014.09.014)\]
 
-2014 • Voelker, R.B., W.A. Cresko, and J.A. Berglund. Computational approaches to mine publicly available databases. Methods Mol. Biol. 1126:325-340.
+2014 • Voelker, R.B., W.A. Cresko, and J.A. Berglund. Computational approaches to mine publicly available databases. **Methods Mol. Biol**. 1126:325-340. \[[reprint](http://dx.doi.org/10.1007/978-1-62703-980-2_24)\]
 
 2014 • Jamniczky, H.A., E.E. Harper, R. Garner, W.A. Cresko, P.C. Wainwright, B. Hallgrímsson, and C.B. Kimmel. Association between integration structure and functional evolution in the opercular four‐bar apparatus of the threespine stickleback, Gasterosteus aculeatus (Pisces: Gasterosteidae). **Biological Journal of the Linnean Society**. 111: 375-390.
 
-2014 • Voelker, R.B., W.A. Cresko, and J.A. Berglund. Computational approaches to mine publicly available databases. **Methods Mol. Biol**. 1126: 325-340.
+## 2013
 
-Sikkink, K.L., Ituarte, C.M., Reynolds, R.M., Cresko, W.A. & Phillips,
-P.C. (**2014**). The transgenerational effects of heat stress in the
-nematode Caenorhabditis remanei are negative and rapidly eliminated
-under direct selection for increased stress resistance in larvae.
-*Genomics* *104(6, Part A)*: 438--446.
-\[[reprint](http://dx.doi.org/10.1016/j.ygeno.2014.09.014)\]
+2013 • Catchen, J., S. Bassham, <ins>T. Wilson</ins>, **M. Currey**, **C. O’Brien**, **Q. Yeates** and W.A. Cresko. The population structure and recent colonization history of Oregon threespine stickleback determined using RAD-seq. **Molecular Ecology**. 22(11): 2864–2883. \[[reprint](http://dx.doi.org/10.1111/mec.12330)\]
 
-Voelker, R. B., Cresko, W. A., and Berglund, J. A. (**2014**).
-"Computational Approaches to Mine Publicly Available Databases -
-Springer." *Methods in Molecular Biology* *1126(2014).*: 325-340.
-\[[reprint](http://dx.doi.org/10.1007/978-1-62703-980-2_24)\]
+2013 • Catchen, J., P. Hohenlohe, S. Bassham, A. Amores, and W.A. Cresko. Stacks: an analysis tool set for population genomics. **Molecular Ecology**. 22(11): 3124-3140. \[[reprint](http://dx.doi.org/10.1111/mec.12354)\]
 
-Jamniczky, H.A., Harper, E.E., Garner, R., Cresko, W.A., Wainwright,
-P.C., Hallgrímsson, B. & Kimmel, C.B. (**2014**). Association between
-integration structure and functional evolution in the opercular four-bar
-apparatus of the threespine stickleback, Gasterosteus aculeatus (Pisces:
-Gasterosteidae). *Biological Journal of the Linnean Society* *111(2)*:
-375--390. \[[reprint](http://dx.doi.org/10.1111/bij.12203)\]
+2013 • Shen, Y., T. Garcia, V. Pabuwal, M. Boswell, A. Pasquali, I. Beldorth, W. Warren, M. Schartl, W.A. Cresko, and R.B. Walter. Alternative strategies for development of a reference transcriptome for quantification of allele specific expression in organisms having sparse genomic resources. **Comp. Biochem. Physiol. Part D Genomics Proteomics**. 8:11-16.
 
-Sikkink, K.L., Reynolds, R.M., Ituarte, C.M., Cresko, W.A. & Phillips,
-P.C. (**2014**). Rapid Evolution of Phenotypic Plasticity and Shifting
-Thresholds of Genetic Assimilation in the Nematode Caenorhabditis
-remanei. *G3: Genes\|Genomes\|Genetics* *4(6)*: 1103--1112.
-\[[reprint](http://dx.doi.org/10.1534/g3.114.010553)\]
+2013 • Willette, D., F. Allendorf, P.H. Barber, D.J. Barshis, K.E. Carpenter, E.D. Crandall, W.A. Cresko, I. Fernandez-Silva, M.V. Matz, E. Meyer, M.D. Santos, L.W.  Seeb, and J.E. Seeb. So, you want to use next-generation sequencing in marine systems? Insight from the Pan-Pacific Advanced Studies Institute. **Bulletin of Marine Science**. 90(1): 79-122.
 
+2013 • **O'Brien, C.**, <ins> L. Unruh </ins>, C. Zimmerman, W.E. Bradshaw, C.M. Holzapfel, and W.A. Cresko. Geography of the circadian gene clock and photoperiodic response in western North American populations of the three-spined stickleback Gasterosteus aculeatus. **J. Fish. Biol**. 82(3): 827–839. \[[reprint](http://dx.doi.org/10.1111/jfb.12024)\]
 
-##2013
-
-2013 • Catchen, J., S. Bassham, T. Wilson, M. Currey, C. O’Brien, Q. Yeates and W.A. Cresko. The population structure and recent colonization history of Oregon threespine stickleback determined using RAD-seq. Molecular Ecology. 22(11): 2864–2883.
-
-2013 • Catchen, J., P. Hohenlohe, S. Bassham, A. Amores, and W.A. Cresko. Stacks: an analysis tool set for population genomics. Molecular Ecology. 22(11): 3124-3140.
-
-2013 • Shen, Y., T. Garcia, V. Pabuwal, M. Boswell, A. Pasquali, I. Beldorth, W. Warren, M. Schartl, W.A. Cresko, and R.B. Walter. Alternative strategies for development of a reference transcriptome for quantification of allele specific expression in organisms having sparse genomic resources. Comp. Biochem. Physiol. Part D Genomics Proteomics. 8:11-16.
-
-2013 • Willette, D., F. Allendorf, P.H. Barber, D.J. Barshis, K.E. Carpenter, E.D. Crandall, W.A. Cresko, I. Fernandez-Silva, M.V. Matz, E. Meyer, M.D. Santos, L.W.  Seeb, and J.E. Seeb. So, you want to use next-generation sequencing in marine systems? Insight from the Pan-Pacific Advanced Studies Institute. Bulletin of Marine Science. 90(1): 79-122.
-
-2013 • O'Brien, C., L. Unruh, C. Zimmerman, W.E. Bradshaw, C.M. Holzapfel, and W.A. Cresko. Geography of the circadian gene clock and photoperiodic response in western North American populations of the three-spined stickleback Gasterosteus aculeatus. J. Fish. Biol. 82(3): 827–839.
-
-
-
-Catchen, J., Bassham, S., Wilson, T., Currey, M., O\'Brien, C., Yeates,
-Q., Cresko, W.A. (**2013**). The population structure and recent
-colonization history of Oregon threespine stickleback determined using
-restriction-site associated DNA-sequencing. *Molecular Ecology, (11)*,
-2864-83. \[[reprint](http://dx.doi.org/10.1111/mec.12330)\]
-
-Catchen, J., Hohenlohe, P.A., Bassham, S., Amores, A., Cresko, W.A.
-(**2013**). Stacks: an analysis tool set for population genomics.
-*Molecular Ecology, (11)*, 3124-40.
-\[[reprint](http://dx.doi.org/10.1111/mec.12354)\]
-
-O\'Brien, C., Unruh, L., Zimmerman, C., Bradshaw, W. E., Holzapfel, C.
-M., & Cresko, W. A. (**2013**). Geography of the circadian gene clock
-and photoperiodic response in western North American populations of the
-three-spined stickleback *Gasterosteus aculeatus*. *Journal of Fish
-Biology, 82(3)*, 827-39.
-\[[reprint](http://dx.doi.org/10.1111/jfb.12024)\]
-
-
-##2012
+## 2012
 
 2012 • Bradshaw, W.E., K.J. Emerson, J.M. Catchen, W.A. Cresko, and C.M. Holzapfel. Footprints in time: comparative quantitative trait loci mapping of the pitcher-plant mosquito, Wyeomyia smithii. Proceedings of the Royal Society B: Biological Sciences. vol. 279(1747): 4551-4558.
 
