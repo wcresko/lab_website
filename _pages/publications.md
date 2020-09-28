@@ -17,24 +17,24 @@ excerpt: "Publications from the laboratory in reverse chronological order"
 
 ## 2020
 
-2020 • Beck, E.A., M.C. Currey, C.M. Small, and W.A. Cresko. QTL Mapping of Intestinal neutrophil variation in threespine stickleback reveals possible gene targets connecting intestinal inflammation and systemic health. **G3**. 10(2): 613-622. \[[reprint](https://doi.org/10.1534/g3.119.400685)\]
+2020 • Beck, E.A., M.C. Currey, C.M. Small, and W.A. Cresko. QTL Mapping of Intestinal neutrophil variation in threespine stickleback reveals possible gene targets connecting intestinal inflammation and systemic health. *G3*. **10**(2): 613-622. \[[reprint](https://doi.org/10.1534/g3.119.400685)\]
 
-2020 • **Galloway, J.**, W.A. Cresko, P. Ralph. A few stickleback suffice for the transportation of alleles to new lakes. **G3**. 10(2): 505-514. \[[reprint](https://doi.org/10.1534/g3.119.400564)\]
+2020 • **Galloway, J.**, W.A. Cresko, P. Ralph. A few stickleback suffice for the transportation of alleles to new lakes. *G3*. **10**(2): 505-514. \[[reprint](https://doi.org/10.1534/g3.119.400564)\]
 
 
 ## 2019
 
-2019 • Tavalire, H., W.A. Cresko, L. Leave. Determining the contributions of stress and inflammation to child health: harnessing the complementary strengths of fish models and human subjects research. **Behaviour Genetics**. 49(6): 504-505
+2019 • Tavalire, H., W.A. Cresko, L. Leve. Determining the contributions of stress and inflammation to child health: harnessing the complementary strengths of fish models and human subjects research. *Behaviour Genetics*. **49**(6): 504-505
 
-2019 • **Nelson, T.C.**, <ins> J.G. Crandall </ins>, <ins> C.M. Ituarte </ins>, J.M. Catchen, and W.A. Cresko. Selection, linkage, and population structure interact to shape genetic variation among threespine stickleback genomes. **Genetics**. 212: 1367-1382. 
+2019 • **Nelson, T.C.**, <ins> J.G. Crandall </ins>, <ins> C.M. Ituarte </ins>, J.M. Catchen, and W.A. Cresko. Selection, linkage, and population structure interact to shape genetic variation among threespine stickleback genomes. *Genetics*. **212**: 1367-1382. 
 
-2019 • **Sikkink, K.L.**, R.M. Reynolds, <ins> C.M. Ituarte </ins>, W.A. Cresko, and P.C. Phillips. Environmental and evolutionary drivers of the modular gene regulatory network underlying phenotypic plasticity for stress resistance in the nematode Caenorhabditis remanei. **G3**. 9(3): 969-982.
+2019 • **Sikkink, K.L.**, R.M. Reynolds, <ins> C.M. Ituarte </ins>, W.A. Cresko, and P.C. Phillips. Environmental and evolutionary drivers of the modular gene regulatory network underlying phenotypic plasticity for stress resistance in the nematode Caenorhabditis remanei. *G3*. **9**(3): 969-982.
 
-2019 • Small, C. M., M. Currey, E.A. Beck, S. Bassham, and W.A. Cresko. Highly reproducible 16S sequencing facilitates measurement of host genetic influences on the stickleback gut microbiome. **mSystems**. 4(4): e00331-19.
+2019 • Small, C. M., M. Currey, E.A. Beck, S. Bassham, and W.A. Cresko. Highly reproducible 16S sequencing facilitates measurement of host genetic influences on the stickleback gut microbiome. *mSystems*. **4**(4): e00331-19.
 
-2019 • Currey, M.C., S.L. Bassham, and W.A. Cresko. Genetic divergence outpaces phenotypic divergence among threespine stickleback populations in old freshwater habitats. **Biol. J. Linnean Society**. 128(2): 415-434.
+2019 • Currey, M.C., S.L. Bassham, and W.A. Cresko. Genetic divergence outpaces phenotypic divergence among threespine stickleback populations in old freshwater habitats. *Biol. J. Linnean Society*. **128**(2): 415-434.
 
-2019 • **Steury, R. A.**, and Currey M.C., W.A. Cresko, and B.J.M., Bohannan. Population genetic divergence and environment influence the gut microbiome in Oregon threespine stickleback. **Genes**. 10(7): 484.
+2019 • **Steury, R. A.**, and Currey M.C., W.A. Cresko, and B.J.M., Bohannan. Population genetic divergence and environment influence the gut microbiome in Oregon threespine stickleback. *Genes*. **10**(7): 484.
 
 2019 • **O’Connor C.H.**, **K.L. Sikkink**, **T.C. Nelson**, J. Fierst, W.A. Cresko, and P.C. Phillips. Complex pleiotropic genetic architecture of evolved heat stress and oxidative stress resistance in the nematode Caenorhabditis remanei. bioRxiv: 515320.
 
