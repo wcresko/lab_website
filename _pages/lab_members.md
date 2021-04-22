@@ -108,6 +108,18 @@ I am co-advised by Dr. Nadia Singh.
 
 ____________
 
+**Hope Healey, Ph.D. Student**
+
+![](../images/lab_folks/HopeH.jpg){:height="200px" width="200px"}
+
+> I am interested in the developmental genetic basis of novel teleost morphologies. In particular, 
+I am fascinated by syngnathids due to their highly modified traits and alterations in key developmental 
+gene families. I hope to understand how gene regulatory networks have been modified in syngnathids to 
+create unique morphologies such as their derived craniofacial features.
+[Hope Healey Bio](../_pages/healey.md)
+
+____________
+
 **Starla Chambrose, Undergraduate Researcher; Clark Honors College**
 
 ![](../images/lab_folks/Starla.PNG){:height="200px" width="200px"}
@@ -117,33 +129,6 @@ variation and the evolution of developmental pathways. To this end, I am current
 investigating the role of the evenskipped gene eve1 in threespine stickleback, which 
 appears to have a role in tooth formation and body axis determination in other teleost 
 models.
-
-____________
-
-**Emily Niebergall, Undergraduate Researcher; Clark Honors College**
-
-![](../images/lab_folks/emilyn.jpg){:height="200px" width="200px"}
-
-> I am interested in studying the onset of adaptive immunity in threespine stickleback fish. By pinpointing 
-the onset of the adaptive immune system, threespine stickleback can be advanced as models for immunogenetics 
-studies. I am also interested in studying the impact of microbial influence on the development of the adaptive 
-immune system.
-
-____________
-
-**Nia Harper, Undergraduate Researcher**
-
-![](../images/lab_folks/nia.jpg){:height="200px" width="200px"}
-
-> 
-
-____________
-
-**Jade Kast, Undergraduate Researcher**
-
-![](../images/lab_folks/jade.jpg){:height="200px" width="200px"}
-
-> 
 
 ____________
 
@@ -229,6 +214,13 @@ ____________
 
 > 
 
+____________
+
+**Robert Steury**
+
+> Talent at Steury Stonework and Design
+
+
 ## Research Assistants
 
 
@@ -264,8 +256,6 @@ ____________
 
 **Joseph Dunham**
 
-> 
-
 ____________
 
 **Frances Sung**
@@ -275,6 +265,23 @@ ____________
 
 ## Undergraduate Researchers
 
+**Emily Niebergall, Undergraduate Researcher; Clark Honors College**
+
+![](../images/lab_folks/emilyn.jpg){:height="200px" width="200px"}
+
+____________
+
+**Nia Harper, Undergraduate Researcher**
+
+![](../images/lab_folks/nia.jpg){:height="200px" width="200px"}
+
+____________
+
+**Jade Kast, Undergraduate Researcher**
+
+![](../images/lab_folks/jade.jpg){:height="200px" width="200px"}
+
+____________
 
 **Jack Peplinksi**
 
@@ -330,122 +337,44 @@ ____________
 
 **Emily Armstrong Buck**
 
+____________
+
+**Jessica Ava**
+
+____________
+
+**Emma Kostin-Conley**
+
+____________
+
+**Caroline Emui-Wei**
+
+____________
+
+**Clayton Merz**
+
+____________
+
+**Shannon Cannon**
+
+____________
+
+**Jennea Wood**
+
 
 ___________________________________________
 
 
-Past Laboratory Members
------------------------
-
-## Postdoctoral Research Associates & Fellows
-
-Kat Milligan-Myhre
-
-Stacey Wagner
-
-Ann Petersen
-
-Julian Catchen
-
-Paul Hohenlohe
-
-Beverly Ajie
-
-
-## Graduate Students
-
-Kristin Alligood
-
-Thom Nelson
-
-Allison Fuiten
-
-Emily Lescak
-
-Kristin Sikkink
-
-Andrew Nishida
-
-Alida Gerritsen
-
-Kimberly Lum
-
-Conor O'Brien
-
-Quick Yeates-Burghart
-
-
-## Research Assistants
-
-Kate Ituarte
-
-Nicholas Stiffler
-
-Roberta Torunsky
-
-Nicole Nishimura
-
-Joseph Dunham
-
-Frances Sung
-
-
-## Undergraduate Researchers
-
-John Crandall
-
-Sophie Sichel
-
-Erik Parker
-
-Shira Mali
-
-John Letaw
-
-Maya Rommwatt
-
-Taylor Wilson
-
-Ryan Bourdo
-
-Mike Miller
-
-James Bolle
-
-Steve Perry
-
-Larissa Unruh
-
-Jennea Wood
-
-Emily Armstrong Buck
-
-
-Ryan Bourdo, Undergraduate researcher
-Jennea Wood, Undergraduate reseracher
-Larissa Unruh, Undergraduate researcher
-James Bolle, Undergraduate researcher
-Jessica Ava	Univ. of Oregon		Graduated
-Emma Kostin-Conley	Univ. of Oregon		Undergraduate
-Caroline Emui-Wei	Univ. of Oregon		Working in lab
-Ryan Bourdo	Univ. of Oregon		Working in lab
-Clayton Merz	New Mexico Tech		Applying for Grad School
-Shannon Cannon	Louisiana State	African American	Undergraduate
-Jennea Wood	Univ. of Oregon		Working in lab
-Emily Buck	Univ. of Oregon		Working in lab
-_
-
-
 ## Sabbatical Visitors
 
-Beren Robinson
+____________
 
-Bob Kaplan
+**Beren Robinson** 
 
+> [Website](https://www.uoguelph.ca/ib/robinson)
 
+____________
 
+**Bob Kaplan**
 
-
-
-
-_
+> [Website](https://www.reed.edu/biology/professors/rkaplan/)
