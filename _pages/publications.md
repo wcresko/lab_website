@@ -29,16 +29,16 @@ excerpt: "Publications from the laboratory in reverse chronological order"
 
 2020 • Beck, E.A., M.C. Currey, C.M. Small, and W.A. Cresko. QTL Mapping of Intestinal neutrophil variation in threespine stickleback reveals possible gene targets connecting intestinal inflammation and systemic health. *G3*. **10**(2): 613-622. \[[reprint](https://doi.org/10.1534/g3.119.400685)\]
 
-2020 • <ins>Galloway, J.</ins>, W.A. Cresko, P. Ralph. A few stickleback suffice for the transportation of alleles to new lakes. *G3*. **10**(2): 505-514. \[[reprint](https://doi.org/10.1534/g3.119.400564)\]
+2020 • _Galloway, J._, W.A. Cresko, P. Ralph. A few stickleback suffice for the transportation of alleles to new lakes. *G3*. **10**(2): 505-514. \[[reprint](https://doi.org/10.1534/g3.119.400564)\]
 
 
 ## 2019
 
 2019 • Tavalire, H., W.A. Cresko, L. Leve. Determining the contributions of stress and inflammation to child health: harnessing the complementary strengths of fish models and human subjects research. *Behaviour Genetics*. **49**(6): 504-505
 
-2019 • **Nelson, T.C.**, <ins> J.G. Crandall </ins>, <ins> C.M. Ituarte </ins>, J.M. Catchen, and W.A. Cresko. Selection, linkage, and population structure interact to shape genetic variation among threespine stickleback genomes. *Genetics*. **212**: 1367-1382. 
+2019 • **Nelson, T.C.**, _J.G. Crandall_, _C.M. Ituarte_, J.M. Catchen, and W.A. Cresko. Selection, linkage, and population structure interact to shape genetic variation among threespine stickleback genomes. *Genetics*. **212**: 1367-1382. 
 
-2019 • **Sikkink, K.L.**, R.M. Reynolds, <ins> C.M. Ituarte </ins>, W.A. Cresko, and P.C. Phillips. Environmental and evolutionary drivers of the modular gene regulatory network underlying phenotypic plasticity for stress resistance in the nematode Caenorhabditis remanei. *G3*. **9**(3): 969-982.
+2019 • **Sikkink, K.L.**, R.M. Reynolds, _C.M. Ituarte_, W.A. Cresko, and P.C. Phillips. Environmental and evolutionary drivers of the modular gene regulatory network underlying phenotypic plasticity for stress resistance in the nematode Caenorhabditis remanei. *G3*. **9**(3): 969-982.
 
 2019 • Small, C. M., M. Currey, E.A. Beck, S. Bassham, and W.A. Cresko. Highly reproducible 16S sequencing facilitates measurement of host genetic influences on the stickleback gut microbiome. *mSystems*. **4**(4): e00331-19.
 
@@ -122,132 +122,66 @@ excerpt: "Publications from the laboratory in reverse chronological order"
 
 ## 2012
 
-2012 • Bradshaw, W.E., K.J. Emerson, J.M. Catchen, W.A. Cresko, and C.M. Holzapfel. Footprints in time: comparative quantitative trait loci mapping of the pitcher-plant mosquito, Wyeomyia smithii. Proceedings of the Royal Society B: Biological Sciences. vol. 279(1747): 4551-4558.
+2012 • Bradshaw, W.E., K.J. Emerson, J.M. Catchen, W.A. Cresko, and C.M. Holzapfel. Footprints in time: comparative quantitative trait loci mapping of the pitcher-plant mosquito, Wyeomyia smithii. Proceedings of the Royal Society B: Biological Sciences. vol. 279(1747): 4551-4558. *Proceedings of the Royal Society B Biological Sciences, 279(1747)*, 4551-8. \[[reprint](http://dx.doi.org/10.1098/rspb.2012.1917)\]
 
 2012 • Hohenlohe P.A., J. Catchen, and W.A. Cresko. Population genomic analysis of model and non-model organisms using sequenced RAD tags. in Population Genomics: Methods and Protocols, F. Pompanon and A. Bonin, eds. Humana Press. 888: 235–260.
 
 2012 • Kimmel, C.B., K. McGuigan, P.C. Phillips, B. Ullmann, M. Currey, F.A. von Hippel, B.K. Kristjánsson, O. Gelmond, and W.A. Cresko. Independent axes of genetic variation and parallel evolutionary divergence of opercle bone shape in threespine stickleback. Evolution. 66(2): 419–434
 
-2012 • Hohenlohe, P.A., S. Bassham, M. Currey and W.A. Cresko. Extensive linkage disequilibrium in threespine stickleback and its importance for parallel adaptation and ecological speciation. Philosophical Transactions of the Royal Society of London. 367: 395–408.
+2012 • Hohenlohe, P.A., S. Bassham, M. Currey and W.A. Cresko. Extensive linkage disequilibrium in threespine stickleback and its importance for parallel adaptation and ecological speciation. Philosophical Transactions of the Royal Society of London. 367: 395–408. \[[reprint](http://dx.doi.org/10.1098/rstb.2011.0245)\]
 
-2012 • Kimmel C. B., P.A. Hohenlohe, B. Ullmann , M. Currey, and W.A. Cresko. Developmental dissociation in morphological evolution of the stickleback opercle. Evol. Dev. 14: 326–337.
+2012 • Kimmel C. B., P.A. Hohenlohe, B. Ullmann , M. Currey, and W.A. Cresko. Developmental dissociation in morphological evolution of the stickleback opercle. Evol. Dev. 14: 326–337. \[[reprint](http://dx.doi.org/10.1111/j.1525-142X.2012.00551.x)\]
 
-2012 • O’Brien C.S., R. Bourdo, W.E. Bradshaw, C.M. Holzapfel and W.A. Cresko. Conservation of the photoperiodic neuroendocrine axis among vertebrates: evidence from the teleost fish, Gasterosteus aculeatus. Gen. Comp. Endocrinol. 178: 19–27.
+2012 • O’Brien C.S., R. Bourdo, W.E. Bradshaw, C.M. Holzapfel and W.A. Cresko. Conservation of the photoperiodic neuroendocrine axis among vertebrates: evidence from the teleost fish, Gasterosteus aculeatus. *General Comparative Endocrinology, 178(1)*, 19-27. \[[reprint](http://dx.doi.org/10.1016/j.ygcen.2012.03.010)\]
 
-2012 • Hohenlohe, P.A., J. Catchen, W.A. Cresko. Population genomic analysis of model and non-model organisms using sequenced RAD tags. in Population Genomics: Methods and Protocols, F. Pompanon and A. Bonin, eds. Humana Press. 888: 235–260.
+2012 • Hohenlohe, P.A., J. Catchen, W.A. Cresko. Population genomic analysis of model and non-model organisms using sequenced RAD tags. in Population Genomics: Methods and Protocols, F. Pompanon and A. Bonin, eds. Humana Press. 888: 235–260. \[[reprint](http://dx.doi.org/10.1007/978-1-61779-870-2_14)\]
 
-
-Shen, Y., Garcia, T., Pabuwal, V., Boswell, M., Pasquali, A., Beldorth,
-I., Warren, W., Schartl, M., Cresko, W. A., & Walter, R. B. (**2012**).
-Alternative strategies for development of a reference transcriptome for
-quantification of allele specific expression in organisms having sparse
-genomic resources. *Comparative Biochemistry and Physiology Part D:
-Genomics Proteomics, 8(1)*, 11-6.
-\[[reprint](http://dx.doi.org/10.1016/j.cbd.2012.10.006)\]
-
-Bradshaw, W. E., Emerson, K. J., Catchen, J. M., Cresko, W. A., &
-Holzapfel, C. M. (**2012**). Footprints in time: comparative
-quantitative trait loci mapping of the pitcher-plant mosquito, *Wyeomyia
-smithii*. *Proceedings of the Royal Society B Biological Sciences,
-279(1747)*, 4551-8. \[[reprint](http://dx.doi.org/10.1098/rspb.2012.1917)\]
-
-O\'Brien, C. S., Bourdo, R., Bradshaw, W. E., Holzapfel, C. M., &
-Cresko, W. A. (**2012**). Conservation of the photoperiodic
-neuroendocrine axis among vertebrates: evidence from the teleost fish,
-*Gasterosteus aculeatus*. *General Comparative Endocrinology, 178(1)*,
-19-27. \[[reprint](http://dx.doi.org/10.1016/j.ygcen.2012.03.010)\]
-
-Kimmel, C. B., Hohenlohe, P. A., Ullmann, B., Currey, M., & Cresko, W.
-A. (**2012**). Developmental dissociation in morphological evolution of
-the stickleback opercle. *Evolution and Development, 14(4)*, 326--337.
-\[[reprint](http://dx.doi.org/10.1111/j.1525-142X.2012.00551.x)\]
-
-Hohenlohe, P. A., Bassham, S., Currey, M., & Cresko, W. A. (**2012**).
-Extensive linkage disequilibrium and parallel adaptive divergence across
-threespine stickleback genomes. *Philosophical Transactions of the Royal
-Society London B Biological Sciences, 367(1587)*, 395-408.
-\[[reprint](http://dx.doi.org/10.1098/rstb.2011.0245)\]
-
-Hohenlohe, P. A., Catchen, J., & Cresko, W. A. (**2012**). Population
-genomic analysis of model and nonmodel organisms using sequenced RAD
-tags. *Methods in Molecular Biology, 888*, 235-60.
-\[[reprint](http://dx.doi.org/10.1007/978-1-61779-870-2_14)\]
+2012 • Shen, Y., Garcia, T., Pabuwal, V., Boswell, M., Pasquali, A., Beldorth, I., Warren, W., Schartl, M., Cresko, W. A., & Walter, R. B. (**2012**). Alternative strategies for development of a reference transcriptome for quantification of allele specific expression in organisms having sparse genomic resources. *Comparative Biochemistry and Physiology Part D:Genomics Proteomics, 8(1)*, 11-6. \[[reprint](http://dx.doi.org/10.1016/j.cbd.2012.10.006)\]
 
 ## 2011
 
 2011 • Etter, P., J. Preston, S. Bassham, W.A. Cresko, and E.A. Johnson. SNP discovery and de novo assembly using RAD paired-end sequencing. PLoS One. 6(4).
 
 2011 • Nishimura, N., D. Heins, R. Anderson, I. Barber and W.A. Cresko. Cryptic coevolution of Schistocephalus parasites and stickleback hosts revealed by molecular genetic analysis. PLoS One. 6(7): e22505.
+\[[reprint](http://dx.doi.org/10.1371/journal.pone.0022505)\]
 
 2011 • Catchen, J. M., A. Amores, P. Hohenlohe, W. A. Cresko, and J. H. Postlethwait. Stacks: building and genotyping loci de novo from short-read sequences. (G3) Genes, Genomes and Genetics. 1: 171-182.
+\[[reprint](http://www.g3journal.org/content/1/3/171.full)\]
 
 2011 • Hohenlohe, P.A., S.J. Amish, J.M. Catchen, F.W. Allendorf, and G. Luikart. Next-generation RAD sequencing identifies thousands of SNPs for assessing hybridization between rainbow and westslope cutthroat trout. Molecular Ecology 11 Suppl 1. (March): 117-122.
+\[[reprint](http://dx.doi.org/10.1111/j.1755-0998.2010.02967.x)\]
 
 2011 • Allendorf, F.W., P.A. Hohenlohe, and G. Luikart. Genomics and the future of conservation genetics. Nature Reviews Genetics. 11(10): 697-709.
 
 2011 • Davey, J.W., P.A. Hohenlohe, P.D. Etter, J.Q. Boone, J.M. Catchen, and M.L. Blaxter. Genome-wide genetic marker discovery and genotyping using next-generation sequencing. Nature Reviews Genetics 12(7): 499–510.
 
 2011 • Etter, P., S. Bassham, P. Hohenlohe, E. Johnson and W.A. Cresko. SNP Discovery and Genotyping for Evolutionary Genetics using RAD Sequencing. pp. 157-178 in Molecular Methods for Evolutionary Genetics, Humana Press edited by V. Orgogozo and M. Rockman
-
-
-Kimmel, C. B., Cresko, W. A., Phillips, P. C., Ullmann, B., Currey, M.,
-von Hippel, F., Kristjánsson, B. K., Gelmond, O., & McGuigan, K.
-(**2011**). Independent axes of genetic variation and parallel
-evolutionary divergence of opercle bone shape in threespine stickleback.
-*Evolution, 66(2)*, 419-34.
-\[[reprint](http://dx.doi.org/10.1111/j.1558-5646.2011.01441.x)\]
-
-Catchen, J., Amores, A., Hohenlohe, P. A., Cresko, W. A., &
-Postlethwait, J. (**2011**). Stacks: building and genotyping loci de
-novo from short-read sequences. *G3: Genes, Genomes, Genetics, 1*,
-171-182. \[[reprint](http://www.g3journal.org/content/1/3/171.full)\]
-
-Amores, A., Catchen, J., Ferrara, A., Fontenot, Q., & Postlethwait, J.
-(**2011**). Genome evolution and meiotic maps by massively parallel DNA
-sequencing: Spotted gar, an outgroup for the teleost genome duplication.
-*Genetics, 188*, 799--808.
-\[[reprint](http://www.genetics.org/content/188/4/799.full)\]
-
-Davey, J., Hohenlohe, P., Etter, P., Boone, J., Catchen, J., & Blaxter,
-M. (**2011**). Genome-wide genetic marker discovery and genotyping using
-next-generation sequencing. *Nature Reviews Genetics, 12*, 499-510.
-\[[reprint](http://dx.doi.org/10.1038/nrg3012)\]
-
-Hohenlohe, P., Amish, S., Catchen, J., Allendorf, F., & Luikart, G.
-(**2011**). RAD sequencing identifies thousands of SNPs for assessing
-hybridization between rainbow trout and westslope cutthroat trout.
-*Molecular Ecology Resources, 11(s1)*, 117-122.
-\[[reprint](http://dx.doi.org/10.1111/j.1755-0998.2010.02967.x)\]
-
-McGuigan, K., Nishimura, N., Currey, M., Hurwit, D. & Cresko, W. A.
-(**2011**). Cryptic Genetic Variation and Body Size Evolution in
-Threespine Stickleback. *Evolution, 65*, 1203--1211.
-\[[reprint](http://dx.doi.org/10.1111/j.1558-5646.2010.01195.x)\]
-
-Etter, P. D., Preston, J. L., Bassham, S., Cresko, W. A., & Johnson, E.
-A. (**2011**). Local De Novo Assembly of RAD Paired-End Contigs Using
-Short Sequencing Reads. *PLoS ONE, 6(4)*, e18561.
-\[[reprint](http://dx.doi.org/10.1371/journal.pone.0018561)\]
-
-Etter, P. D., Bassham, S., Hohenlohe, P. A., Johnson, E. A., & Cresko,
-W. A. (**2011**). SNP Discovery and Genotyping for Evolutionary Genetics
-Using RAD Sequencing. *Methods in Molecular Biology, 772,* 157-78.
 \[[reprint](http://dx.doi.org/10.1007/978-1-61779-228-1_9)\]
 
-Nishimura, N., Heins, D. C., Andersen, R. O., Barber, I., & Cresko, W.
-A. (**2011**). Distinct Lineages of Schistocephalus Parasites in
-Threespine and Ninespine Stickleback Hosts Revealed by DNA Sequence
-Analysis. *PLoS ONE, 6(7)*, e22505.
-\[[reprint](http://dx.doi.org/10.1371/journal.pone.0022505)\]
+2011 • Kimmel, C. B., Cresko, W. A., Phillips, P. C., Ullmann, B., Currey, M., von Hippel, F., Kristjánsson, B. K., Gelmond, O., & McGuigan, K. (**2011**). Independent axes of genetic variation and parallel evolutionary divergence of opercle bone shape in threespine stickleback. *Evolution, 66(2)*, 419-34. \[[reprint](http://dx.doi.org/10.1111/j.1558-5646.2011.01441.x)\]
+
+2011 • Amores, A., Catchen, J., Ferrara, A., Fontenot, Q., & Postlethwait, J. **2011**. Genome evolution and meiotic maps by massively parallel DNA sequencing: Spotted gar, an outgroup for the teleost genome duplication. *Genetics, 188*, 799--808. \[[reprint](http://www.genetics.org/content/188/4/799.full)\]
+
+2011 • Davey, J., Hohenlohe, P., Etter, P., Boone, J., Catchen, J., & Blaxter, M. (**2011**). Genome-wide genetic marker discovery and genotyping using next-generation sequencing. *Nature Reviews Genetics, 12*, 499-510.
+\[[reprint](http://dx.doi.org/10.1038/nrg3012)\]
+
+2011 • McGuigan, K., Nishimura, N., Currey, M., Hurwit, D. & Cresko, W. A. (**2011**). Cryptic Genetic Variation and Body Size Evolution in Threespine Stickleback. *Evolution, 65*, 1203--1211.
+\[[reprint](http://dx.doi.org/10.1111/j.1558-5646.2010.01195.x)\]
+
+2011 • Etter, P. D., Preston, J. L., Bassham, S., Cresko, W. A., & Johnson, E. A. (**2011**). Local De Novo Assembly of RAD Paired-End Contigs Using Short Sequencing Reads. *PLoS ONE, 6(4)*, e18561.
+\[[reprint](http://dx.doi.org/10.1371/journal.pone.0018561)\]
 
 ## 2010
 
 2010 • McGuigan, K., N. Nishimura, M. Currey, D. Hurwit and W.A. Cresko. Quantitative genetic variation in static allometry in threespine stickleback. Integrative and Comparative Biology. 50: 1067-1080.
+\[[reprint](http://dx.doi.org/10.1093/icb/icq026)\]
 
 2010 • Hohenlohe, P.A., P.C. Phillips, and W.A. Cresko. Using Population Genomics to Detect Selection in Natural Populations: Key Concepts and Methodological Considerations. International Journal of Plant Sciences. 171(9): 1059-1071.
+\[[reprint](http://www.jstor.org/stable/10.1086/656306)\]
 
 2010 • Hohehlohe, P., S. Bassham, P. Etter, N. Stiffler, E. Johnson and W.A. Cresko. Population Genomics of Parallel Adaptation in Threespine Stickleback using Sequenced RAD tags.
 PLoS Genetics 6(2):e1000862. (Faculty of 1000 must read)
+\[[reprint](http://dx.doi.org/10.1371/journal.pgen.1000862)\]
 
 2010 • Emerson, K.J, C.R. Merz, J.M. Catchen, P.A. Hohenlohe, W.A. Cresko, W.E. Bradshaw, and C.M. Holzapfel. 2010. Resolving postglacial phylogeography using high-throughput sequencing. Proc. Natl. Acad. Sci. USA. 107(37): 16196-16200.
 
@@ -255,108 +189,57 @@ PLoS Genetics 6(2):e1000862. (Faculty of 1000 must read)
 
 2010 • von Hippel, F.A. and W.A. Cresko. Behavioural genetics, phylogenetics and speciation. In: Tinbergen’s Legacy in Behaviour:Sixty Years of Landmark Stickleback Papers. pp.459-467. Brill, Leiden.
 
+2010 • Allendorf, F. W., Hohenlohe, P. A., & Luikart, G. (**2010**). Genomics and the future of conservation genetics. *Nature Reviews Genetics, 11*, 697-709. 
+\[[reprint](http://dx.doi.org/10.1038/nrg2844)\]
 
-McGuigan, K., Nishimura, N., Currey, M., Hurwit, D., & Cresko, W. A.
-(**2010**). Quantitative Genetic Variation in Static Allometry in the
-Threespine Stickleback. *Integrative and Comparative Biology, 50(6),*
-1067-1080. \[[reprint](http://dx.doi.org/10.1093/icb/icq026)\]
-
-Allendorf, F. W., Hohenlohe, P. A., & Luikart, G. (**2010**). Genomics
-and the future of conservation genetics. *Nature Reviews Genetics, 11*,
-697-709. \[[reprint](http://dx.doi.org/10.1038/nrg2844)\]
-
-Hohenlohe, P. A., & Arnold, S. J. (**2010**). The dimensionality of mate
-choice, sexual isolation, and speciation. *Proceedings of the National
-Academy of Sciences, 107(38)*, 16583-16588.
+2010 • Hohenlohe, P. A., & Arnold, S. J. (**2010**). The dimensionality of mate choice, sexual isolation, and speciation. *Proceedings of the National Academy of Sciences, 107(38)*, 16583-16588.
 \[[reprint](http://dx.doi.org/10.1073/pnas.1003537107)\].
 
-Emerson, K. J., Merz, C. R., Catchen, J. M., Hohenlohe, P. A., Cresko,
-W. A., Bradshaw, W. E., & Holzapfel, C. M. (**2010**). Out of
-Appalachia: Resolving post-glacial phylogeography using high-throughput
-sequencing. *Proceedings of the National Academy of Sciences, 107(37)*,
-16196-200. \[[reprint](http://dx.doi.org/10.1073/pnas.1006538107)\]
-
-Hohenlohe, P. A., Phillips, P. C., & Cresko, W. A. (**2010**). Using
-population genomics to detect selection in natural populations: key
-concepts and methodological considerations. *International Journal of
-Plant Sciences, 171(9),* 1059-1071.
-\[[reprint](http://www.jstor.org/stable/10.1086/656306)\]
-
-Hohenlohe, P. A., Bassham, S., Etter, P. D., Stiffler, N., Johnson, E.
-A., & Cresko, W. A. (**2010**). Population genomic analysis of parallel
-adaptation in threespine stickleback using sequenced RAD tags. *PLoS
-Genetics 6(2)*, e1000862.
-\[[reprint](http://dx.doi.org/10.1371/journal.pgen.1000862)\]
+2010 • Emerson, K. J., Merz, C. R., Catchen, J. M., Hohenlohe, P. A., Cresko, W. A., Bradshaw, W. E., & Holzapfel, C. M. (**2010**). Out of Appalachia: Resolving post-glacial phylogeography using high-throughput sequencing. *Proceedings of the National Academy of Sciences, 107(37)*, 16196-200. 
+\[[reprint](http://dx.doi.org/10.1073/pnas.1006538107)\]
 
 ## 2009
 
-Yeates-Burghart, Q. S., O'Brien, C., Cresko, W. A., Holzapfel, C. M., &
-Bradshaw, W. E. (**2009**). Latitudinal variation in photoperiodic
-response of the three-spined stickleback *Gasterosteus aculeatus* in
-western North America. *Journal of Fish Biology, 75(8)*, 2075-81.
+2009 • Yeates-Burghart, Q. S., O'Brien, C., Cresko, W. A., Holzapfel, C. M., & Bradshaw, W. E. (**2009**). Latitudinal variation in photoperiodic response of the three-spined stickleback *Gasterosteus aculeatus* in western North America. *Journal of Fish Biology, 75(8)*, 2075-81.
 \[[reprint](http://dx.doi.org/10.1111/j.1095-8649.2009.02418.x)\]
 
-Albertson, R. C., Cresko, W., Detrich, H. W., & Postlethwait, J. H.
-(**2009**). Evolutionary mutant models for human disease. *Trends in
-Genetics, 25(2)*, 74-81.
+2009 • Albertson, R. C., Cresko, W., Detrich, H. W., & Postlethwait, J. H. (**2009**). Evolutionary mutant models for human disease. *Trends in Genetics, 25(2)*, 74-81.
 \[[reprint](http://dx.doi.org/10.1016/j.tig.2008.11.006)\]
 
 ## 2008
 
-Cresko, W.A. Special issue on stickleback behavior and evolution: Preface. Behaviour. 145: 409-411.
+2008 • Cresko, W.A. Special issue on stickleback behavior and evolution: Preface. Behaviour. 145: 409-411.
 
-Cresko, W. A. (**2008**). Armor Development and Fitness. *Science,
-322(5899)*, 204-206.
+2008 • Cresko, W. A. (**2008**). Armor Development and Fitness. *Science, 322(5899)*, 204-206.
 \[[reprint](http://dx.doi.org/10.1126/science.1165663)\]
 
-Kimmel, C. B., Aguirre, W. E., Ullmann, B., Currey, M., & Cresko, W. A.
-(**2008**). Allometric change accompanies opercular shape evolution in
-Alaskan threespine sticklebacks. *Behaviour, 145(4-5)*, 669-691.
+2008 • Kimmel, C. B., Aguirre, W. E., Ullmann, B., Currey, M., & Cresko, W. A. (**2008**). Allometric change accompanies opercular shape evolution in Alaskan threespine sticklebacks. *Behaviour, 145(4-5)*, 669-691.
 \[[reprint](http://www.ingentaconnect.com/content/brill/beh/2008/00000145/f0020004/art00014)\]
 
-Lewis, Z. R., McClellan, M. C., Postlethwait, J. H., Cresko, W. A., &
-Kaplan, R. H. (**2008**). Female-specific increaes in primordial germ
-cells marks sex differntiation in threespine stickleback (*Gasterosteus
-aculeatus*). *Journal of Morphology, 269(8)*, 909-921.
+2008 • Lewis, Z. R., McClellan, M. C., Postlethwait, J. H., Cresko, W. A., & Kaplan, R. H. (**2008**). Female-specific increaes in primordial germ cells marks sex differntiation in threespine stickleback (*Gasterosteus aculeatus*). *Journal of Morphology, 269(8)*, 909-921.
 \[[reprint](http://dx.doi.org/10.1002/jmor.10608)\]
 
-Baird, N. A., Eter, P. D., Atwood, T. S., Currey, M. C., Shiver, A. L.,
-Lewis, A., Selker, E. U., Cresko, W. A., & Johnson, E. A. (**2008**).
-Rapid SNP discovery and genetic mapping using sequenced RAD markers.
-*PLoS One, 3(10)*, e3376.
+2008 • Baird, N. A., Eter, P. D., Atwood, T. S., Currey, M. C., Shiver, A. L., Lewis, A., Selker, E. U., Cresko, W. A., & Johnson, E. A. (**2008**). Rapid SNP discovery and genetic mapping using sequenced RAD markers. *PLoS One, 3(10)*, e3376.
 \[[reprint](http://dx.doi.org/10.1371/journal.pone.0003376)\]
 
-Calcott, B., Balcan, D., & Hohenlohe, P. A. (**2008**). A
-publish-subscribe model of genetic networks. *PLoS ONE, 3(9)*, e3245.
+2008 • Calcott, B., Balcan, D., & Hohenlohe, P. A. (**2008**). A publish-subscribe model of genetic networks. *PLoS ONE, 3(9)*, e3245.
 \[[reprint](http://dx.doi.org/10.1371/journal.pone.0003245)\]
 
-Stinchcombe, J. R., Agrawal, A. F., Hohenlohe, P. A., Arnold, S. J., &
-Blows, M. W. (**2008**). Estimating non-linear selection gradients using
-quadratic regression coefficients: double or nothing? *Evolution,
-62(9)*, 2435-2440.
+2008 • Stinchcombe, J. R., Agrawal, A. F., Hohenlohe, P. A., Arnold, S. J., & Blows, M. W. (**2008**). Estimating non-linear selection gradients using quadratic regression coefficients: double or nothing? *Evolution, 62(9)*, 2435-2440.
 \[[reprint](http://dx.doi.org/10.1111/j.1558-5646.2008.00449.x)\]
 
-Hohenlohe, P. A., & Arnold, S. J. (**2008**). MIPoD: A
-hypothesis-testing framework for microevolutionary inference from
-patterns of divergence. *American Naturalist, 171(3)*, 366-385.
+2008 • Hohenlohe, P. A., & Arnold, S. J. (**2008**). MIPoD: A hypothesis-testing framework for microevolutionary inference from patterns of divergence. *American Naturalist, 171(3)*, 366-385.
 \[[reprint](http://dx.doi.org/10.1086/527498)\]
 
 ## 2007
 
-Miller, M., Dunham, J., Amores, A., Cresko, W. A., & Johnson, E. (**2007**). 
-Rapid and cost-effective polymorphism identification and
-genotyping using Restriction site Associated DNA (RAD) markers. 
-*Genome Research, 17(2)*, 240-248.
+2007 • Miller, M., Dunham, J., Amores, A., Cresko, W. A., & Johnson, E. (**2007**). Rapid and cost-effective polymorphism identification and genotyping using Restriction site Associated DNA (RAD) markers. *Genome Research, 17(2)*, 240-248.
 \[[reprint](http://dx.doi.org/10.1101/gr.5681207)\]
 
-Jovelin, R. He, X., Amores, A., Yan, Y., Cresko, W. A., & Postlethwait, J. H. (**2007**). 
-FGF8 duplication and functional divergence in the ray-fin fish lineage. 
-*Journal of Experimental Zoology Part B: Molecular and Developmental Evolution, 308,* 730-743.
+2007 • Jovelin, R. He, X., Amores, A., Yan, Y., Cresko, W. A., & Postlethwait, J. H. (**2007**). FGF8 duplication and functional divergence in the ray-fin fish lineage.*Journal of Experimental Zoology Part B: Molecular and Developmental Evolution, 308,* 730-743.
 \[[reprint](http://dx.doi.org/10.1002/jez.b.21193)\]
 
-Cresko, W. A., McGuigan, K. L., Phillips, P. C., & Postlethwait, J. H.
-(**2007**). Studies of threespine stickleback developmental evolution:
-progress and promise. *Genetica, 129(1)*, 105-126.
+2007 • Cresko, W. A., McGuigan, K. L., Phillips, P. C., & Postlethwait, J. H. (**2007**). Studies of threespine stickleback developmental evolution: progress and promise. *Genetica, 129(1)*, 105-126.
 \[[reprint](http://dx.doi.org/10.1007/s10709-006-0036-z)\]
 
 ## 2006
@@ -367,67 +250,43 @@ progress and promise. *Genetica, 129(1)*, 105-126.
 
 2005 • Tanaka, M., L.A. Hale, A. Amores, Y.L. Yan, W.A. Cresko, T. Suzuki, and J.H. Postlethwait. Developmental genetic basis for the evolution of pelvic fin loss in the pufferfish Takifugu rubripes. Developmental Biology. 281: 227-239.
 
-Force, A., Cresko, W. A., Pickett, F. B., Proulx, S. R., Amemiya, C., &
-Lynch, M. (**2005**). The origin of subfunctions and modular gene
-regulation. *Genetics, 170,* 433-446.
+2005 • Force, A., Cresko, W. A., Pickett, F. B., Proulx, S. R., Amemiya, C., & Lynch, M. (**2005**). The origin of subfunctions and modular gene regulation. *Genetics, 170,* 433-446.
 \[[reprint](http://dx.doi.org/10.1534/genetics.104.027607)\]
 
-Baker, J., Cresko, W. A., Foster, S., & Heins, D. (**2005**). Life
-History differentiation of benthic and limnetic ecotypes in a polytypic
-population of threespine stickleback, *Gasterosteus aculeatus*.
-*Evolutionary Ecology Research, 7*, 121-131.
+2005 • Baker, J., Cresko, W. A., Foster, S., & Heins, D. (**2005**). Life History differentiation of benthic and limnetic ecotypes in a polytypic population of threespine stickleback, *Gasterosteus aculeatus*. *Evolutionary Ecology Research, 7*, 121-131.
 \[[reprint](http://www.researchgate.net/publication/235333023_Life-history_differentiation_of_benthic_and_limnetic_ecotypes_in_a_polytypic_population_of_threespine_stickleback_(Gasterosteus_aculeatus)/file/9fcfd510f358850677.pdf.)\]
 
-Kimmel, C. B., Ullmann, B., Walker, C., Wilson, C., Currey, M.,
-Phillips, P. C., Bell, M. A., Postlethwait, J. A., & Cresko, W. A.
-(**2005**). Evolution and development of facial bone morphology in
-threespine sticklebacks. *Proceedings of the National Academy of
-Sciences of the United States of America, 102(16)*, 5791-6.
+2005 • Kimmel, C. B., Ullmann, B., Walker, C., Wilson, C., Currey, M., Phillips, P. C., Bell, M. A., Postlethwait, J. A., & Cresko, W. A. (**2005**). Evolution and development of facial bone morphology in threespine sticklebacks. *Proceedings of the National Academy of Sciences of the United States of America, 102(16)*, 5791-6.
 \[[reprint](http://dx.doi.org/10.1073/pnas.0408533102)\]
 
 ## 2004
 
-2004 • Force, A. G., Cresko, W. A., & Pickett, F. (**2004**). Informational
-accretion, gene duplication and the mechanisms of genetic module
-parcellation, in Schlosser, G., & Wagner, G. P. (Eds.). *Modularity in
-Development and Evolution*. Chicago: University of Chicago Press.
-350-375.
+2004 • Force, A. G., Cresko, W. A., & Pickett, F. (**2004**). Informational accretion, gene duplication and the mechanisms of genetic module parcellation, in Schlosser, G., & Wagner, G. P. (Eds.). *Modularity in Development and Evolution*. Chicago: University of Chicago Press. 350-375.
 
 2004 • Postlethwait, J.H., A. Amores, W.A. Cresko, A. Singer, and Y. Yan. Subfunction partitioning, the teleost radiation and the annotation of the human genome. Trends in Genetics. 20(10): 481-490.
 
-2004 • Cresko, W. A., Amores, A., Wilson, C., Murphy, J., Currey, M., Phillips,
-P., Bell, M., Kimmel, C., & Postlethwait, J. (**2004**). Parallel
-genetic basis for repeated evolution of armor loss in Alaskan threespine
-stickleback populations. *Proceedings of the National Academy of
-Sciences of the United States of America, 101*, 6050-6055.
+2004 • Cresko, W. A., Amores, A., Wilson, C., Murphy, J., Currey, M., Phillips, P., Bell, M., Kimmel, C., & Postlethwait, J. (**2004**). Parallel genetic basis for repeated evolution of armor loss in Alaskan threespine stickleback populations. *Proceedings of the National Academy of Sciences of the United States of America, 101*, 6050-6055.
 \[[reprint](http://dx.doi.org/10.1073/pnas.0308479101)\]
 
 ## 2003
 
 2003 • Cresko, W.A., Y. Yan, D. Baltrus, A. Amores, A. Singer, A. Rodriguez-Mari, and J. Postlethwait. Genome Duplication, Subfunction Partitioning, and Lineage Divergence: Sox9 in Stickleback and Zebrafish. Devp. Dyn. 228: 480-489.
 
-Cresko, W. A., Yan, Y., Baltrus, D., Amores, A., Singer, A.,
-Rodriguez-Mari, A., & Postlethwait, J. (**2003**). Genome Duplication,
-Subfunction Partitioning, and Lineage Divergence: Sox9 in Stickleback
-and Zebrafish. *Developmental Dynamics, 228,* 480-489.
+2003 • Cresko, W. A., Yan, Y., Baltrus, D., Amores, A., Singer, A., Rodriguez-Mari, A., & Postlethwait, J. (**2003**). Genome Duplication, Subfunction Partitioning, and Lineage Divergence: Sox9 in Stickleback and Zebrafish. *Developmental Dynamics, 228,* 480-489.
 \[[reprint](http://dx.doi.org/10.1002/dvdy.10424)\]
 
 ### 2000 and earlier
 
 2000 • Cresko, W.A. The Ecology and Geography of Speciation: A Case Study Using an Adaptive Radiation of Threespine Stickleback in Alaska. Clark University, Worcester, MA.
 
-1998 • Foster, S. A., Scott, R., & Cresko, W. A. (**1998**). Nested biological
-variation and speciation. *Philosophical Transactions of the Royal
-Society London B Biological Sciences, 353,* 207-218.
+1998 • Foster, S. A., Scott, R., & Cresko, W. A. (**1998**). Nested biological variation and speciation. *Philosophical Transactions of the Royal Society London B Biological Sciences, 353,* 207-218.
 \[[reprint](http://dx.doi.org/10.1098/rstb.1998.0203)\]
 
 1997 • Roosenburg, W.M., W.A. Cresko, M. Modesitte, and M.B. Robbins. Diamondback terrapin (Malaclemys terrapin) mortality in crab pots. Conservation Biology. 11: 1166-1172.
 
 1996 • Cameron, S., J. Whitfield, C. Hulslander, W.A. Cresko, S. Isenberg, and R. King. Nesting biology and foraging patterns of the solitary bee Melissodes rustica (Hymenoptera: Apidae) Journal of the Kansas Entomological Society. 69(4): 260-273.
 
-1996 • Cresko, W. A., & Baker, J. A. (**1996**). Two morphotypes of lacustrine
-threespine stickleback, *Gasterosteus aculeatus*, in Benka Lake, Alaska.
-*Environmental Biology of Fishes, 45*, 343-350.
+1996 • Cresko, W. A., & Baker, J. A. (**1996**). Two morphotypes of lacustrine threespine stickleback, *Gasterosteus aculeatus*, in Benka Lake, Alaska. *Environmental Biology of Fishes, 45*, 343-350.
 
 1996 • Foster, S.A., W.A. Cresko, K. Johnson, M. Tlusty, and H. Willmott. Levels of homoplasy in behavioral characters. in Sanderson, M. J. and L. Hufford (eds.) Homoplasy: The Recurrence of Similarity in Evolution. Academic Press.
 
