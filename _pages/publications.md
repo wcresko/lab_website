@@ -20,7 +20,7 @@ excerpt: "Publications from the laboratory in reverse chronological order"
 
 2021 • Rengefors, K., R. Gollnisch, I. Sassenhagen, K. Harnstrom Aloisi, M. Svensson, K. Lebret, D. Certnerova, W. A. Cresko, S. Bassham, and D. Ahren. 2021. Genome-wide single nucleotide polymorphism markers reveal population structure and dispersal direction of an expanding nuisance algal bloom species. Mol Ecol 30:912-925.
 
-2021 • O'Connor, C. H., K. L. Sikkink, T. C. Nelson, J. L. Fierst, W. A. Cresko, and P. C. Phillips. 2021. Complex pleiotropic genetic architecture of evolved heat stress and oxidative stress resistance in the nematode Caenorhabditis remanei. G3 (Bethesda) 11.
+2021 • **O'Connor, C. H.**, **K. L. Sikkink**, **T. C. Nelson**, J. L. Fierst, W. A. Cresko, and P. C. Phillips. 2021. Complex pleiotropic genetic architecture of evolved heat stress and oxidative stress resistance in the nematode Caenorhabditis remanei. G3 (Bethesda) 11.
 
 2021 • **Fuiten, A. M.**, and W. A. Cresko. 2021. Evolutionary divergence of a Hoxa2b hindbrain enhancer in syngnathids mimics results of functional assays. Dev Genes Evol.
 
@@ -173,9 +173,7 @@ genomic analysis of model and nonmodel organisms using sequenced RAD
 tags. *Methods in Molecular Biology, 888*, 235-60.
 \[[reprint](http://dx.doi.org/10.1007/978-1-61779-870-2_14)\]
 
-
-##2011
-
+## 2011
 
 2011 • Etter, P., J. Preston, S. Bassham, W.A. Cresko, and E.A. Johnson. SNP discovery and de novo assembly using RAD paired-end sequencing. PLoS One. 6(4).
 
@@ -242,8 +240,7 @@ Threespine and Ninespine Stickleback Hosts Revealed by DNA Sequence
 Analysis. *PLoS ONE, 6(7)*, e22505.
 \[[reprint](http://dx.doi.org/10.1371/journal.pone.0022505)\]
 
-
-##2010
+## 2010
 
 2010 • McGuigan, K., N. Nishimura, M. Currey, D. Hurwit and W.A. Cresko. Quantitative genetic variation in static allometry in threespine stickleback. Integrative and Comparative Biology. 50: 1067-1080.
 
@@ -291,8 +288,7 @@ adaptation in threespine stickleback using sequenced RAD tags. *PLoS
 Genetics 6(2)*, e1000862.
 \[[reprint](http://dx.doi.org/10.1371/journal.pgen.1000862)\]
 
-
-##2009
+## 2009
 
 Yeates-Burghart, Q. S., O'Brien, C., Cresko, W. A., Holzapfel, C. M., &
 Bradshaw, W. E. (**2009**). Latitudinal variation in photoperiodic
@@ -305,9 +301,7 @@ Albertson, R. C., Cresko, W., Detrich, H. W., & Postlethwait, J. H.
 Genetics, 25(2)*, 74-81.
 \[[reprint](http://dx.doi.org/10.1016/j.tig.2008.11.006)\]
 
-
-##2008
-
+## 2008
 
 Cresko, W.A. Special issue on stickleback behavior and evolution: Preface. Behaviour. 145: 409-411.
 
@@ -347,7 +341,6 @@ hypothesis-testing framework for microevolutionary inference from
 patterns of divergence. *American Naturalist, 171(3)*, 366-385.
 \[[reprint](http://dx.doi.org/10.1086/527498)\]
 
-
 ## 2007
 
 Miller, M., Dunham, J., Amores, A., Cresko, W. A., & Johnson, E. (**2007**). 
@@ -366,11 +359,9 @@ Cresko, W. A., McGuigan, K. L., Phillips, P. C., & Postlethwait, J. H.
 progress and promise. *Genetica, 129(1)*, 105-126.
 \[[reprint](http://dx.doi.org/10.1007/s10709-006-0036-z)\]
 
-
 ## 2006
 
 2006 • Bernhardt, R.R., F.A. von Hippel, and W.A. Cresko. Perchlorate induces hermaphroditism in threespine stickleback. Environmental Toxicology and Chemistry. 25(8): 2087-2096.
-
 
 ## 2005
 
@@ -394,29 +385,22 @@ threespine sticklebacks. *Proceedings of the National Academy of
 Sciences of the United States of America, 102(16)*, 5791-6.
 \[[reprint](http://dx.doi.org/10.1073/pnas.0408533102)\]
 
-
 ## 2004
 
-2004 • Force, A.G., W.A. Cresko, and F. Pickett. Informational accretion, gene duplication and the mechanisms of genetic module parcellation. in Schlosser, G. and G. P. Wagner (eds.) Modularity in Development and Evolution. University of Chicago Press, Chicago. 350-375.
-
-2004 • Postlethwait, J.H., A. Amores, W.A. Cresko, A. Singer, and Y. Yan. Subfunction partitioning, the teleost radiation and the annotation of the human genome. Trends in Genetics. 20(10): 481-490.
-
-2004 • Cresko, W.A., A. Amores, C. Wilson, J. Murphy, M. Currey, P. Phillips, M. Bell, C. Kimmel, and J. Postlethwait. Parallel genetic basis for repeated evolution of armor loss in Alaskan threespine stickleback populations. Proc. Natl. Acad. Sci. USA. 101: 6050-6055.
-
-
-Force, A. G., Cresko, W. A., & Pickett, F. (**2004**). Informational
+2004 • Force, A. G., Cresko, W. A., & Pickett, F. (**2004**). Informational
 accretion, gene duplication and the mechanisms of genetic module
 parcellation, in Schlosser, G., & Wagner, G. P. (Eds.). *Modularity in
 Development and Evolution*. Chicago: University of Chicago Press.
 350-375.
 
-Cresko, W. A., Amores, A., Wilson, C., Murphy, J., Currey, M., Phillips,
+2004 • Postlethwait, J.H., A. Amores, W.A. Cresko, A. Singer, and Y. Yan. Subfunction partitioning, the teleost radiation and the annotation of the human genome. Trends in Genetics. 20(10): 481-490.
+
+2004 • Cresko, W. A., Amores, A., Wilson, C., Murphy, J., Currey, M., Phillips,
 P., Bell, M., Kimmel, C., & Postlethwait, J. (**2004**). Parallel
 genetic basis for repeated evolution of armor loss in Alaskan threespine
 stickleback populations. *Proceedings of the National Academy of
 Sciences of the United States of America, 101*, 6050-6055.
 \[[reprint](http://dx.doi.org/10.1073/pnas.0308479101)\]
-
 
 ## 2003
 
@@ -428,30 +412,28 @@ Subfunction Partitioning, and Lineage Divergence: Sox9 in Stickleback
 and Zebrafish. *Developmental Dynamics, 228,* 480-489.
 \[[reprint](http://dx.doi.org/10.1002/dvdy.10424)\]
 
-
 ### 2000 and earlier
 
 2000 • Cresko, W.A. The Ecology and Geography of Speciation: A Case Study Using an Adaptive Radiation of Threespine Stickleback in Alaska. Clark University, Worcester, MA.
 
-1998 • Foster, S.A., R. Scott and W.A. Cresko. Nested biological variation and speciation. Phil. Trans. R. Soc. Lond. B. 353: 207-218.
+1998 • Foster, S. A., Scott, R., & Cresko, W. A. (**1998**). Nested biological
+variation and speciation. *Philosophical Transactions of the Royal
+Society London B Biological Sciences, 353,* 207-218.
+\[[reprint](http://dx.doi.org/10.1098/rstb.1998.0203)\]
 
 1997 • Roosenburg, W.M., W.A. Cresko, M. Modesitte, and M.B. Robbins. Diamondback terrapin (Malaclemys terrapin) mortality in crab pots. Conservation Biology. 11: 1166-1172.
 
 1996 • Cameron, S., J. Whitfield, C. Hulslander, W.A. Cresko, S. Isenberg, and R. King. Nesting biology and foraging patterns of the solitary bee Melissodes rustica (Hymenoptera: Apidae) Journal of the Kansas Entomological Society. 69(4): 260-273.
 
-1996 • Cresko, W.A. and J.A. Baker. Two morphotypes of lacustrine threespine stickleback (Gasterosteus aculeatus) in Benka Lake, Alaska. Env. Biol. Fishes. 45: 343-350.
+1996 • Cresko, W. A., & Baker, J. A. (**1996**). Two morphotypes of lacustrine
+threespine stickleback, *Gasterosteus aculeatus*, in Benka Lake, Alaska.
+*Environmental Biology of Fishes, 45*, 343-350.
 
 1996 • Foster, S.A., W.A. Cresko, K. Johnson, M. Tlusty, and H. Willmott. Levels of homoplasy in behavioral characters. in Sanderson, M. J. and L. Hufford (eds.) Homoplasy: The Recurrence of Similarity in Evolution. Academic Press.
 
 
-Foster, S. A., Scott, R., & Cresko, W. A. (**1998**). Nested biological
-variation and speciation. *Philosophical Transactions of the Royal
-Society London B Biological Sciences, 353,* 207-218.
-\[[reprint](http://dx.doi.org/10.1098/rstb.1998.0203)\]
 
-Cresko, W. A., & Baker, J. A. (**1996**). Two morphotypes of lacustrine
-threespine stickleback, *Gasterosteus aculeatus*, in Benka Lake, Alaska.
-*Environmental Biology of Fishes, 45*, 343-350.
+
 
 
 
