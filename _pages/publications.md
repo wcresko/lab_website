@@ -14,12 +14,22 @@ excerpt: "Publications from the laboratory in reverse chronological order"
 **BOLD** indicates a graduate student at the time of publication 
 <ins>UNDERLINE</ins> indicates an undergraduate student at the time of publication
 
+## 2021
+
+2021 • Tavalire, H. F., D. M. Christie, L. D. Leve, N. Ting, W. A. Cresko, and B. J. M. Bohannan. 2021. Shared Environment and Genetics Shape the Gut Microbiome after Infant Adoption. mBio 12.
+
+2021 • Rengefors, K., R. Gollnisch, I. Sassenhagen, K. Harnstrom Aloisi, M. Svensson, K. Lebret, D. Certnerova, W. A. Cresko, S. Bassham, and D. Ahren. 2021. Genome-wide single nucleotide polymorphism markers reveal population structure and dispersal direction of an expanding nuisance algal bloom species. Mol Ecol 30:912-925.
+
+2021 • O'Connor, C. H., K. L. Sikkink, T. C. Nelson, J. L. Fierst, W. A. Cresko, and P. C. Phillips. 2021. Complex pleiotropic genetic architecture of evolved heat stress and oxidative stress resistance in the nematode Caenorhabditis remanei. G3 (Bethesda) 11.
+
+2021 • **Fuiten, A. M.**, and W. A. Cresko. 2021. Evolutionary divergence of a Hoxa2b hindbrain enhancer in syngnathids mimics results of functional assays. Dev Genes Evol.
+
 
 ## 2020
 
 2020 • Beck, E.A., M.C. Currey, C.M. Small, and W.A. Cresko. QTL Mapping of Intestinal neutrophil variation in threespine stickleback reveals possible gene targets connecting intestinal inflammation and systemic health. *G3*. **10**(2): 613-622. \[[reprint](https://doi.org/10.1534/g3.119.400685)\]
 
-2020 • **Galloway, J.**, W.A. Cresko, P. Ralph. A few stickleback suffice for the transportation of alleles to new lakes. *G3*. **10**(2): 505-514. \[[reprint](https://doi.org/10.1534/g3.119.400564)\]
+2020 • <ins>Galloway, J.</ins>, W.A. Cresko, P. Ralph. A few stickleback suffice for the transportation of alleles to new lakes. *G3*. **10**(2): 505-514. \[[reprint](https://doi.org/10.1534/g3.119.400564)\]
 
 
 ## 2019
@@ -139,7 +149,7 @@ Bradshaw, W. E., Emerson, K. J., Catchen, J. M., Cresko, W. A., &
 Holzapfel, C. M. (**2012**). Footprints in time: comparative
 quantitative trait loci mapping of the pitcher-plant mosquito, *Wyeomyia
 smithii*. *Proceedings of the Royal Society B Biological Sciences,
-279(1747)*, 4551-8. \[[reprint](dx.doi.org/10.1098/rspb.2012.1917)\]
+279(1747)*, 4551-8. \[[reprint](http://dx.doi.org/10.1098/rspb.2012.1917)\]
 
 O\'Brien, C. S., Bourdo, R., Bradshaw, W. E., Holzapfel, C. M., &
 Cresko, W. A. (**2012**). Conservation of the photoperiodic
@@ -442,7 +452,6 @@ Society London B Biological Sciences, 353,* 207-218.
 Cresko, W. A., & Baker, J. A. (**1996**). Two morphotypes of lacustrine
 threespine stickleback, *Gasterosteus aculeatus*, in Benka Lake, Alaska.
 *Environmental Biology of Fishes, 45*, 343-350.
-\[[reprint](pubs/cresko_baker_1996.pdf)\]
 
 
 
