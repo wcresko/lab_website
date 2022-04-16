@@ -14,6 +14,10 @@ excerpt: "Publications from the laboratory in reverse chronological order"
 **BOLD** indicates a graduate student at the time of publication 
 <ins>UNDERLINE</ins> indicates an undergraduate student at the time of publication
 
+## 2022
+
+Healey, H.M., S. Bassham and W.A. Cresko. Single-cell Iso-Sequencing enables rapid genome annotation for scRNAseq analysis. Genetics. 220(3), iyac017 \[[reprint]({{ site.url }}{{ site.baseurl }}/assets/publications/2022_Healey_Genetics.pdf)\]
+
 ## 2021
 
 2021 • Tavalire, H. F., D. M. Christie, L. D. Leve, N. Ting, W. A. Cresko, and B. J. M. Bohannan. 2021. Shared Environment and Genetics Shape the Gut Microbiome after Infant Adoption. mBio 12.

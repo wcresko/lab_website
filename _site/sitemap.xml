@@ -225,6 +225,10 @@
 <lastmod>2020-02-20T00:00:00-08:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/lab_website/manuscripts/Healey/</loc>
+<lastmod>2022-04-01T00:00:00-07:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/lab_website/news/HealeyGenetics/</loc>
 <lastmod>2022-04-01T00:00:00-07:00</lastmod>
 </url>
@@ -337,6 +341,10 @@
 <loc>http://localhost:4000/lab_website/page12/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/lab_website/assets/publications/2022_Healey_Genetics.pdf</loc>
+<lastmod>2022-04-16T12:02:54-07:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/lab_website/assets/publications/Allendorf(2015).pdf</loc>
 <lastmod>2021-06-05T09:00:33-07:00</lastmod>
 </url>
@@ -407,10 +415,6 @@
 <url>
 <loc>http://localhost:4000/lab_website/assets/publications/Gardel_2015.pdf</loc>
 <lastmod>2021-06-05T09:00:33-07:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/lab_website/assets/publications/Healey_Genetics_2022.pdf</loc>
-<lastmod>2022-04-16T12:02:54-07:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/lab_website/assets/publications/Hohenlohe(2010).pdf</loc>
