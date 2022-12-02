@@ -1,10 +1,17 @@
 ---
-title: "Graduate student Hope Healey awarded a prestigious F31 Fellowship"
+title: "Seadragon genome work highlighted in the NY Times"
 categories:
   - News
 tags:
-  - Fellowship
-  - Healey
+  - Genome
+  - Seadragon
+  - Syngnathid
 ---
 
-Congratulations to Hope Healey for being awarded a prestigious NIH Ruth Kirchstein F31 Fellowship for the next three years. This NRSA from the National Institute of Dental and Craniofacial Research (NIDCR) and will support Hope's ongoing research using single cell and CRISPR approaches to understand the evolution of development in highly divergent syngnathid fish heads and jaws. 
+Our recent work on seadragon genomes was highlighted in a very nice article in the New York Times.
+
+[read the article](https://www.nytimes.com/2022/07/07/science/seadragons-leafy-weedy.html)
+
+And a related story in Phys.org
+
+[read the article](https://phys.org/news/2022-06-sea-dragons-genes-clues-distinctive.html)
