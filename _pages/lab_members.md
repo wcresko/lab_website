@@ -71,43 +71,6 @@ interactions affect the microbe-associated gastrointestinal transcriptome of thr
 
 ____________
 
-**Martin Stervander, Postdoctoral Scholar**
-
-![](../images/lab_folks/martin.jpg){:height="200px" width="200px"}
-
-> I am broadly interested in evolutionary biology and ecology, with a passion
-for birds. In my PhD project, I used traditional and “next generation” DNA
-sequencing to study speciation processes in several groups of birds, and
-focused on natural selection on bill morphology. In my postdoc project I keep
-my eye on the feeding apparatus, but go below the surface to study the
-development and evolution of the highly derived craniofacial morphology of
-pipefishes and seahorses.
-[Martin Stervander Bio](../_pages/stervander.md)
-
-____________
-
-**Hannah Tavalire, Postdoctoral Scholar**
-
-![](../images/lab_folks/hannah2.jpg){:height="200px" width="200px"}
-
-> My broad research interests center around determining the genetic and environmental 
-basis for phenotypic traits using genomic and classical quantitative genetics approaches. 
-Specifically, I am interested in how the microbiome is shaped by host and environmental 
-factors and how host-microbe interactions affect host health and fitness in human and 
-fish populations.  
-
-____________
-
-**Sophia Frantz, Ph.D. Student**
-
-![](../images/lab_folks/sophia.jpg){:height="200px" width="200px"}
-
-> I am interested in evolutionary genetics and am researching the genetic determinants 
-of recombination rate variation and the consequences of this variation for evolutionary processes. 
-I am co-advised by Dr. Nadia Singh.
-
-____________
-
 **Hope Healey, Ph.D. Student**
 
 ![](../images/lab_folks/HopeH.jpg){:height="200px" width="200px"}
@@ -120,17 +83,15 @@ create unique morphologies such as their derived craniofacial features.
 
 ____________
 
-**Starla Chambrose, Undergraduate Researcher; Clark Honors College**
+**Shannon Snyder, Ph.D. Student**
 
-![](../images/lab_folks/Starla.PNG){:height="200px" width="200px"}
+![](../images/lab_folks/snyder.jpg){:height="200px" width="200px"}
 
-> My broad research interests include studying the genetic underpinnings of morphological 
-variation and the evolution of developmental pathways. To this end, I am currently 
-investigating the role of the evenskipped gene eve1 in threespine stickleback, which 
-appears to have a role in tooth formation and body axis determination in other teleost 
-models.
+> My dissertation work is focused on uncovering the molecular mechanisms governing within and between generational phenotypic plasticity. By capitalizing on the invasive water flea, Daphnia lumholtzi’s, dramatic morphological response to predation, I am working to disentangle the molecular and epigenetic mechanisms underlying this plastic response and its persistence over generational time.
 
 ____________
+
+
 
 # Past Members
 
@@ -160,6 +121,13 @@ ____________
 
 ____________
 
+**Martin Stervander, Postdoctoral Scholar**
+
+____________
+
+**Hannah Tavalire, Postdoctoral Scholar**
+
+
 ## Graduate Students
 
 **Kristin Sikkink**
@@ -177,6 +145,10 @@ ____________
 **Thom Nelson**
 
 > Postdoctoral Research Associate, University of Montana
+
+____________
+
+**Sophia Frantz, Ph.D. Student**
 
 ____________
 
