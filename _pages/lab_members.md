@@ -93,8 +93,6 @@ ____________
 
 **Micah Wood, Post-baccalaureate Scholar**
 
-![](../images/lab_folks/wood.png){:height="200px" width="200px"}
-
 > I currently assist with a range of projects throughout the lab. Before my role as a Post-Baccalaureate Scholar, I worked in the Cresko Lab as a Knight Campus Undergraduate Scholar under the mentorship of Hope Healey. In this role, I used in situ hybridization to explore the expression of key genes involved in the craniofacial development of zebrafish, stickleback, and pipefish. While as an undergraduate student, I also wrote, defended, and earned the Robert D. Clark Award for my thesis in philosophy of biology.
 
 ____________
