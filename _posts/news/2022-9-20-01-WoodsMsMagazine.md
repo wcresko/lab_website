@@ -1,5 +1,5 @@
 ---
-title: "Micah Woods work published in Ms. Magazine"
+title: "Micah Woods published in Ms. Magazine"
 categories:
   - News
 tags:
