@@ -14,19 +14,49 @@ excerpt: "Publications from the laboratory in reverse chronological order"
 **BOLD** indicates a graduate student at the time of publication 
 <ins>UNDERLINE</ins> indicates an undergraduate student at the time of publication
 
+## 2023
+
+C. M. Small, E. A. Beck, M. C. Currey, H. F. Tavalire, S. Bassham and W. A. Cresko. 2023. Host genomic variation shapes gut microbiome diversity in threespine stickleback fish. mBio 2023 Pages e0021923
+
+J. A. Searcy, C. C. Cioffi, H. F. Tavalire, E. L. Budd, W. A. Cresko, D. S. DeGarmo and L. D. Leve. 2023. Reaching Latinx Communities with Algorithmic Optimization for SARS-CoV-2 Testing Locations. Prev Sci 2023 Vol. 24 Issue 6 Pages 1249-1260
+
+B. Ramesh, C. M. Small, **H. Healey**, B. Johnson, **E. Barker**, M. Currey, Bassham, S. Myers, M. Cresko, W. A. Jones, A. G. Improvements to the Gulf pipefish Syngnathus scovelli genome. GigaByte 2023 Vol. 2023 Pages gigabyte76
+
+**S. I. Frantz**, C. M. Small, W. A. Cresko and N. D. Singh. 2023. Ovarian transcriptional response to Wolbachia infection in D. melanogaster in the context of between-genotype variation in gene expression. G3 (Bethesda) 2023 Vol. 13 Issue 5
+
+M. C. Currey, C. Walker, S. Bassham, H. M. Healey, E. A. Beck and W. A. Cresko. 2023. Genome-wide analysis facilitates estimation of the amount of male contribution in meiotic gynogenetic three-spined stickleback (*Gasterosteus aculeatus*). J Fish Biol 2023 Vol. 102 Issue 4 Pages 844-855
+
 ## 2022
 
-Healey, H.M., S. Bassham and W.A. Cresko. Single-cell Iso-Sequencing enables rapid genome annotation for scRNAseq analysis. Genetics. 220(3), iyac017 \[[reprint]({{ site.url }}{{ site.baseurl }}/assets/publications/2022_Healey_Genetics.pdf)\]
+C. M. Small, **H. M. Healey**, M. C. Currey, E. A. Beck, J. Catchen, A. S. P. Lin Cresko, W. A., Bassham, S. 2022. Leafy and weedy seadragon genomes connect genic and repetitive DNA features to the extravagant biology of syngnathid fishes. Proc Natl Acad Sci U S A 2022 Vol. 119 Issue 26 Pages e2119602119
+
+**Healey, H.M.**, S. Bassham and W.A. Cresko. Single-cell Iso-Sequencing enables rapid genome annotation for scRNAseq analysis. Genetics. 220(3), iyac017 \[[reprint]({{ site.url }}{{ site.baseurl }}/assets/publications/2022_Healey_Genetics.pdf)\]
+
+A. M. Petersen, C. M. Small, Y. L. Yan, C. Wilson, P. Batzel, R. A. Bremiller, Buck, C. L. von Hippel, F. A., Cresko, W. A., Postlethwait, J. H.. 2022. Evolution and developmental expression of the sodium-iodide symporter (NIS, slc5a5) gene family: Implications for perchlorate toxicology. Evol Appl 2022 Vol. 15 Issue 7 Pages 1079-1098
+
+D. S. DeGarmo, S. De Anda, C. C. Cioffi, H. F. Tavalire, J. A. Searcy, E. L. Budd, Hawley McWhirter, E., Mauricio, A. M., Halvorson, S., Beck, E. A., Fernandes, L., Currey, M. C., Ramirez Garcia, J., Cresko, W. A., Leve, L. D. 2022. Effectiveness of a COVID-19 Testing Outreach Intervention for Latinx Communities: A Cluster Randomized Trial. JAMA Netw Open 2022 Vol. 5 Issue 6 Pages e2216796
+
+E. L. Budd, E. H. McWhirter, S. De Anda, A. M. Mauricio, M. V. Mueller, C. C. Cioffi, Nash, A., Van Brocklin, K., Yarris, K., Jackson, A., Terral, H., Garcia, J. I. R., Juntos Podemos Community Scientific Advisory Board, Cresko, W. A., DeGarmo, D. S., Leve, L. D.. 2022. Development and design of a culturally tailored intervention to address COVID-19 disparities among Oregon's Latinx communities: A community case study. Front Public Health 2022 Vol. 10 Pages 962862
+
+E. A. Beck, H. M. Healey, C. M. Small, M. C. Currey, T. Desvignes, W. A. Cresko and J. H. Postlethwait. 2022. Advancing human disease research with fish evolutionary mutant models. Trends Genet 2022 Vol. 38 Issue 1 Pages 22-44.
+
+E. A. Beck, S. Bassham and W. A. Cresko. Extreme intraspecific divergence in mitochondrial haplotypes makes the threespine stickleback fish an emerging evolutionary mutant model for mito-nuclear interactions. Front Genet 2022 Vol. 13 Pages 925786. 
+
+S. Anda, E. L. Budd, S. Halvorson, A. M. Mauricio, E. H. McWhirter, C. C. Cioffi, Garcia, J. I. R., Cresko, W. A., Leve, L. D., DeGarmo, D. S.. 2022. Effects of a Health Education Intervention for COVID-19 Prevention in Latinx Communities: A Cluster-Randomized Controlled Trial. Am J Public Health 2022 Vol. 112 Issue S9 Pages S923-S927
+
+
 
 ## 2021
 
-2021 • Tavalire, H. F., D. M. Christie, L. D. Leve, N. Ting, W. A. Cresko, and B. J. M. Bohannan. 2021. Shared Environment and Genetics Shape the Gut Microbiome after Infant Adoption. mBio 12.
+Tavalire, H. F., D. M. Christie, L. D. Leve, N. Ting, W. A. Cresko, and B. J. M. Bohannan. 2021. Shared Environment and Genetics Shape the Gut Microbiome after Infant Adoption. mBio 12.
 
-2021 • Rengefors, K., R. Gollnisch, I. Sassenhagen, K. Harnstrom Aloisi, M. Svensson, K. Lebret, D. Certnerova, W. A. Cresko, S. Bassham, and D. Ahren. 2021. Genome-wide single nucleotide polymorphism markers reveal population structure and dispersal direction of an expanding nuisance algal bloom species. Mol Ecol 30:912-925.
+Rengefors, K., R. Gollnisch, I. Sassenhagen, K. Harnstrom Aloisi, M. Svensson, K. Lebret, D. Certnerova, W. A. Cresko, S. Bassham, and D. Ahren. 2021. Genome-wide single nucleotide polymorphism markers reveal population structure and dispersal direction of an expanding nuisance algal bloom species. Mol Ecol 30:912-925.
 
 2021 • **O'Connor, C. H.**, **K. L. Sikkink**, **T. C. Nelson**, J. L. Fierst, W. A. Cresko, and P. C. Phillips. 2021. Complex pleiotropic genetic architecture of evolved heat stress and oxidative stress resistance in the nematode Caenorhabditis remanei. G3 (Bethesda) 11.
 
 2021 • **Fuiten, A. M.**, and W. A. Cresko. 2021. Evolutionary divergence of a Hoxa2b hindbrain enhancer in syngnathids mimics results of functional assays. Dev Genes Evol.
+
+M. Stervander and W. A. Cresko. 2021. A highly contiguous nuclear genome assembly of the mandarinfish synchiropus splendidus (Syngnathiformes: Callionymidae). G3 (Bethesda) 2021 
 
 
 ## 2020
