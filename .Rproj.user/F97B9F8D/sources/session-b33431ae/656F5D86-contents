@@ -1,0 +1,91 @@
+---
+title: "Cresko Laboratory"
+subtitle: "Evolutionary Genomics at the University of Oregon"
+page-layout: full
+toc: false
+---
+
+:::::: home-container
+We study the genomic basis of evolutionary change using the threespine stickleback fish as our primary model system. Our research combines field studies, laboratory experiments, and computational approaches to understand how organisms adapt to changing environments.
+
+## Research Areas
+
+Our laboratory investigates fundamental questions in evolutionary biology through an integrative approach combining genomics, ecology, and bioinformatics.
+
+**Parallel Evolution & Adaptation** — We study how independent populations evolve similar solutions to environmental challenges, revealing the predictability of evolution and the genetic architecture of adaptive traits.
+
+**Host-Microbiome Dynamics** — Using stickleback as a model, we explore how host genetic variation shapes microbial communities and how these interactions influence adaptation.
+
+**Genomic Tool Development** — We developed RAD-seq technology and the Stacks software pipeline, now used by thousands of researchers worldwide for population genomics analyses.
+
+[Learn more about our projects →](projects.qmd)
+
+------------------------------------------------------------------------
+
+## Recent Highlights
+
+::::: columns-2
+<div>
+
+### Publications
+
+-   Host genomic variation shapes gut microbiome diversity (*mBio* 2023)
+-   Seadragon genomes reveal syngnathid evolution (*PNAS* 2022)
+-   Single-cell sequencing for genome annotation (*Genetics* 2022)
+
+[All publications →](publications.qmd)
+
+</div>
+
+<div>
+
+### News
+
+-   Bill Cresko awarded Lorry Lokey Endowed Chair
+-   Emily Niebergall receives Goldwater Fellowship
+-   Lab members win six conference awards
+-   Rapid evolution paper featured in PNAS
+
+[Recent updates →](posts.qmd)
+
+</div>
+:::::
+
+------------------------------------------------------------------------
+
+## Team
+
+Led by **Bill Cresko**, Professor of Biology and Associate Vice President of Research, our lab includes research scientists, postdocs, graduate students, and undergraduates working together on evolutionary questions.
+
+Current members include senior research associate **Susan Bassham**, postdoc **Martin Stervander**, and graduate students **Clayton Small**, **Emily Beck**, **Mark Currey**, and **Hannah Healey**.
+
+[Meet our team →](people.qmd)
+
+------------------------------------------------------------------------
+
+## Join Us
+
+We welcome inquiries from prospective graduate students, postdocs, and undergraduates interested in:
+
+-   Evolutionary genomics and adaptation
+-   Host-microbiome interactions
+-   Bioinformatics and computational biology
+-   Population genetics and phylogenomics
+
+[Open positions →](people.qmd#join-our-lab)
+
+------------------------------------------------------------------------
+
+## Contact
+
+**William A. Cresko, Ph.D.**\
+Institute of Ecology and Evolution\
+University of Oregon\
+312 Pacific Hall\
+Eugene, OR 97403
+
+[{{< fa envelope >}}](mailto:wcresko@uoregon.edu) wcresko\@uoregon.edu\
+[{{< fa phone >}}](tel:541-346-4779) (541) 346-4779\
+[{{< fa brands github >}}](https://github.com/creskolab) GitHub\
+[{{< fa brands twitter >}}](https://twitter.com/creskolab) Twitter
+::::::

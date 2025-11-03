@@ -1,0 +1,92 @@
+{
+  "index.qmd": {
+    "index.html": "3500946f"
+  },
+  "MIGRATION_CHECKLIST.md": {
+    "MIGRATION_CHECKLIST.html": "4ccff1b7"
+  },
+  "teaching.qmd": {
+    "teaching.html": "c40cf772"
+  },
+  "research.qmd": {
+    "research.html": "92dd36d6"
+  },
+  "posts/2017-10-20-ray-troll-visit.qmd": {
+    "2017-10-20-ray-troll-visit.html": "29cd9cd1"
+  },
+  "posts/2024-11-15-woods-ms-magazine.qmd": {
+    "2024-11-15-woods-ms-magazine.html": "e5af2558"
+  },
+  "posts/2016-07-15-conference-awards.qmd": {
+    "2016-07-15-conference-awards.html": "6b1ebcab"
+  },
+  "posts/2019-04-12-gnotobiotic-model.qmd": {
+    "2019-04-12-gnotobiotic-model.html": "ef10cec5"
+  },
+  "posts/2021-03-30-goldwater-fellowship.qmd": {
+    "2021-03-30-goldwater-fellowship.html": "8006bfad"
+  },
+  "posts/2016-02-01-scientific-american.qmd": {
+    "2016-02-01-scientific-american.html": "8f96c963"
+  },
+  "posts/2015-12-14-rapid-evolution.qmd": {
+    "2015-12-14-rapid-evolution.html": "6fcaa530"
+  },
+  "posts/2022-02-15-single-cell-method.qmd": {
+    "2022-02-15-single-cell-method.html": "f2794348"
+  },
+  "posts/2022-06-28-seadragon-genomes.qmd": {
+    "2022-06-28-seadragon-genomes.html": "a4a28d71"
+  },
+  "posts/2023-09-15-microbiome-genetics.qmd": {
+    "2023-09-15-microbiome-genetics.html": "2689aaa4"
+  },
+  "posts/2018-05-15-marie-curie-fellowship.qmd": {
+    "2018-05-15-marie-curie-fellowship.html": "f68112ce"
+  },
+  "posts/2022-09-01-nih-grant.qmd": {
+    "2022-09-01-nih-grant.html": "851618f2"
+  },
+  "posts/2019-01-15-stacks-release.qmd": {
+    "2019-01-15-stacks-release.html": "30a345bb"
+  },
+  "posts/2020-06-15-thesis-defenses.qmd": {
+    "2020-06-15-thesis-defenses.html": "bf51b9c2"
+  },
+  "posts/2024-10-01-lokey-chair.qmd": {
+    "2024-10-01-lokey-chair.html": "77dfbb42"
+  },
+  "publications_fixed.qmd": {
+    "publications_fixed.html": "6f9a1205"
+  },
+  "talks.qmd": {
+    "talks.html": "6b2fa1be"
+  },
+  "projects.qmd": {
+    "projects.html": "ed25c5f2"
+  },
+  "FORMATTING_UPDATES_COMPLETE.md": {
+    "FORMATTING_UPDATES_COMPLETE.html": "31a45707"
+  },
+  "publications.qmd": {
+    "publications.html": "ec389658"
+  },
+  "about.qmd": {
+    "about.html": "4627ee5a"
+  },
+  "people.qmd": {
+    "people.html": "bb6e8d54"
+  },
+  "people/bill-cresko.qmd": {
+    "bill-cresko.html": "8eca8eeb"
+  },
+  "posts.qmd": {
+    "posts.html": "c3d6446c"
+  },
+  "FILES_TO_DEPLOY.md": {
+    "FILES_TO_DEPLOY.html": "8232fb19"
+  },
+  "DEPLOYMENT_GUIDE.md": {
+    "DEPLOYMENT_GUIDE.html": "b366e3da"
+  }
+}
