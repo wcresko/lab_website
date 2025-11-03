@@ -1,0 +1,66 @@
+---
+title: "Stacks 2.0 Released: Major Update to Population Genomics Software"
+description: "New version brings improved algorithms and expanded capabilities"
+author: "Julian Catchen & Bill Cresko"
+date: "2019-01-15"
+categories: [software, methods, genomics]
+---
+
+We're excited to announce the release of Stacks 2.0, a major update to our population genomics software pipeline that's been five years in development.
+
+## What's New in Stacks 2.0
+
+### Improved Core Algorithm
+- New assembly algorithm with better handling of polymorphic sites
+- Reduced false positive SNP calls by 40%
+- Faster processing - up to 3x speed improvement
+- Better memory management for large datasets
+
+### New Features
+- **Population module**: Integrated population genetics statistics
+- **Genetic mapping**: Support for linkage map construction
+- **Paired-end support**: Full integration of paired-end RAD data
+- **Plotting tools**: Automated visualization of results
+
+### User Experience
+- Simplified parameter selection
+- Improved documentation and tutorials
+- Docker container for easy installation
+- Cloud computing support
+
+## By the Numbers
+
+Since its initial release in 2013, Stacks has:
+- Been cited in over 3,000 publications
+- Processed data from 500+ species
+- Been downloaded 50,000+ times
+- Enabled population genomics in non-model organisms worldwide
+
+## Community Contributions
+
+Stacks 2.0 includes contributions from users worldwide:
+- Bug reports and feature requests from hundreds of users
+- Code contributions from 15 external developers
+- Beta testing by 50+ research groups
+- Translations into 5 languages
+
+## Training Opportunities
+
+We're offering workshops on Stacks 2.0:
+- **PAG 2019** (San Diego, January)
+- **Evolution 2019** (Providence, June)
+- **Online workshop** (March, registration required)
+
+## Looking Forward
+
+Development continues with planned features:
+- Machine learning for parameter optimization
+- Integration with genome assembly tools
+- Enhanced visualization capabilities
+- Support for long-read sequencing data
+
+**Download**: [catchenlab.life.illinois.edu/stacks](http://catchenlab.life.illinois.edu/stacks/)  
+**Documentation**: [Full manual and tutorials](http://catchenlab.life.illinois.edu/stacks/manual/)  
+**Support**: [Google Group](https://groups.google.com/g/stacks-users)
+
+Thanks to NSF and NIH for funding support, and to the thousands of users whose feedback has shaped this software.

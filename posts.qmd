@@ -1,0 +1,15 @@
+---
+title: "Blog"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: false
+  fields: [date, title, description]
+  date-format: "MMMM D, YYYY"
+  max-items: 20
+  feed: true
+page-layout: article
+---
+
+Recent news, research updates, and highlights from the Cresko Laboratory.

@@ -1,0 +1,34 @@
+---
+title: "Fish Evolved Rapidly After 1964 Alaska Earthquake"
+description: "Stickleback populations show evolutionary changes in less than 50 years following geological uplift"
+author: "Cresko Lab"
+date: "2015-12-14"
+image: "alaska-uplift.jpg"
+categories: [publication, evolution, research]
+---
+
+Our latest research published in PNAS shows that evolution can happen remarkably quickly - even within decades. Working with University of Alaska collaborators, we studied threespine stickleback populations that were isolated in freshwater ponds following the 1964 Alaska earthquake.
+
+## Key Findings
+
+The stranded fish experienced changes in both their genes and visible external traits including:
+- Eye morphology
+- Body shape and color
+- Bone size and body armor
+- Genetic markers for freshwater adaptation
+
+These adaptations occurred in less than 50 years - and in some populations, evidence suggests changes occurred in fewer than 10 years.
+
+## Implications
+
+"We've now moved the timescale of the evolution of stickleback fish to decades," says Bill Cresko, the study's lead author. "For the field, it indicates that evolutionary change can happen quickly, and this likely has been happening with other organisms as well."
+
+This research opens a window on how climate change could affect species adaptation. As Susan Bassham, co-author and senior research associate notes, stickleback have evolved as a species with regions of their genomes alternatively honed for either freshwater or marine life, allowing rapid adaptation when environments change.
+
+## Methods
+
+The team used RAD-seq technology developed at UO to analyze genetic changes across the genome. This same technology previously revealed how stickleback adapted to freshwater after glaciers receded 13,000 years ago - but the new study shows this can happen orders of magnitude faster.
+
+**Publication**: Bassham S, Catchen J, Lescak E, von Hippel FA, Cresko WA (2015). Evolution of stickleback in 50 years on earthquake-uplifted islands. *PNAS* 112(52):E7204-E7212.
+
+[Read the paper](https://doi.org/10.1073/pnas.1512020112) | [UO News Coverage](https://news.uoregon.edu/content/uo-led-study-shows-fish-evolved-rapidly-after-1964-alaska-quake)

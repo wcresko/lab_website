@@ -1,0 +1,73 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Cresko Laboratory"
+  description: "An evolutionary genomics laboratory at the University of Oregon"
+  favicon: files/images/favicon.ico
+  site-url: https://wcresko.github.io/
+  repo-url: https://github.com/wcresko/wcresko.github.io
+  page-navigation: true
+  
+  navbar:
+    background: "#ffffff"
+    foreground: "#404040"
+    title: "Cresko Laboratory"
+    logo: files/images/lab-logo.png
+    logo-alt: "Cresko Laboratory"
+    left:
+      - text: "About"
+        href: about.qmd
+      - text: "Projects"
+        href: projects.qmd
+      - text: "Team"
+        href: people.qmd
+      - text: "Publications"
+        href: publications.qmd
+      - text: "Talks"
+        href: talks.qmd
+      - text: "Blog"
+        href: posts.qmd
+      - text: "Teaching"
+        href: teaching.qmd
+    right:
+      - icon: github
+        href: https://github.com/wcresko
+        aria-label: "GitHub"
+      - icon: twitter
+        href: https://twitter.com/creskolab
+        aria-label: "Twitter"
+      - icon: envelope
+        href: mailto:wcresko@uoregon.edu
+        aria-label: "Email"
+
+  page-footer:
+    background: "#ffffff"
+    border: true
+    left: |
+      © 2024 Cresko Laboratory
+    center: |
+      Built with [Quarto](https://quarto.org/)
+    right: |
+      [University of Oregon](https://uoregon.edu)
+
+format:
+  html:
+    theme: 
+      - litera
+      - theme-custom.scss
+    fontsize: 0.95rem
+    linestretch: 1.6
+    toc: false
+    page-layout: full
+    link-external-icon: true
+    link-external-newwindow: true
+    smooth-scroll: true
+    anchor-sections: false
+    css: styles.css
+
+execute:
+  freeze: auto
+
+editor: visual

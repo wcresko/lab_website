@@ -1,0 +1,27 @@
+---
+title: "Micah Woods Published in Ms. Magazine"
+author: "Cresko Lab"
+date: "2024-11-15"
+categories: [publication, achievement, undergraduate]
+image: "micah-woods.jpg"
+draft: false
+---
+
+Congratulations to post-baccalaureate scholar Micah Woods for their work being published in Ms. Magazine! 
+
+Micah's article highlights the incredible contributions of Dr. Kata Karáth and other pioneering women scientists who have shaped our understanding of evolutionary biology and genetics. This publication represents not only excellent science communication but also important work in documenting the history of women in STEM fields.
+
+## About the Article
+
+The piece explores how Dr. Karáth's groundbreaking research has influenced modern genomics, despite facing significant barriers as a woman in science during the mid-20th century. Micah's careful research and compelling writing bring deserved attention to these often-overlooked contributions.
+
+## Micah's Research
+
+In addition to science writing, Micah has been conducting research in our laboratory on:
+- Population genomics of Oregon stickleback populations
+- Host-microbiome interactions
+- Bioinformatic pipeline development
+
+We're incredibly proud of Micah's achievement in bringing important stories from the history of science to a broader audience!
+
+[Read the article in Ms. Magazine →](https://msmagazine.com/)

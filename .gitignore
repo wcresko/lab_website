@@ -1,0 +1,60 @@
+# Quarto
+/.quarto/
+_site/
+_book/
+
+# R/RStudio
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+env/
+venv/
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Rendered output (if not using docs/)
+_site/
+_book/
+
+# Cache
+.cache/
+*_cache/
+*_files/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+.temp/
+.tmp/
+
+# Environment variables
+.env
+.env.local
+
+# Node modules (if using any JavaScript tools)
+node_modules/
+
+# Personal notes
+notes.md
+TODO.md

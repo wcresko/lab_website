@@ -1,0 +1,66 @@
+---
+title: "Seadragon Genomes Reveal Secrets of Syngnathid Evolution"
+description: "Major publication uncovers genomic basis of unique traits in seahorses and relatives"
+author: "Cresko Lab"
+date: "2022-06-28"
+categories: [publication, genomics, evolution]
+---
+
+Our collaborative team has published the first high-quality genomes of leafy and weedy seadragons in PNAS, revealing the genomic innovations underlying the spectacular biology of syngnathid fishes.
+
+## Evolutionary Marvels
+
+Syngnathid fishes (seahorses, pipefishes, and seadragons) exhibit some of nature's most remarkable adaptations:
+- Male pregnancy - unique among vertebrates
+- Loss of pelvic fins and ribs
+- Elaborate leaf-like appendages in seadragons
+- Prehensile tails in seahorses
+- Absence of stomach and teeth
+
+## Key Genomic Discoveries
+
+Our analysis revealed:
+
+### Transposable Element Expansion
+- Seadragon genomes contain 20-25% transposable elements
+- Higher than other teleost fish (typically 5-10%)
+- May drive rapid morphological evolution
+
+### Gene Family Evolution
+- Loss of genes for stomach development (consistent with anatomy)
+- Expansion of immune gene families (possibly related to male pregnancy)
+- Modified developmental gene regulation
+
+### Comparative Insights
+Comparing seadragons with seahorses and pipefish revealed:
+- Convergent gene losses across lineages
+- Lineage-specific innovations for unique traits
+- Rapid evolution of reproductive genes
+
+## Team Effort
+
+This project represents six years of collaboration involving:
+- **Lead authors**: Clayton Small, Hope Healey, Mark Currey
+- **International partners**: Australia, Germany, Sweden
+- **Sequencing**: PacBio long-reads plus Hi-C scaffolding
+- **Computational**: Custom annotation pipeline for non-model organisms
+
+## Conservation Implications
+
+Both seadragon species are near-threatened. Our genomic resources will aid:
+- Population genetics for conservation management
+- Understanding adaptive potential
+- Identifying populations at risk
+- Informing protection strategies
+
+## Open Data
+
+All data are publicly available:
+- Genome assemblies on NCBI
+- Annotation files on FigShare
+- Analysis code on GitHub
+- Protocols on protocols.io
+
+**Publication**: Small CM, Healey HM, Currey MC, Beck EA, Catchen J, Lin ASP, Cresko WA, Bassham S (2022). Leafy and weedy seadragon genomes connect genic and repetitive DNA features to the extravagant biology of syngnathid fishes. *PNAS* 119(26):e2119602119.
+
+[Read the paper](https://doi.org/10.1073/pnas.2119602119) | [Press release](https://around.uoregon.edu/)

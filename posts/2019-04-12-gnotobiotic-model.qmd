@@ -1,0 +1,54 @@
+---
+title: "Developing the Gnotobiotic Stickleback Model"
+description: "New system enables controlled studies of host-microbiome interactions"
+author: "Clayton Small"
+date: "2019-04-12"
+categories: [methods, microbiome, research]
+---
+
+Our lab has successfully developed methods for generating and maintaining germ-free (gnotobiotic) threespine stickleback, opening new avenues for studying host-microbiome interactions under controlled conditions.
+
+## Why Gnotobiotic Fish?
+
+Gnotobiotic animals - those with no microbes or only known microbes - are essential for understanding:
+- How specific microbes affect host biology
+- The role of microbiomes in development and immunity
+- Host genetic effects on microbiome assembly
+- Causality in host-microbe associations
+
+Until now, gnotobiotic techniques were limited to a few model organisms like mice and zebrafish. Extending these methods to stickleback leverages their natural genetic variation and ecological diversity.
+
+## Technical Innovation
+
+Developing gnotobiotic stickleback required overcoming several challenges:
+
+1. **Sterile derivation**: Removing all microbes from eggs without damaging development
+2. **Sterile maintenance**: Keeping fish microbe-free for months
+3. **Validation**: Confirming absence of microbes using multiple methods
+4. **Controlled colonization**: Adding specific microbes to study their effects
+
+Our protocol, refined over two years, achieves >95% success rate in generating germ-free fish that develop normally.
+
+## Research Applications
+
+This system enables us to:
+- Test how specific host genes affect microbiome assembly
+- Measure microbe-specific effects on host gene expression
+- Study immune system development in the absence of microbes
+- Perform controlled evolution experiments with defined microbial communities
+
+## First Results
+
+Initial experiments reveal:
+- Germ-free stickleback have altered intestinal development
+- Immune gene expression differs dramatically without microbes
+- Colonization with different bacteria produces distinct host responses
+- Host genotype influences which microbes successfully colonize
+
+## Open Science
+
+We're preparing a detailed protocol paper and video tutorial to help other labs adopt this system. This tool will accelerate host-microbiome research across the stickleback community.
+
+**Funding**: This work is supported by NIH grant R01GM130777 and the META Center for Systems Biology.
+
+[Contact us](mailto:csmall@uoregon.edu) for protocol details or collaboration opportunities.

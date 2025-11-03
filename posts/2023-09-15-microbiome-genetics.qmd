@@ -1,0 +1,32 @@
+---
+title: "Host Genetics Shapes Gut Microbiome Diversity"
+description: "New study reveals how genetic variation influences microbial communities in stickleback fish"
+author: "Clayton Small & Emily Beck"
+date: "2023-09-15"
+categories: [microbiome, publication, research]
+---
+
+Our latest paper in *mBio* demonstrates that host genetic variation significantly influences gut microbiome composition, with implications for understanding host-microbe coevolution.
+
+## Key Findings
+
+Using two genetically divergent stickleback populations maintained in identical laboratory conditions, we found:
+
+- **Host genotype effects**: Specific genetic variants associated with microbiome composition
+- **High individual variation**: Even siblings showed substantial microbiome differences
+- **Core microbiome**: Certain microbial taxa consistently associated with host genotype
+
+## Technical Innovation
+
+The study also established highly reproducible methods for 16S sequencing in fish, addressing a critical need for standardization in microbiome research. Our two-tiered approach achieves >95% reproducibility for abundant taxa.
+
+## Broader Impacts
+
+This work contributes to understanding:
+- How host evolution shapes associated microbial communities
+- The heritability of microbiome traits
+- Potential for microbiome-based therapies
+
+**Publication**: Small CM, Beck EA, Currey MC, Tavalire HF, Bassham S, Cresko WA (2023). Host genomic variation shapes gut microbiome diversity in threespine stickleback fish. *mBio* e0021923.
+
+[Read the paper](https://doi.org/10.1128/mbio.00219-23) | [Data available on NCBI](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA903943)

@@ -1,0 +1,24 @@
+---
+title: "Bill Cresko Awarded Lorry Lokey Endowed Chair"
+description: "Recognition for outstanding contributions to science and the university"
+author: "Cresko Lab"
+date: "2024-10-01"
+image: "lokey-chair.jpg"
+draft: false
+---
+
+Professor Bill Cresko has been awarded a Lorry Lokey Endowed Chair in recognition of the outstanding contributions that he and his laboratory have made to the University of Oregon's mission.
+
+The Lorry Lokey Endowed Chairs represent one of the highest honors the University can bestow upon its faculty, reserved for scholars who have demonstrated exceptional achievement in their fields.
+
+This recognition celebrates Bill's many contributions to science and the university:
+
+- Development of RAD-seq technology and the Stacks software pipeline, now used by thousands of researchers worldwide
+- Nearly 100 publications advancing our understanding of evolutionary genomics
+- Service as Associate Vice President of Research and leader of the Presidential Initiative in Data Science
+- Training dozens of students and postdocs who have gone on to successful careers
+- Fostering collaborative research across campus and internationally
+
+The endowed chair will provide additional resources to support the Cresko Lab's cutting-edge research in evolutionary genomics and the development of new computational tools for biology.
+
+We thank the Lorry I. Lokey Foundation for their generous support of scientific research and education at the University of Oregon.

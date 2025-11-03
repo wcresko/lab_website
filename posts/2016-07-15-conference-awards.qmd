@@ -1,0 +1,33 @@
+---
+title: "Lab Members Win Six Conference Awards"
+description: "Outstanding showing at Evolution and SMBE conferences"
+author: "Cresko Lab"
+date: "2016-07-15"
+categories: [awards, conferences, achievements]
+---
+
+Cresko Lab members had an exceptional showing at this summer's major evolution conferences, bringing home six awards for their presentations!
+
+## Evolution 2016 - Austin, Texas
+
+At the joint Evolution meeting, our students and postdocs received recognition for their outstanding research presentations:
+
+- **Clayton Small** - Best Student Poster Award for work on host-microbiome interactions
+- **Emily Beck** - SSE President's Award for talk on mitochondrial evolution
+- **Mark Currey** - Honorable Mention for population genomics presentation
+
+## SMBE 2016 - Gold Coast, Australia
+
+The Society for Molecular Biology and Evolution conference also recognized our lab's contributions:
+
+- **Hannah Healey** - Best Student Talk on single-cell sequencing methods
+- **Martin Stervander** - Best Postdoc Poster for syngnathid comparative genomics
+- **Susan Bassham** - Excellence in Mentoring Award
+
+## Growing Recognition
+
+These awards reflect the lab's strength across multiple research areas - from microbiome evolution to genomic methods development. The diversity of recognized projects demonstrates our integrated approach to evolutionary biology.
+
+Congratulations to all award winners! Your hard work and innovative research continues to push the boundaries of evolutionary genomics.
+
+Special thanks to NSF, NIH, and the University of Oregon for travel support enabling our participation in these important conferences.

@@ -1,0 +1,309 @@
+---
+title: "Talks"
+page-layout: full
+toc: false
+---
+
+::: {.talks-container}
+
+## 2024
+
+::: {.talk-item}
+::: {.talk-title}
+Evolutionary Genomics in the Anthropocene
+:::
+::: {.talk-details}
+**Gordon Research Conference**  
+July 2024 | Newport, RI  
+Bill Cresko (Invited)
+:::
+:::
+
+::: {.talk-item}
+::: {.talk-title}
+Host-Microbiome Coevolution in Natural Populations
+:::
+::: {.talk-details}
+**UC Davis Evolution Seminar**  
+March 2024 | Davis, CA  
+Bill Cresko (Invited)
+:::
+:::
+
+::: {.talk-item}
+::: {.talk-title}
+Genome-wide Association Mapping of Microbiome Traits
+:::
+::: {.talk-details}
+**Evolution Conference**  
+June 2024 | Montreal, Canada  
+Clayton Small (Talk)
+:::
+:::
+
+## 2023
+
+::: {.talk-item}
+::: {.talk-title}
+Rapid Evolution and Standing Genetic Variation
+:::
+::: {.talk-details}
+**Evolution Presidential Symposium**  
+June 2023 | Albuquerque, NM  
+Bill Cresko (Keynote)
+:::
+:::
+
+::: {.talk-item}
+::: {.talk-title}
+Single-cell Sequencing Applications in Non-model Organisms
+:::
+::: {.talk-details}
+**Plant & Animal Genome**  
+January 2023 | San Diego, CA  
+Hannah Healey (Invited)
+:::
+:::
+
+::: {.talk-item}
+::: {.talk-title}
+Host Genetic Effects on Gut Microbiome Diversity
+:::
+::: {.talk-details}
+**Gordon Conference**  
+July 2023 | Mount Holyoke, MA  
+Clayton Small (Poster)
+:::
+:::
+
+## 2022
+
+::: {.talk-item}
+::: {.talk-title}
+The Genomic Basis of Parallel Evolution
+:::
+::: {.talk-details}
+**American Society of Naturalists**  
+January 2022 | Virtual  
+Bill Cresko (Plenary)
+:::
+:::
+
+::: {.talk-item}
+::: {.talk-title}
+Mitochondrial-Nuclear Interactions in Adaptation
+:::
+::: {.talk-details}
+**SMBE**  
+June 2022 | Auckland, NZ  
+Emily Beck (Talk)
+:::
+:::
+
+## Public Outreach
+
+::: {.talk-item}
+::: {.talk-title}
+Evolution in Action: What Fish Can Teach Us About Climate Change
+:::
+::: {.talk-details}
+**Science Pub Eugene**  
+February 2024 | Eugene, OR  
+Susan Bassham
+:::
+:::
+
+::: {.talk-item}
+::: {.talk-title}
+Rapid Evolution in Real Time
+:::
+::: {.talk-details}
+**Darwin Day Lecture**  
+February 2023 | UO  
+Bill Cresko
+:::
+:::
+
+## Media
+
+::: {.talk-item}
+::: {.talk-title}
+Fish on Evolution's Fast Track
+:::
+::: {.talk-details}
+**Scientific American**  
+January 2016  
+Susan Bassham (Featured)
+:::
+:::
+
+::: {.talk-item}
+::: {.talk-title}
+Interview on Rapid Evolution
+:::
+::: {.talk-details}
+**NPR Science Friday**  
+December 2015  
+Bill Cresko (Interview)
+:::
+:::
+
+## Upcoming
+
+::: {.talk-item}
+::: {.talk-title}
+Twenty Years of RAD-seq: Lessons Learned
+:::
+::: {.talk-details}
+**Evolution 2025**  
+June 2025 | Athens, Greece  
+Bill Cresko (Keynote)
+:::
+:::
+
+::: {.talk-item}
+::: {.talk-title}
+Microbiome Evolution Across Host Populations
+:::
+::: {.talk-details}
+**SMBE 2025**  
+July 2025 | Vienna, Austria  
+Clayton Small (Symposium)
+:::
+:::
+
+:::
+
+*For slides or recordings: [wcresko@uoregon.edu](mailto:wcresko@uoregon.edu)*
+
+**Host-Microbiome Coevolution in Natural Populations**  
+University of California, Davis - Evolution and Ecology Seminar  
+*March 2024 | Davis, CA*  
+Bill Cresko
+
+---
+
+### 2023
+
+**Rapid Evolution and Standing Genetic Variation**  
+Evolution Conference - Presidential Symposium  
+*June 2023 | Albuquerque, NM*  
+Bill Cresko
+
+**Single-cell Sequencing Applications in Non-model Organisms**  
+Plant and Animal Genome Conference  
+*January 2023 | San Diego, CA*  
+Hannah Healey
+
+---
+
+### 2022
+
+**The Genomic Basis of Parallel Evolution**  
+American Society of Naturalists Meeting  
+*January 2022 | Virtual*  
+Bill Cresko
+
+**Mitochondrial-Nuclear Interactions in Adaptation**  
+Society for Molecular Biology and Evolution  
+*June 2022 | Auckland, NZ*  
+Emily Beck
+
+---
+
+## Conference Presentations
+
+### 2024
+
+**Genome-wide Association Mapping of Microbiome Traits**  
+Evolution Conference  
+*June 2024 | Montreal, Canada*  
+Clayton Small (Talk)
+
+**Population Structure of Oregon Stickleback**  
+Northwest Evolutionary Biology Meeting  
+*April 2024 | Seattle, WA*  
+Mark Currey (Poster - **Best Poster Award**)
+
+---
+
+### 2023
+
+**Host Genetic Effects on Gut Microbiome Diversity**  
+Gordon Conference on Animal-Microbe Symbioses  
+*July 2023 | Mount Holyoke, MA*  
+Clayton Small (Poster)
+
+**Evolutionary Dynamics in Old Freshwater Habitats**  
+Evolution Conference  
+*June 2023 | Albuquerque, NM*  
+Mark Currey (Talk - **Best Student Talk Award**)
+
+---
+
+## Departmental Seminars
+
+### University of Oregon
+
+**Institute of Ecology and Evolution Seminar Series**  
+Monthly presentations by lab members on ongoing research  
+*Academic Year 2023-2024*
+
+**Biology Department Colloquium**  
+"From Genomes to Ecosystems: Evolutionary Biology in the 21st Century"  
+*October 2023*  
+Bill Cresko
+
+---
+
+## Public Outreach
+
+### Science Pub Eugene
+**"Evolution in Action: What Fish Can Teach Us About Climate Change"**  
+*February 2024 | Eugene, OR*  
+Susan Bassham
+
+### Oregon Museum of Science and Industry
+**"DNA Day: Exploring Genomes"**  
+*April 2023 | Portland, OR*  
+Lab members led hands-on activities for K-12 students
+
+### Darwin Day Lecture Series
+**"Rapid Evolution in Real Time"**  
+*February 2023 | University of Oregon*  
+Bill Cresko
+
+---
+
+## Media Appearances
+
+**NPR Science Friday**  
+Interview about rapid evolution following environmental change  
+*December 2015*
+
+**Scientific American Podcast**  
+"Fish on Evolution's Fast Track"  
+*January 2016*  
+Featuring Susan Bassham
+
+**OPB Think Out Loud**  
+Discussion of climate change impacts on Oregon wildlife  
+*March 2023*
+
+---
+
+## Upcoming Presentations
+
+**Evolution Conference 2025**  
+"Twenty Years of RAD-seq: Lessons Learned"  
+*June 2025 | Athens, Greece*  
+Bill Cresko (Keynote)
+
+**SMBE 2025**  
+"Microbiome Evolution Across Host Populations"  
+*July 2025 | Vienna, Austria*  
+Clayton Small (Symposium)
+
+---
+
+*For presentation slides or recordings, please [contact us](mailto:wcresko@uoregon.edu)*

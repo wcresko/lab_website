@@ -1,0 +1,33 @@
+---
+title: "New Method for Genome Annotation Using Single-Cell Sequencing"
+description: "Lab develops novel approach combining single-cell Iso-Sequencing with scRNA-seq for improved genome annotation"
+author: "Cresko Lab"
+date: "2022-02-15"
+categories: [methods, publication, genomics]
+---
+
+Hope Healey and Susan Bassham have published an innovative method in *Genetics* that dramatically improves genome annotation for non-model organisms using single-cell sequencing technologies.
+
+## The Challenge
+
+Genome annotation - identifying genes and their functions - remains a major bottleneck for studying non-model organisms. Traditional methods often miss genes expressed only in specific cell types or developmental stages.
+
+## Our Solution
+
+The team developed a pipeline combining:
+- Single-cell RNA sequencing (scRNA-seq) for cell-type-specific expression
+- Long-read Iso-Sequencing for full-length transcripts
+- Custom computational tools for integration
+
+This approach identified hundreds of previously unannotated genes in the threespine stickleback genome, improving our ability to study cell-type-specific gene expression.
+
+## Applications
+
+The method is particularly valuable for:
+- Evolutionary developmental biology studies
+- Understanding cell-type evolution
+- Improving genome resources for ecological model systems
+
+**Publication**: Healey HM, Bassham S, Cresko WA (2022). Single-cell Iso-Sequencing enables rapid genome annotation for scRNAseq analysis. *Genetics* 220(3):iyac017.
+
+[Read the paper](https://doi.org/10.1093/genetics/iyac017) | [GitHub repository](https://github.com/creskolab/sc-isoseq)
