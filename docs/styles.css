@@ -1,0 +1,495 @@
+/* Custom CSS for Cresko Laboratory Website */
+/* Clean, minimal design inspired by academic personal sites */
+
+/* Remove default margins for cleaner layout */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Navbar title styling */
+.navbar-brand,
+.navbar-title {
+  font-family: 'DM Serif Display', Georgia, serif !important;
+  font-size: 1.25rem !important;
+  font-weight: 400 !important;
+  color: #2D3748 !important;
+}
+
+/* Main content container */
+.content {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 1.5rem 1.5rem;
+  font-size: 0.95rem;
+}
+
+/* Homepage specific styles */
+.home-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem;
+  font-size: 0.95rem;
+}
+
+.home-content {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem;
+  font-size: 0.95rem;
+}
+
+/* Profile section for homepage */
+.profile-section {
+  display: flex;
+  gap: 2rem;
+  align-items: flex-start;
+  margin-bottom: 2rem;
+}
+
+.profile-image {
+  flex-shrink: 0;
+}
+
+.profile-image img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 4px solid white;
+  box-shadow: 0 10px 25px -10px rgba(0, 0, 0, 0.2);
+}
+
+.profile-text {
+  flex-grow: 1;
+}
+
+.profile-text h1 {
+  font-family: 'DM Serif Display', Georgia, serif;
+  font-size: 1.875rem;
+  margin-bottom: 0.5rem;
+  color: #2D3748;
+}
+
+.profile-text .tagline {
+  font-size: 1.1rem;
+  color: #6C757D;
+  margin-bottom: 1rem;
+}
+
+/* Icon links in profile */
+.social-links {
+  display: flex;
+  gap: 0.75rem;
+  margin-top: 1rem;
+}
+
+.social-links a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  background-color: #F7F7F9;
+  color: #663399;
+  text-decoration: none;
+  transition: all 0.2s ease;
+  font-size: 0.9rem;
+}
+
+.social-links a:hover {
+  background-color: #663399;
+  color: white;
+  transform: translateY(-2px);
+}
+
+/* Section spacing */
+section {
+  margin: 2.5rem 0;
+}
+
+/* Grid layout for features/highlights */
+.features-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+/* Image handling */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.feature-image {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 0.5rem;
+  margin-bottom: 0.75rem;
+}
+
+/* Responsive columns */
+.columns-2 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
+  margin: 1.5rem 0;
+}
+
+/* List styles */
+.feature-list {
+  list-style: none;
+  padding: 0;
+  font-size: 0.95rem;
+}
+
+.feature-list li {
+  position: relative;
+  padding-left: 1.25rem;
+  margin-bottom: 0.5rem;
+}
+
+.feature-list li:before {
+  content: "▸";
+  position: absolute;
+  left: 0;
+  color: #663399;
+  font-weight: bold;
+}
+
+/* Publication list improvements */
+.pub-list {
+  list-style: none;
+  padding: 0;
+}
+
+.pub-list li {
+  padding: 1rem 0;
+  border-bottom: 1px solid #E2E8F0;
+}
+
+.pub-list li:last-child {
+  border-bottom: none;
+}
+
+/* Publications page - two-column layout like Silvia Canelón */
+.publications-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem;
+}
+
+.publication-item {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 2rem;
+  padding: 1.5rem 0;
+  border-bottom: 1px solid #E2E8F0;
+  align-items: baseline;
+}
+
+.publication-item:last-child {
+  border-bottom: none;
+}
+
+.publication-left {
+  font-size: 1.1rem;
+  line-height: 1.5;
+}
+
+.publication-left a {
+  color: #2D3748;
+  text-decoration: none;
+  font-weight: 500;
+  transition: color 0.2s ease;
+}
+
+.publication-left a:hover {
+  color: #663399;
+}
+
+.publication-right {
+  font-size: 0.9rem;
+  color: #6C757D;
+  line-height: 1.4;
+  text-align: right;
+}
+
+/* Responsive layout for publications */
+@media (max-width: 768px) {
+  .publication-item {
+    grid-template-columns: 1fr;
+    gap: 0.5rem;
+  }
+  
+  .publication-right {
+    text-align: left;
+    margin-top: 0.5rem;
+  }
+}
+
+/* Metrics section at bottom */
+.metrics-section {
+  text-align: center;
+  padding: 3rem 0 2rem;
+  border-top: 2px solid #E2E8F0;
+  margin-top: 3rem;
+}
+
+.metrics-section h2 {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+/* News/Blog improvements */
+.news-grid {
+  display: grid;
+  gap: 1.5rem;
+  margin: 1.5rem 0;
+}
+
+.news-item {
+  padding: 1rem 0;
+  border-bottom: 1px solid #E2E8F0;
+}
+
+.news-item:last-child {
+  border-bottom: none;
+}
+
+.news-date {
+  font-size: 0.85rem;
+  color: #6C757D;
+  margin-bottom: 0.25rem;
+}
+
+.news-title {
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.news-summary {
+  color: #404040;
+  line-height: 1.5;
+  font-size: 0.95rem;
+}
+
+/* Projects page - two-column layout */
+.projects-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem;
+}
+
+.project-item {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 2rem;
+  padding: 1.5rem 0;
+  border-bottom: 1px solid #E2E8F0;
+  align-items: start;
+}
+
+.project-item:last-child {
+  border-bottom: none;
+}
+
+.project-title {
+  font-size: 1.1rem;
+  line-height: 1.5;
+}
+
+.project-title a {
+  color: #2D3748;
+  text-decoration: none;
+  font-weight: 500;
+  transition: color 0.2s ease;
+}
+
+.project-title a:hover {
+  color: #663399;
+}
+
+.project-details {
+  font-size: 0.9rem;
+  color: #6C757D;
+  line-height: 1.4;
+  text-align: right;
+}
+
+/* Talks page - two-column layout */
+.talks-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem;
+}
+
+.talk-item {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 2rem;
+  padding: 1.5rem 0;
+  border-bottom: 1px solid #E2E8F0;
+  align-items: start;
+}
+
+.talk-item:last-child {
+  border-bottom: none;
+}
+
+.talk-title {
+  font-size: 1.1rem;
+  line-height: 1.5;
+  font-weight: 500;
+  color: #2D3748;
+}
+
+.talk-details {
+  font-size: 0.9rem;
+  color: #6C757D;
+  line-height: 1.4;
+  text-align: right;
+}
+
+/* Responsive layouts */
+@media (max-width: 768px) {
+  .project-item,
+  .talk-item {
+    grid-template-columns: 1fr;
+    gap: 0.5rem;
+  }
+  
+  .project-details,
+  .talk-details {
+    text-align: left;
+    margin-top: 0.5rem;
+  }
+}
+
+/* Contact section */
+.contact-info {
+  background-color: #F7F7F9;
+  padding: 1.5rem;
+  border-radius: 0.5rem;
+  margin: 2rem 0;
+  font-size: 0.95rem;
+}
+
+.contact-info h3 {
+  margin-bottom: 0.75rem;
+  color: #2D3748;
+  font-size: 1.25rem;
+}
+
+.contact-info p {
+  margin-bottom: 0.5rem;
+  line-height: 1.5;
+  font-size: 0.95rem;
+}
+
+/* Media queries for responsive design */
+@media (max-width: 768px) {
+  .profile-section {
+    flex-direction: column;
+    text-align: center;
+  }
+  
+  .profile-image {
+    margin: 0 auto;
+  }
+  
+  .social-links {
+    justify-content: center;
+  }
+  
+  .columns-2 {
+    grid-template-columns: 1fr;
+  }
+  
+  .home-content {
+    padding: 2rem 1rem;
+  }
+}
+
+/* Print styles */
+@media print {
+  .navbar,
+  .footer,
+  .social-links {
+    display: none;
+  }
+  
+  body {
+    font-size: 12pt;
+    line-height: 1.5;
+  }
+  
+  a {
+    color: black;
+    text-decoration: none;
+  }
+  
+  a[href]:after {
+    content: " (" attr(href) ")";
+  }
+}
+
+/* Accessibility improvements */
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+/* Focus styles for keyboard navigation */
+a:focus,
+button:focus,
+input:focus,
+textarea:focus {
+  outline: 2px solid #663399;
+  outline-offset: 2px;
+}
+
+/* Skip to main content link */
+.skip-link {
+  position: absolute;
+  top: -40px;
+  left: 0;
+  background: #663399;
+  color: white;
+  padding: 8px;
+  text-decoration: none;
+  border-radius: 0 0 4px 0;
+}
+
+.skip-link:focus {
+  top: 0;
+}
+
+/* Utility classes */
+.text-center {
+  text-align: center;
+}
+
+.mt-4 {
+  margin-top: 2rem;
+}
+
+.mb-4 {
+  margin-bottom: 2rem;
+}
+
+.text-muted {
+  color: #6C757D;
+}

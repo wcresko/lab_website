@@ -14,7 +14,7 @@ website:
     background: "#ffffff"
     foreground: "#404040"
     title: "Cresko Laboratory"
-    logo: files/images/lab-logo.png
+    logo: /images/male_beaker.jpg
     logo-alt: "Cresko Laboratory"
     left:
       - text: "About"

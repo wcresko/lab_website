@@ -1,0 +1,663 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Cresko Laboratory</title>
+<link>https://wcresko.github.io/posts.html</link>
+<atom:link href="https://wcresko.github.io/posts.xml" rel="self" type="application/rss+xml"/>
+<description>An evolutionary genomics laboratory at the University of Oregon</description>
+<generator>quarto-1.7.30</generator>
+<lastBuildDate>Fri, 15 Nov 2024 08:00:00 GMT</lastBuildDate>
+<item>
+  <title>Micah Woods Published in Ms. Magazine</title>
+  <dc:creator>Cresko Lab</dc:creator>
+  <link>https://wcresko.github.io/posts/2024-11-15-woods-ms-magazine.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Congratulations to post-baccalaureate scholar Micah Woods for their work being published in Ms.&nbsp;Magazine!</p>
+<p>Micah’s article highlights the incredible contributions of Dr.&nbsp;Kata Karáth and other pioneering women scientists who have shaped our understanding of evolutionary biology and genetics. This publication represents not only excellent science communication but also important work in documenting the history of women in STEM fields.</p>
+<section id="about-the-article" class="level2">
+<h2 data-anchor-id="about-the-article">About the Article</h2>
+<p>The piece explores how Dr.&nbsp;Karáth’s groundbreaking research has influenced modern genomics, despite facing significant barriers as a woman in science during the mid-20th century. Micah’s careful research and compelling writing bring deserved attention to these often-overlooked contributions.</p>
+</section>
+<section id="micahs-research" class="level2">
+<h2 data-anchor-id="micahs-research">Micah’s Research</h2>
+<p>In addition to science writing, Micah has been conducting research in our laboratory on: - Population genomics of Oregon stickleback populations - Host-microbiome interactions - Bioinformatic pipeline development</p>
+<p>We’re incredibly proud of Micah’s achievement in bringing important stories from the history of science to a broader audience!</p>
+<p><a href="https://msmagazine.com/">Read the article in Ms.&nbsp;Magazine →</a></p>
+
+
+</section>
+
+ ]]></description>
+  <category>publication</category>
+  <category>achievement</category>
+  <category>undergraduate</category>
+  <guid>https://wcresko.github.io/posts/2024-11-15-woods-ms-magazine.html</guid>
+  <pubDate>Fri, 15 Nov 2024 08:00:00 GMT</pubDate>
+  <media:content url="https://wcresko.github.io/posts/micah-woods.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Bill Cresko Awarded Lorry Lokey Endowed Chair</title>
+  <dc:creator>Cresko Lab</dc:creator>
+  <link>https://wcresko.github.io/posts/2024-10-01-lokey-chair.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Professor Bill Cresko has been awarded a Lorry Lokey Endowed Chair in recognition of the outstanding contributions that he and his laboratory have made to the University of Oregon’s mission.</p>
+<p>The Lorry Lokey Endowed Chairs represent one of the highest honors the University can bestow upon its faculty, reserved for scholars who have demonstrated exceptional achievement in their fields.</p>
+<p>This recognition celebrates Bill’s many contributions to science and the university:</p>
+<ul>
+<li>Development of RAD-seq technology and the Stacks software pipeline, now used by thousands of researchers worldwide</li>
+<li>Nearly 100 publications advancing our understanding of evolutionary genomics</li>
+<li>Service as Associate Vice President of Research and leader of the Presidential Initiative in Data Science</li>
+<li>Training dozens of students and postdocs who have gone on to successful careers</li>
+<li>Fostering collaborative research across campus and internationally</li>
+</ul>
+<p>The endowed chair will provide additional resources to support the Cresko Lab’s cutting-edge research in evolutionary genomics and the development of new computational tools for biology.</p>
+<p>We thank the Lorry I. Lokey Foundation for their generous support of scientific research and education at the University of Oregon.</p>
+
+
+
+ ]]></description>
+  <guid>https://wcresko.github.io/posts/2024-10-01-lokey-chair.html</guid>
+  <pubDate>Tue, 01 Oct 2024 07:00:00 GMT</pubDate>
+  <media:content url="https://wcresko.github.io/posts/lokey-chair.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Host Genetics Shapes Gut Microbiome Diversity</title>
+  <dc:creator>Clayton Small &amp; Emily Beck</dc:creator>
+  <link>https://wcresko.github.io/posts/2023-09-15-microbiome-genetics.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Our latest paper in <em>mBio</em> demonstrates that host genetic variation significantly influences gut microbiome composition, with implications for understanding host-microbe coevolution.</p>
+<section id="key-findings" class="level2">
+<h2 data-anchor-id="key-findings">Key Findings</h2>
+<p>Using two genetically divergent stickleback populations maintained in identical laboratory conditions, we found:</p>
+<ul>
+<li><strong>Host genotype effects</strong>: Specific genetic variants associated with microbiome composition</li>
+<li><strong>High individual variation</strong>: Even siblings showed substantial microbiome differences</li>
+<li><strong>Core microbiome</strong>: Certain microbial taxa consistently associated with host genotype</li>
+</ul>
+</section>
+<section id="technical-innovation" class="level2">
+<h2 data-anchor-id="technical-innovation">Technical Innovation</h2>
+<p>The study also established highly reproducible methods for 16S sequencing in fish, addressing a critical need for standardization in microbiome research. Our two-tiered approach achieves &gt;95% reproducibility for abundant taxa.</p>
+</section>
+<section id="broader-impacts" class="level2">
+<h2 data-anchor-id="broader-impacts">Broader Impacts</h2>
+<p>This work contributes to understanding: - How host evolution shapes associated microbial communities - The heritability of microbiome traits - Potential for microbiome-based therapies</p>
+<p><strong>Publication</strong>: Small CM, Beck EA, Currey MC, Tavalire HF, Bassham S, Cresko WA (2023). Host genomic variation shapes gut microbiome diversity in threespine stickleback fish. <em>mBio</em> e0021923.</p>
+<p><a href="https://doi.org/10.1128/mbio.00219-23">Read the paper</a> | <a href="https://www.ncbi.nlm.nih.gov/bioproject/PRJNA903943">Data available on NCBI</a></p>
+
+
+</section>
+
+ ]]></description>
+  <category>microbiome</category>
+  <category>publication</category>
+  <category>research</category>
+  <guid>https://wcresko.github.io/posts/2023-09-15-microbiome-genetics.html</guid>
+  <pubDate>Fri, 15 Sep 2023 07:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Lab Receives $2.5M NIH Grant for Host-Microbiome Research</title>
+  <dc:creator>Cresko Lab</dc:creator>
+  <link>https://wcresko.github.io/posts/2022-09-01-nih-grant.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>The National Institutes of Health has awarded our lab a five-year, $2.5 million R01 grant to investigate how host genetics shapes microbiome composition and function. This award will support multiple graduate students and a postdoc position.</p>
+<section id="project-overview" class="level2">
+<h2 data-anchor-id="project-overview">Project Overview</h2>
+<p>The grant, titled “Host Genetic Control of Microbiome Assembly and Function,” will investigate:</p>
+<ul>
+<li><strong>Aim 1</strong>: Identify host genetic variants affecting microbiome composition using GWAS</li>
+<li><strong>Aim 2</strong>: Determine mechanisms through which host genes influence microbes</li>
+<li><strong>Aim 3</strong>: Test evolutionary dynamics of host-microbiome interactions</li>
+</ul>
+</section>
+<section id="novel-approaches" class="level2">
+<h2 data-anchor-id="novel-approaches">Novel Approaches</h2>
+<p>Our project combines several innovative approaches: - Gnotobiotic stickleback system for controlled experiments - Single-cell sequencing to measure cell-type-specific responses - CRISPR validation of candidate genes - Experimental evolution with defined microbial communities</p>
+</section>
+<section id="collaborative-team" class="level2">
+<h2 data-anchor-id="collaborative-team">Collaborative Team</h2>
+<p>The project involves collaborations with: - <strong>Brendan Bohannan</strong> (UO) - Microbial ecology expertise - <strong>Karen Guillemin</strong> (UO) - Host-microbe interactions - <strong>Meta Center</strong> - Systems biology of microbiomes</p>
+</section>
+<section id="training-opportunities" class="level2">
+<h2 data-anchor-id="training-opportunities">Training Opportunities</h2>
+<p>This grant will provide: - Support for 2-3 graduate students - One postdoctoral position - Summer undergraduate research positions - Training in microbiome methods and bioinformatics</p>
+</section>
+<section id="broader-impacts" class="level2">
+<h2 data-anchor-id="broader-impacts">Broader Impacts</h2>
+<p>Understanding how host genetics shapes microbiomes has implications for: - Precision medicine approaches - Agricultural applications - Conservation biology - Evolutionary theory</p>
+</section>
+<section id="open-positions" class="level2">
+<h2 data-anchor-id="open-positions">Open Positions</h2>
+<p>We’re recruiting for this project! We seek motivated individuals with interests in: - Microbial ecology - Population genetics - Bioinformatics - Experimental evolution</p>
+<p><a href="people.qmd#join-our-lab">View position details</a> | <a href="mailto:wcresko@uoregon.edu">Contact Dr.&nbsp;Cresko</a></p>
+<p>“This award recognizes our lab’s unique position to address fundamental questions in host-microbiome biology,” says Bill Cresko. “The natural variation in stickleback provides an unprecedented opportunity to understand these complex interactions.”</p>
+<p>We thank NIH/NIGMS for this support and look forward to advancing the field of host-microbiome interactions!</p>
+
+
+</section>
+
+ ]]></description>
+  <category>funding</category>
+  <category>research</category>
+  <category>microbiome</category>
+  <guid>https://wcresko.github.io/posts/2022-09-01-nih-grant.html</guid>
+  <pubDate>Thu, 01 Sep 2022 07:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Seadragon Genomes Reveal Secrets of Syngnathid Evolution</title>
+  <dc:creator>Cresko Lab</dc:creator>
+  <link>https://wcresko.github.io/posts/2022-06-28-seadragon-genomes.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Our collaborative team has published the first high-quality genomes of leafy and weedy seadragons in PNAS, revealing the genomic innovations underlying the spectacular biology of syngnathid fishes.</p>
+<section id="evolutionary-marvels" class="level2">
+<h2 data-anchor-id="evolutionary-marvels">Evolutionary Marvels</h2>
+<p>Syngnathid fishes (seahorses, pipefishes, and seadragons) exhibit some of nature’s most remarkable adaptations: - Male pregnancy - unique among vertebrates - Loss of pelvic fins and ribs - Elaborate leaf-like appendages in seadragons - Prehensile tails in seahorses - Absence of stomach and teeth</p>
+</section>
+<section id="key-genomic-discoveries" class="level2">
+<h2 data-anchor-id="key-genomic-discoveries">Key Genomic Discoveries</h2>
+<p>Our analysis revealed:</p>
+<section id="transposable-element-expansion" class="level3">
+<h3 data-anchor-id="transposable-element-expansion">Transposable Element Expansion</h3>
+<ul>
+<li>Seadragon genomes contain 20-25% transposable elements</li>
+<li>Higher than other teleost fish (typically 5-10%)</li>
+<li>May drive rapid morphological evolution</li>
+</ul>
+</section>
+<section id="gene-family-evolution" class="level3">
+<h3 data-anchor-id="gene-family-evolution">Gene Family Evolution</h3>
+<ul>
+<li>Loss of genes for stomach development (consistent with anatomy)</li>
+<li>Expansion of immune gene families (possibly related to male pregnancy)</li>
+<li>Modified developmental gene regulation</li>
+</ul>
+</section>
+<section id="comparative-insights" class="level3">
+<h3 data-anchor-id="comparative-insights">Comparative Insights</h3>
+<p>Comparing seadragons with seahorses and pipefish revealed: - Convergent gene losses across lineages - Lineage-specific innovations for unique traits - Rapid evolution of reproductive genes</p>
+</section>
+</section>
+<section id="team-effort" class="level2">
+<h2 data-anchor-id="team-effort">Team Effort</h2>
+<p>This project represents six years of collaboration involving: - <strong>Lead authors</strong>: Clayton Small, Hope Healey, Mark Currey - <strong>International partners</strong>: Australia, Germany, Sweden - <strong>Sequencing</strong>: PacBio long-reads plus Hi-C scaffolding - <strong>Computational</strong>: Custom annotation pipeline for non-model organisms</p>
+</section>
+<section id="conservation-implications" class="level2">
+<h2 data-anchor-id="conservation-implications">Conservation Implications</h2>
+<p>Both seadragon species are near-threatened. Our genomic resources will aid: - Population genetics for conservation management - Understanding adaptive potential - Identifying populations at risk - Informing protection strategies</p>
+</section>
+<section id="open-data" class="level2">
+<h2 data-anchor-id="open-data">Open Data</h2>
+<p>All data are publicly available: - Genome assemblies on NCBI - Annotation files on FigShare - Analysis code on GitHub - Protocols on protocols.io</p>
+<p><strong>Publication</strong>: Small CM, Healey HM, Currey MC, Beck EA, Catchen J, Lin ASP, Cresko WA, Bassham S (2022). Leafy and weedy seadragon genomes connect genic and repetitive DNA features to the extravagant biology of syngnathid fishes. <em>PNAS</em> 119(26):e2119602119.</p>
+<p><a href="https://doi.org/10.1073/pnas.2119602119">Read the paper</a> | <a href="https://around.uoregon.edu/">Press release</a></p>
+
+
+</section>
+
+ ]]></description>
+  <category>publication</category>
+  <category>genomics</category>
+  <category>evolution</category>
+  <guid>https://wcresko.github.io/posts/2022-06-28-seadragon-genomes.html</guid>
+  <pubDate>Tue, 28 Jun 2022 07:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>New Method for Genome Annotation Using Single-Cell Sequencing</title>
+  <dc:creator>Cresko Lab</dc:creator>
+  <link>https://wcresko.github.io/posts/2022-02-15-single-cell-method.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Hope Healey and Susan Bassham have published an innovative method in <em>Genetics</em> that dramatically improves genome annotation for non-model organisms using single-cell sequencing technologies.</p>
+<section id="the-challenge" class="level2">
+<h2 data-anchor-id="the-challenge">The Challenge</h2>
+<p>Genome annotation - identifying genes and their functions - remains a major bottleneck for studying non-model organisms. Traditional methods often miss genes expressed only in specific cell types or developmental stages.</p>
+</section>
+<section id="our-solution" class="level2">
+<h2 data-anchor-id="our-solution">Our Solution</h2>
+<p>The team developed a pipeline combining: - Single-cell RNA sequencing (scRNA-seq) for cell-type-specific expression - Long-read Iso-Sequencing for full-length transcripts - Custom computational tools for integration</p>
+<p>This approach identified hundreds of previously unannotated genes in the threespine stickleback genome, improving our ability to study cell-type-specific gene expression.</p>
+</section>
+<section id="applications" class="level2">
+<h2 data-anchor-id="applications">Applications</h2>
+<p>The method is particularly valuable for: - Evolutionary developmental biology studies - Understanding cell-type evolution - Improving genome resources for ecological model systems</p>
+<p><strong>Publication</strong>: Healey HM, Bassham S, Cresko WA (2022). Single-cell Iso-Sequencing enables rapid genome annotation for scRNAseq analysis. <em>Genetics</em> 220(3):iyac017.</p>
+<p><a href="https://doi.org/10.1093/genetics/iyac017">Read the paper</a> | <a href="https://github.com/creskolab/sc-isoseq">GitHub repository</a></p>
+
+
+</section>
+
+ ]]></description>
+  <category>methods</category>
+  <category>publication</category>
+  <category>genomics</category>
+  <guid>https://wcresko.github.io/posts/2022-02-15-single-cell-method.html</guid>
+  <pubDate>Tue, 15 Feb 2022 08:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Emily Niebergall Awarded Prestigious Goldwater Fellowship</title>
+  <dc:creator>Cresko Lab</dc:creator>
+  <link>https://wcresko.github.io/posts/2021-03-30-goldwater-fellowship.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Clark Honors College undergraduate Emily Niebergall, who is working on her thesis in the laboratory with Emily Beck, has been awarded a prestigious Goldwater Fellowship for her outstanding undergraduate research.</p>
+<section id="about-the-award" class="level2">
+<h2 data-anchor-id="about-the-award">About the Award</h2>
+<p>The Barry Goldwater Scholarship is the most prestigious undergraduate award in mathematics, natural sciences, and engineering. Only 410 students nationwide receive this honor each year from a pool of over 5,000 nominees.</p>
+</section>
+<section id="emilys-research" class="level2">
+<h2 data-anchor-id="emilys-research">Emily’s Research</h2>
+<p>Emily’s thesis project focuses on understanding neutrophil variation between oceanic and freshwater stickleback populations. Using advanced microscopy and genetic techniques, she’s investigating how immune responses evolve as fish adapt to different environments.</p>
+<p>Her work contributes to our broader understanding of: - Immune system evolution - Host-pathogen interactions - Rapid adaptation to environmental change</p>
+</section>
+<section id="a-bright-future" class="level2">
+<h2 data-anchor-id="a-bright-future">A Bright Future</h2>
+<p>Emily plans to pursue a Ph.D.&nbsp;in evolutionary biology, with interests in combining genomics, immunology, and field ecology. The Goldwater Fellowship will provide support for her senior year and help launch her scientific career.</p>
+<p>“Emily exemplifies the best of undergraduate research,” says Dr.&nbsp;Cresko. “Her creativity, technical skills, and scientific thinking are already at a graduate level. We’re thrilled to see her recognized with this honor.”</p>
+<p>Congratulations, Emily! We look forward to seeing your continued success in science.</p>
+<p><a href="https://goldwaterscholarship.gov/">Learn more about the Goldwater Scholarship</a></p>
+
+
+</section>
+
+ ]]></description>
+  <category>awards</category>
+  <category>undergraduate</category>
+  <category>fellowship</category>
+  <guid>https://wcresko.github.io/posts/2021-03-30-goldwater-fellowship.html</guid>
+  <pubDate>Tue, 30 Mar 2021 07:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Congratulations to Our New Ph.D. Graduates!</title>
+  <dc:creator>Cresko Lab</dc:creator>
+  <link>https://wcresko.github.io/posts/2020-06-15-thesis-defenses.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>We’re proud to announce that three lab members have successfully defended their Ph.D.&nbsp;dissertations this spring! Despite the challenges of remote defenses during COVID-19, they delivered outstanding presentations of their research.</p>
+<section id="dr.-emily-lescak" class="level2">
+<h2 data-anchor-id="dr.-emily-lescak">Dr.&nbsp;Emily Lescak</h2>
+<p><strong>Dissertation</strong>: “Ancient Mitochondrial Lineages and Contemporary Adaptation in Threespine Stickleback”</p>
+<p>Emily’s work revealed cryptic mitochondrial diversity in stickleback populations and demonstrated that ancient mtDNA lineages don’t constrain contemporary adaptive evolution. Her research combined phylogenetics, population genomics, and experimental approaches.</p>
+<p><strong>Next position</strong>: Research Scientist, Alaska Department of Fish and Game</p>
+</section>
+<section id="dr.-kristin-alisha-sikkink" class="level2">
+<h2 data-anchor-id="dr.-kristin-alisha-sikkink">Dr.&nbsp;Kristin Alisha Sikkink</h2>
+<p><strong>Dissertation</strong>: “The Evolutionary Genetics of Stress Response Networks”</p>
+<p>Kristin discovered that pleiotropy across stress response networks is highly sensitive to environmental conditions, with important implications for understanding evolutionary constraints and adaptation to multiple stressors.</p>
+<p><strong>Next position</strong>: Postdoctoral Fellow, University of Minnesota</p>
+</section>
+<section id="dr.-allison-fuiten" class="level2">
+<h2 data-anchor-id="dr.-allison-fuiten">Dr.&nbsp;Allison Fuiten</h2>
+<p><strong>Dissertation</strong>: “Genomic Architecture of Reproductive Isolation in Stickleback”</p>
+<p>Allison’s research identified genomic regions contributing to reproductive barriers between marine and freshwater stickleback, revealing how adaptation can lead to speciation.</p>
+<p><strong>Next position</strong>: Data Scientist, 23andMe</p>
+</section>
+<section id="virtual-celebrations" class="level2">
+<h2 data-anchor-id="virtual-celebrations">Virtual Celebrations</h2>
+<p>While we couldn’t gather in person, we celebrated with: - Virtual defense parties with lab alumni joining from around the world - Socially-distanced champagne toast outside the lab - Commemorative lab t-shirts mailed to each graduate - Video messages from former lab members</p>
+</section>
+<section id="continuing-the-legacy" class="level2">
+<h2 data-anchor-id="continuing-the-legacy">Continuing the Legacy</h2>
+<p>These three join our growing community of Cresko Lab Ph.D.&nbsp;alumni who are making impacts in academia, government, and industry. Their success reflects not only their individual excellence but also the collaborative spirit of our lab.</p>
+<p>“Emily, Kristin, and Allison exemplify the integration of rigorous science with creative thinking that we strive for in the lab,” says Bill Cresko. “We’re excited to watch their continued success in their new positions.”</p>
+<p>Congratulations doctors! The Cresko Lab family is proud of you!</p>
+
+
+</section>
+
+ ]]></description>
+  <category>students</category>
+  <category>graduation</category>
+  <category>achievements</category>
+  <guid>https://wcresko.github.io/posts/2020-06-15-thesis-defenses.html</guid>
+  <pubDate>Mon, 15 Jun 2020 07:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Developing the Gnotobiotic Stickleback Model</title>
+  <dc:creator>Clayton Small</dc:creator>
+  <link>https://wcresko.github.io/posts/2019-04-12-gnotobiotic-model.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Our lab has successfully developed methods for generating and maintaining germ-free (gnotobiotic) threespine stickleback, opening new avenues for studying host-microbiome interactions under controlled conditions.</p>
+<section id="why-gnotobiotic-fish" class="level2">
+<h2 data-anchor-id="why-gnotobiotic-fish">Why Gnotobiotic Fish?</h2>
+<p>Gnotobiotic animals - those with no microbes or only known microbes - are essential for understanding: - How specific microbes affect host biology - The role of microbiomes in development and immunity - Host genetic effects on microbiome assembly - Causality in host-microbe associations</p>
+<p>Until now, gnotobiotic techniques were limited to a few model organisms like mice and zebrafish. Extending these methods to stickleback leverages their natural genetic variation and ecological diversity.</p>
+</section>
+<section id="technical-innovation" class="level2">
+<h2 data-anchor-id="technical-innovation">Technical Innovation</h2>
+<p>Developing gnotobiotic stickleback required overcoming several challenges:</p>
+<ol type="1">
+<li><strong>Sterile derivation</strong>: Removing all microbes from eggs without damaging development</li>
+<li><strong>Sterile maintenance</strong>: Keeping fish microbe-free for months</li>
+<li><strong>Validation</strong>: Confirming absence of microbes using multiple methods</li>
+<li><strong>Controlled colonization</strong>: Adding specific microbes to study their effects</li>
+</ol>
+<p>Our protocol, refined over two years, achieves &gt;95% success rate in generating germ-free fish that develop normally.</p>
+</section>
+<section id="research-applications" class="level2">
+<h2 data-anchor-id="research-applications">Research Applications</h2>
+<p>This system enables us to: - Test how specific host genes affect microbiome assembly - Measure microbe-specific effects on host gene expression - Study immune system development in the absence of microbes - Perform controlled evolution experiments with defined microbial communities</p>
+</section>
+<section id="first-results" class="level2">
+<h2 data-anchor-id="first-results">First Results</h2>
+<p>Initial experiments reveal: - Germ-free stickleback have altered intestinal development - Immune gene expression differs dramatically without microbes - Colonization with different bacteria produces distinct host responses - Host genotype influences which microbes successfully colonize</p>
+</section>
+<section id="open-science" class="level2">
+<h2 data-anchor-id="open-science">Open Science</h2>
+<p>We’re preparing a detailed protocol paper and video tutorial to help other labs adopt this system. This tool will accelerate host-microbiome research across the stickleback community.</p>
+<p><strong>Funding</strong>: This work is supported by NIH grant R01GM130777 and the META Center for Systems Biology.</p>
+<p><a href="mailto:csmall@uoregon.edu">Contact us</a> for protocol details or collaboration opportunities.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>methods</category>
+  <category>microbiome</category>
+  <category>research</category>
+  <guid>https://wcresko.github.io/posts/2019-04-12-gnotobiotic-model.html</guid>
+  <pubDate>Fri, 12 Apr 2019 07:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Stacks 2.0 Released: Major Update to Population Genomics Software</title>
+  <dc:creator>Julian Catchen &amp; Bill Cresko</dc:creator>
+  <link>https://wcresko.github.io/posts/2019-01-15-stacks-release.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>We’re excited to announce the release of Stacks 2.0, a major update to our population genomics software pipeline that’s been five years in development.</p>
+<section id="whats-new-in-stacks-2.0" class="level2">
+<h2 data-anchor-id="whats-new-in-stacks-2.0">What’s New in Stacks 2.0</h2>
+<section id="improved-core-algorithm" class="level3">
+<h3 data-anchor-id="improved-core-algorithm">Improved Core Algorithm</h3>
+<ul>
+<li>New assembly algorithm with better handling of polymorphic sites</li>
+<li>Reduced false positive SNP calls by 40%</li>
+<li>Faster processing - up to 3x speed improvement</li>
+<li>Better memory management for large datasets</li>
+</ul>
+</section>
+<section id="new-features" class="level3">
+<h3 data-anchor-id="new-features">New Features</h3>
+<ul>
+<li><strong>Population module</strong>: Integrated population genetics statistics</li>
+<li><strong>Genetic mapping</strong>: Support for linkage map construction</li>
+<li><strong>Paired-end support</strong>: Full integration of paired-end RAD data</li>
+<li><strong>Plotting tools</strong>: Automated visualization of results</li>
+</ul>
+</section>
+<section id="user-experience" class="level3">
+<h3 data-anchor-id="user-experience">User Experience</h3>
+<ul>
+<li>Simplified parameter selection</li>
+<li>Improved documentation and tutorials</li>
+<li>Docker container for easy installation</li>
+<li>Cloud computing support</li>
+</ul>
+</section>
+</section>
+<section id="by-the-numbers" class="level2">
+<h2 data-anchor-id="by-the-numbers">By the Numbers</h2>
+<p>Since its initial release in 2013, Stacks has: - Been cited in over 3,000 publications - Processed data from 500+ species - Been downloaded 50,000+ times - Enabled population genomics in non-model organisms worldwide</p>
+</section>
+<section id="community-contributions" class="level2">
+<h2 data-anchor-id="community-contributions">Community Contributions</h2>
+<p>Stacks 2.0 includes contributions from users worldwide: - Bug reports and feature requests from hundreds of users - Code contributions from 15 external developers - Beta testing by 50+ research groups - Translations into 5 languages</p>
+</section>
+<section id="training-opportunities" class="level2">
+<h2 data-anchor-id="training-opportunities">Training Opportunities</h2>
+<p>We’re offering workshops on Stacks 2.0: - <strong>PAG 2019</strong> (San Diego, January) - <strong>Evolution 2019</strong> (Providence, June) - <strong>Online workshop</strong> (March, registration required)</p>
+</section>
+<section id="looking-forward" class="level2">
+<h2 data-anchor-id="looking-forward">Looking Forward</h2>
+<p>Development continues with planned features: - Machine learning for parameter optimization - Integration with genome assembly tools - Enhanced visualization capabilities - Support for long-read sequencing data</p>
+<p><strong>Download</strong>: <a href="http://catchenlab.life.illinois.edu/stacks/">catchenlab.life.illinois.edu/stacks</a><br>
+<strong>Documentation</strong>: <a href="http://catchenlab.life.illinois.edu/stacks/manual/">Full manual and tutorials</a><br>
+<strong>Support</strong>: <a href="https://groups.google.com/g/stacks-users">Google Group</a></p>
+<p>Thanks to NSF and NIH for funding support, and to the thousands of users whose feedback has shaped this software.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>software</category>
+  <category>methods</category>
+  <category>genomics</category>
+  <guid>https://wcresko.github.io/posts/2019-01-15-stacks-release.html</guid>
+  <pubDate>Tue, 15 Jan 2019 08:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Martin Stervander Awarded Marie Curie Fellowship</title>
+  <dc:creator>Cresko Lab</dc:creator>
+  <link>https://wcresko.github.io/posts/2018-05-15-marie-curie-fellowship.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Dr.&nbsp;Martin Stervander has been awarded a Marie Skłodowska-Curie Fellowship by the European Union, recognizing him as one of Europe’s most promising researchers in evolutionary biology.</p>
+<section id="the-fellowship" class="level2">
+<h2 data-anchor-id="the-fellowship">The Fellowship</h2>
+<p>The Marie Curie Actions are among Europe’s most competitive and prestigious awards, aimed at fostering excellence in research through mobility and training. Martin’s fellowship will support two years at the Natural History Museum London studying the genomics of syngnathid evolution, followed by a return year at the University of Oregon.</p>
+</section>
+<section id="research-plans" class="level2">
+<h2 data-anchor-id="research-plans">Research Plans</h2>
+<p>Martin’s project, “Evolutionary Innovations in Syngnathid Fishes,” will investigate: - The genomic basis of male pregnancy - Evolution of elaborate morphological structures - Comparative genomics across seahorses, pipefishes, and seadragons - Conservation genomics of threatened species</p>
+</section>
+<section id="building-bridges" class="level2">
+<h2 data-anchor-id="building-bridges">Building Bridges</h2>
+<p>This fellowship strengthens collaborations between our lab, the Natural History Museum London, and European research networks. Martin will bring cutting-edge genomic techniques developed in our lab to European collections, while learning new approaches in systematic biology.</p>
+<p>“This fellowship recognizes Martin’s exceptional contributions to evolutionary genomics,” notes Bill Cresko. “His work bridges microevolutionary processes and macroevolutionary patterns in ways that advance the entire field.”</p>
+</section>
+<section id="seal-of-excellence" class="level2">
+<h2 data-anchor-id="seal-of-excellence">Seal of Excellence</h2>
+<p>In addition to the Marie Curie Fellowship, Martin received the “Seal of Excellence” from the European Commission, awarded to proposals scoring above 85% in the evaluation.</p>
+<p>Congratulations Martin on this outstanding achievement!</p>
+<p><a href="https://marie-sklodowska-curie-actions.ec.europa.eu/">More about Marie Curie Actions</a></p>
+
+
+</section>
+
+ ]]></description>
+  <category>awards</category>
+  <category>postdoc</category>
+  <category>fellowship</category>
+  <guid>https://wcresko.github.io/posts/2018-05-15-marie-curie-fellowship.html</guid>
+  <pubDate>Tue, 15 May 2018 07:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Artist Ray Troll Visits the Cresko Lab</title>
+  <dc:creator>Cresko Lab</dc:creator>
+  <link>https://wcresko.github.io/posts/2017-10-20-ray-troll-visit.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>We were thrilled to host renowned artist Ray Troll at the Cresko Laboratory this week! Ray, famous for his scientifically accurate and whimsical fish art, spent two days learning about stickleback evolution and our genomics research.</p>
+<section id="art-meets-science" class="level2">
+<h2 data-anchor-id="art-meets-science">Art Meets Science</h2>
+<p>Ray Troll has spent decades creating art that celebrates fish evolution and paleontology. His visit to our lab was part of his ongoing project documenting the diversity of Pacific Northwest fishes. He was particularly fascinated by:</p>
+<ul>
+<li>The dramatic differences between marine and freshwater stickleback forms</li>
+<li>Our collection of preserved specimens from across Oregon and Alaska</li>
+<li>The rapid evolution we’ve documented in post-earthquake populations</li>
+<li>How genomic data reveals evolutionary relationships</li>
+</ul>
+</section>
+<section id="hands-on-experience" class="level2">
+<h2 data-anchor-id="hands-on-experience">Hands-On Experience</h2>
+<p>During his visit, Ray: - Examined stickleback under the microscope, sketching their defensive spines and armor plates - Learned about RAD-seq and how we visualize genomic data - Discussed the intersection of art and science in communicating evolution - Created several preliminary sketches for future artwork featuring stickleback</p>
+</section>
+<section id="science-communication-through-art" class="level2">
+<h2 data-anchor-id="science-communication-through-art">Science Communication Through Art</h2>
+<p>“Ray’s art makes evolution accessible and engaging for everyone,” says Bill Cresko. “His ability to combine scientific accuracy with humor and beauty helps people connect with these important concepts.”</p>
+<p>Ray’s visit reinforces the importance of diverse approaches to science communication. His artwork has introduced thousands to evolutionary biology in ways that complement traditional scientific publications.</p>
+</section>
+<section id="future-collaboration" class="level2">
+<h2 data-anchor-id="future-collaboration">Future Collaboration</h2>
+<p>Ray is developing a new series on rapid evolution, potentially featuring our stickleback research. We’re excited about this opportunity to share our science through his unique artistic lens.</p>
+<p><a href="https://www.trollart.com/">Visit Ray Troll’s website</a> | <a href="https://www.instagram.com/ratfishray/">Follow Ray on Instagram</a></p>
+
+
+</section>
+
+ ]]></description>
+  <category>outreach</category>
+  <category>art</category>
+  <category>visitors</category>
+  <guid>https://wcresko.github.io/posts/2017-10-20-ray-troll-visit.html</guid>
+  <pubDate>Fri, 20 Oct 2017 07:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Lab Members Win Six Conference Awards</title>
+  <dc:creator>Cresko Lab</dc:creator>
+  <link>https://wcresko.github.io/posts/2016-07-15-conference-awards.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Cresko Lab members had an exceptional showing at this summer’s major evolution conferences, bringing home six awards for their presentations!</p>
+<section id="evolution-2016---austin-texas" class="level2">
+<h2 data-anchor-id="evolution-2016---austin-texas">Evolution 2016 - Austin, Texas</h2>
+<p>At the joint Evolution meeting, our students and postdocs received recognition for their outstanding research presentations:</p>
+<ul>
+<li><strong>Clayton Small</strong> - Best Student Poster Award for work on host-microbiome interactions</li>
+<li><strong>Emily Beck</strong> - SSE President’s Award for talk on mitochondrial evolution</li>
+<li><strong>Mark Currey</strong> - Honorable Mention for population genomics presentation</li>
+</ul>
+</section>
+<section id="smbe-2016---gold-coast-australia" class="level2">
+<h2 data-anchor-id="smbe-2016---gold-coast-australia">SMBE 2016 - Gold Coast, Australia</h2>
+<p>The Society for Molecular Biology and Evolution conference also recognized our lab’s contributions:</p>
+<ul>
+<li><strong>Hannah Healey</strong> - Best Student Talk on single-cell sequencing methods</li>
+<li><strong>Martin Stervander</strong> - Best Postdoc Poster for syngnathid comparative genomics</li>
+<li><strong>Susan Bassham</strong> - Excellence in Mentoring Award</li>
+</ul>
+</section>
+<section id="growing-recognition" class="level2">
+<h2 data-anchor-id="growing-recognition">Growing Recognition</h2>
+<p>These awards reflect the lab’s strength across multiple research areas - from microbiome evolution to genomic methods development. The diversity of recognized projects demonstrates our integrated approach to evolutionary biology.</p>
+<p>Congratulations to all award winners! Your hard work and innovative research continues to push the boundaries of evolutionary genomics.</p>
+<p>Special thanks to NSF, NIH, and the University of Oregon for travel support enabling our participation in these important conferences.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>awards</category>
+  <category>conferences</category>
+  <category>achievements</category>
+  <guid>https://wcresko.github.io/posts/2016-07-15-conference-awards.html</guid>
+  <pubDate>Fri, 15 Jul 2016 07:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Susan Bassham Featured in Scientific American</title>
+  <dc:creator>Cresko Lab</dc:creator>
+  <link>https://wcresko.github.io/posts/2016-02-01-scientific-american.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Susan Bassham was featured in Scientific American’s Sustainability 60-Second Science video series discussing our lab’s groundbreaking work on rapid evolution in stickleback populations.</p>
+<section id="fish-on-evolutions-fast-track" class="level2">
+<h2 data-anchor-id="fish-on-evolutions-fast-track">Fish on Evolution’s Fast Track</h2>
+<p>The video, titled “Fish on Evolution’s Fast Track,” highlights our research showing that stickleback can evolve significant changes in less than 50 years - much faster than traditionally thought possible.</p>
+<p>Susan explains how the 1964 Alaska earthquake created a natural experiment, isolating marine stickleback in newly formed freshwater ponds. These populations rapidly evolved traits typical of freshwater fish, demonstrating evolution in real-time.</p>
+</section>
+<section id="research-impact" class="level2">
+<h2 data-anchor-id="research-impact">Research Impact</h2>
+<p>This work has important implications for: - Understanding species responses to climate change - Predicting adaptation to environmental disruption - Conservation planning for rapidly changing habitats</p>
+<p>The research was published in PNAS and has received widespread media attention for challenging traditional timescales of evolutionary change.</p>
+<p><a href="https://www.scientificamerican.com/podcast/episode/fish-on-evolutions-fast-track/">Listen to the podcast</a> | <a href="https://doi.org/10.1073/pnas.1512020112">Read our PNAS paper</a></p>
+
+
+</section>
+
+ ]]></description>
+  <category>media</category>
+  <category>outreach</category>
+  <category>evolution</category>
+  <guid>https://wcresko.github.io/posts/2016-02-01-scientific-american.html</guid>
+  <pubDate>Mon, 01 Feb 2016 08:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Fish Evolved Rapidly After 1964 Alaska Earthquake</title>
+  <dc:creator>Cresko Lab</dc:creator>
+  <link>https://wcresko.github.io/posts/2015-12-14-rapid-evolution.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Our latest research published in PNAS shows that evolution can happen remarkably quickly - even within decades. Working with University of Alaska collaborators, we studied threespine stickleback populations that were isolated in freshwater ponds following the 1964 Alaska earthquake.</p>
+<section id="key-findings" class="level2">
+<h2 data-anchor-id="key-findings">Key Findings</h2>
+<p>The stranded fish experienced changes in both their genes and visible external traits including: - Eye morphology - Body shape and color - Bone size and body armor - Genetic markers for freshwater adaptation</p>
+<p>These adaptations occurred in less than 50 years - and in some populations, evidence suggests changes occurred in fewer than 10 years.</p>
+</section>
+<section id="implications" class="level2">
+<h2 data-anchor-id="implications">Implications</h2>
+<p>“We’ve now moved the timescale of the evolution of stickleback fish to decades,” says Bill Cresko, the study’s lead author. “For the field, it indicates that evolutionary change can happen quickly, and this likely has been happening with other organisms as well.”</p>
+<p>This research opens a window on how climate change could affect species adaptation. As Susan Bassham, co-author and senior research associate notes, stickleback have evolved as a species with regions of their genomes alternatively honed for either freshwater or marine life, allowing rapid adaptation when environments change.</p>
+</section>
+<section id="methods" class="level2">
+<h2 data-anchor-id="methods">Methods</h2>
+<p>The team used RAD-seq technology developed at UO to analyze genetic changes across the genome. This same technology previously revealed how stickleback adapted to freshwater after glaciers receded 13,000 years ago - but the new study shows this can happen orders of magnitude faster.</p>
+<p><strong>Publication</strong>: Bassham S, Catchen J, Lescak E, von Hippel FA, Cresko WA (2015). Evolution of stickleback in 50 years on earthquake-uplifted islands. <em>PNAS</em> 112(52):E7204-E7212.</p>
+<p><a href="https://doi.org/10.1073/pnas.1512020112">Read the paper</a> | <a href="https://news.uoregon.edu/content/uo-led-study-shows-fish-evolved-rapidly-after-1964-alaska-quake">UO News Coverage</a></p>
+
+
+</section>
+
+ ]]></description>
+  <category>publication</category>
+  <category>evolution</category>
+  <category>research</category>
+  <guid>https://wcresko.github.io/posts/2015-12-14-rapid-evolution.html</guid>
+  <pubDate>Mon, 14 Dec 2015 08:00:00 GMT</pubDate>
+  <media:content url="https://wcresko.github.io/posts/alaska-uplift.jpg" medium="image" type="image/jpeg"/>
+</item>
+</channel>
+</rss>
