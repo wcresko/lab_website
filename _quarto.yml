@@ -54,6 +54,7 @@ website:
 
 format:
   html:
+    fontawesome: true
     theme: 
       - litera
       - theme-custom.scss

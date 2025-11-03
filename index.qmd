@@ -55,9 +55,7 @@ Our laboratory investigates fundamental questions in evolutionary biology throug
 
 ## Team
 
-Led by **Bill Cresko**, Professor of Biology and Associate Vice President of Research, our lab includes research scientists, postdocs, graduate students, and undergraduates working together on evolutionary questions.
-
-Current members include senior research associate **Susan Bassham**, postdoc **Martin Stervander**, and graduate students **Clayton Small**, **Emily Beck**, **Mark Currey**, and **Hannah Healey**.
+Led by **Bill Cresko**, our lab includes research scientists, postdoctoral scholars, graduate students, and undergraduates working together on evolutionary questions.
 
 [Meet our team →](people.qmd)
 
@@ -84,8 +82,9 @@ University of Oregon\
 312 Pacific Hall\
 Eugene, OR 97403
 
-[{{< fa envelope >}}](mailto:wcresko@uoregon.edu) wcresko\@uoregon.edu\
-[{{< fa phone >}}](tel:541-346-4779) (541) 346-4779\
-[{{< fa brands github >}}](https://github.com/creskolab) GitHub\
-[{{< fa brands twitter >}}](https://twitter.com/creskolab) Twitter
+{{< fa envelope >}} [wcresko\@uoregon.edu](mailto:wcresko@uoregon.edu)\
+{{< fa phone >}} [(541) 346-4779](tel:541-346-4779)\
+{{< fa brands github >}} [GitHub](https://github.com/creskolab)\
+{{< fa brands instagram >}} [Instagram](https://instagram.com/creskolab)\
+{{< fa brands bluesky >}} [Bluesky](https://bsky.app/profile/creskolab.bsky.social)
 ::::::

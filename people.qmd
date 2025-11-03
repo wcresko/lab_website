@@ -1,129 +1,280 @@
 ---
-title: "Team"
-description: "Meet the members of the Cresko Laboratory"
-page-layout: article
+title: "Present and Past Lab Members"
+description: "The amazing team that keeps it all running"
 ---
 
-## Principal Investigator
+## Current Lab Members
 
-::::: profile-section
-::: profile-image
-![Bill Cresko](images/lab_folks/cresko.jpg)
+:::::: grid
+::: {.g-col-12 .g-col-md-12}
+### William A. Cresko, Ph.D. - Principal Investigator
 :::
 
-::: profile-text
-### William A. Cresko, Ph.D.
+::: {.g-col-12 .g-col-md-4}
+![](images/lab_folks/cresko.jpg){.img-fluid .rounded}
+:::
 
-**Professor of Biology \| Associate Vice President of Research \| Lorry Lokey Endowed Chair**
+::: {.g-col-12 .g-col-md-8}
+**Professor of Biology and Associate Vice President of Research**\
+Institute of Ecology and Evolution\
+University of Oregon
 
-Bill is fascinated by the diversity of life. The goal of our lab is to understand how it arises - what genes and developmental processes are involved, how changes in these systems are integrated into genomes, and how these proximate mechanisms affect ultimate evolutionary processes. Our lab uses a combination of theoretical and empirical studies to address these and other evolutionary genetic questions.
+Bill Cresko is a Professor of Biology and a member of the Institute of Ecology and Evolution (IE2) at the University of Oregon. He has leadership roles on campus as associate vice president of research and leader of the Presidential Initiative in Data Science. Cresko studies the genomic basis of evolutionary change using comparative studies of natural populations in the wild and experimental approaches in the laboratory. He uses the threespine stickleback fish as his primary model to understand how molecular genetic variation can modify networks of genes and proteins to produce variation in evolutionarily important traits.
 
-Bill is a Professor of Biology and member of the Institute of Ecology and Evolution at the University of Oregon, with leadership roles as associate vice president of research and leader of the Presidential Initiative in Data Science. He is also a member of the Internal Advisory Board for the Knight Campus for Accelerating Scientific Impact.
+**Contact:** wcresko\@uoregon.edu\
+[Full Profile](cresko.html) \| [Google Scholar](https://scholar.google.com/citations?user=USERID) \| [ORCID](https://orcid.org/0000-0000-0000-0000)
+:::
+::::::
 
-[{{< fa envelope >}}](mailto:wcresko@uoregon.edu) 
-[{{< fa globe >}}](https://biology.uoregon.edu/profile/wcresko) 
-[{{< ai google-scholar >}}](https://scholar.google.com/citations?user=kMq60q8AAAAJ) 
-[{{< ai orcid >}}](https://orcid.org/0000-0002-2874-8905)
+------------------------------------------------------------------------
+
+:::::: grid
+::: {.g-col-12 .g-col-md-12}
+### Susan Bassham, Ph.D. - Senior Research Associate
+:::
+
+::: {.g-col-12 .g-col-md-4}
+![](images/lab_folks/bassham_susie.jpg){.img-fluid .rounded}
+:::
+
+::: {.g-col-12 .g-col-md-8}
+**Senior Research Associate**\
+Institute of Ecology and Evolution\
+University of Oregon
+
+Susan is interested in understanding the vast variety of life. How is morphological variation, seen in populations of the same species, partitioned among different environments and what are the genetic and genomic factors associated with this partitioning? She uses a variety of molecular genetic tools to uncover genome-scale patterns that underlie phenotypic variation in wild populations of fish, and directs this knowledge to the study of developmental pathways that contribute to novel or modified morphologies.
+
+**Contact:** sbassham\@uoregon.edu\
+[Full Profile](bassham.html) \| [Publications](publications.html#bassham)
+:::
+::::::
+
+------------------------------------------------------------------------
+
+:::::: grid
+::: {.g-col-12 .g-col-md-12}
+### Martin Stervander, Ph.D. - Postdoctoral Fellow
+:::
+
+::: {.g-col-12 .g-col-md-4}
+![](images/lab_folks/stervander_martin.jpg){.img-fluid .rounded}
+:::
+
+::: {.g-col-12 .g-col-md-8}
+**Swedish Research Council Postdoctoral Fellow**\
+Institute of Ecology and Evolution\
+University of Oregon
+
+Martin is a postdoctoral research fellow on a three-year grant from the Swedish Research Council. In the Cresko Lab, he does research in comparative genomics of syngnathid fishes. With a background in phylogenetic and phylogenomic analyses of birds, his overall research interests span microevolutionary dynamics to large-scale macroevolution. He received his PhD at Lund University, Sweden, in 2015 with a thesis on speciation in birds.
+
+**Contact:** mstervan\@uoregon.edu\
+[Full Profile](stervander.html) \| [Personal Website](https://stervander.com) \| [Google Scholar](https://scholar.google.com/citations?user=USERID)
+:::
+::::::
+
+------------------------------------------------------------------------
+
+:::::: grid
+::: {.g-col-12 .g-col-md-12}
+### Emily Beck, Ph.D. - Postdoctoral Fellow
+:::
+
+::: {.g-col-12 .g-col-md-4}
+![](images/lab_folks/beck_emily2.jpg){.img-fluid .rounded}
+:::
+
+::: {.g-col-12 .g-col-md-8}
+**Postdoctoral Fellow**\
+Institute of Ecology and Evolution\
+University of Oregon
+
+Emily's research focuses on the evolutionary genomics of adaptation in natural populations. She is particularly interested in understanding how genetic variation influences phenotypic diversity and adaptation to different environments. Her work combines population genomics, quantitative genetics, and experimental approaches to understand evolutionary processes.
+
+**Contact:** ebeck8\@uoregon.edu\
+[Publications](publications.html#beck)
+:::
+::::::
+
+------------------------------------------------------------------------
+
+:::::: grid
+::: {.g-col-12 .g-col-md-12}
+### Mark Currey, Ph.D. - Senior Research Scientist
+:::
+
+::: {.g-col-12 .g-col-md-4}
+![](images/lab_folks/currey_mark.jpg){.img-fluid .rounded}
+:::
+
+::: {.g-col-12 .g-col-md-8}
+**Postdoctoral Fellow**\
+Institute of Ecology and Evolution\
+University of Oregon
+
+Mark's research investigates the genetic and genomic basis of evolutionary change in natural populations. He uses computational approaches to analyze large-scale genomic datasets and understand patterns of genetic variation that contribute to adaptation and speciation.
+
+**Contact:** mcurrey\@uoregon.edu\
+[Publications](publications.html#currey)
+:::
+::::::
+
+------------------------------------------------------------------------
+
+:::::: grid
+::: {.g-col-12 .g-col-md-12}
+### Clayton Small - Postdoctoral Scholar
+:::
+
+::: {.g-col-12 .g-col-md-4}
+![](images/lab_folks/small_clay.png){.img-fluid .rounded}
+:::
+
+::: {.g-col-12 .g-col-md-8}
+**Ph.D. Candidate**\
+Department of Biology\
+University of Oregon
+
+Clay is investigating the genetic architecture of complex traits using threespine stickleback as a model system. His research combines quantitative genetics, genomics, and developmental biology to understand how genetic variation produces phenotypic diversity in natural populations.
+
+**Contact:** csmall\@uoregon.edu\
+[Research](research.html#small)
+:::
+::::::
+
+------------------------------------------------------------------------
+
+:::::: grid
+::: {.g-col-12 .g-col-md-12}
+### Hope Healey - Graduate Student
+:::
+
+::: {.g-col-12 .g-col-md-4}
+![](images/lab_folks/healey_hope.jpg){.img-fluid .rounded}
+:::
+
+::: {.g-col-12 .g-col-md-8}
+**Ph.D. Candidate**\
+Department of Biology\
+University of Oregon
+
+Hope is a graduate student researching syngnathid fishes. She received her bachelor's degree in zoology from Michigan State in 2018. While at MSU, she worked on Michigan zooplankton and electric fish. She developed a love for teleost fishes and continues working with unique fish models in the Cresko lab. She received the 2019-20 Department of Biology Hill Fund Outstanding GE Teaching Award.
+
+**Contact:** hhealey\@uoregon.edu\
+[Full Profile](healey.html)
+:::
+::::::
+
+------------------------------------------------------------------------
+
+:::::: grid
+::: {.g-col-12 .g-col-md-12}
+### Hannah Tavalire, Ph.D. - Research Associate
+:::
+
+::: {.g-col-12 .g-col-md-4}
+![](images/lab_folks/tavalire_hannah.jpg){.img-fluid .rounded}
+:::
+
+::: {.g-col-12 .g-col-md-8}
+**Research Associate**\
+Institute of Ecology and Evolution\
+University of Oregon
+
+Hannah's research focuses on the genomics of host-microbiome interactions and how genetic variation influences microbial community composition. She uses computational and experimental approaches to understand these complex biological systems.
+
+**Contact:** tavalire\@uoregon.edu\
+[Publications](publications.html#tavalire)
+:::
+::::::
+
+------------------------------------------------------------------------
+
+## Undergraduate Researchers
+
+::::: grid
+::: {.g-col-12 .g-col-md-12}
+### Current Undergraduate Team
+:::
+
+::: g-col-12
+#### Micah Woods - Post-Baccalaureate Scholar
+
+Micah assists with a range of projects throughout the lab. Before their role as a Post-Baccalaureate Scholar, they worked as a Knight Campus Undergraduate Scholar exploring gene expression in craniofacial development of zebrafish, stickleback, and pipefish using in situ hybridization. They wrote, defended, and earned the Robert D. Clark Award for their thesis in philosophy of biology. Recently published in Ms. Magazine highlighting the contributions of Dr. Kata Karáth.
+
+**Contact:** mwoods\@uoregon.edu
+
+#### Walker Meyer - Knight Campus Undergraduate Scholar
+
+Walker is exploring the genetic basis of adaptation in stickleback populations. He was recently chosen as a Knight Campus Undergraduate Scholar in support of his research.
+
+**Contact:** wmeyer\@uoregon.edu
+
+#### Vithika Goyal - Undergraduate Researcher
+
+Vithika is studying genetic diversity in natural populations. She was recently awarded a Hui Fellowship to support her research.
+
+**Contact:** vgoyal\@uoregon.edu
 :::
 :::::
 
 ------------------------------------------------------------------------
 
-## Research Scientists
+## Lab Alumni
 
-### Susan Bassham, Ph.D.
+:::: grid
+::: g-col-12
+### Postdoctoral Fellows
 
-**Senior Research Associate**
+-   **Sophia Frantz, Ph.D.** - Now Assistant Professor at \[Institution\]
+-   **\[Name\], Ph.D.** - Current position at \[Institution\]
 
-Susan uses a variety of molecular genetic tools to uncover genome-scale patterns that underlie phenotypic variation in wild populations of fish, and to direct this knowledge to the study of developmental pathways that contribute to novel or modified morphologies. Her work on RAD-seq development and stickleback evolution has been foundational to the lab's research program.
+### Graduate Students
 
-[{{< fa envelope >}}](mailto:sbassham@uoregon.edu)
+-   **\[Name\], Ph.D. (Year)** - Thesis: "Title" - Current position at \[Institution\]
+-   **\[Name\], M.S. (Year)** - Thesis: "Title" - Current position at \[Institution\]
 
-------------------------------------------------------------------------
+### Undergraduate Researchers
 
-## Postdoctoral Researchers
-
-### Martin Stervander, Ph.D.
-
-**Swedish Research Council Fellow**
-
-Martin is broadly interested in evolutionary biology and ecology. In his postdoc project he studies the development and evolution of the highly derived craniofacial morphology of pipefishes and seahorses. With a background in phylogenetic and phylogenomic analyses of birds, his overall research interests span microevolutionary dynamics to large-scale macroevolution.
-
-[{{< fa envelope >}}](mailto:mste@uoregon.edu) [{{< fa globe >}}](https://martinstervander.com) [{{< fa brands twitter >}}](https://twitter.com/mstervander)
-
-------------------------------------------------------------------------
-
-## Graduate Students
-
-### Clayton M. Small
-
-**Ph.D. Candidate**
-
-Clayton studies genotype-by-environment interactions affecting the microbe-associated gastrointestinal transcriptome of threespine stickleback. His work has revealed important insights into host-microbiome interactions and the role of host genetics in shaping microbial communities.
-
-### Emily A. Beck
-
-**Ph.D. Candidate**
-
-Emily is interested in the genetics of adaptation and how complex traits evolve quickly in response to new or changing environments. Her work focuses on mitochondrial-nuclear interactions and their role in evolutionary adaptation.
-
-### Mark C. Currey
-
-**Ph.D. Candidate**
-
-Mark characterizes transcriptomic phenotypes using RNA-seq to understand how genomes serve as conduits for the origin, maintenance and modification of ecological variation. His work on Oregon stickleback populations has revealed patterns of genetic divergence across different timescales.
-
-### Hannah M. Healey
-
-**Ph.D. Student**
-
-Hannah applies single-cell sequencing technologies to understand developmental processes and gene expression variation in stickleback. Her innovative approaches have improved genome annotation methods for non-model organisms.
+-   **\[Name\] (Years)** - Current position/graduate program
+-   **\[Name\] (Years)** - Current position/graduate program
+:::
+::::
 
 ------------------------------------------------------------------------
 
-## Recent Alumni
+## Affiliated Members
 
-### Former Postdoctoral Researchers
+:::::: grid
+::: {.g-col-12 .g-col-md-12}
+### Chuck Kimmel, Ph.D. - Professor Emeritus
+:::
 
--   **Kathryn Milligan-Myhre** - Assistant Professor, University of Alaska Anchorage
--   **Paul Hohenlohe** - Professor, University of Idaho
--   **Julian Catchen** - Associate Professor, University of Illinois at Urbana-Champaign
+::: {.g-col-12 .g-col-md-4}
+![](images/lab_folks/chuck_kimmel.jpg){.img-fluid .rounded}
+:::
 
-### Recent Ph.D. Graduates
+::: {.g-col-12 .g-col-md-8}
+**Professor Emeritus**\
+Department of Biology\
+University of Oregon
 
--   **Kristin Alisha Sikkink** (2015) - Postdoctoral Researcher, University of Minnesota
--   **Emily Lescak** (2015) - Research Scientist, Alaska Department of Fish and Game
--   **Allison Fuiten** (2014) - Data Scientist, 23andMe
+Chuck is a distinguished developmental biologist who has made fundamental contributions to our understanding of craniofacial development and evolution. His pioneering work on zebrafish development has been instrumental in establishing this species as a model organism.
 
-### Recent Undergraduate Researchers
-
--   **Vithika Goyal** - Hui Fellowship recipient, studying genetic diversity
--   **Walker Meyer** - Knight Campus Undergraduate Scholar
--   **Micah Woods** - Post-baccalaureate scholar, published in Ms. Magazine
--   **Emily Niebergall** - Clark Honors College, Goldwater Fellowship recipient
-
-------------------------------------------------------------------------
-
-## Join Our Lab
-
-We welcome applications from motivated individuals interested in evolutionary genomics, bioinformatics, and host-microbiome interactions.
-
-### Open Positions
-
-**Graduate Students**: Apply through the [UO Biology Graduate Program](https://biology.uoregon.edu/graduate/). Application deadline is typically December 1st. Contact Dr. Cresko before applying.
-
-**Postdoctoral Researchers**: We periodically have funded positions available. Please send your CV, cover letter, and three references to [wcresko\@uoregon.edu](mailto:wcresko@uoregon.edu).
-
-**Undergraduate Students**: We regularly host 2-4 undergraduates conducting independent research projects. Contact Dr. Cresko with your interests and availability.
-
-### Our Lab Values
-
--   **Scientific rigor** and reproducible research
--   **Collaboration** across disciplines
--   **Diversity** of backgrounds and perspectives\
--   **Mentorship** and professional development
--   **Work-life balance** and wellbeing
+**Contact:** ckimmel\@uoregon.edu\
+[Publications](publications.html#kimmel)
+:::
+::::::
 
 ------------------------------------------------------------------------
 
-*Last updated: November 2024*
+## Join Our Team
+
+If you are interested in joining the Cresko Lab as an undergraduate researcher, graduate student, or postdoctoral scholar, please read our [recent publications](publications.html) and then email Dr. Cresko with your CV and a statement of research interests.
+
+### Current Opportunities:
+
+-   Graduate student positions available for Fall 2025
+-   Undergraduate research opportunities through the Knight Campus Undergraduate Scholars program
+-   Post-baccalaureate positions may be available - please inquire
+
+**Contact:** wcresko\@uoregon.edu

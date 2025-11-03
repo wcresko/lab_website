@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://wcresko.github.io/index.html</loc>
-    <lastmod>2025-11-03T01:25:36.067Z</lastmod>
+    <lastmod>2025-11-03T17:27:53.498Z</lastmod>
   </url>
   <url>
     <loc>https://wcresko.github.io/posts.html</loc>
@@ -10,11 +10,11 @@
   </url>
   <url>
     <loc>https://wcresko.github.io/people.html</loc>
-    <lastmod>2025-11-03T16:52:28.969Z</lastmod>
+    <lastmod>2025-11-03T17:17:14.979Z</lastmod>
   </url>
   <url>
     <loc>https://wcresko.github.io/publications.html</loc>
-    <lastmod>2025-11-02T23:29:58.000Z</lastmod>
+    <lastmod>2025-11-03T17:55:49.037Z</lastmod>
   </url>
   <url>
     <loc>https://wcresko.github.io/talks.html</loc>
@@ -103,5 +103,9 @@
   <url>
     <loc>https://wcresko.github.io/people/bill-cresko.html</loc>
     <lastmod>2025-11-02T22:29:39.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://wcresko.github.io/people_old.html</loc>
+    <lastmod>2025-11-03T16:52:28.969Z</lastmod>
   </url>
 </urlset>
