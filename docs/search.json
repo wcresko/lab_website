@@ -4,21 +4,21 @@
     "href": "index.html",
     "title": "Cresko Laboratory",
     "section": "",
-    "text": "We study the genomic basis of evolutionary change using the threespine stickleback fish as our primary model system. Our research combines field studies, laboratory experiments, and computational approaches to understand how organisms adapt to changing environments.\n\n\nParallel Evolution & Adaptation — We study how independent populations evolve similar solutions to environmental challenges, revealing the predictability of evolution and the genetic architecture of adaptive traits.\nHost-Microbiome Dynamics — Using stickleback as a model, we explore how host genetic variation shapes microbial communities and how these interactions influence adaptation.\nGenomic Tool Development — We developed RAD-seq technology and the Stacks software pipeline, now used by thousands of researchers worldwide for population genomics analyses.\nLearn more about our projects →\n\n\n\n\n\n\n\n\nHost genomic variation shapes gut microbiome diversity (mBio 2023)\nSeadragon genomes reveal syngnathid evolution (PNAS 2022)\nSingle-cell sequencing for genome annotation (Genetics 2022)\n\nAll publications →\n\n\n\n\n\nBill Cresko awarded Lorry Lokey Endowed Chair\nEmily Niebergall receives Goldwater Fellowship\nLab members win six conference awards\nRapid evolution paper featured in PNAS\n\nRecent updates →"
+    "text": "Threespine stickleback fish in their natural habitat - our model organism for studying evolutionary genomics"
   },
   {
     "objectID": "index.html#research-areas",
     "href": "index.html#research-areas",
     "title": "Cresko Laboratory",
-    "section": "",
-    "text": "Parallel Evolution & Adaptation — We study how independent populations evolve similar solutions to environmental challenges, revealing the predictability of evolution and the genetic architecture of adaptive traits.\nHost-Microbiome Dynamics — Using stickleback as a model, we explore how host genetic variation shapes microbial communities and how these interactions influence adaptation.\nGenomic Tool Development — We developed RAD-seq technology and the Stacks software pipeline, now used by thousands of researchers worldwide for population genomics analyses.\nLearn more about our projects →"
+    "section": "Research Areas",
+    "text": "Research Areas\nParallel Evolution & Adaptation — We study how independent populations evolve similar solutions to environmental challenges, revealing the predictability of evolution and the genetic architecture of adaptive traits.\nHost-Microbiome Dynamics — Using stickleback as a model, we explore how host genetic variation shapes microbial communities and how these interactions influence adaptation.\nGenomic Tool Development — We developed RAD-seq technology and the Stacks software pipeline, now used by thousands of researchers worldwide for population genomics analyses.\nLearn more about our projects →"
   },
   {
     "objectID": "index.html#recent-highlights",
     "href": "index.html#recent-highlights",
     "title": "Cresko Laboratory",
-    "section": "",
-    "text": "Host genomic variation shapes gut microbiome diversity (mBio 2023)\nSeadragon genomes reveal syngnathid evolution (PNAS 2022)\nSingle-cell sequencing for genome annotation (Genetics 2022)\n\nAll publications →"
+    "section": "Recent Highlights",
+    "text": "Recent Highlights\n\n\n\nPublications\n\nHost genomic variation shapes gut microbiome diversity (mBio 2023)\nSeadragon genomes reveal syngnathid evolution (PNAS 2022)\nSingle-cell sequencing for genome annotation (Genetics 2022)\n\nAll publications →\n\n\n\nNews\n\nBill Cresko awarded Lorry Lokey Endowed Chair\nEmily Niebergall receives Goldwater Fellowship\nLab members win six conference awards\nRapid evolution paper featured in PNAS\n\nRecent updates →"
   },
   {
     "objectID": "index.html#team",
@@ -1370,5 +1370,47 @@
     "title": "Bill Cresko",
     "section": "Contact",
     "text": "Contact\nOffice: 312 Pacific Hall\nPhone: (541) 346-4779\nEmail: wcresko@uoregon.edu\nLab Website: https://wcresko.github.io\nMailing Address:\nInstitute of Ecology and Evolution\nUniversity of Oregon\nEugene, OR 97403-5289\nUSA"
+  },
+  {
+    "objectID": "index_old.html",
+    "href": "index_old.html",
+    "title": "Cresko Laboratory",
+    "section": "",
+    "text": "We study the genomic basis of evolutionary change using the threespine stickleback fish as our primary model system. Our research combines field studies, laboratory experiments, and computational approaches to understand how organisms adapt to changing environments.\n\n\nParallel Evolution & Adaptation — We study how independent populations evolve similar solutions to environmental challenges, revealing the predictability of evolution and the genetic architecture of adaptive traits.\nHost-Microbiome Dynamics — Using stickleback as a model, we explore how host genetic variation shapes microbial communities and how these interactions influence adaptation.\nGenomic Tool Development — We developed RAD-seq technology and the Stacks software pipeline, now used by thousands of researchers worldwide for population genomics analyses.\nLearn more about our projects →\n\n\n\n\n\n\n\n\nHost genomic variation shapes gut microbiome diversity (mBio 2023)\nSeadragon genomes reveal syngnathid evolution (PNAS 2022)\nSingle-cell sequencing for genome annotation (Genetics 2022)\n\nAll publications →\n\n\n\n\n\nBill Cresko awarded Lorry Lokey Endowed Chair\nEmily Niebergall receives Goldwater Fellowship\nLab members win six conference awards\nRapid evolution paper featured in PNAS\n\nRecent updates →"
+  },
+  {
+    "objectID": "index_old.html#research-areas",
+    "href": "index_old.html#research-areas",
+    "title": "Cresko Laboratory",
+    "section": "",
+    "text": "Parallel Evolution & Adaptation — We study how independent populations evolve similar solutions to environmental challenges, revealing the predictability of evolution and the genetic architecture of adaptive traits.\nHost-Microbiome Dynamics — Using stickleback as a model, we explore how host genetic variation shapes microbial communities and how these interactions influence adaptation.\nGenomic Tool Development — We developed RAD-seq technology and the Stacks software pipeline, now used by thousands of researchers worldwide for population genomics analyses.\nLearn more about our projects →"
+  },
+  {
+    "objectID": "index_old.html#recent-highlights",
+    "href": "index_old.html#recent-highlights",
+    "title": "Cresko Laboratory",
+    "section": "",
+    "text": "Host genomic variation shapes gut microbiome diversity (mBio 2023)\nSeadragon genomes reveal syngnathid evolution (PNAS 2022)\nSingle-cell sequencing for genome annotation (Genetics 2022)\n\nAll publications →"
+  },
+  {
+    "objectID": "index_old.html#team",
+    "href": "index_old.html#team",
+    "title": "Cresko Laboratory",
+    "section": "Team",
+    "text": "Team\nLed by Bill Cresko, our lab includes research scientists, postdoctoral scholars, graduate students, and undergraduates working together on evolutionary questions.\nMeet our team →"
+  },
+  {
+    "objectID": "index_old.html#join-us",
+    "href": "index_old.html#join-us",
+    "title": "Cresko Laboratory",
+    "section": "Join Us",
+    "text": "Join Us\nWe welcome inquiries from prospective graduate students, postdocs, and undergraduates interested in:\n\nEvolutionary genomics and adaptation\nHost-microbiome interactions\nBioinformatics and computational biology\nPopulation genetics and phylogenomics\n\nOpen positions →"
+  },
+  {
+    "objectID": "index_old.html#contact",
+    "href": "index_old.html#contact",
+    "title": "Cresko Laboratory",
+    "section": "Contact",
+    "text": "Contact\nWilliam A. Cresko, Ph.D.\nInstitute of Ecology and Evolution\nUniversity of Oregon\n312 Pacific Hall\nEugene, OR 97403\n wcresko@uoregon.edu\n (541) 346-4779\n GitHub\n Instagram\n Bluesky"
   }
 ]

@@ -5,9 +5,7 @@ page-layout: full
 toc: false
 ---
 
-![](images/site_logo.jpg){.banner fig-alt="Stickleback fish research image" fig-align="center"}
-
-:::::: home-container
+::::: home-container
 We study the genomic basis of evolutionary change using the threespine stickleback fish as our primary model system. Our research combines field studies, laboratory experiments, and computational approaches to understand how organisms adapt to changing environments.
 
 ## Research Areas
@@ -24,8 +22,7 @@ We study the genomic basis of evolutionary change using the threespine stickleba
 
 ## Recent Highlights
 
-::::: columns
-::: {.column width="50%"}
+:::: columns-2
 ### Publications
 
 -   Host genomic variation shapes gut microbiome diversity (*mBio* 2023)
@@ -33,9 +30,11 @@ We study the genomic basis of evolutionary change using the threespine stickleba
 -   Single-cell sequencing for genome annotation (*Genetics* 2022)
 
 [All publications →](publications.qmd)
-:::
 
-::: {.column width="50%"}
+</div>
+
+<div>
+
 ### News
 
 -   Bill Cresko awarded Lorry Lokey Endowed Chair
@@ -44,8 +43,9 @@ We study the genomic basis of evolutionary change using the threespine stickleba
 -   Rapid evolution paper featured in PNAS
 
 [Recent updates →](posts.qmd)
-:::
-:::::
+
+</div>
+::::
 
 ------------------------------------------------------------------------
 
@@ -83,4 +83,4 @@ Eugene, OR 97403
 {{< fa brands github >}} [GitHub](https://github.com/creskolab)\
 {{< fa brands instagram >}} [Instagram](https://instagram.com/creskolab)\
 {{< fa brands bluesky >}} [Bluesky](https://bsky.app/profile/creskolab.bsky.social)
-::::::
+:::::
