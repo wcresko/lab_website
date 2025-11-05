@@ -1,0 +1,152 @@
+---
+title: "Teaching"
+description: "Courses and educational resources from the Cresko Laboratory"
+page-layout: article
+toc: true
+---
+
+## Current Courses
+
+### BI 380: Evolution
+**Term**: Fall  
+**Level**: Upper-division undergraduate  
+**Description**: This course explores the mechanisms of evolutionary change, from molecular evolution to macroevolution. Topics include natural selection, genetic drift, phylogenetics, speciation, and the evolution of complex traits.
+
+**Learning Objectives**:
+- Understand the fundamental principles of evolutionary biology
+- Apply population genetics theory to real-world examples
+- Analyze phylogenetic relationships and evolutionary patterns
+- Evaluate evidence for evolutionary processes
+
+[Course Materials →](https://canvas.uoregon.edu/)
+
+### BI 410/510: Genomics and Bioinformatics
+**Term**: Winter  
+**Level**: Upper-division undergraduate / Graduate  
+**Description**: An introduction to genomic technologies and computational approaches for analyzing large-scale biological data. Students gain hands-on experience with genomic data analysis using R and command-line tools.
+
+**Topics Covered**:
+- Next-generation sequencing technologies
+- Genome assembly and annotation
+- RNA-seq analysis
+- Population genomics
+- GWAS and QTL mapping
+
+**Prerequisites**: BI 282 (Genetics) or equivalent
+
+### BI 607: Advanced Topics in Evolutionary Genomics
+**Term**: Spring (alternate years)  
+**Level**: Graduate seminar  
+**Description**: In-depth exploration of current topics in evolutionary genomics through discussion of primary literature and student-led presentations.
+
+## Past Courses
+
+- **BI 283**: Introduction to Molecular Biology
+- **BI 471/571**: Population Genetics
+- **BI 399**: Special Studies in Genomics
+- **BI 610**: Journal Club in Evolution and Ecology
+
+## Educational Resources
+
+### Tutorials and Workshops
+
+#### RAD-seq Workshop
+Annual workshop on RAD-seq library preparation and data analysis using Stacks.
+- [Workshop Materials](files/pdfs/radseq-workshop-2024.pdf)
+- [Video Tutorials](https://youtube.com/)
+
+#### Bioinformatics Bootcamp
+Intensive one-week introduction to command-line tools and genomic data analysis.
+- Offered each summer
+- Open to UO students and external participants
+- [Registration Information](mailto:wcresko@uoregon.edu)
+
+### Online Resources
+
+#### Stacks Tutorials
+Comprehensive tutorials for population genomics analysis:
+- [Getting Started with Stacks](http://catchenlab.life.illinois.edu/stacks/manual/)
+- [RAD-seq Data Processing](files/tutorials/radseq-processing.html)
+- [Population Structure Analysis](files/tutorials/population-structure.html)
+
+#### Lecture Materials
+Selected lecture slides and materials (password protected for enrolled students):
+- [Evolution Lecture Slides](https://canvas.uoregon.edu/)
+- [Genomics Lab Protocols](files/protocols/)
+
+## Mentoring Philosophy
+
+Our lab is committed to fostering an inclusive and supportive environment for all trainees. We believe in:
+
+- **Active mentoring**: Regular one-on-one meetings and goal setting
+- **Professional development**: Support for conference attendance, workshops, and career planning
+- **Collaborative learning**: Peer mentoring and lab group discussions
+- **Work-life balance**: Flexible schedules and respect for personal time
+- **Diversity and inclusion**: Welcoming all backgrounds and perspectives
+
+## Student Achievements
+
+### Awards and Honors
+- **2024**: Vithika Goyal - Hui Fellowship
+- **2024**: Walker Meyer - Knight Campus Undergraduate Scholar
+- **2023**: [Student Name] - NSF Graduate Research Fellowship
+- **2023**: [Student Name] - Best Student Presentation, Evolution Conference
+
+### Student Publications
+Many lab members have been lead authors on publications:
+- See our [Publications page](publications.qmd) for papers with student first authors
+
+## Training Opportunities
+
+### Graduate Program
+The University of Oregon offers excellent graduate training in:
+- [Biology Graduate Program](https://biology.uoregon.edu/graduate/)
+- [Bioinformatics and Genomics Training Program](https://bgmp.uoregon.edu/)
+- [Data Science Initiative](https://datascience.uoregon.edu/)
+
+### Undergraduate Research
+We regularly host undergraduate researchers through:
+- **CURE Programs**: Course-based Undergraduate Research Experiences
+- **Summer REU**: NSF Research Experiences for Undergraduates
+- **Honors Thesis Projects**: Year-long independent research projects
+- **Work-Study Positions**: Part-time research assistant positions
+
+### Postdoctoral Training
+Postdocs in our lab receive training in:
+- Grant writing and funding strategies
+- Teaching and mentoring
+- Project management
+- Career development for academia and industry
+
+## Outreach and K-12 Education
+
+### Science Outreach Programs
+- **Oregon Science Olympiad**: Volunteer judges and workshop leaders
+- **SPICE Program**: Summer Program to Inspire Creativity in Engineering
+- **Darwin Day**: Annual public lecture series on evolution
+
+### School Visits
+Lab members regularly visit local schools to:
+- Present hands-on science activities
+- Discuss careers in science
+- Mentor high school science fair projects
+
+## Resources for Students
+
+### Getting Started in Research
+- [How to Contact Faculty about Research Opportunities](files/guides/contacting-faculty.pdf)
+- [Writing a Research Proposal](files/guides/research-proposal.pdf)
+- [Fellowship and Grant Opportunities](files/guides/funding-opportunities.pdf)
+
+### Career Development
+- [Academic Job Search Timeline](files/guides/academic-job-search.pdf)
+- [Industry Careers in Genomics](files/guides/industry-careers.pdf)
+- [CV and Resume Templates](files/templates/)
+
+## Contact
+
+For questions about courses or training opportunities:
+
+**Dr. William Cresko**  
+📧 [wcresko@uoregon.edu](mailto:wcresko@uoregon.edu)  
+📍 Office Hours: Tuesdays & Thursdays, 2-3 PM (312 Pacific Hall)

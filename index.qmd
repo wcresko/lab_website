@@ -5,12 +5,10 @@ page-layout: full
 toc: false
 ---
 
-:::::: home-container
+::::: home-container
 We study the genomic basis of evolutionary change using the threespine stickleback fish as our primary model system. Our research combines field studies, laboratory experiments, and computational approaches to understand how organisms adapt to changing environments.
 
 ## Research Areas
-
-Our laboratory investigates fundamental questions in evolutionary biology through an integrative approach combining genomics, ecology, and bioinformatics.
 
 **Parallel Evolution & Adaptation** — We study how independent populations evolve similar solutions to environmental challenges, revealing the predictability of evolution and the genetic architecture of adaptive traits.
 
@@ -24,9 +22,7 @@ Our laboratory investigates fundamental questions in evolutionary biology throug
 
 ## Recent Highlights
 
-::::: columns-2
-<div>
-
+:::: columns-2
 ### Publications
 
 -   Host genomic variation shapes gut microbiome diversity (*mBio* 2023)
@@ -49,7 +45,7 @@ Our laboratory investigates fundamental questions in evolutionary biology throug
 [Recent updates →](posts.qmd)
 
 </div>
-:::::
+::::
 
 ------------------------------------------------------------------------
 
@@ -87,4 +83,4 @@ Eugene, OR 97403
 {{< fa brands github >}} [GitHub](https://github.com/creskolab)\
 {{< fa brands instagram >}} [Instagram](https://instagram.com/creskolab)\
 {{< fa brands bluesky >}} [Bluesky](https://bsky.app/profile/creskolab.bsky.social)
-::::::
+:::::

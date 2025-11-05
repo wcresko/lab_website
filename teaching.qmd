@@ -7,146 +7,259 @@ toc: true
 
 ## Current Courses
 
-### BI 380: Evolution
-**Term**: Fall  
-**Level**: Upper-division undergraduate  
-**Description**: This course explores the mechanisms of evolutionary change, from molecular evolution to macroevolution. Topics include natural selection, genetic drift, phylogenetics, speciation, and the evolution of complex traits.
+### Knight Campus Courses (2024-2026)
 
-**Learning Objectives**:
-- Understand the fundamental principles of evolutionary biology
-- Apply population genetics theory to real-world examples
-- Analyze phylogenetic relationships and evolutionary patterns
-- Evaluate evidence for evolutionary processes
+#### Statistics for Bioengineers
 
-[Course Materials →](https://canvas.uoregon.edu/)
+**Course Number**: TBD\
+**Term**: Spring 2025, Winter 2026\
+**Level**: Graduate\
+**Description**: Statistical methods and computational approaches for bioengineering research. Students learn to apply statistical reasoning to biological data and engineering problems.
 
-### BI 410/510: Genomics and Bioinformatics
-**Term**: Winter  
-**Level**: Upper-division undergraduate / Graduate  
-**Description**: An introduction to genomic technologies and computational approaches for analyzing large-scale biological data. Students gain hands-on experience with genomic data analysis using R and command-line tools.
+**Topics Covered**: - Statistical inference and hypothesis testing - Linear and nonlinear modeling - Experimental design for bioengineering - Data visualization and interpretation - Machine learning applications
 
-**Topics Covered**:
-- Next-generation sequencing technologies
-- Genome assembly and annotation
-- RNA-seq analysis
-- Population genomics
-- GWAS and QTL mapping
+#### Computational Tools for Bioengineers
 
-**Prerequisites**: BI 282 (Genetics) or equivalent
+**Course Number**: TBD\
+**Term**: Fall 2025\
+**Level**: Graduate\
+**Description**: Introduction to computational methods and programming tools essential for modern bioengineering research.
 
-### BI 607: Advanced Topics in Evolutionary Genomics
-**Term**: Spring (alternate years)  
-**Level**: Graduate seminar  
-**Description**: In-depth exploration of current topics in evolutionary genomics through discussion of primary literature and student-led presentations.
+**Topics Covered**: - Programming in Python and R - High-performance computing - Data management and workflows - Image analysis and processing - Computational modeling of biological systems
 
 ## Past Courses
 
-- **BI 283**: Introduction to Molecular Biology
-- **BI 471/571**: Population Genetics
-- **BI 399**: Special Studies in Genomics
-- **BI 610**: Journal Club in Evolution and Ecology
+### Core Biology and Evolution Courses
+
+#### BI 253: Honors Biology - Evolution and Biodiversity
+
+**Years Taught**: 2007, 2008, 2009, 2010, 2011, 2012\
+**Level**: Undergraduate\
+**Format**: Lecture and Laboratories\
+**Description**: Honors-level introduction to evolutionary biology and biodiversity for undergraduate students.
+
+#### BI 355: Evolution
+
+**Years Taught**: 2012\
+**Level**: Undergraduate\
+**Format**: Lecture and Laboratories\
+**Description**: Comprehensive introduction to evolutionary theory, mechanisms, and applications.
+
+### Genetics and Genomics Courses
+
+#### BI 486/586: Population Genetics
+
+**Years Taught**: 2008, 2010\
+**Level**: Upper-division Undergraduate and Graduate\
+**Format**: Lecture and Problem Sessions\
+**Description**: Mathematical and conceptual foundations of population genetics, including Hardy-Weinberg equilibrium, genetic drift, selection, and gene flow.
+
+#### BI 496/596: Conservation Genetics
+
+**Years Taught**: 2005, 2007, 2009, 2011\
+**Level**: Upper-division Undergraduate and Graduate\
+**Format**: Lecture and Problem Sessions\
+**Description**: Application of genetic and genomic approaches to conservation biology, including population viability analysis and genetic management of endangered species.
+
+### Statistics and Computational Biology
+
+#### BI 610: Advanced Biological Statistics
+
+**Years Taught**: 2013, 2014, 2015, 2016, 2017, 2018, 2019\
+**Level**: Graduate\
+**Format**: Lecture and Computational Labs\
+**Description**: Advanced statistical methods for biological research, with emphasis on experimental design and data analysis using R.
+
+#### BI 610: Foundational Biological Statistics
+
+**Years Taught**: 2020, 2021, 2022\
+**Level**: Graduate\
+**Format**: Lecture and Computational Labs\
+**Description**: Introduction to statistical thinking and methods for graduate students in biology.
+
+#### Evolutionary Genomics Module on Quantitative Genetics
+
+**Years Taught**: 2020, 2021, 2022, 2023\
+**Level**: Graduate\
+**Format**: Lecture and Computational Sessions\
+**Description**: Module within the evolutionary genomics course covering quantitative genetic approaches to understanding complex traits.
+
+### Graduate Programs and Seminars
+
+#### Bioinformatics and Genomics Masters Program
+
+**Years Taught**: 2012, 2014, 2015, 2016, 2017, 2018, 2019\
+**Role**: Founder and Director\
+**Format**: Lecture, Laboratories, Internships\
+**Description**: Intensive graduate program combining coursework in genomics, bioinformatics, and data science with hands-on research experience and industry internships.
+
+#### BI 607: Evolution, Development and Genomics Journal Club
+
+**Years Taught**: 2005-2012 (every term)\
+**Level**: Graduate\
+**Format**: Discussion\
+**Description**: Weekly journal club discussing current literature in evolutionary genomics and developmental biology.
+
+#### BI 507: Current Topics in Ecology and Evolutionary Biology
+
+**Years Taught**: 2005-2006\
+**Level**: Graduate\
+**Format**: Discussion\
+**Description**: Seminar series featuring invited speakers and discussion of current research in ecology and evolution.
+
+## International Teaching and Workshops
+
+### Workshop Faculty (18 International Workshops)
+
+#### Evomics - European School of Genomics
+
+**Location**: Český Krumlov, Czech Republic\
+**Years**: 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020\
+**Topics**: Population genomics, RAD-seq, and evolutionary genomics
+
+#### Berlin School of Evolutionary Genomics
+
+**Location**: Berlin, Germany\
+**Year**: 2021\
+**Topics**: Advanced methods in evolutionary genomics
+
+#### GENECO RAD-seq Workshop
+
+**Location**: Lund University, Sweden\
+**Years**: 2012, 2015\
+**Topics**: RAD-seq library preparation and data analysis
+
+#### Workshop on Population Genomics
+
+**Location**: University of Puerto Rico, San Juan\
+**Year**: 2011\
+**Topics**: Population genomic approaches for non-model organisms
+
+#### Summer School on Population Genomics and Evolution
+
+**Location**: Frauenchiemsee, Germany\
+**Year**: 2010\
+**Topics**: Theory and practice of population genomics
+
+#### Additional International Workshops
+
+-   **2012**: Pacific-America Science Institute, Silliman University, Philippines
+-   **2012**: Switzerland RAD-seq Workshop, University of Neuchâtel
+-   **2011**: National Evolutionary Synthesis Center (NESCent) RAD-seq Workshop, Durham, NC
+-   **2010**: UK Workshop on RAD-seq, University of Edinburgh, Scotland
 
 ## Educational Resources
 
 ### Tutorials and Workshops
 
 #### RAD-seq Workshop
-Annual workshop on RAD-seq library preparation and data analysis using Stacks.
-- [Workshop Materials](files/pdfs/radseq-workshop-2024.pdf)
-- [Video Tutorials](https://youtube.com/)
+
+Annual workshop on RAD-seq library preparation and data analysis using Stacks. - [Workshop Materials](files/pdfs/radseq-workshop-2024.pdf) - [Video Tutorials](https://youtube.com/)
 
 #### Bioinformatics Bootcamp
-Intensive one-week introduction to command-line tools and genomic data analysis.
-- Offered each summer
-- Open to UO students and external participants
-- [Registration Information](mailto:wcresko@uoregon.edu)
+
+Intensive one-week introduction to command-line tools and genomic data analysis. - Offered each summer - Open to UO students and external participants - [Registration Information](mailto:wcresko@uoregon.edu)
 
 ### Online Resources
 
 #### Stacks Tutorials
-Comprehensive tutorials for population genomics analysis:
-- [Getting Started with Stacks](http://catchenlab.life.illinois.edu/stacks/manual/)
-- [RAD-seq Data Processing](files/tutorials/radseq-processing.html)
-- [Population Structure Analysis](files/tutorials/population-structure.html)
+
+Comprehensive tutorials for population genomics analysis: - [Getting Started with Stacks](http://catchenlab.life.illinois.edu/stacks/manual/) - [RAD-seq Data Processing](files/tutorials/radseq-processing.html) - [Population Structure Analysis](files/tutorials/population-structure.html)
 
 #### Lecture Materials
-Selected lecture slides and materials (password protected for enrolled students):
-- [Evolution Lecture Slides](https://canvas.uoregon.edu/)
-- [Genomics Lab Protocols](files/protocols/)
+
+Selected lecture slides and materials (password protected for enrolled students): - [Evolution Lecture Slides](https://canvas.uoregon.edu/) - [Genomics Lab Protocols](files/protocols/)
+
+## Teaching Philosophy and Awards
+
+### Recognition
+
+-   **2010**: Biology Department Excellence in Teaching Award, University of Oregon
+-   Consistently high student evaluations across all courses
+-   Invited faculty at 18 international workshops
+
+### Teaching Approach
+
+Our teaching philosophy emphasizes: - **Active learning**: Hands-on computational exercises and problem-solving - **Real-world applications**: Using actual genomic datasets in coursework - **Inclusive pedagogy**: Creating supportive learning environments for all students - **Interdisciplinary thinking**: Connecting biology, statistics, and computational approaches - **Research integration**: Bringing current research into the classroom
 
 ## Mentoring Philosophy
 
 Our lab is committed to fostering an inclusive and supportive environment for all trainees. We believe in:
 
-- **Active mentoring**: Regular one-on-one meetings and goal setting
-- **Professional development**: Support for conference attendance, workshops, and career planning
-- **Collaborative learning**: Peer mentoring and lab group discussions
-- **Work-life balance**: Flexible schedules and respect for personal time
-- **Diversity and inclusion**: Welcoming all backgrounds and perspectives
+-   **Active mentoring**: Regular one-on-one meetings and goal setting
+-   **Professional development**: Support for conference attendance, workshops, and career planning
+-   **Collaborative learning**: Peer mentoring and lab group discussions
+-   **Work-life balance**: Flexible schedules and respect for personal time
+-   **Diversity and inclusion**: Welcoming all backgrounds and perspectives
 
 ## Student Achievements
 
 ### Awards and Honors
-- **2024**: Vithika Goyal - Hui Fellowship
-- **2024**: Walker Meyer - Knight Campus Undergraduate Scholar
-- **2023**: [Student Name] - NSF Graduate Research Fellowship
-- **2023**: [Student Name] - Best Student Presentation, Evolution Conference
+
+-   **2024**: Vithika Goyal - Hui Fellowship
+-   **2024**: Walker Meyer - Knight Campus Undergraduate Scholar
+-   **2023**: Micah Woods - Robert D. Clark Award for thesis in philosophy of biology
+-   **2020**: Emily Niebergall - Goldwater Scholarship
+-   Multiple students received NSF GRFP, NIH Training Grants, and NSF DDIG awards
 
 ### Student Publications
-Many lab members have been lead authors on publications:
-- See our [Publications page](publications.qmd) for papers with student first authors
+
+Many lab members have been lead authors on publications: - See our [Publications page](publications.qmd) for papers with student first authors
 
 ## Training Opportunities
 
 ### Graduate Program
-The University of Oregon offers excellent graduate training in:
-- [Biology Graduate Program](https://biology.uoregon.edu/graduate/)
-- [Bioinformatics and Genomics Training Program](https://bgmp.uoregon.edu/)
-- [Data Science Initiative](https://datascience.uoregon.edu/)
+
+The University of Oregon offers excellent graduate training in: - [Biology Graduate Program](https://biology.uoregon.edu/graduate/) - [Bioinformatics and Genomics Training Program](https://bgmp.uoregon.edu/) - [Data Science Initiative](https://datascience.uoregon.edu/) - [Knight Campus Graduate Programs](https://knightcampus.uoregon.edu/)
 
 ### Undergraduate Research
-We regularly host undergraduate researchers through:
-- **CURE Programs**: Course-based Undergraduate Research Experiences
-- **Summer REU**: NSF Research Experiences for Undergraduates
-- **Honors Thesis Projects**: Year-long independent research projects
-- **Work-Study Positions**: Part-time research assistant positions
+
+We regularly host undergraduate researchers through: - **CURE Programs**: Course-based Undergraduate Research Experiences - **Summer REU**: NSF Research Experiences for Undergraduates - **Honors Thesis Projects**: Year-long independent research projects - **Knight Campus Undergraduate Scholars**: Funded research positions - **Work-Study Positions**: Part-time research assistant positions
 
 ### Postdoctoral Training
-Postdocs in our lab receive training in:
-- Grant writing and funding strategies
-- Teaching and mentoring
-- Project management
-- Career development for academia and industry
+
+Postdocs in our lab receive training in: - Grant writing and funding strategies - Teaching and mentoring - Project management - Career development for academia and industry
 
 ## Outreach and K-12 Education
 
 ### Science Outreach Programs
-- **Oregon Science Olympiad**: Volunteer judges and workshop leaders
-- **SPICE Program**: Summer Program to Inspire Creativity in Engineering
-- **Darwin Day**: Annual public lecture series on evolution
+
+-   **Oregon Science Olympiad**: Volunteer judges and workshop leaders
+-   **SPICE Program**: Summer Program to Inspire Creativity in Engineering
+-   **Darwin Day**: Annual public lecture series on evolution
 
 ### School Visits
-Lab members regularly visit local schools to:
-- Present hands-on science activities
-- Discuss careers in science
-- Mentor high school science fair projects
+
+Lab members regularly visit local schools to: - Present hands-on science activities - Discuss careers in science - Mentor high school science fair projects
 
 ## Resources for Students
 
 ### Getting Started in Research
-- [How to Contact Faculty about Research Opportunities](files/guides/contacting-faculty.pdf)
-- [Writing a Research Proposal](files/guides/research-proposal.pdf)
-- [Fellowship and Grant Opportunities](files/guides/funding-opportunities.pdf)
+
+-   [How to Contact Faculty about Research Opportunities](files/guides/contacting-faculty.pdf)
+-   [Writing a Research Proposal](files/guides/research-proposal.pdf)
+-   [Fellowship and Grant Opportunities](files/guides/funding-opportunities.pdf)
 
 ### Career Development
-- [Academic Job Search Timeline](files/guides/academic-job-search.pdf)
-- [Industry Careers in Genomics](files/guides/industry-careers.pdf)
-- [CV and Resume Templates](files/templates/)
+
+-   [Academic Job Search Timeline](files/guides/academic-job-search.pdf)
+-   [Industry Careers in Genomics](files/guides/industry-careers.pdf)
+-   [CV and Resume Templates](files/templates/)
+
+## Teaching Timeline
+
+### Academic Milestones
+
+-   **2024-present**: Teaching transitioned to Knight Campus for Accelerating Scientific Impact
+-   **2012-2019**: Founded and directed Bioinformatics and Genomics Masters Program
+-   **2005-present**: Regular instructor for undergraduate and graduate courses
+-   **Sabbaticals**: 2012-2013, 2023-2024
+-   **Reduced teaching**: 2013-2023 (Administrative duties as AVP Research and Data Science Executive Director)
 
 ## Contact
 
 For questions about courses or training opportunities:
 
-**Dr. William Cresko**  
-📧 [wcresko@uoregon.edu](mailto:wcresko@uoregon.edu)  
+**Dr. William Cresko**\
+📧 [wcresko\@uoregon.edu](mailto:wcresko@uoregon.edu)\
 📍 Office Hours: Tuesdays & Thursdays, 2-3 PM (312 Pacific Hall)
