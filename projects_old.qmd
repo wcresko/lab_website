@@ -1,0 +1,97 @@
+---
+title: "Projects"
+page-layout: full
+toc: false
+---
+
+::: {.projects-container}
+
+## Current Projects
+
+::: {.project-item}
+::: {.project-title}
+[Host Genetic Control of the Microbiome](research.qmd#host-microbiome-coevolution)
+:::
+::: {.project-details}
+**NIH R01** (2022-2026) | PI: William Cresko, Brendan Bohannan  
+Using experimental evolution and genome-wide association studies to understand how host genetics shapes microbiome composition and function.
+:::
+:::
+
+::: {.project-item}
+::: {.project-title}
+[Genomic Architecture of Parallel Evolution](publications.qmd)
+:::
+::: {.project-details}
+**NSF DEB** (2023-2027) | PI: William Cresko  
+Investigating the repeatability of evolution by comparing genomic changes in multiple independently evolved stickleback populations.
+:::
+:::
+
+::: {.project-item}
+::: {.project-title}
+[META Center for Systems Biology](https://meta.uoregon.edu)
+:::
+::: {.project-details}
+**NIH** (2017-2025) | Role: Co-Investigator  
+Part of the Microbial Ecology and Theory of Animals Center, studying host-microbiome interactions across multiple model systems.
+:::
+:::
+
+## Recent Completed Projects
+
+::: {.project-item}
+::: {.project-title}
+[Rapid Evolution Following Environmental Change](https://doi.org/10.1073/pnas.1512020112)
+:::
+::: {.project-details}
+**NSF** (2013-2018) | Outcome: PNAS publication  
+Demonstrated evolution can occur within decades following the 1964 Alaska earthquake.
+:::
+:::
+
+::: {.project-item}
+::: {.project-title}
+[Syngnathid Genome Consortium](https://doi.org/10.1186/s13059-016-1126-6)
+:::
+::: {.project-details}
+**NSF & Moore Foundation** (2014-2020) | Outcome: Multiple genome publications  
+Led sequencing and analysis of syngnathid fish genomes to understand unique trait evolution.
+:::
+:::
+
+## Methodological Developments
+
+::: {.project-item}
+::: {.project-title}
+[RAD-seq Technology](https://doi.org/10.1371/journal.pone.0003376)
+:::
+::: {.project-details}
+**Years**: 2008-present | **Impact**: 10,000+ users worldwide  
+Developed Restriction site Associated DNA sequencing for cost-effective genome-wide SNP discovery.
+:::
+:::
+
+::: {.project-item}
+::: {.project-title}
+[Stacks Software Pipeline](http://catchenlab.life.illinois.edu/stacks/)
+:::
+::: {.project-details}
+**Years**: 2010-present | **Downloads**: 50,000+  
+Created comprehensive software for building loci from short-read sequences.
+:::
+:::
+
+## Collaborative Networks
+
+**National & International**: University of Alaska | Stanford Hopkins Marine Station | Max Planck Institute | Swedish Museum of Natural History
+
+**Campus Collaborations**: Institute of Ecology and Evolution | Knight Campus | META Center | Genomics Core Facility
+
+## Data & Resources
+
+All data available through: [NCBI BioProject](https://www.ncbi.nlm.nih.gov/bioproject) | [Dryad](https://datadryad.org) | [GitHub](https://github.com/creskolab)
+
+:::
+
+*For access to specific datasets or collaboration inquiries: [wcresko@uoregon.edu](mailto:wcresko@uoregon.edu)*

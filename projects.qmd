@@ -6,57 +6,207 @@ toc: false
 
 ::: {.projects-container}
 
-## Current Projects
+## Applications in Review
 
 ::: {.project-item}
 ::: {.project-title}
-[Host Genetic Control of the Microbiome](research.qmd#host-microbiome-coevolution)
+Single-Cell Resolution of the Epigenomic Basis of Adaptation in the Wild
 :::
 ::: {.project-details}
-**NIH R01** (2022-2026) | PI: William Cresko, Brendan Bohannan  
-Using experimental evolution and genome-wide association studies to understand how host genetics shapes microbiome composition and function.
+**NIH NIGMS R01** (2026-2031) | **$2,187,344** | PI: William Cresko  
+Using threespine stickleback fish to understand epigenomic mechanisms underlying adaptation in natural populations at single-cell resolution.
 :::
 :::
+
+## Current Research Funding
 
 ::: {.project-item}
 ::: {.project-title}
-[Genomic Architecture of Parallel Evolution](publications.qmd)
+Male Pregnancy and its Effects on the Brood Pouch Microbiome
 :::
 ::: {.project-details}
-**NSF DEB** (2023-2027) | PI: William Cresko  
-Investigating the repeatability of evolution by comparing genomic changes in multiple independently evolved stickleback populations.
+**NSF** (2020-2025) | **$1,070,484** | PI: William Cresko  
+Investigating the unique biology of male pregnancy in syngnathid fishes and how it shapes host-microbiome interactions in the brood pouch.
 :::
 :::
+
+## Recent Major Research Projects
 
 ::: {.project-item}
 ::: {.project-title}
-[META Center for Systems Biology](https://meta.uoregon.edu)
+Mathematical Models of Host-Symbiont Ecology and Evolution
 :::
 ::: {.project-details}
-**NIH** (2017-2025) | Role: Co-Investigator  
-Part of the Microbial Ecology and Theory of Animals Center, studying host-microbiome interactions across multiple model systems.
-:::
-:::
-
-## Recent Completed Projects
-
-::: {.project-item}
-::: {.project-title}
-[Rapid Evolution Following Environmental Change](https://doi.org/10.1073/pnas.1512020112)
-:::
-::: {.project-details}
-**NSF** (2013-2018) | Outcome: PNAS publication  
-Demonstrated evolution can occur within decades following the 1964 Alaska earthquake.
+**Moore Foundation** (2022-2025) | **$564,000** | PI: William Cresko  
+Developing mathematical frameworks to understand the evolutionary dynamics of host-microbiome interactions.
 :::
 :::
 
 ::: {.project-item}
 ::: {.project-title}
-[Syngnathid Genome Consortium](https://doi.org/10.1186/s13059-016-1126-6)
+NIH P50 Reducing Opioid Addiction in Mothers
 :::
 ::: {.project-details}
-**NSF & Moore Foundation** (2014-2020) | Outcome: Multiple genome publications  
-Led sequencing and analysis of syngnathid fish genomes to understand unique trait evolution.
+**NIH P50** (2019-2025) | **$11,190,603** | Co-Investigator  
+Multi-institutional center grant focused on understanding and reducing opioid use disorder in pregnant and parenting mothers.
+:::
+:::
+
+::: {.project-item}
+::: {.project-title}
+[META Center of Excellence in Systems Biology](https://meta.uoregon.edu)
+:::
+::: {.project-details}
+**NIH Center Grant** (2012-2018) | **$10,298,725** | PI: William Cresko  
+Established the Microbial Ecology and Theory of Animals Center to study host-microbiome interactions across multiple model systems.
+:::
+:::
+
+## COVID-19 Response Projects
+
+::: {.project-item}
+::: {.project-title}
+SARS-CoV-2 Testing Infrastructure and Scale-up
+:::
+::: {.project-details}
+**Oregon Health Authority** (2020-2022) | **$4,364,823** | PI: William Cresko  
+Major equipment purchase and infrastructure development for high-throughput COVID-19 testing at UO and throughout Oregon.
+:::
+:::
+
+::: {.project-item}
+::: {.project-title}
+Optimizing SARS-CoV-2 Testing in Latinx Communities
+:::
+::: {.project-details}
+**NIH RADx-UP** (2021-2023) | **$1,832,583** | MPI: William Cresko  
+Increasing COVID-19 testing access and efficacy in underserved Latinx populations throughout Oregon.
+:::
+:::
+
+::: {.project-item}
+::: {.project-title}
+Scaling up SARS-CoV-2 Testing in Latinx Communities
+:::
+::: {.project-details}
+**NIH RADx-UP** (2020-2022) | **$4,166,575** | MPI: William Cresko  
+Large-scale implementation of culturally appropriate testing strategies for Oregon's Latinx communities.
+:::
+:::
+
+## Genomics and Transcriptomics Research
+
+::: {.project-item}
+::: {.project-title}
+Advancing Transcriptomics in Aquatic Models
+:::
+::: {.project-details}
+**NIH** (2011-2019) | **$2,647,451** | PI: William Cresko  
+Developed novel transcriptomic tools and CRISPR applications for aquatic model organisms. Included major supplement for CRISPR technology development.
+:::
+:::
+
+::: {.project-item}
+::: {.project-title}
+The Study of Cancer Development as an Evolutionary Process
+:::
+::: {.project-details}
+**W.M. Keck Foundation** (2011-2015) | **$1,000,000** | PI: William Cresko  
+Applied evolutionary theory to understand cancer progression and treatment resistance.
+:::
+:::
+
+::: {.project-item}
+::: {.project-title}
+Functional and Population Genomics of Small RNA Regulation
+:::
+::: {.project-details}
+**NIH** (2011-2016) | **$1,484,689** | PI: William Cresko  
+Investigated the role of small RNAs in developmental plasticity and evolutionary adaptation.
+:::
+:::
+
+## Evolution and Development Studies
+
+::: {.project-item}
+::: {.project-title}
+Evolutionary Genomics of Rapid Adaptation in Stickleback
+:::
+::: {.project-details}
+**NSF** (2009-2013) | **$364,756** | PI: William Cresko  
+Documented genomic changes underlying rapid evolutionary responses to environmental change.
+:::
+:::
+
+::: {.project-item}
+::: {.project-title}
+Evolution of Development of Facial Bone Morphology
+:::
+::: {.project-details}
+**NSF** (2008-2012) | **$555,016** | PI: William Cresko  
+Uncovered developmental genetic mechanisms controlling craniofacial variation in natural populations.
+:::
+:::
+
+::: {.project-item}
+::: {.project-title}
+Microevolution of Craniofacial Development in Stickleback
+:::
+::: {.project-details}
+**NIH** (2007-2011) | **$473,944** | PI: William Cresko  
+Identified genetic variants affecting skull morphology with implications for understanding human craniofacial disorders.
+:::
+:::
+
+## Infrastructure and Educational Support
+
+::: {.project-item}
+::: {.project-title}
+Major Renovation of UO Animal Facilities
+:::
+::: {.project-details}
+**NIH C06** (2010-2012) | **$9,117,040** | PI: William Cresko  
+Complete modernization of animal research facilities supporting campus-wide biomedical research.
+:::
+:::
+
+::: {.project-item}
+::: {.project-title}
+NSF IGERT - Evolution, Development and Genomics
+:::
+::: {.project-details}
+**NSF** (2005-2010) | **$2,399,988** | PI: William Cresko  
+Established interdisciplinary graduate training program combining evolutionary biology with genomics.
+:::
+:::
+
+::: {.project-item}
+::: {.project-title}
+Computational Instrument for Scientific Synthesis
+:::
+::: {.project-details}
+**NSF MRI** (2009-2011) | **$1,971,109** | PI: William Cresko  
+Acquisition of high-performance computing infrastructure supporting genomics research across campus.
+:::
+:::
+
+::: {.project-item}
+::: {.project-title}
+Graduate Internship Program Support
+:::
+::: {.project-details}
+**ETIC** (2013-2015) | **$1,299,109** | PI: William Cresko  
+Renewable funding establishing industry partnerships for graduate student training.
+:::
+:::
+
+::: {.project-item}
+::: {.project-title}
+X-ray Microscope Capabilities
+:::
+::: {.project-details}
+**Murdock Charitable Trust** (2019-2020) | **$500,000** | PI: William Cresko  
+Advanced imaging infrastructure for biological and materials science research.
 :::
 :::
 
@@ -68,7 +218,7 @@ Led sequencing and analysis of syngnathid fish genomes to understand unique trai
 :::
 ::: {.project-details}
 **Years**: 2008-present | **Impact**: 10,000+ users worldwide  
-Developed Restriction site Associated DNA sequencing for cost-effective genome-wide SNP discovery.
+Developed Restriction site Associated DNA sequencing for cost-effective genome-wide SNP discovery and genotyping.
 :::
 :::
 
@@ -78,20 +228,66 @@ Developed Restriction site Associated DNA sequencing for cost-effective genome-w
 :::
 ::: {.project-details}
 **Years**: 2010-present | **Downloads**: 50,000+  
-Created comprehensive software for building loci from short-read sequences.
+Created comprehensive software suite for building loci from short-read sequences in organisms without reference genomes.
+:::
+:::
+
+::: {.project-item}
+::: {.project-title}
+[scISOr-seq Technology](publications.qmd)
+:::
+::: {.project-details}
+**Years**: 2020-present  
+Pioneered single-cell isoform sequencing methods for understanding cell-type-specific transcript variation.
+:::
+:::
+
+## Fellowship and Student Support
+
+::: {.project-item}
+::: {.project-title}
+Postdoctoral Fellowship Support
+:::
+::: {.project-details}
+Successfully mentored **8 NIH-funded postdocs** including Kirchstein NRSA Fellows  
+Total postdoctoral fellowship funding secured: **>$1,000,000**
+:::
+:::
+
+::: {.project-item}
+::: {.project-title}
+Graduate Student Support
+:::
+::: {.project-details}
+Secured funding for **5 NSF Doctoral Dissertation Improvement Grants**  
+Mentored **NSF Graduate Research Fellowship** recipients  
+NIH F31 Fellowship advisor for multiple students
 :::
 :::
 
 ## Collaborative Networks
 
-**National & International**: University of Alaska | Stanford Hopkins Marine Station | Max Planck Institute | Swedish Museum of Natural History
+**National & International**: Stanford Hopkins Marine Station | Max Planck Institute | Swedish Museum of Natural History | University of Alaska | Lund University | OHSU
 
-**Campus Collaborations**: Institute of Ecology and Evolution | Knight Campus | META Center | Genomics Core Facility
+**Campus Collaborations**: Institute of Ecology and Evolution | Knight Campus for Accelerating Scientific Impact | META Center | Genomics and Cell Characterization Core Facility | Prevention Science Institute
+
+**Industry Partnerships**: Two spin-off companies utilizing next-generation sequencing technologies
 
 ## Data & Resources
 
-All data available through: [NCBI BioProject](https://www.ncbi.nlm.nih.gov/bioproject) | [Dryad](https://datadryad.org) | [GitHub](https://github.com/creskolab)
+All genomic data publicly available through:  
+[NCBI BioProject](https://www.ncbi.nlm.nih.gov/bioproject) | [Dryad](https://datadryad.org) | [GitHub](https://github.com/creskolab)
+
+**Software Tools**: [Stacks](http://catchenlab.life.illinois.edu/stacks/) | RAD-seq protocols | scISOr-seq pipelines
 
 :::
 
-*For access to specific datasets or collaboration inquiries: [wcresko@uoregon.edu](mailto:wcresko@uoregon.edu)*
+## Total Research Funding
+
+**Career Total**: >$60 million in federal, foundation, and state funding  
+**Current Active Funding**: >$1.6 million  
+**Leadership Roles**: PI on >25 major grants | Co-I on >10 collaborative grants
+
+---
+
+*For collaboration inquiries or data access: [wcresko@uoregon.edu](mailto:wcresko@uoregon.edu)*

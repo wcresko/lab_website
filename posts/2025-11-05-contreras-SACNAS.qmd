@@ -1,0 +1,12 @@
+---
+title: "Ethan Contreras Presents at SACNAS"
+author: "Cresko Lab"
+date: "2025-11-06"
+categories: [presentation, achievement, undergraduate]
+image: "micah-woods.jpg"
+draft: false
+---
+
+Congratulations to undergraduate researcher Ethan Contreras and his mentor Shannon Snyder for his presentation at the annual conference for the Society for Advancement of Chicanos/Hispanics and Native Americans in Science (SACNAS)!
+
+![](images/Ethan_SACNAS_2025a.jpg)

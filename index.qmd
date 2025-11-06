@@ -28,6 +28,7 @@ We study the genomic basis of evolutionary change using the threespine stickleba
 ::: {.column width="50%"}
 ### Publications
 
+-   Single cell analysis of syngnathids (*eLife* 2025)
 -   Host genomic variation shapes gut microbiome diversity (*mBio* 2023)
 -   Seadragon genomes reveal syngnathid evolution (*PNAS* 2022)
 -   Single-cell sequencing for genome annotation (*Genetics* 2022)
@@ -38,10 +39,10 @@ We study the genomic basis of evolutionary change using the threespine stickleba
 ::: {.column width="50%"}
 ### News
 
+-   Ethan Contreras presents research at SACNAS
 -   Bill Cresko awarded Lorry Lokey Endowed Chair
+-   Hope Healey successfully defends her dissertation!
 -   Emily Niebergall receives Goldwater Fellowship
--   Lab members win six conference awards
--   Rapid evolution paper featured in PNAS
 
 [Recent updates →](posts.qmd)
 :::

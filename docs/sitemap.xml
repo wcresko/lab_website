@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://wcresko.github.io/index.html</loc>
-    <lastmod>2025-11-05T23:40:02.959Z</lastmod>
+    <lastmod>2025-11-06T22:19:29.208Z</lastmod>
   </url>
   <url>
     <loc>https://wcresko.github.io/posts.html</loc>
@@ -18,7 +18,7 @@
   </url>
   <url>
     <loc>https://wcresko.github.io/projects.html</loc>
-    <lastmod>2025-11-02T23:31:21.000Z</lastmod>
+    <lastmod>2025-11-06T02:09:46.323Z</lastmod>
   </url>
   <url>
     <loc>https://wcresko.github.io/posts/2024-10-01-lokey-chair.html</loc>
@@ -111,5 +111,13 @@
   <url>
     <loc>https://wcresko.github.io/index_old.html</loc>
     <lastmod>2025-11-05T18:20:52.094Z</lastmod>
+  </url>
+  <url>
+    <loc>https://wcresko.github.io/projects_old.html</loc>
+    <lastmod>2025-11-02T23:31:21.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://wcresko.github.io/posts/2025-11-05-contreras-SACNAS.html</loc>
+    <lastmod>2025-11-06T22:17:21.076Z</lastmod>
   </url>
 </urlset>
