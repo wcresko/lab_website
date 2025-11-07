@@ -14,7 +14,7 @@ website:
     background: "#ffffff"
     foreground: "#404040"
     title: "Cresko Laboratory"
-    logo: /images/male_beaker.jpg
+    logo: /images/lab_logo.png
     logo-alt: "Cresko Laboratory"
     left:
       - text: "About"
@@ -46,7 +46,7 @@ website:
     background: "#ffffff"
     border: true
     left: |
-      © 2024 Cresko Laboratory
+      © 2025 Cresko Laboratory
     center: |
       Built with [Quarto](https://quarto.org/)
     right: |
@@ -62,7 +62,7 @@ format:
     linestretch: 1.6
     toc: false
     page-layout: full
-    link-external-icon: true
+    link-external-icon: false
     link-external-newwindow: true
     smooth-scroll: true
     anchor-sections: false
