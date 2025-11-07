@@ -1,28 +1,26 @@
 ---
 title: "Cresko Laboratory"
-subtitle: "Evolutionary Genomics at the University of Oregon"
+subtitle: "Evolutionary Genomics Research at the University of Oregon"
 page-layout: full
 toc: false
 ---
 
-![](images/site_logo.jpg){.banner fig-alt="Stickleback fish research image" fig-align="center"}
+![](images/willamette_river_header2.jpg){.banner fig-alt="Williamette River in Eugene Oregon" fig-align="center" width="800"}
 
-:::::: home-container
-We study the genomic basis of evolutionary change using the threespine stickleback fish as our primary model system. Our research combines field studies, laboratory experiments, and computational approaches to understand how organisms adapt to changing environments.
+### We study the genomic basis of evolutionary change. Our research combines field studies, laboratory experiments, and computational approaches to understand how organisms adapt to changing environments.
 
+:::::::::::: home-container
 ## Research Areas
 
-**Parallel Evolution & Adaptation** — We study how independent populations evolve similar solutions to environmental challenges, revealing the predictability of evolution and the genetic architecture of adaptive traits.
+**Parallel Evolution & Adaptation** — We study how independent populations evolve similar solutions to environmental challenges to understand the genetic architecture of adaptive traits.
 
-**Host-Microbiome Dynamics** — Using stickleback as a model, we explore how host genetic variation shapes microbial communities and how these interactions influence adaptation.
+**Functional Evolutionary Genetics** - We study how gene regulatory networks function in variable environments, and evolve in diverse lineages using approaches such as single cell sequencing and CRISPR
+
+**Host-Microbiome Dynamics** — We explore how host genetic variation shapes microbial communities and how these interactions influence adaptation.
 
 **Genomic Tool Development** — We developed RAD-seq technology and the Stacks software pipeline, now used by thousands of researchers worldwide for population genomics analyses.
 
 [Learn more about our projects →](projects.qmd)
-
-------------------------------------------------------------------------
-
-## Recent Highlights
 
 ::::: columns
 ::: {.column width="50%"}
@@ -48,40 +46,41 @@ We study the genomic basis of evolutionary change using the threespine stickleba
 :::
 :::::
 
-------------------------------------------------------------------------
-
-## Team
+::::: columns
+::: {.column width="50%"}
+### Team
 
 Led by **Bill Cresko**, our lab includes research scientists, postdoctoral scholars, graduate students, and undergraduates working together on evolutionary questions.
 
 [Meet our team →](people.qmd)
+:::
 
-------------------------------------------------------------------------
+::: {.column width="50%"}
+### Join Us
 
-## Join Us
-
-We welcome inquiries from prospective graduate students, postdocs, and undergraduates interested in:
-
--   Evolutionary genomics and adaptation
--   Host-microbiome interactions
--   Bioinformatics and computational biology
--   Population genetics and phylogenomics
+I welcome inquiries from prospective graduate students, postdocs, and undergraduates interested in:
 
 [Open positions →](people.qmd#join-our-lab)
-
-------------------------------------------------------------------------
+:::
+:::::
 
 ## Contact
 
+::::: columns
+::: {.column width="50%"}
 **William A. Cresko, Ph.D.**\
 Institute of Ecology and Evolution\
 University of Oregon\
 312 Pacific Hall\
 Eugene, OR 97403
+:::
 
+::: {.column width="50%"}
 {{< fa envelope >}} [wcresko\@uoregon.edu](mailto:wcresko@uoregon.edu)\
 {{< fa phone >}} [(541) 346-4779](tel:541-346-4779)\
 {{< fa brands github >}} [GitHub](https://github.com/creskolab)\
 {{< fa brands instagram >}} [Instagram](https://instagram.com/creskolab)\
 {{< fa brands bluesky >}} [Bluesky](https://bsky.app/profile/creskolab.bsky.social)
-::::::
+:::
+:::::
+::::::::::::

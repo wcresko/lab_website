@@ -12,9 +12,21 @@
 .navbar-brand,
 .navbar-title {
   font-family: 'DM Serif Display', Georgia, serif !important;
-  font-size: 1.25rem !important;
+  font-size: 1.5rem !important;
   font-weight: 400 !important;
   color: #2D3748 !important;
+}
+
+/* Footer styling - single thicker border */
+.page-footer {
+  border-top: 2px solid #dee2e6 !important;
+  border-bottom: none !important;
+  padding-top: 1rem;
+}
+
+/* Remove any additional borders in footer */
+.page-footer > div {
+  border-top: none !important;
 }
 
 /* Main content container */

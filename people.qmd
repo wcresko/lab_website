@@ -1,6 +1,5 @@
 ---
 title: "Present and Past Lab Members"
-description: "The amazing team that keeps it all running"
 ---
 
 ## Current Lab Members
@@ -26,15 +25,13 @@ Bill Cresko is Lorry Lokey Chair and Professor of Bioengineering, and a member o
 :::
 ::::::
 
-------------------------------------------------------------------------
-
 :::::: grid
 ::: {.g-col-12 .g-col-md-12}
 ### Susan Bassham, Ph.D. - Senior Research Associate
 :::
 
 ::: {.g-col-12 .g-col-md-4}
-![](images/lab_folks/Bassham_Susie_1.jpg){.img-fluid .rounded}
+![](images/lab_folks/Bassham_Susie_1.jpg){.img-fluid .rounded width="200"}
 :::
 
 ::: {.g-col-12 .g-col-md-8}
@@ -49,15 +46,13 @@ Susan is interested in understanding the vast variety of life. How is morphologi
 :::
 ::::::
 
-______________________________________________________________________
-
 :::::: grid
 ::: {.g-col-12 .g-col-md-12}
 ### Mark Currey, Ph.D. - Senior Research Scientist
 :::
 
 ::: {.g-col-12 .g-col-md-4}
-![](images/lab_folks/currey_mark.jpg){.img-fluid .rounded}
+![](images/lab_folks/Currey_Mark_1.jpg){.img-fluid .rounded}
 :::
 
 ::: {.g-col-12 .g-col-md-8}
@@ -70,8 +65,6 @@ Mark's research investigates the genetic and genomic basis of evolutionary chang
 [Publications](publications.html#currey)
 :::
 ::::::
-
-_____________________
 
 :::::: grid
 ::: {.g-col-12 .g-col-md-12}
@@ -94,16 +87,13 @@ Shannon is a graduate student studying the transcriptional and epigenetic basis 
 :::
 ::::::
 
-_____________________________________
-
-
 :::::: grid
 ::: {.g-col-12 .g-col-md-12}
 ### Charles Kimmel - Zebrafish Researcher Extraordinaire
 :::
 
 ::: {.g-col-12 .g-col-md-4}
-![](images/lab_folks/xxx.jpg){.img-fluid .rounded}
+![](images/lab_folks/Kimmel_Chuck.jpg){.img-fluid .rounded}
 :::
 
 ::: {.g-col-12 .g-col-md-8}
@@ -118,12 +108,10 @@ Chuck is....
 :::
 ::::::
 
-_____________________________________________________________
-
 :::::: grid
 ::: {.g-col-12 .g-col-md-12}
 #### Lily Rice - Undergraduate Researcher
-::: 
+:::
 
 ::: {.g-col-12 .g-col-md-4}
 ![](images/lab_folks/xx.jpg){.img-fluid .rounded}
@@ -141,13 +129,10 @@ Lily is....
 :::
 ::::::
 
-______________________________________________________________
-
-
 :::::: grid
 ::: {.g-col-12 .g-col-md-12}
 #### Bruno Belaforte - Undergraduate Researcher
-::: 
+:::
 
 ::: {.g-col-12 .g-col-md-4}
 ![](images/lab_folks/xx.jpg){.img-fluid .rounded}
@@ -171,21 +156,21 @@ Bruno is....
 
 ### Postdoctoral Scholars
 
-- **Bob Week, Ph.D.** (2022-2025) - Supported by Moore Foundation Funding
-- **Veronica Oro, Ph.D.** (2021-2024) - Supported by Providence-KCASI Fellowship
-- **Hannah Tavalire, Ph.D.** (2017-2020) - Supported by Grant Funding. Now Research Associate at University of Oregon
-- **Martin Stervander, Ph.D.** (2017-2020) - Postdoctoral Fellow. Martin was a postdoctoral research fellow on a three-year grant from the Swedish Research Council. In the Cresko Lab, he does research in comparative genomics of syngnathid fishes. With a background in phylogenetic and phylogenomic analyses of birds, his overall research interests span microevolutionary dynamics to large-scale macroevolution. He received his PhD at Lund University, Sweden, in 2015 with a thesis on speciation in birds.
-- **Emily Beck, Ph.D.** (2017-2020) - Postdoctoral Fellow supported by NIH Ruth Kirchstein NRSA Fellowship. Emily's research focuses on the evolutionary genomics of adaptation in natural populations. She is particularly interested in understanding how genetic variation influences phenotypic diversity and adaptation to different environments. Her work combines population genomics, quantitative genetics, and experimental approaches to understand evolutionary processes. Now Assistant Research Professor at University of Oregon.
-- **Gavin Woodruff, Ph.D.** (2015-2020) - Supported by Grant Funding
-- **Ann Petersen, Ph.D.** (2014-2019) - Supported by Grant Funding
-- **Stacey Wagner, Ph.D.** (2013-2018) - Supported by NIH Ruth Kirchstein NRSA Fellowship
-- **Clayton Small, Ph.D.** (2012-2021) - Supported by Grant Funding. Now Assistant Research Professor at University of Oregon. **Contact:** csmall\@uoregon.edu\ [Research](research.html#small)
-- **Rui Galvao, Ph.D.** (2012-2015) - Supported by Grant Funding
-- **Roger Voelker, Ph.D.** (2012-2013) - Supported by Grant Funding
-- **Kat Milligan-Myhre, Ph.D.** (2009-2015) - Supported by NIH Ruth Kirchstein NRSA Fellowship. Now Assistant Professor at University of Alaska Anchorage
-- **Julian Catchen, Ph.D.** (2009-2015) - Supported by NIH Ruth Kirchstein NRSA Fellowship. Now Associate Professor at University of Illinois Urbana-Champaign
-- **Susan Bassham, Ph.D.** (2006-2011) - Supported by NIH Ruth Kirchstein NRSA Fellowship. Now Senior Research Associate at University of Oregon
-- **Paul Hohenlohe, Ph.D.** (2005-2011) - Supported by NIH Ruth Kirchstein NRSA Fellowship. Now Professor at University of Idaho
+-   **Bob Week, Ph.D.** (2022-2025) - Supported by Moore Foundation Funding
+-   **Veronica Oro, Ph.D.** (2021-2024) - Supported by Providence-KCASI Fellowship
+-   **Hannah Tavalire, Ph.D.** (2017-2020) - Supported by Grant Funding. Now Research Associate at University of Oregon
+-   **Martin Stervander, Ph.D.** (2017-2020) - Postdoctoral Fellow. Martin was a postdoctoral research fellow on a three-year grant from the Swedish Research Council. In the Cresko Lab, he does research in comparative genomics of syngnathid fishes. With a background in phylogenetic and phylogenomic analyses of birds, his overall research interests span microevolutionary dynamics to large-scale macroevolution. He received his PhD at Lund University, Sweden, in 2015 with a thesis on speciation in birds.
+-   **Emily Beck, Ph.D.** (2017-2020) - Postdoctoral Fellow supported by NIH Ruth Kirchstein NRSA Fellowship. Emily's research focuses on the evolutionary genomics of adaptation in natural populations. She is particularly interested in understanding how genetic variation influences phenotypic diversity and adaptation to different environments. Her work combines population genomics, quantitative genetics, and experimental approaches to understand evolutionary processes. Now Assistant Research Professor at University of Oregon.
+-   **Gavin Woodruff, Ph.D.** (2015-2020) - Supported by Grant Funding
+-   **Ann Petersen, Ph.D.** (2014-2019) - Supported by Grant Funding
+-   **Stacey Wagner, Ph.D.** (2013-2018) - Supported by NIH Ruth Kirchstein NRSA Fellowship
+-   **Clayton Small, Ph.D.** (2012-2021) - Supported by Grant Funding. Now Assistant Research Professor at University of Oregon. **Contact:** csmall\@uoregon.edu [Research](research.html#small)
+-   **Rui Galvao, Ph.D.** (2012-2015) - Supported by Grant Funding
+-   **Roger Voelker, Ph.D.** (2012-2013) - Supported by Grant Funding
+-   **Kat Milligan-Myhre, Ph.D.** (2009-2015) - Supported by NIH Ruth Kirchstein NRSA Fellowship. Now Assistant Professor at University of Alaska Anchorage
+-   **Julian Catchen, Ph.D.** (2009-2015) - Supported by NIH Ruth Kirchstein NRSA Fellowship. Now Associate Professor at University of Illinois Urbana-Champaign
+-   **Susan Bassham, Ph.D.** (2006-2011) - Supported by NIH Ruth Kirchstein NRSA Fellowship. Now Senior Research Associate at University of Oregon
+-   **Paul Hohenlohe, Ph.D.** (2005-2011) - Supported by NIH Ruth Kirchstein NRSA Fellowship. Now Professor at University of Idaho
 
 ------------------------------------------------------------------------
 
@@ -193,34 +178,34 @@ Bruno is....
 
 #### Ph.D. Students
 
-- **Caitlin Smith** (2019-2024) - Supported by Grant Funding
-- **Hope Healey** (2019-2024) - Supported by NIH Genetics Training Program (GTP)
-- **Allison Fuiten** (2012-2019) - Supported by NIH Developmental Training Program (DTP) and NSF DDIG
-- **Thom Nelson** (2011-2017) - Supported by NIH Developmental Training Program (DTP) and NSF DDIG
-- **Kristin Alligood** (2010-2017) - Supported by NIH Developmental Training Program (DTP) and NSF DDIG
-- **Emily Lescak** (2010-2015) - Supported by Grant Funding. Now Assistant Professor at University of Alaska Anchorage
-- **Alida Gerritsen** (2009-2015) - Supported by Grant Funding
-- **Kristin Sikkink** (2007-2014) - Supported by NIH Genetics Training Program (GTP), NSF GRFP and NSF DDIG
-- **Conor O'Brien** (2005-2011) - Supported by NSF IGERT and Grant Funding
-- **Sophia Frantz, Ph.D.** - Sophia studied the role of Wolbachia infection in differential gene expression in *Drosophila melanogaster*.
+-   **Caitlin Smith** (2019-2024) - Supported by Grant Funding
+-   **Hope Healey** (2019-2024) - Supported by NIH Genetics Training Program (GTP)
+-   **Allison Fuiten** (2012-2019) - Supported by NIH Developmental Training Program (DTP) and NSF DDIG
+-   **Thom Nelson** (2011-2017) - Supported by NIH Developmental Training Program (DTP) and NSF DDIG
+-   **Kristin Alligood** (2010-2017) - Supported by NIH Developmental Training Program (DTP) and NSF DDIG
+-   **Emily Lescak** (2010-2015) - Supported by Grant Funding. Now Assistant Professor at University of Alaska Anchorage
+-   **Alida Gerritsen** (2009-2015) - Supported by Grant Funding
+-   **Kristin Sikkink** (2007-2014) - Supported by NIH Genetics Training Program (GTP), NSF GRFP and NSF DDIG
+-   **Conor O'Brien** (2005-2011) - Supported by NSF IGERT and Grant Funding
+-   **Sophia Frantz, Ph.D.** - Sophia studied the role of Wolbachia infection in differential gene expression in *Drosophila melanogaster*.
 
 #### Master's Students
 
-- **Carla Campos** (2023-2024) - Supported by NSF GRFP
-- **Sophia Frantz** (2019-2021) - Supported by Grant Funding. Studied the role of Wolbachia infection in differential gene expression in *Drosophila melanogaster*
-- **Roberta Torunsky** (2011-2013) - Supported by Grant Funding
-- **Mark Currey** (2010-2014) - Supported by Grant Funding. Now Senior Research Scientist at University of Oregon
-- **Andrew Nishida** (2009-2014) - Supported by Grant Funding
-- **Kimberly Lum** (2007-2010) - Supported by Grant Funding
-- **Quick Yeates-Burghart** (2006-2009) - Supported by Grant Funding
+-   **Carla Campos** (2023-2024) - Supported by NSF GRFP
+-   **Sophia Frantz** (2019-2021) - Supported by Grant Funding. Studied the role of Wolbachia infection in differential gene expression in *Drosophila melanogaster*
+-   **Roberta Torunsky** (2011-2013) - Supported by Grant Funding
+-   **Mark Currey** (2010-2014) - Supported by Grant Funding. Now Senior Research Scientist at University of Oregon
+-   **Andrew Nishida** (2009-2014) - Supported by Grant Funding
+-   **Kimberly Lum** (2007-2010) - Supported by Grant Funding
+-   **Quick Yeates-Burghart** (2006-2009) - Supported by Grant Funding
 
 ------------------------------------------------------------------------
 
 ### Post-Baccalaureate Scholar
 
-- **Jillian Vogel** (2024-2025) - Jillian was a postdoctoral scholar in the laboratory.
-- **Hayden Penn** (2024-2025) - Post-baccalaureate Scholar
-- **Micah Woods** (2023-2024) - Micah assisted with a range of projects throughout the lab. Before their role as a Post-Baccalaureate Scholar, they worked as a Knight Campus Undergraduate Scholar exploring gene expression in craniofacial development of zebrafish, stickleback, and pipefish using in situ hybridization. They wrote, defended, and earned the Robert D. Clark Award for their thesis in philosophy of biology. Recently published in Ms. Magazine highlighting the contributions of Dr. Kata Karáth.
+-   **Jillian Vogel** (2024-2025) - Jillian was a postdoctoral scholar in the laboratory.
+-   **Hayden Penn** (2024-2025) - Post-baccalaureate Scholar
+-   **Micah Woods** (2023-2024) - Micah assisted with a range of projects throughout the lab. Before their role as a Post-Baccalaureate Scholar, they worked as a Knight Campus Undergraduate Scholar exploring gene expression in craniofacial development of zebrafish, stickleback, and pipefish using in situ hybridization. They wrote, defended, and earned the Robert D. Clark Award for their thesis in philosophy of biology. Recently published in Ms. Magazine highlighting the contributions of Dr. Kata Karáth.
 
 ------------------------------------------------------------------------
 
@@ -228,63 +213,62 @@ Bruno is....
 
 #### Undergraduate Honors Students (Clark Honors College and Biology)
 
-- **Walker Meyer** (2021-2024) - Knight Campus Undergraduate Scholar. Walker explored the genetic basis of adaptation in stickleback populations. He was chosen as a Knight Campus Undergraduate Scholar in support of his research.
-- **Vithika Goyal** (2020-2024) - Hui Undergraduate Scholar. Vithika is studying genetic diversity in natural populations. She was recently awarded a Hui Fellowship to support her research.
-- **Micah Woods** (2020-2023) - Clark Honors College & Knight Campus Undergraduate Scholar
-- **Emily Niebergall** (2017-2020) - Clark Honors College & Biology Honors, Knight Campus Scholar. Graduated with Honors, awarded Goldwater Scholarship
-- **Jack Peplinski** (2016-2018) - Clark Honors College & Biology Honors. Graduated with Honors
-- **John Crandall** (2015-2018) - Clark Honors College & Biology Honors. Graduated with Highest Honors
-- **Sophie Sichel** (2014-2015) - Biology Honors. Graduated with Honors
-- **Taylor Wilson** (2010-2012) - Clark Honors College & Biology Honors. Graduated with Highest Honors
-- **Kate Ituarte** (2010-2012) - Clark Honors College & Biology Honors. Graduated with Highest Honors
-- **Robin Brown** (2009-2010) - Clark Honors College & Biology Honors. Graduated with Honors
-- **Ryan Bourdo** (2008-2010) - Clark Honors College & Biology Honors. Graduated with Honors
-- **Larissa Unruh** (2007-2009) - Clark Honors College & Biology Honors. Graduated with Honors
-- **Emily Armstrong Buck** (2006-2008) - Clark Honors College & Biology Honors. Graduated with Honors
+-   **Walker Meyer** (2021-2024) - Knight Campus Undergraduate Scholar. Walker explored the genetic basis of adaptation in stickleback populations. He was chosen as a Knight Campus Undergraduate Scholar in support of his research.
+-   **Vithika Goyal** (2020-2024) - Hui Undergraduate Scholar. Vithika is studying genetic diversity in natural populations. She was recently awarded a Hui Fellowship to support her research.
+-   **Micah Woods** (2020-2023) - Clark Honors College & Knight Campus Undergraduate Scholar
+-   **Emily Niebergall** (2017-2020) - Clark Honors College & Biology Honors, Knight Campus Scholar. Graduated with Honors, awarded Goldwater Scholarship
+-   **Jack Peplinski** (2016-2018) - Clark Honors College & Biology Honors. Graduated with Honors
+-   **John Crandall** (2015-2018) - Clark Honors College & Biology Honors. Graduated with Highest Honors
+-   **Sophie Sichel** (2014-2015) - Biology Honors. Graduated with Honors
+-   **Taylor Wilson** (2010-2012) - Clark Honors College & Biology Honors. Graduated with Highest Honors
+-   **Kate Ituarte** (2010-2012) - Clark Honors College & Biology Honors. Graduated with Highest Honors
+-   **Robin Brown** (2009-2010) - Clark Honors College & Biology Honors. Graduated with Honors
+-   **Ryan Bourdo** (2008-2010) - Clark Honors College & Biology Honors. Graduated with Honors
+-   **Larissa Unruh** (2007-2009) - Clark Honors College & Biology Honors. Graduated with Honors
+-   **Emily Armstrong Buck** (2006-2008) - Clark Honors College & Biology Honors. Graduated with Honors
 
 #### Other Undergraduate Researchers
 
 The Cresko Lab has mentored 77 undergraduate researchers since 2004, including 23 students from populations underrepresented in science. Notable alumni include:
 
-- **Jared Galloway** - Now Bioinformatics Scientist
-- **Nicole Nishimura** - Research Assistant (2008-2012)
-- **Frances Sung** - Research Assistant (2005-2008)
-- **Joe Dunham** - Research Assistant (2005-2008)
+-   **Jared Galloway** - Now Bioinformatics Scientist
+-   **Nicole Nishimura** - Research Assistant (2008-2012)
+-   **Frances Sung** - Research Assistant (2005-2008)
+-   **Joe Dunham** - Research Assistant (2005-2008)
 
-**Students from Underrepresented Groups:**
-Shannon Cannon, Ethan Contreras, Byron Etta, Linda Gai, Kyle Gonsalves, Vithika Goyal, Shanie Jorgensen, Jamie Kim, Taylor Lipscomb, Clayton Merz, Sara Phillips, Natasha Richardson, Mary Sherbick, Micah Woods
+**Students from Underrepresented Groups:** Shannon Cannon, Ethan Contreras, Byron Etta, Linda Gai, Kyle Gonsalves, Vithika Goyal, Shanie Jorgensen, Jamie Kim, Taylor Lipscomb, Clayton Merz, Sara Phillips, Natasha Richardson, Mary Sherbick, Micah Woods
 
 ------------------------------------------------------------------------
 
 ### High School Student Researchers
 
-- **Jaime Kim** - Sheldon High School
-- **Andrew Russo** - South Eugene High School
-- **Tommy Yates** - Sheldon High School
+-   **Jaime Kim** - Sheldon High School
+-   **Andrew Russo** - South Eugene High School
+-   **Tommy Yates** - Sheldon High School
 
 ------------------------------------------------------------------------
 
 ### Research Associates and Sabbatical Visitors
 
-- **Emily Beck, Ph.D.** (2021-present) - Assistant Research Professor
-- **Clay Small, Ph.D.** (2021-present) - Assistant Research Professor
-- **Chuck Kimmel, Ph.D.** (2020-present) - Professor Emeritus
-- **Susan Bassham, Ph.D.** (2011-present) - Senior Research Associate
-- **Bob Kaplan** (2008) - Sabbatical Faculty from Reed College
-- **Beren Robinson** (2006) - Sabbatical Faculty from Guelph University
+-   **Emily Beck, Ph.D.** (2021-present) - Assistant Research Professor
+-   **Clay Small, Ph.D.** (2021-present) - Assistant Research Professor
+-   **Chuck Kimmel, Ph.D.** (2020-present) - Professor Emeritus
+-   **Susan Bassham, Ph.D.** (2011-present) - Senior Research Associate
+-   **Bob Kaplan** (2008) - Sabbatical Faculty from Reed College
+-   **Beren Robinson** (2006) - Sabbatical Faculty from Guelph University
 
 ------------------------------------------------------------------------
 
 ### Research Assistants
 
-- **Tiffany Thornton** (2021-2023) - Research Assistant
-- **Rene Hsu** (2020-2023) - Research Assistant
-- **Kate Ituarte** (2012-2014) - Research Assistant
-- **Nicole Nishimura** (2008-2012) - Research Assistant
-- **Frances Sung** (2005-2008) - Research Assistant
-- **Joe Dunham** (2005-2008) - Research Assistant
+-   **Tiffany Thornton** (2021-2023) - Research Assistant
+-   **Rene Hsu** (2020-2023) - Research Assistant
+-   **Kate Ituarte** (2012-2014) - Research Assistant
+-   **Nicole Nishimura** (2008-2012) - Research Assistant
+-   **Frances Sung** (2005-2008) - Research Assistant
+-   **Joe Dunham** (2005-2008) - Research Assistant
 
-___________________________________________________________________________
+------------------------------------------------------------------------
 
 ## Join Our Team
 

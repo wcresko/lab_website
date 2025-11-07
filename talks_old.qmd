@@ -12,13 +12,13 @@ toc: false
 }
 
 .talk-title {
-  flex: 0 0 40%;
+  flex: 0 0 25%;
   padding-right: 2rem;
   font-weight: 500;
 }
 
 .talk-details {
-  flex: 0 0 60%;
+  flex: 0 0 75%;
   padding-left: 1rem;
   border-left: 1px solid #e5e7eb;
 }
@@ -60,7 +60,8 @@ University of Arizona
 :::
 ::: {.talk-details}
 **Department of Ecology and Evolutionary Biology**  
-Tucson, AZ | 2025 | Invited Speaker
+Tucson, AZ | 2025  
+Invited Speaker
 :::
 :::
 
@@ -71,7 +72,8 @@ Western Washington University
 :::
 ::: {.talk-details}
 **Department of Biology**  
-Bellingham, WA | 2025 | Invited Speaker
+Bellingham, WA | 2025  
+Invited Speaker
 :::
 :::
 
@@ -84,7 +86,8 @@ University of Oregon
 :::
 ::: {.talk-details}
 **Institute of Ecology and Evolution**  
-Eugene, OR | 2023 | Invited Speaker
+Eugene, OR | 2023  
+Invited Speaker
 :::
 :::
 
@@ -97,7 +100,8 @@ Aesthetic and Organic Complexity
 :::
 ::: {.talk-details}
 **Public Presentation**  
-Boston, MA | 2021 | Public Lecture
+Boston, MA | 2021  
+Public Lecture
 :::
 :::
 
@@ -108,7 +112,8 @@ Bern University
 :::
 ::: {.talk-details}
 **Institute of Ecology and Evolution**  
-Bern, Switzerland | 2021 | Invited Speaker
+Bern, Switzerland | 2021  
+Invited Speaker
 :::
 :::
 
@@ -119,7 +124,8 @@ Cardiff University
 :::
 ::: {.talk-details}
 **School of Biosciences**  
-Cardiff, Wales, UK | 2021 | Invited Speaker
+Cardiff, Wales, UK | 2021  
+Invited Speaker
 :::
 :::
 
@@ -132,7 +138,8 @@ ARCS Foundation
 :::
 ::: {.talk-details}
 **Achievement Rewards for College Scientists**  
-Portland, OR | 2020 | Public Lecture
+Portland, OR | 2020  
+Public Lecture
 :::
 :::
 
@@ -145,7 +152,8 @@ University of Iowa
 :::
 ::: {.talk-details}
 **Department of Biology**  
-Iowa City, IA | 2019 | Invited Speaker
+Iowa City, IA | 2019  
+Invited Speaker
 :::
 :::
 
@@ -158,7 +166,8 @@ Washington University
 :::
 ::: {.talk-details}
 **Annual Graduate Student Invited Speaker**  
-St. Louis, MO | 2018 | Invited Speaker
+St. Louis, MO | 2018  
+Invited Speaker
 :::
 :::
 
@@ -169,7 +178,8 @@ Northern Arizona University
 :::
 ::: {.talk-details}
 **Department of Biological Sciences**  
-Flagstaff, AZ | 2018 | Invited Speaker
+Flagstaff, AZ | 2018  
+Invited Speaker
 :::
 :::
 
@@ -182,7 +192,8 @@ Stowers Institute
 :::
 ::: {.talk-details}
 **Stowers Institute for Medical Research**  
-Kansas City, MO | 2017 | Invited Speaker
+Kansas City, MO | 2017  
+Invited Speaker
 :::
 :::
 
@@ -193,7 +204,8 @@ Humboldt State University
 :::
 ::: {.talk-details}
 **Department of Biological Sciences**  
-Arcata, CA | 2017 | Invited Speaker
+Arcata, CA | 2017  
+Invited Speaker
 :::
 :::
 
@@ -204,7 +216,8 @@ Eugene Natural History Society
 :::
 ::: {.talk-details}
 **Public Presentation**  
-Eugene, OR | 2017 | Public Lecture
+Eugene, OR | 2017  
+Public Lecture
 :::
 :::
 
@@ -217,7 +230,8 @@ CGRB Distinguished Lecture
 :::
 ::: {.talk-details}
 **Oregon State University Center for Genome Research and Biocomputing**  
-Corvallis, OR | 2016 | Keynote Speaker
+Corvallis, OR | 2016  
+Keynote Speaker
 :::
 :::
 
@@ -228,7 +242,8 @@ Lund University
 :::
 ::: {.talk-details}
 **Department of Biology**  
-Lund, Sweden | 2016 | Invited Speaker
+Lund, Sweden | 2016  
+Invited Speaker
 :::
 :::
 
@@ -239,7 +254,8 @@ ARCS Foundation
 :::
 ::: {.talk-details}
 **Achievement Rewards for College Scientists**  
-Portland, OR | 2016 | Public Lecture
+Portland, OR | 2016  
+Public Lecture
 :::
 :::
 
@@ -252,7 +268,8 @@ Donald W. Hagen Keynote
 :::
 ::: {.talk-details}
 **International Stickleback Conference**  
-Leicester, England | 2015 | Keynote Speaker
+Leicester, England | 2015  
+Keynote Speaker
 :::
 :::
 
@@ -263,7 +280,8 @@ University of Kansas
 :::
 ::: {.talk-details}
 **Annual Graduate Student Speaker Series**  
-Lawrence, KS | 2015 | Invited Speaker
+Lawrence, KS | 2015  
+Invited Speaker
 :::
 :::
 
@@ -274,7 +292,8 @@ University of Oregon
 :::
 ::: {.talk-details}
 **Department of Biology**  
-Eugene, OR | 2015 | Invited Speaker
+Eugene, OR | 2015  
+Invited Speaker
 :::
 :::
 
@@ -287,7 +306,8 @@ Genomics and Adaptation
 :::
 ::: {.talk-details}
 **Genomics and Adaptation in an NGS Age, Lund University**  
-Lund, Sweden | 2014 | Keynote Speaker
+Lund, Sweden | 2014  
+Keynote Speaker
 :::
 :::
 
@@ -298,7 +318,8 @@ Charles Henry Gilber Lecture
 :::
 ::: {.talk-details}
 **Gilbert Icthyological Meeting**  
-Corvallis, OR | 2014 | Keynote Speaker
+Corvallis, OR | 2014  
+Keynote Speaker
 :::
 :::
 
@@ -309,7 +330,8 @@ IGERT Capstone
 :::
 ::: {.talk-details}
 **IGERT Capstone Conference, University of Arizona**  
-Tucson, AZ | 2014 | Plenary Speaker
+Tucson, AZ | 2014  
+Plenary Speaker
 :::
 :::
 
@@ -320,7 +342,8 @@ Aquatic Model Organism
 :::
 ::: {.talk-details}
 **Aquatic Model Organism Meeting**  
-Austin, TX | 2014 | Plenary Speaker
+Austin, TX | 2014  
+Plenary Speaker
 :::
 :::
 
@@ -331,7 +354,8 @@ AGBT Conference
 :::
 ::: {.talk-details}
 **Advances in Genomics and BioTechnology**  
-Panacea, FL | 2014 | Plenary Speaker
+Panacea, FL | 2014  
+Plenary Speaker
 :::
 :::
 
@@ -342,7 +366,8 @@ Oregon State University
 :::
 ::: {.talk-details}
 **Integrative Biology**  
-Corvallis, OR | 2014 | Invited Speaker
+Corvallis, OR | 2014  
+Invited Speaker
 :::
 :::
 
@@ -355,7 +380,8 @@ Aquatic Model Organism
 :::
 ::: {.talk-details}
 **Aquatic Model Organism Meeting**  
-Milwaukee, WI | 2013 | Plenary Speaker
+Milwaukee, WI | 2013  
+Plenary Speaker
 :::
 :::
 
@@ -366,7 +392,8 @@ GENECO Summer Conference
 :::
 ::: {.talk-details}
 **Lund University**  
-Lund, Sweden | 2013 | Plenary Speaker
+Lund, Sweden | 2013  
+Plenary Speaker
 :::
 :::
 
@@ -377,7 +404,8 @@ European Society for Evolutionary Biology
 :::
 ::: {.talk-details}
 **ESEB Conference**  
-Lisbon, Portugal | 2013 | Plenary Speaker
+Lisbon, Portugal | 2013  
+Plenary Speaker
 :::
 :::
 
@@ -388,7 +416,8 @@ University of Alaska
 :::
 ::: {.talk-details}
 **Department of Biology and Wildlife**  
-Fairbanks, AK | 2013 | Invited Speaker
+Fairbanks, AK | 2013  
+Invited Speaker
 :::
 :::
 
@@ -399,7 +428,8 @@ Oregon State University
 :::
 ::: {.talk-details}
 **Hatfield Marine Science Center**  
-Newport, OR | 2013 | Invited Speaker
+Newport, OR | 2013  
+Invited Speaker
 :::
 :::
 
@@ -412,7 +442,8 @@ West Coast Salmonid
 :::
 ::: {.talk-details}
 **West Coast Salmonid Conference**  
-Davis, CA | 2012 | Plenary Speaker
+Davis, CA | 2012  
+Plenary Speaker
 :::
 :::
 
@@ -423,7 +454,8 @@ Ecological Genomics
 :::
 ::: {.talk-details}
 **10th Anniversary Ecological Genomics Conference**  
-St. Louis, MO | 2012 | Plenary Speaker
+St. Louis, MO | 2012  
+Plenary Speaker
 :::
 :::
 
@@ -434,7 +466,8 @@ Plant and Animal Genome
 :::
 ::: {.talk-details}
 **PAG Conference**  
-San Diego, CA | 2012 | Plenary Speaker
+San Diego, CA | 2012  
+Plenary Speaker
 :::
 :::
 
@@ -445,7 +478,8 @@ PanAsian Genomics
 :::
 ::: {.talk-details}
 **PanAsian Genomics Conference, Silliman University**  
-Philippines | 2012 | Plenary Speaker
+Philippines | 2012  
+Plenary Speaker
 :::
 :::
 
@@ -456,7 +490,8 @@ University of Oregon
 :::
 ::: {.talk-details}
 **Department of Physics**  
-Eugene, OR | 2012 | Invited Speaker
+Eugene, OR | 2012  
+Invited Speaker
 :::
 :::
 
@@ -467,7 +502,8 @@ Institut Jacques Monod
 :::
 ::: {.talk-details}
 **Institut Jacques Monod**  
-Paris, France | 2012 | Invited Speaker
+Paris, France | 2012  
+Invited Speaker
 :::
 :::
 
@@ -480,7 +516,8 @@ Next Generation Genomics
 :::
 ::: {.talk-details}
 **Conference on Next Generation Genomics, University of Puerto Rico**  
-San Juan, PR | 2011 | Keynote Speaker
+San Juan, PR | 2011  
+Keynote Speaker
 :::
 :::
 
@@ -491,7 +528,8 @@ Tupper Seminar
 :::
 ::: {.talk-details}
 **Smithsonian Tropical Research Institute**  
-Panama | 2011 | Keynote Speaker
+Panama | 2011  
+Keynote Speaker
 :::
 :::
 
@@ -502,7 +540,8 @@ Ecological Society of America
 :::
 ::: {.talk-details}
 **ESA Annual Meeting**  
-Portland, OR | 2011 | Plenary Speaker
+Portland, OR | 2011  
+Plenary Speaker
 :::
 :::
 
@@ -513,7 +552,8 @@ Iberian Genomics Conference
 :::
 ::: {.talk-details}
 **Iberian Genomics Conference**  
-Seville, Spain | 2011 | Plenary Speaker
+Seville, Spain | 2011  
+Plenary Speaker
 :::
 :::
 
@@ -524,7 +564,8 @@ Illumina RAD-seq
 :::
 ::: {.talk-details}
 **Illumina RAD-seq Conference**  
-Portland, OR | 2011 | Plenary Speaker
+Portland, OR | 2011  
+Plenary Speaker
 :::
 :::
 
@@ -535,7 +576,8 @@ GrEBEs Evening Lecture
 :::
 ::: {.talk-details}
 **What Genomics Means for our Past, Present and Future**  
-Eugene, OR | 2011 | Public Lecture
+Eugene, OR | 2011  
+Public Lecture
 :::
 :::
 
@@ -546,7 +588,8 @@ University of Missouri
 :::
 ::: {.talk-details}
 **Division of Biological Sciences**  
-Columbia, MO | 2011 | Invited Speaker
+Columbia, MO | 2011  
+Invited Speaker
 :::
 :::
 
@@ -557,7 +600,8 @@ Institute Gulbenkian de Ciencia
 :::
 ::: {.talk-details}
 **Instituto Gulbenkian de Ciência**  
-Lisbon, Portugal | 2011 | Invited Speaker
+Lisbon, Portugal | 2011  
+Invited Speaker
 :::
 :::
 
@@ -568,7 +612,8 @@ University of Washington
 :::
 ::: {.talk-details}
 **Department of Biology**  
-Seattle, WA | 2011 | Invited Speaker
+Seattle, WA | 2011  
+Invited Speaker
 :::
 :::
 
@@ -579,7 +624,8 @@ University of Puerto Rico
 :::
 ::: {.talk-details}
 **Department of Biology**  
-San Juan, PR | 2011 | Invited Speaker
+San Juan, PR | 2011  
+Invited Speaker
 :::
 :::
 
@@ -592,7 +638,8 @@ Illumina NGS
 :::
 ::: {.talk-details}
 **Illumina Next Generation Sequencing Conference**  
-Seattle, WA | 2010 | Plenary Speaker
+Seattle, WA | 2010  
+Plenary Speaker
 :::
 :::
 
@@ -603,7 +650,8 @@ AGA Conservation Genomics
 :::
 ::: {.talk-details}
 **American Genetic Association Conference on Conservation Genomics**  
-Hilo, HI | 2010 | Plenary Speaker
+Hilo, HI | 2010  
+Plenary Speaker
 :::
 :::
 
@@ -614,7 +662,8 @@ NIH Transcriptomics
 :::
 ::: {.talk-details}
 **NIH Conference on Transcriptomics**  
-Portland, OR | 2010 | Plenary Speaker
+Portland, OR | 2010  
+Plenary Speaker
 :::
 :::
 
@@ -625,7 +674,8 @@ Edinburgh RAD-seq
 :::
 ::: {.talk-details}
 **Edinburgh RAD-seq Conference**  
-Portland, OR | 2010 | Plenary Speaker
+Portland, OR | 2010  
+Plenary Speaker
 :::
 :::
 
@@ -636,7 +686,8 @@ Evolution in a Genomics World
 :::
 ::: {.talk-details}
 **Public Seminar**  
-Sun River, OR | 2010 | Public Lecture
+Sun River, OR | 2010  
+Public Lecture
 :::
 :::
 
@@ -647,7 +698,8 @@ Washington State University
 :::
 ::: {.talk-details}
 **School of Biological Sciences**  
-Vancouver, WA | 2010 | Invited Speaker
+Vancouver, WA | 2010  
+Invited Speaker
 :::
 :::
 
@@ -658,7 +710,8 @@ University of Alaska
 :::
 ::: {.talk-details}
 **Department of Biological Sciences**  
-Anchorage, AK | 2010 | Invited Speaker
+Anchorage, AK | 2010  
+Invited Speaker
 :::
 :::
 
@@ -669,7 +722,8 @@ Princeton University
 :::
 ::: {.talk-details}
 **Department of Ecology and Evolutionary Biology**  
-Princeton, NJ | 2010 | Invited Speaker
+Princeton, NJ | 2010  
+Invited Speaker
 :::
 :::
 
@@ -680,7 +734,8 @@ New York University
 :::
 ::: {.talk-details}
 **Department of Biology**  
-New York, NY | 2010 | Invited Speaker
+New York, NY | 2010  
+Invited Speaker
 :::
 :::
 
@@ -693,7 +748,8 @@ Titisee Genetics Conference
 :::
 ::: {.talk-details}
 **100th International Titisee Genetics Conference**  
-Titisee, Germany | 2009 | Plenary Speaker
+Titisee, Germany | 2009  
+Plenary Speaker
 :::
 :::
 
@@ -704,7 +760,8 @@ CGRB Genomics Symposium
 :::
 ::: {.talk-details}
 **Oregon State University Center for Genome Research and Biocomputing**  
-Corvallis, OR | 2009 | Plenary Speaker
+Corvallis, OR | 2009  
+Plenary Speaker
 :::
 :::
 
@@ -715,7 +772,8 @@ Genetic Architecture
 :::
 ::: {.talk-details}
 **Genetic Architecture Working Group Meeting**  
-Vienna, Austria | 2009 | Plenary Speaker
+Vienna, Austria | 2009  
+Plenary Speaker
 :::
 :::
 
@@ -726,7 +784,8 @@ University of Pennsylvania
 :::
 ::: {.talk-details}
 **Department of Biology**  
-Philadelphia, PA | 2009 | Invited Speaker
+Philadelphia, PA | 2009  
+Invited Speaker
 :::
 :::
 
@@ -737,7 +796,8 @@ Syracuse University
 :::
 ::: {.talk-details}
 **Department of Biology**  
-Syracuse, NY | 2009 | Invited Speaker
+Syracuse, NY | 2009  
+Invited Speaker
 :::
 :::
 
@@ -748,7 +808,8 @@ University of Oregon
 :::
 ::: {.talk-details}
 **Oregon Institute of Marine Biology**  
-Charleston, OR | 2009 | Invited Speaker
+Charleston, OR | 2009  
+Invited Speaker
 :::
 :::
 
@@ -759,7 +820,8 @@ University of Maryland
 :::
 ::: {.talk-details}
 **Department of Biology**  
-College Park, MD | 2009 | Invited Speaker
+College Park, MD | 2009  
+Invited Speaker
 :::
 :::
 
@@ -770,7 +832,8 @@ Bryn Mawr College
 :::
 ::: {.talk-details}
 **Department of Biology**  
-Bryn Mawr, PA | 2009 | Invited Speaker
+Bryn Mawr, PA | 2009  
+Invited Speaker
 :::
 :::
 
@@ -783,7 +846,8 @@ EVoS Distinguished Lecture
 :::
 ::: {.talk-details}
 **EVoS Distinguished Evening Lecture, Binghamton University**  
-Binghamton, NY | 2008 | Keynote Speaker
+Binghamton, NY | 2008  
+Keynote Speaker
 :::
 :::
 
@@ -794,7 +858,8 @@ UC Berkeley EvoDevo
 :::
 ::: {.talk-details}
 **University of California, Berkeley EvoDevo Conference**  
-Berkeley, CA | 2008 | Plenary Speaker
+Berkeley, CA | 2008  
+Plenary Speaker
 :::
 :::
 
@@ -805,7 +870,8 @@ UO/IU IGERT EvoDevo
 :::
 ::: {.talk-details}
 **UO/IU IGERT EvoDevo Conference**  
-Eugene, OR | 2008 | Plenary Speaker
+Eugene, OR | 2008  
+Plenary Speaker
 :::
 :::
 
@@ -816,7 +882,8 @@ University of Idaho
 :::
 ::: {.talk-details}
 **Department of Biological Sciences**  
-Moscow, ID | 2008 | Invited Speaker
+Moscow, ID | 2008  
+Invited Speaker
 :::
 :::
 
@@ -827,7 +894,8 @@ Guelph University
 :::
 ::: {.talk-details}
 **Department of Integrative Biology**  
-Guelph, Canada | 2008 | Invited Speaker
+Guelph, Canada | 2008  
+Invited Speaker
 :::
 :::
 
@@ -838,7 +906,8 @@ Oregon State University
 :::
 ::: {.talk-details}
 **Department of Zoology**  
-Corvallis, OR | 2008 | Invited Speaker
+Corvallis, OR | 2008  
+Invited Speaker
 :::
 :::
 
@@ -849,7 +918,8 @@ Binghamton University
 :::
 ::: {.talk-details}
 **Department of Biological Sciences**  
-Binghamton, NY | 2008 | Invited Speaker
+Binghamton, NY | 2008  
+Invited Speaker
 :::
 :::
 
@@ -862,7 +932,8 @@ OSU Cascades Distinguished Lectures
 :::
 ::: {.talk-details}
 **Oregon State University Cascades Campus Distinguished Evening Lectures**  
-Bend, OR | 2007 | Keynote Speaker
+Bend, OR | 2007  
+Keynote Speaker
 :::
 :::
 
@@ -873,7 +944,8 @@ Gordon Conference
 :::
 ::: {.talk-details}
 **Gordon Conference on Quantitative Genetics**  
-San Diego, CA | 2007 | Plenary Speaker
+San Diego, CA | 2007  
+Plenary Speaker
 :::
 :::
 
@@ -884,7 +956,8 @@ UC Davis
 :::
 ::: {.talk-details}
 **Department of Evolution and Ecology**  
-Davis, CA | 2007 | Invited Speaker
+Davis, CA | 2007  
+Invited Speaker
 :::
 :::
 
@@ -897,7 +970,8 @@ University of Illinois
 :::
 ::: {.talk-details}
 **Department of Animal Biology**  
-Urbana, IL | 2006 | Invited Speaker
+Urbana, IL | 2006  
+Invited Speaker
 :::
 :::
 
@@ -908,7 +982,8 @@ Portland State University
 :::
 ::: {.talk-details}
 **Department of Biology**  
-Portland, OR | 2006 | Invited Speaker
+Portland, OR | 2006  
+Invited Speaker
 :::
 :::
 
@@ -919,7 +994,8 @@ Texas A&M University
 :::
 ::: {.talk-details}
 **Department of Biology**  
-College Station, TX | 2006 | Invited Speaker
+College Station, TX | 2006  
+Invited Speaker
 :::
 :::
 
@@ -932,7 +1008,8 @@ Developmental Evolution
 :::
 ::: {.talk-details}
 **Conference on the Developmental Basis of Evolutionary Change**  
-Chicago, IL | 2005 | Plenary Speaker
+Chicago, IL | 2005  
+Plenary Speaker
 :::
 :::
 
@@ -943,7 +1020,8 @@ Evolutionary Psychology
 :::
 ::: {.talk-details}
 **Evolutionary Psychology Research Group**  
-Eugene, OR | 2005 | Public Lecture
+Eugene, OR | 2005  
+Public Lecture
 :::
 :::
 
@@ -954,7 +1032,8 @@ Oregon State University
 :::
 ::: {.talk-details}
 **Department of Zoology**  
-Corvallis, OR | 2005 | Invited Speaker
+Corvallis, OR | 2005  
+Invited Speaker
 :::
 :::
 
@@ -965,7 +1044,8 @@ Reed College
 :::
 ::: {.talk-details}
 **Department of Biology**  
-Portland, OR | 2005 | Invited Speaker
+Portland, OR | 2005  
+Invited Speaker
 :::
 :::
 
@@ -978,7 +1058,8 @@ Laval University
 :::
 ::: {.talk-details}
 **Department of Biology**  
-Quebec, Canada | 2004 | Invited Speaker
+Quebec, Canada | 2004  
+Invited Speaker
 :::
 :::
 
@@ -989,7 +1070,8 @@ Tulane University
 :::
 ::: {.talk-details}
 **Department of Ecology and Evolutionary Biology**  
-New Orleans, LA | 2004 | Invited Speaker
+New Orleans, LA | 2004  
+Invited Speaker
 :::
 :::
 
@@ -1000,7 +1082,8 @@ University of Alaska Anchorage
 :::
 ::: {.talk-details}
 **Department of Biological Sciences**  
-Anchorage, AK | 2004 | Invited Speaker
+Anchorage, AK | 2004  
+Invited Speaker
 :::
 :::
 
@@ -1011,7 +1094,8 @@ University of Nebraska
 :::
 ::: {.talk-details}
 **School of Biological Sciences**  
-Lincoln, NE | 2004 | Invited Speaker
+Lincoln, NE | 2004  
+Invited Speaker
 :::
 :::
 
@@ -1022,7 +1106,8 @@ University of Oregon
 :::
 ::: {.talk-details}
 **Oregon Institute of Marine Biology**  
-Charleston, OR | 2004 | Invited Speaker
+Charleston, OR | 2004  
+Invited Speaker
 :::
 :::
 
@@ -1033,7 +1118,8 @@ University of Connecticut
 :::
 ::: {.talk-details}
 **Department of Ecology and Evolutionary Biology**  
-Storrs, CT | 2004 | Invited Speaker
+Storrs, CT | 2004  
+Invited Speaker
 :::
 :::
 
@@ -1044,7 +1130,8 @@ University of Oregon
 :::
 ::: {.talk-details}
 **Center for Ecology and Evolutionary Biology**  
-Eugene, OR | 2004 | Invited Speaker
+Eugene, OR | 2004  
+Invited Speaker
 :::
 :::
 
@@ -1057,7 +1144,8 @@ Eugene Natural History Society
 :::
 ::: {.talk-details}
 **Public Seminar**  
-Eugene, OR | 2003 | Public Lecture
+Eugene, OR | 2003  
+Public Lecture
 :::
 :::
 
@@ -1068,7 +1156,8 @@ Clark University
 :::
 ::: {.talk-details}
 **Department of Biology**  
-Worcester, MA | 2003 | Invited Speaker
+Worcester, MA | 2003  
+Invited Speaker
 :::
 :::
 
@@ -1081,7 +1170,8 @@ Binghamton University
 :::
 ::: {.talk-details}
 **Department of Biological Sciences**  
-Binghamton, NY | 1999 | Invited Speaker
+Binghamton, NY | 1999  
+Invited Speaker
 :::
 :::
 

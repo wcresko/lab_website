@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://wcresko.github.io/index.html</loc>
-    <lastmod>2025-11-06T22:19:29.208Z</lastmod>
+    <lastmod>2025-11-06T23:41:43.954Z</lastmod>
   </url>
   <url>
     <loc>https://wcresko.github.io/posts.html</loc>
@@ -10,7 +10,7 @@
   </url>
   <url>
     <loc>https://wcresko.github.io/people.html</loc>
-    <lastmod>2025-11-05T18:27:16.078Z</lastmod>
+    <lastmod>2025-11-06T23:30:27.290Z</lastmod>
   </url>
   <url>
     <loc>https://wcresko.github.io/about.html</loc>
@@ -21,8 +21,12 @@
     <lastmod>2025-11-06T02:09:46.323Z</lastmod>
   </url>
   <url>
-    <loc>https://wcresko.github.io/posts/2024-10-01-lokey-chair.html</loc>
-    <lastmod>2025-11-02T22:44:13.000Z</lastmod>
+    <loc>https://wcresko.github.io/talks.html</loc>
+    <lastmod>2025-11-06T23:37:18.789Z</lastmod>
+  </url>
+  <url>
+    <loc>https://wcresko.github.io/posts/2020-06-15-thesis-defenses.html</loc>
+    <lastmod>2025-11-02T23:17:28.000Z</lastmod>
   </url>
   <url>
     <loc>https://wcresko.github.io/posts/2019-01-15-stacks-release.html</loc>
@@ -57,10 +61,6 @@
     <lastmod>2025-11-05T18:34:03.253Z</lastmod>
   </url>
   <url>
-    <loc>https://wcresko.github.io/MIGRATION_CHECKLIST.html</loc>
-    <lastmod>2025-11-02T22:29:04.000Z</lastmod>
-  </url>
-  <url>
     <loc>https://wcresko.github.io/research.html</loc>
     <lastmod>2025-11-02T22:24:28.000Z</lastmod>
   </url>
@@ -89,35 +89,27 @@
     <lastmod>2025-11-02T23:17:53.000Z</lastmod>
   </url>
   <url>
-    <loc>https://wcresko.github.io/posts/2020-06-15-thesis-defenses.html</loc>
-    <lastmod>2025-11-02T23:17:28.000Z</lastmod>
+    <loc>https://wcresko.github.io/posts/2025-11-05-contreras-SACNAS.html</loc>
+    <lastmod>2025-11-06T22:17:21.076Z</lastmod>
   </url>
   <url>
-    <loc>https://wcresko.github.io/talks.html</loc>
-    <lastmod>2025-11-05T18:06:33.620Z</lastmod>
+    <loc>https://wcresko.github.io/posts/2024-10-01-lokey-chair.html</loc>
+    <lastmod>2025-11-02T22:44:13.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://wcresko.github.io/index_old.html</loc>
+    <lastmod>2025-11-06T22:49:45.662Z</lastmod>
   </url>
   <url>
     <loc>https://wcresko.github.io/publications.html</loc>
     <lastmod>2025-11-03T17:55:49.037Z</lastmod>
   </url>
   <url>
-    <loc>https://wcresko.github.io/teaching_old.html</loc>
-    <lastmod>2025-11-02T22:25:44.000Z</lastmod>
+    <loc>https://wcresko.github.io/talks_old.html</loc>
+    <lastmod>2025-11-05T18:06:33.620Z</lastmod>
   </url>
   <url>
     <loc>https://wcresko.github.io/people/bill-cresko.html</loc>
     <lastmod>2025-11-02T22:29:39.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://wcresko.github.io/index_old.html</loc>
-    <lastmod>2025-11-05T18:20:52.094Z</lastmod>
-  </url>
-  <url>
-    <loc>https://wcresko.github.io/projects_old.html</loc>
-    <lastmod>2025-11-02T23:31:21.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://wcresko.github.io/posts/2025-11-05-contreras-SACNAS.html</loc>
-    <lastmod>2025-11-06T22:17:21.076Z</lastmod>
   </url>
 </urlset>

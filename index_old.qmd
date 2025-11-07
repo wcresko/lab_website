@@ -5,7 +5,9 @@ page-layout: full
 toc: false
 ---
 
-::::: home-container
+![](images/site_logo.jpg){.banner fig-alt="Stickleback fish research image" fig-align="center"}
+
+:::::: home-container
 We study the genomic basis of evolutionary change using the threespine stickleback fish as our primary model system. Our research combines field studies, laboratory experiments, and computational approaches to understand how organisms adapt to changing environments.
 
 ## Research Areas
@@ -18,36 +20,31 @@ We study the genomic basis of evolutionary change using the threespine stickleba
 
 [Learn more about our projects →](projects.qmd)
 
-------------------------------------------------------------------------
 
-## Recent Highlights
-
-:::: columns-2
+::::: columns
+::: {.column width="50%"}
 ### Publications
 
+-   Single cell analysis of syngnathids (*eLife* 2025)
 -   Host genomic variation shapes gut microbiome diversity (*mBio* 2023)
 -   Seadragon genomes reveal syngnathid evolution (*PNAS* 2022)
 -   Single-cell sequencing for genome annotation (*Genetics* 2022)
 
 [All publications →](publications.qmd)
+:::
 
-</div>
-
-<div>
-
+::: {.column width="50%"}
 ### News
 
+-   Ethan Contreras presents research at SACNAS
 -   Bill Cresko awarded Lorry Lokey Endowed Chair
+-   Hope Healey successfully defends her dissertation!
 -   Emily Niebergall receives Goldwater Fellowship
--   Lab members win six conference awards
--   Rapid evolution paper featured in PNAS
 
 [Recent updates →](posts.qmd)
+:::
+:::::
 
-</div>
-::::
-
-------------------------------------------------------------------------
 
 ## Team
 
@@ -55,16 +52,10 @@ Led by **Bill Cresko**, our lab includes research scientists, postdoctoral schol
 
 [Meet our team →](people.qmd)
 
-------------------------------------------------------------------------
 
 ## Join Us
 
-We welcome inquiries from prospective graduate students, postdocs, and undergraduates interested in:
-
--   Evolutionary genomics and adaptation
--   Host-microbiome interactions
--   Bioinformatics and computational biology
--   Population genetics and phylogenomics
+I welcome inquiries from prospective graduate students, postdocs, and undergraduates interested in:
 
 [Open positions →](people.qmd#join-our-lab)
 
@@ -83,4 +74,4 @@ Eugene, OR 97403
 {{< fa brands github >}} [GitHub](https://github.com/creskolab)\
 {{< fa brands instagram >}} [Instagram](https://instagram.com/creskolab)\
 {{< fa brands bluesky >}} [Bluesky](https://bsky.app/profile/creskolab.bsky.social)
-:::::
+::::::

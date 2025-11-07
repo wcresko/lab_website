@@ -1,45 +1,17 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Cresko Laboratory",
-    "section": "",
-    "text": "Threespine stickleback fish in their natural habitat - our model organism for studying evolutionary genomics"
-  },
-  {
     "objectID": "index.html#research-areas",
     "href": "index.html#research-areas",
     "title": "Cresko Laboratory",
     "section": "Research Areas",
-    "text": "Research Areas\nParallel Evolution & Adaptation — We study how independent populations evolve similar solutions to environmental challenges, revealing the predictability of evolution and the genetic architecture of adaptive traits.\nHost-Microbiome Dynamics — Using stickleback as a model, we explore how host genetic variation shapes microbial communities and how these interactions influence adaptation.\nGenomic Tool Development — We developed RAD-seq technology and the Stacks software pipeline, now used by thousands of researchers worldwide for population genomics analyses.\nLearn more about our projects →"
-  },
-  {
-    "objectID": "index.html#recent-highlights",
-    "href": "index.html#recent-highlights",
-    "title": "Cresko Laboratory",
-    "section": "Recent Highlights",
-    "text": "Recent Highlights\n\n\n\nPublications\n\nSingle cell analysis of syngnathids (eLife 2025)\nHost genomic variation shapes gut microbiome diversity (mBio 2023)\nSeadragon genomes reveal syngnathid evolution (PNAS 2022)\nSingle-cell sequencing for genome annotation (Genetics 2022)\n\nAll publications →\n\n\n\nNews\n\nEthan Contreras presents research at SACNAS\nBill Cresko awarded Lorry Lokey Endowed Chair\nHope Healey successfully defends her dissertation!\nEmily Niebergall receives Goldwater Fellowship\n\nRecent updates →"
-  },
-  {
-    "objectID": "index.html#team",
-    "href": "index.html#team",
-    "title": "Cresko Laboratory",
-    "section": "Team",
-    "text": "Team\nLed by Bill Cresko, our lab includes research scientists, postdoctoral scholars, graduate students, and undergraduates working together on evolutionary questions.\nMeet our team →"
-  },
-  {
-    "objectID": "index.html#join-us",
-    "href": "index.html#join-us",
-    "title": "Cresko Laboratory",
-    "section": "Join Us",
-    "text": "Join Us\nWe welcome inquiries from prospective graduate students, postdocs, and undergraduates interested in:\n\nEvolutionary genomics and adaptation\nHost-microbiome interactions\nBioinformatics and computational biology\nPopulation genetics and phylogenomics\n\nOpen positions →"
+    "text": "Research Areas\nParallel Evolution & Adaptation — We study how independent populations evolve similar solutions to environmental challenges to understand the genetic architecture of adaptive traits.\nFunctional Evolutionary Genetics - We study how gene regulatory networks function in variable environments, and evolve in diverse lineages using approaches such as single cell sequencing and CRISPR\nHost-Microbiome Dynamics — We explore how host genetic variation shapes microbial communities and how these interactions influence adaptation.\nGenomic Tool Development — We developed RAD-seq technology and the Stacks software pipeline, now used by thousands of researchers worldwide for population genomics analyses.\nLearn more about our projects →\n\n\n\nPublications\n\nSingle cell analysis of syngnathids (eLife 2025)\nHost genomic variation shapes gut microbiome diversity (mBio 2023)\nSeadragon genomes reveal syngnathid evolution (PNAS 2022)\nSingle-cell sequencing for genome annotation (Genetics 2022)\n\nAll publications →\n\n\n\nNews\n\nEthan Contreras presents research at SACNAS\nBill Cresko awarded Lorry Lokey Endowed Chair\nHope Healey successfully defends her dissertation!\nEmily Niebergall receives Goldwater Fellowship\n\nRecent updates →\n\n\n\n\n\n\nTeam\nLed by Bill Cresko, our lab includes research scientists, postdoctoral scholars, graduate students, and undergraduates working together on evolutionary questions.\nMeet our team →\n\n\n\nJoin Us\nI welcome inquiries from prospective graduate students, postdocs, and undergraduates interested in:\nOpen positions →"
   },
   {
     "objectID": "index.html#contact",
     "href": "index.html#contact",
     "title": "Cresko Laboratory",
     "section": "Contact",
-    "text": "Contact\nWilliam A. Cresko, Ph.D.\nInstitute of Ecology and Evolution\nUniversity of Oregon\n312 Pacific Hall\nEugene, OR 97403\n wcresko@uoregon.edu\n (541) 346-4779\n GitHub\n Instagram\n Bluesky"
+    "text": "Contact\n\n\nWilliam A. Cresko, Ph.D.\nInstitute of Ecology and Evolution\nUniversity of Oregon\n312 Pacific Hall\nEugene, OR 97403\n\n wcresko@uoregon.edu\n (541) 346-4779\n GitHub\n Instagram\n Bluesky"
   },
   {
     "objectID": "posts.html",
@@ -53,14 +25,14 @@
     "href": "people.html",
     "title": "Present and Past Lab Members",
     "section": "",
-    "text": "Lorry Lokey Chair and Professor of Bioengineering, Director Center for Biomedical Data Science\nInstitute of Ecology and Evolution\nUniversity of Oregon\nBill Cresko is Lorry Lokey Chair and Professor of Bioengineering, and a member of the Institute of Ecology and Evolution (IE2) at the University of Oregon. He has had leadership roles on campus as the director of IE2, associate vice president of research (2014-2018), and the executive director of the Presidential Initiative in Data Science (2018-2023). He is currently the UO Director of the Center for Biomedical Data Science. Cresko studies the genomic basis of evolutionary change using comparative studies of natural populations in the wild and experimental approaches in the laboratory. He uses the threespine stickleback fish as his primary model to understand how molecular genetic variation can modify networks of genes and proteins to produce variation in evolutionarily important traits.\nContact: wcresko@uoregon.edu\nFull Profile | Google Scholar | ORCID\n\n\n\n\n\n\n\n\n\n\n\nSenior Research Associate\nInstitute of Ecology and Evolution\nUniversity of Oregon\nSusan is interested in understanding the vast variety of life. How is morphological variation, seen in populations of the same species, partitioned among different environments and what are the genetic and genomic factors associated with this partitioning? She uses a variety of molecular genetic tools to uncover genome-scale patterns that underlie phenotypic variation in wild populations of fish, and directs this knowledge to the study of developmental pathways that contribute to novel or modified morphologies.\nContact: sbassham@uoregon.edu\nFull Profile | Publications\n\n\n\n\n\n\n\n\n\n\n\nInstitute of Ecology and Evolution\nUniversity of Oregon\nMark’s research investigates the genetic and genomic basis of evolutionary change in natural populations. He uses computational approaches to analyze large-scale genomic datasets and understand patterns of genetic variation that contribute to adaptation and speciation.\nContact: mcurrey@uoregon.edu\nPublications\n\n\n\n\n\n\n\n\n\n\n\nPh.D. Candidate\nDepartment of Biology\nUniversity of Oregon\nShannon is a graduate student studying the transcriptional and epigenetic basis of transgenerational inheritence using the freshwater microcrustacean Daphnia. Shannon earned her undergraduate and Masters degrees at Arizona State University under the tutelage of Dr. Mike Lynch. Shannon was awarded support from the NIH T32 Genetics Training Program.\nContact: ssnyder3@uoregon.edu\nFull Profile\n\n\n\n\n\n\n\n\n\n\n\nEmerita Faculty\nDepartment of Biology\nUniversity of Oregon\nChuck is….\nContact: ssnyder3@uoregon.edu\nFull Profile\n\n\n\n\n\n\n\n\n\n\n\nUndergraduate Student\nDepartment of Biology\nUniversity of Oregon\nLily is….\nContact: ssnyder3@uoregon.edu\nFull Profile\n\n\n\n\n\n\n\n\n\n\n\nUndergraduate Student\nDepartment of Biology\nUniversity of Oregon\nBruno is….\nContact: ssnyder3@uoregon.edu\nFull Profile"
+    "text": "Lorry Lokey Chair and Professor of Bioengineering, Director Center for Biomedical Data Science\nInstitute of Ecology and Evolution\nUniversity of Oregon\nBill Cresko is Lorry Lokey Chair and Professor of Bioengineering, and a member of the Institute of Ecology and Evolution (IE2) at the University of Oregon. He has had leadership roles on campus as the director of IE2, associate vice president of research (2014-2018), and the executive director of the Presidential Initiative in Data Science (2018-2023). He is currently the UO Director of the Center for Biomedical Data Science. Cresko studies the genomic basis of evolutionary change using comparative studies of natural populations in the wild and experimental approaches in the laboratory. He uses the threespine stickleback fish as his primary model to understand how molecular genetic variation can modify networks of genes and proteins to produce variation in evolutionarily important traits.\nContact: wcresko@uoregon.edu\nFull Profile | Google Scholar | ORCID\n\n\n\n\n\n\n\n\n\n\nSenior Research Associate\nInstitute of Ecology and Evolution\nUniversity of Oregon\nSusan is interested in understanding the vast variety of life. How is morphological variation, seen in populations of the same species, partitioned among different environments and what are the genetic and genomic factors associated with this partitioning? She uses a variety of molecular genetic tools to uncover genome-scale patterns that underlie phenotypic variation in wild populations of fish, and directs this knowledge to the study of developmental pathways that contribute to novel or modified morphologies.\nContact: sbassham@uoregon.edu\nFull Profile | Publications\n\n\n\n\n\n\n\n\n\n\nInstitute of Ecology and Evolution\nUniversity of Oregon\nMark’s research investigates the genetic and genomic basis of evolutionary change in natural populations. He uses computational approaches to analyze large-scale genomic datasets and understand patterns of genetic variation that contribute to adaptation and speciation.\nContact: mcurrey@uoregon.edu\nPublications\n\n\n\n\n\n\n\n\n\n\nPh.D. Candidate\nDepartment of Biology\nUniversity of Oregon\nShannon is a graduate student studying the transcriptional and epigenetic basis of transgenerational inheritence using the freshwater microcrustacean Daphnia. Shannon earned her undergraduate and Masters degrees at Arizona State University under the tutelage of Dr. Mike Lynch. Shannon was awarded support from the NIH T32 Genetics Training Program.\nContact: ssnyder3@uoregon.edu\nFull Profile\n\n\n\n\n\n\n\n\n\n\nEmerita Faculty\nDepartment of Biology\nUniversity of Oregon\nChuck is….\nContact: ssnyder3@uoregon.edu\nFull Profile\n\n\n\n\n\n\n\n\n\n\nUndergraduate Student\nDepartment of Biology\nUniversity of Oregon\nLily is….\nContact: ssnyder3@uoregon.edu\nFull Profile\n\n\n\n\n\n\n\n\n\n\nUndergraduate Student\nDepartment of Biology\nUniversity of Oregon\nBruno is….\nContact: ssnyder3@uoregon.edu\nFull Profile"
   },
   {
     "objectID": "people.html#current-lab-members",
     "href": "people.html#current-lab-members",
     "title": "Present and Past Lab Members",
     "section": "",
-    "text": "Lorry Lokey Chair and Professor of Bioengineering, Director Center for Biomedical Data Science\nInstitute of Ecology and Evolution\nUniversity of Oregon\nBill Cresko is Lorry Lokey Chair and Professor of Bioengineering, and a member of the Institute of Ecology and Evolution (IE2) at the University of Oregon. He has had leadership roles on campus as the director of IE2, associate vice president of research (2014-2018), and the executive director of the Presidential Initiative in Data Science (2018-2023). He is currently the UO Director of the Center for Biomedical Data Science. Cresko studies the genomic basis of evolutionary change using comparative studies of natural populations in the wild and experimental approaches in the laboratory. He uses the threespine stickleback fish as his primary model to understand how molecular genetic variation can modify networks of genes and proteins to produce variation in evolutionarily important traits.\nContact: wcresko@uoregon.edu\nFull Profile | Google Scholar | ORCID\n\n\n\n\n\n\n\n\n\n\n\nSenior Research Associate\nInstitute of Ecology and Evolution\nUniversity of Oregon\nSusan is interested in understanding the vast variety of life. How is morphological variation, seen in populations of the same species, partitioned among different environments and what are the genetic and genomic factors associated with this partitioning? She uses a variety of molecular genetic tools to uncover genome-scale patterns that underlie phenotypic variation in wild populations of fish, and directs this knowledge to the study of developmental pathways that contribute to novel or modified morphologies.\nContact: sbassham@uoregon.edu\nFull Profile | Publications\n\n\n\n\n\n\n\n\n\n\n\nInstitute of Ecology and Evolution\nUniversity of Oregon\nMark’s research investigates the genetic and genomic basis of evolutionary change in natural populations. He uses computational approaches to analyze large-scale genomic datasets and understand patterns of genetic variation that contribute to adaptation and speciation.\nContact: mcurrey@uoregon.edu\nPublications\n\n\n\n\n\n\n\n\n\n\n\nPh.D. Candidate\nDepartment of Biology\nUniversity of Oregon\nShannon is a graduate student studying the transcriptional and epigenetic basis of transgenerational inheritence using the freshwater microcrustacean Daphnia. Shannon earned her undergraduate and Masters degrees at Arizona State University under the tutelage of Dr. Mike Lynch. Shannon was awarded support from the NIH T32 Genetics Training Program.\nContact: ssnyder3@uoregon.edu\nFull Profile\n\n\n\n\n\n\n\n\n\n\n\nEmerita Faculty\nDepartment of Biology\nUniversity of Oregon\nChuck is….\nContact: ssnyder3@uoregon.edu\nFull Profile\n\n\n\n\n\n\n\n\n\n\n\nUndergraduate Student\nDepartment of Biology\nUniversity of Oregon\nLily is….\nContact: ssnyder3@uoregon.edu\nFull Profile\n\n\n\n\n\n\n\n\n\n\n\nUndergraduate Student\nDepartment of Biology\nUniversity of Oregon\nBruno is….\nContact: ssnyder3@uoregon.edu\nFull Profile"
+    "text": "Lorry Lokey Chair and Professor of Bioengineering, Director Center for Biomedical Data Science\nInstitute of Ecology and Evolution\nUniversity of Oregon\nBill Cresko is Lorry Lokey Chair and Professor of Bioengineering, and a member of the Institute of Ecology and Evolution (IE2) at the University of Oregon. He has had leadership roles on campus as the director of IE2, associate vice president of research (2014-2018), and the executive director of the Presidential Initiative in Data Science (2018-2023). He is currently the UO Director of the Center for Biomedical Data Science. Cresko studies the genomic basis of evolutionary change using comparative studies of natural populations in the wild and experimental approaches in the laboratory. He uses the threespine stickleback fish as his primary model to understand how molecular genetic variation can modify networks of genes and proteins to produce variation in evolutionarily important traits.\nContact: wcresko@uoregon.edu\nFull Profile | Google Scholar | ORCID\n\n\n\n\n\n\n\n\n\n\nSenior Research Associate\nInstitute of Ecology and Evolution\nUniversity of Oregon\nSusan is interested in understanding the vast variety of life. How is morphological variation, seen in populations of the same species, partitioned among different environments and what are the genetic and genomic factors associated with this partitioning? She uses a variety of molecular genetic tools to uncover genome-scale patterns that underlie phenotypic variation in wild populations of fish, and directs this knowledge to the study of developmental pathways that contribute to novel or modified morphologies.\nContact: sbassham@uoregon.edu\nFull Profile | Publications\n\n\n\n\n\n\n\n\n\n\nInstitute of Ecology and Evolution\nUniversity of Oregon\nMark’s research investigates the genetic and genomic basis of evolutionary change in natural populations. He uses computational approaches to analyze large-scale genomic datasets and understand patterns of genetic variation that contribute to adaptation and speciation.\nContact: mcurrey@uoregon.edu\nPublications\n\n\n\n\n\n\n\n\n\n\nPh.D. Candidate\nDepartment of Biology\nUniversity of Oregon\nShannon is a graduate student studying the transcriptional and epigenetic basis of transgenerational inheritence using the freshwater microcrustacean Daphnia. Shannon earned her undergraduate and Masters degrees at Arizona State University under the tutelage of Dr. Mike Lynch. Shannon was awarded support from the NIH T32 Genetics Training Program.\nContact: ssnyder3@uoregon.edu\nFull Profile\n\n\n\n\n\n\n\n\n\n\nEmerita Faculty\nDepartment of Biology\nUniversity of Oregon\nChuck is….\nContact: ssnyder3@uoregon.edu\nFull Profile\n\n\n\n\n\n\n\n\n\n\nUndergraduate Student\nDepartment of Biology\nUniversity of Oregon\nLily is….\nContact: ssnyder3@uoregon.edu\nFull Profile\n\n\n\n\n\n\n\n\n\n\nUndergraduate Student\nDepartment of Biology\nUniversity of Oregon\nBruno is….\nContact: ssnyder3@uoregon.edu\nFull Profile"
   },
   {
     "objectID": "people.html#lab-alumni",
@@ -147,18 +119,53 @@
     "text": "Single-Cell Resolution of the Epigenomic Basis of Adaptation in the Wild\n\n\nNIH NIGMS R01 (2026-2031) | $2,187,344 | PI: William Cresko\nUsing threespine stickleback fish to understand epigenomic mechanisms underlying adaptation in natural populations at single-cell resolution.\n\n\n\n\n\n\n\nMale Pregnancy and its Effects on the Brood Pouch Microbiome\n\n\nNSF (2020-2025) | $1,070,484 | PI: William Cresko\nInvestigating the unique biology of male pregnancy in syngnathid fishes and how it shapes host-microbiome interactions in the brood pouch.\n\n\n\n\n\n\n\nMathematical Models of Host-Symbiont Ecology and Evolution\n\n\nMoore Foundation (2022-2025) | $564,000 | PI: William Cresko\nDeveloping mathematical frameworks to understand the evolutionary dynamics of host-microbiome interactions.\n\n\n\n\nNIH P50 Reducing Opioid Addiction in Mothers\n\n\nNIH P50 (2019-2025) | $11,190,603 | Co-Investigator\nMulti-institutional center grant focused on understanding and reducing opioid use disorder in pregnant and parenting mothers.\n\n\n\n\nMETA Center of Excellence in Systems Biology\n\n\nNIH Center Grant (2012-2018) | $10,298,725 | PI: William Cresko\nEstablished the Microbial Ecology and Theory of Animals Center to study host-microbiome interactions across multiple model systems.\n\n\n\n\n\n\n\nSARS-CoV-2 Testing Infrastructure and Scale-up\n\n\nOregon Health Authority (2020-2022) | $4,364,823 | PI: William Cresko\nMajor equipment purchase and infrastructure development for high-throughput COVID-19 testing at UO and throughout Oregon.\n\n\n\n\nOptimizing SARS-CoV-2 Testing in Latinx Communities\n\n\nNIH RADx-UP (2021-2023) | $1,832,583 | MPI: William Cresko\nIncreasing COVID-19 testing access and efficacy in underserved Latinx populations throughout Oregon.\n\n\n\n\nScaling up SARS-CoV-2 Testing in Latinx Communities\n\n\nNIH RADx-UP (2020-2022) | $4,166,575 | MPI: William Cresko\nLarge-scale implementation of culturally appropriate testing strategies for Oregon’s Latinx communities.\n\n\n\n\n\n\n\nAdvancing Transcriptomics in Aquatic Models\n\n\nNIH (2011-2019) | $2,647,451 | PI: William Cresko\nDeveloped novel transcriptomic tools and CRISPR applications for aquatic model organisms. Included major supplement for CRISPR technology development.\n\n\n\n\nThe Study of Cancer Development as an Evolutionary Process\n\n\nW.M. Keck Foundation (2011-2015) | $1,000,000 | PI: William Cresko\nApplied evolutionary theory to understand cancer progression and treatment resistance.\n\n\n\n\nFunctional and Population Genomics of Small RNA Regulation\n\n\nNIH (2011-2016) | $1,484,689 | PI: William Cresko\nInvestigated the role of small RNAs in developmental plasticity and evolutionary adaptation.\n\n\n\n\n\n\n\nEvolutionary Genomics of Rapid Adaptation in Stickleback\n\n\nNSF (2009-2013) | $364,756 | PI: William Cresko\nDocumented genomic changes underlying rapid evolutionary responses to environmental change.\n\n\n\n\nEvolution of Development of Facial Bone Morphology\n\n\nNSF (2008-2012) | $555,016 | PI: William Cresko\nUncovered developmental genetic mechanisms controlling craniofacial variation in natural populations.\n\n\n\n\nMicroevolution of Craniofacial Development in Stickleback\n\n\nNIH (2007-2011) | $473,944 | PI: William Cresko\nIdentified genetic variants affecting skull morphology with implications for understanding human craniofacial disorders.\n\n\n\n\n\n\n\nMajor Renovation of UO Animal Facilities\n\n\nNIH C06 (2010-2012) | $9,117,040 | PI: William Cresko\nComplete modernization of animal research facilities supporting campus-wide biomedical research.\n\n\n\n\nNSF IGERT - Evolution, Development and Genomics\n\n\nNSF (2005-2010) | $2,399,988 | PI: William Cresko\nEstablished interdisciplinary graduate training program combining evolutionary biology with genomics.\n\n\n\n\nComputational Instrument for Scientific Synthesis\n\n\nNSF MRI (2009-2011) | $1,971,109 | PI: William Cresko\nAcquisition of high-performance computing infrastructure supporting genomics research across campus.\n\n\n\n\nGraduate Internship Program Support\n\n\nETIC (2013-2015) | $1,299,109 | PI: William Cresko\nRenewable funding establishing industry partnerships for graduate student training.\n\n\n\n\nX-ray Microscope Capabilities\n\n\nMurdock Charitable Trust (2019-2020) | $500,000 | PI: William Cresko\nAdvanced imaging infrastructure for biological and materials science research.\n\n\n\n\n\n\n\nRAD-seq Technology\n\n\nYears: 2008-present | Impact: 10,000+ users worldwide\nDeveloped Restriction site Associated DNA sequencing for cost-effective genome-wide SNP discovery and genotyping.\n\n\n\n\nStacks Software Pipeline\n\n\nYears: 2010-present | Downloads: 50,000+\nCreated comprehensive software suite for building loci from short-read sequences in organisms without reference genomes.\n\n\n\n\nscISOr-seq Technology\n\n\nYears: 2020-present\nPioneered single-cell isoform sequencing methods for understanding cell-type-specific transcript variation.\n\n\n\n\n\n\n\nPostdoctoral Fellowship Support\n\n\nSuccessfully mentored 8 NIH-funded postdocs including Kirchstein NRSA Fellows\nTotal postdoctoral fellowship funding secured: &gt;$1,000,000\n\n\n\n\nGraduate Student Support\n\n\nSecured funding for 5 NSF Doctoral Dissertation Improvement Grants\nMentored NSF Graduate Research Fellowship recipients\nNIH F31 Fellowship advisor for multiple students\n\n\n\n\n\nNational & International: Stanford Hopkins Marine Station | Max Planck Institute | Swedish Museum of Natural History | University of Alaska | Lund University | OHSU\nCampus Collaborations: Institute of Ecology and Evolution | Knight Campus for Accelerating Scientific Impact | META Center | Genomics and Cell Characterization Core Facility | Prevention Science Institute\nIndustry Partnerships: Two spin-off companies utilizing next-generation sequencing technologies\n\n\n\nAll genomic data publicly available through:\nNCBI BioProject | Dryad | GitHub\nSoftware Tools: Stacks | RAD-seq protocols | scISOr-seq pipelines"
   },
   {
-    "objectID": "projects.html#current-projects",
-    "href": "projects.html#current-projects",
+    "objectID": "projects.html#applications-in-review",
+    "href": "projects.html#applications-in-review",
     "title": "Projects",
     "section": "",
-    "text": "Host Genetic Control of the Microbiome\n\n\nNIH R01 (2022-2026) | PI: William Cresko, Brendan Bohannan\nUsing experimental evolution and genome-wide association studies to understand how host genetics shapes microbiome composition and function.\n\n\n\n\nGenomic Architecture of Parallel Evolution\n\n\nNSF DEB (2023-2027) | PI: William Cresko\nInvestigating the repeatability of evolution by comparing genomic changes in multiple independently evolved stickleback populations.\n\n\n\n\nMETA Center for Systems Biology\n\n\nNIH (2017-2025) | Role: Co-Investigator\nPart of the Microbial Ecology and Theory of Animals Center, studying host-microbiome interactions across multiple model systems."
+    "text": "Single-Cell Resolution of the Epigenomic Basis of Adaptation in the Wild\n\n\nNIH NIGMS R01 (2026-2031) | $2,187,344 | PI: William Cresko\nUsing threespine stickleback fish to understand epigenomic mechanisms underlying adaptation in natural populations at single-cell resolution."
   },
   {
-    "objectID": "projects.html#recent-completed-projects",
-    "href": "projects.html#recent-completed-projects",
+    "objectID": "projects.html#current-research-funding",
+    "href": "projects.html#current-research-funding",
     "title": "Projects",
     "section": "",
-    "text": "Rapid Evolution Following Environmental Change\n\n\nNSF (2013-2018) | Outcome: PNAS publication\nDemonstrated evolution can occur within decades following the 1964 Alaska earthquake.\n\n\n\n\nSyngnathid Genome Consortium\n\n\nNSF & Moore Foundation (2014-2020) | Outcome: Multiple genome publications\nLed sequencing and analysis of syngnathid fish genomes to understand unique trait evolution."
+    "text": "Male Pregnancy and its Effects on the Brood Pouch Microbiome\n\n\nNSF (2020-2025) | $1,070,484 | PI: William Cresko\nInvestigating the unique biology of male pregnancy in syngnathid fishes and how it shapes host-microbiome interactions in the brood pouch."
+  },
+  {
+    "objectID": "projects.html#recent-major-research-projects",
+    "href": "projects.html#recent-major-research-projects",
+    "title": "Projects",
+    "section": "",
+    "text": "Mathematical Models of Host-Symbiont Ecology and Evolution\n\n\nMoore Foundation (2022-2025) | $564,000 | PI: William Cresko\nDeveloping mathematical frameworks to understand the evolutionary dynamics of host-microbiome interactions.\n\n\n\n\nNIH P50 Reducing Opioid Addiction in Mothers\n\n\nNIH P50 (2019-2025) | $11,190,603 | Co-Investigator\nMulti-institutional center grant focused on understanding and reducing opioid use disorder in pregnant and parenting mothers.\n\n\n\n\nMETA Center of Excellence in Systems Biology\n\n\nNIH Center Grant (2012-2018) | $10,298,725 | PI: William Cresko\nEstablished the Microbial Ecology and Theory of Animals Center to study host-microbiome interactions across multiple model systems."
+  },
+  {
+    "objectID": "projects.html#covid-19-response-projects",
+    "href": "projects.html#covid-19-response-projects",
+    "title": "Projects",
+    "section": "",
+    "text": "SARS-CoV-2 Testing Infrastructure and Scale-up\n\n\nOregon Health Authority (2020-2022) | $4,364,823 | PI: William Cresko\nMajor equipment purchase and infrastructure development for high-throughput COVID-19 testing at UO and throughout Oregon.\n\n\n\n\nOptimizing SARS-CoV-2 Testing in Latinx Communities\n\n\nNIH RADx-UP (2021-2023) | $1,832,583 | MPI: William Cresko\nIncreasing COVID-19 testing access and efficacy in underserved Latinx populations throughout Oregon.\n\n\n\n\nScaling up SARS-CoV-2 Testing in Latinx Communities\n\n\nNIH RADx-UP (2020-2022) | $4,166,575 | MPI: William Cresko\nLarge-scale implementation of culturally appropriate testing strategies for Oregon’s Latinx communities."
+  },
+  {
+    "objectID": "projects.html#genomics-and-transcriptomics-research",
+    "href": "projects.html#genomics-and-transcriptomics-research",
+    "title": "Projects",
+    "section": "",
+    "text": "Advancing Transcriptomics in Aquatic Models\n\n\nNIH (2011-2019) | $2,647,451 | PI: William Cresko\nDeveloped novel transcriptomic tools and CRISPR applications for aquatic model organisms. Included major supplement for CRISPR technology development.\n\n\n\n\nThe Study of Cancer Development as an Evolutionary Process\n\n\nW.M. Keck Foundation (2011-2015) | $1,000,000 | PI: William Cresko\nApplied evolutionary theory to understand cancer progression and treatment resistance.\n\n\n\n\nFunctional and Population Genomics of Small RNA Regulation\n\n\nNIH (2011-2016) | $1,484,689 | PI: William Cresko\nInvestigated the role of small RNAs in developmental plasticity and evolutionary adaptation."
+  },
+  {
+    "objectID": "projects.html#evolution-and-development-studies",
+    "href": "projects.html#evolution-and-development-studies",
+    "title": "Projects",
+    "section": "",
+    "text": "Evolutionary Genomics of Rapid Adaptation in Stickleback\n\n\nNSF (2009-2013) | $364,756 | PI: William Cresko\nDocumented genomic changes underlying rapid evolutionary responses to environmental change.\n\n\n\n\nEvolution of Development of Facial Bone Morphology\n\n\nNSF (2008-2012) | $555,016 | PI: William Cresko\nUncovered developmental genetic mechanisms controlling craniofacial variation in natural populations.\n\n\n\n\nMicroevolution of Craniofacial Development in Stickleback\n\n\nNIH (2007-2011) | $473,944 | PI: William Cresko\nIdentified genetic variants affecting skull morphology with implications for understanding human craniofacial disorders."
+  },
+  {
+    "objectID": "projects.html#infrastructure-and-educational-support",
+    "href": "projects.html#infrastructure-and-educational-support",
+    "title": "Projects",
+    "section": "",
+    "text": "Major Renovation of UO Animal Facilities\n\n\nNIH C06 (2010-2012) | $9,117,040 | PI: William Cresko\nComplete modernization of animal research facilities supporting campus-wide biomedical research.\n\n\n\n\nNSF IGERT - Evolution, Development and Genomics\n\n\nNSF (2005-2010) | $2,399,988 | PI: William Cresko\nEstablished interdisciplinary graduate training program combining evolutionary biology with genomics.\n\n\n\n\nComputational Instrument for Scientific Synthesis\n\n\nNSF MRI (2009-2011) | $1,971,109 | PI: William Cresko\nAcquisition of high-performance computing infrastructure supporting genomics research across campus.\n\n\n\n\nGraduate Internship Program Support\n\n\nETIC (2013-2015) | $1,299,109 | PI: William Cresko\nRenewable funding establishing industry partnerships for graduate student training.\n\n\n\n\nX-ray Microscope Capabilities\n\n\nMurdock Charitable Trust (2019-2020) | $500,000 | PI: William Cresko\nAdvanced imaging infrastructure for biological and materials science research."
   },
   {
     "objectID": "projects.html#methodological-developments",
@@ -166,6 +173,13 @@
     "title": "Projects",
     "section": "",
     "text": "RAD-seq Technology\n\n\nYears: 2008-present | Impact: 10,000+ users worldwide\nDeveloped Restriction site Associated DNA sequencing for cost-effective genome-wide SNP discovery and genotyping.\n\n\n\n\nStacks Software Pipeline\n\n\nYears: 2010-present | Downloads: 50,000+\nCreated comprehensive software suite for building loci from short-read sequences in organisms without reference genomes.\n\n\n\n\nscISOr-seq Technology\n\n\nYears: 2020-present\nPioneered single-cell isoform sequencing methods for understanding cell-type-specific transcript variation."
+  },
+  {
+    "objectID": "projects.html#fellowship-and-student-support",
+    "href": "projects.html#fellowship-and-student-support",
+    "title": "Projects",
+    "section": "",
+    "text": "Postdoctoral Fellowship Support\n\n\nSuccessfully mentored 8 NIH-funded postdocs including Kirchstein NRSA Fellows\nTotal postdoctoral fellowship funding secured: &gt;$1,000,000\n\n\n\n\nGraduate Student Support\n\n\nSecured funding for 5 NSF Doctoral Dissertation Improvement Grants\nMentored NSF Graduate Research Fellowship recipients\nNIH F31 Fellowship advisor for multiple students"
   },
   {
     "objectID": "projects.html#collaborative-networks",
@@ -182,11 +196,214 @@
     "text": "All genomic data publicly available through:\nNCBI BioProject | Dryad | GitHub\nSoftware Tools: Stacks | RAD-seq protocols | scISOr-seq pipelines"
   },
   {
-    "objectID": "posts/2024-10-01-lokey-chair.html",
-    "href": "posts/2024-10-01-lokey-chair.html",
-    "title": "Bill Cresko Awarded Lorry Lokey Endowed Chair",
+    "objectID": "projects.html#total-research-funding",
+    "href": "projects.html#total-research-funding",
+    "title": "Projects",
+    "section": "Total Research Funding",
+    "text": "Total Research Funding\nCareer Total: &gt;$60 million in federal, foundation, and state funding\nCurrent Active Funding: &gt;$1.6 million\nLeadership Roles: PI on &gt;25 major grants | Co-I on &gt;10 collaborative grants\n\nFor collaboration inquiries or data access: wcresko@uoregon.edu"
+  },
+  {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Talks",
     "section": "",
-    "text": "Professor Bill Cresko has been awarded a Lorry Lokey Endowed Chair in recognition of the outstanding contributions that he and his laboratory have made to the University of Oregon’s mission.\nThe Lorry Lokey Endowed Chairs represent one of the highest honors the University can bestow upon its faculty, reserved for scholars who have demonstrated exceptional achievement in their fields.\nThis recognition celebrates Bill’s many contributions to science and the university:\n\nDevelopment of RAD-seq technology and the Stacks software pipeline, now used by thousands of researchers worldwide\nNearly 100 publications advancing our understanding of evolutionary genomics\nService as Associate Vice President of Research and leader of the Presidential Initiative in Data Science\nTraining dozens of students and postdocs who have gone on to successful careers\nFostering collaborative research across campus and internationally\n\nThe endowed chair will provide additional resources to support the Cresko Lab’s cutting-edge research in evolutionary genomics and the development of new computational tools for biology.\nWe thank the Lorry I. Lokey Foundation for their generous support of scientific research and education at the University of Oregon."
+    "text": "University of Arizona\nDepartmental Seminar\n\n\nDepartment of Ecology and Evolutionary Biology\nTucson, AZ | 2025 | Invited Speaker\n\n\n\n\nWestern Washington University\nDepartmental Seminar\n\n\nDepartment of Biology\nBellingham, WA | 2025 | Invited Speaker\n\n\n\n\n\n\n\nUniversity of Oregon\nDepartmental Seminar\n\n\nInstitute of Ecology and Evolution\nEugene, OR | 2023 | Invited Speaker\n\n\n\n\n\n\n\nAesthetic and Organic Complexity\nPublic Seminar\n\n\nPublic Presentation\nBoston, MA | 2021 | Public Lecture\n\n\n\n\nBern University\nDepartmental Seminar\n\n\nInstitute of Ecology and Evolution\nBern, Switzerland | 2021 | Invited Speaker\n\n\n\n\nCardiff University\nDepartmental Seminar\n\n\nSchool of Biosciences\nCardiff, Wales, UK | 2021 | Invited Speaker\n\n\n\n\n\n\n\nARCS Foundation\nPublic Presentation\n\n\nAchievement Rewards for College Scientists\nPortland, OR | 2020 | Public Lecture\n\n\n\n\n\n\n\nUniversity of Iowa\nDepartmental Seminar\n\n\nDepartment of Biology\nIowa City, IA | 2019 | Invited Speaker\n\n\n\n\n\n\n\nWashington University\nGraduate Student Invited\n\n\nAnnual Graduate Student Invited Speaker\nSt. Louis, MO | 2018 | Invited Speaker\n\n\n\n\nNorthern Arizona University\nDepartmental Seminar\n\n\nDepartment of Biological Sciences\nFlagstaff, AZ | 2018 | Invited Speaker\n\n\n\n\n\n\n\nStowers Institute\nResearch Seminar\n\n\nStowers Institute for Medical Research\nKansas City, MO | 2017 | Invited Speaker\n\n\n\n\nHumboldt State University\nDepartmental Seminar\n\n\nDepartment of Biological Sciences\nArcata, CA | 2017 | Invited Speaker\n\n\n\n\nEugene Natural History Society\nPublic Seminar\n\n\nPublic Presentation\nEugene, OR | 2017 | Public Lecture\n\n\n\n\n\n\n\nCGRB Distinguished Lecture\nKeynote\n\n\nOregon State University Center for Genome Research and Biocomputing\nCorvallis, OR | 2016 | Keynote Speaker\n\n\n\n\nLund University\nDepartmental Seminar\n\n\nDepartment of Biology\nLund, Sweden | 2016 | Invited Speaker\n\n\n\n\nARCS Foundation\nPublic Presentation\n\n\nAchievement Rewards for College Scientists\nPortland, OR | 2016 | Public Lecture\n\n\n\n\n\n\n\nDonald W. Hagen Keynote\nInternational Conference\n\n\nInternational Stickleback Conference\nLeicester, England | 2015 | Keynote Speaker\n\n\n\n\nUniversity of Kansas\nGraduate Student Speaker\n\n\nAnnual Graduate Student Speaker Series\nLawrence, KS | 2015 | Invited Speaker\n\n\n\n\nUniversity of Oregon\nDepartmental Seminar\n\n\nDepartment of Biology\nEugene, OR | 2015 | Invited Speaker\n\n\n\n\n\n\n\nGenomics and Adaptation\nKeynote\n\n\nGenomics and Adaptation in an NGS Age, Lund University\nLund, Sweden | 2014 | Keynote Speaker\n\n\n\n\nCharles Henry Gilber Lecture\nNamed Lecture\n\n\nGilbert Icthyological Meeting\nCorvallis, OR | 2014 | Keynote Speaker\n\n\n\n\nIGERT Capstone\nPlenary\n\n\nIGERT Capstone Conference, University of Arizona\nTucson, AZ | 2014 | Plenary Speaker\n\n\n\n\nAquatic Model Organism\nPlenary\n\n\nAquatic Model Organism Meeting\nAustin, TX | 2014 | Plenary Speaker\n\n\n\n\nAGBT Conference\nPlenary\n\n\nAdvances in Genomics and BioTechnology\nPanacea, FL | 2014 | Plenary Speaker\n\n\n\n\nOregon State University\nDepartmental Seminar\n\n\nIntegrative Biology\nCorvallis, OR | 2014 | Invited Speaker\n\n\n\n\n\n\n\nAquatic Model Organism\nPlenary\n\n\nAquatic Model Organism Meeting\nMilwaukee, WI | 2013 | Plenary Speaker\n\n\n\n\nGENECO Summer Conference\nPlenary\n\n\nLund University\nLund, Sweden | 2013 | Plenary Speaker\n\n\n\n\nEuropean Society for Evolutionary Biology\nPlenary\n\n\nESEB Conference\nLisbon, Portugal | 2013 | Plenary Speaker\n\n\n\n\nUniversity of Alaska\nDepartmental Seminar\n\n\nDepartment of Biology and Wildlife\nFairbanks, AK | 2013 | Invited Speaker\n\n\n\n\nOregon State University\nMarine Station Seminar\n\n\nHatfield Marine Science Center\nNewport, OR | 2013 | Invited Speaker\n\n\n\n\n\n\n\nWest Coast Salmonid\nPlenary\n\n\nWest Coast Salmonid Conference\nDavis, CA | 2012 | Plenary Speaker\n\n\n\n\nEcological Genomics\nAnniversary Plenary\n\n\n10th Anniversary Ecological Genomics Conference\nSt. Louis, MO | 2012 | Plenary Speaker\n\n\n\n\nPlant and Animal Genome\nPlenary\n\n\nPAG Conference\nSan Diego, CA | 2012 | Plenary Speaker\n\n\n\n\nPanAsian Genomics\nPlenary\n\n\nPanAsian Genomics Conference, Silliman University\nPhilippines | 2012 | Plenary Speaker\n\n\n\n\nUniversity of Oregon\nPhysics Seminar\n\n\nDepartment of Physics\nEugene, OR | 2012 | Invited Speaker\n\n\n\n\nInstitut Jacques Monod\nResearch Seminar\n\n\nInstitut Jacques Monod\nParis, France | 2012 | Invited Speaker\n\n\n\n\n\n\n\nNext Generation Genomics\nKeynote\n\n\nConference on Next Generation Genomics, University of Puerto Rico\nSan Juan, PR | 2011 | Keynote Speaker\n\n\n\n\nTupper Seminar\nNamed Lecture\n\n\nSmithsonian Tropical Research Institute\nPanama | 2011 | Keynote Speaker\n\n\n\n\nEcological Society of America\nPlenary\n\n\nESA Annual Meeting\nPortland, OR | 2011 | Plenary Speaker\n\n\n\n\nIberian Genomics Conference\nPlenary\n\n\nIberian Genomics Conference\nSeville, Spain | 2011 | Plenary Speaker\n\n\n\n\nIllumina RAD-seq\nPlenary\n\n\nIllumina RAD-seq Conference\nPortland, OR | 2011 | Plenary Speaker\n\n\n\n\nGrEBEs Evening Lecture\nPublic Presentation\n\n\nWhat Genomics Means for our Past, Present and Future\nEugene, OR | 2011 | Public Lecture\n\n\n\n\nUniversity of Missouri\nDepartmental Seminar\n\n\nDivision of Biological Sciences\nColumbia, MO | 2011 | Invited Speaker\n\n\n\n\nInstitute Gulbenkian de Ciencia\nResearch Seminar\n\n\nInstituto Gulbenkian de Ciência\nLisbon, Portugal | 2011 | Invited Speaker\n\n\n\n\nUniversity of Washington\nDepartmental Seminar\n\n\nDepartment of Biology\nSeattle, WA | 2011 | Invited Speaker\n\n\n\n\nUniversity of Puerto Rico\nDepartmental Seminar\n\n\nDepartment of Biology\nSan Juan, PR | 2011 | Invited Speaker\n\n\n\n\n\n\n\nIllumina NGS\nPlenary\n\n\nIllumina Next Generation Sequencing Conference\nSeattle, WA | 2010 | Plenary Speaker\n\n\n\n\nAGA Conservation Genomics\nPlenary\n\n\nAmerican Genetic Association Conference on Conservation Genomics\nHilo, HI | 2010 | Plenary Speaker\n\n\n\n\nNIH Transcriptomics\nPlenary\n\n\nNIH Conference on Transcriptomics\nPortland, OR | 2010 | Plenary Speaker\n\n\n\n\nEdinburgh RAD-seq\nPlenary\n\n\nEdinburgh RAD-seq Conference\nPortland, OR | 2010 | Plenary Speaker\n\n\n\n\nEvolution in a Genomics World\nPublic Presentation\n\n\nPublic Seminar\nSun River, OR | 2010 | Public Lecture\n\n\n\n\nWashington State University\nDepartmental Seminar\n\n\nSchool of Biological Sciences\nVancouver, WA | 2010 | Invited Speaker\n\n\n\n\nUniversity of Alaska\nDepartmental Seminar\n\n\nDepartment of Biological Sciences\nAnchorage, AK | 2010 | Invited Speaker\n\n\n\n\nPrinceton University\nDepartmental Seminar\n\n\nDepartment of Ecology and Evolutionary Biology\nPrinceton, NJ | 2010 | Invited Speaker\n\n\n\n\nNew York University\nDepartmental Seminar\n\n\nDepartment of Biology\nNew York, NY | 2010 | Invited Speaker\n\n\n\n\n\n\n\nTitisee Genetics Conference\nPlenary\n\n\n100th International Titisee Genetics Conference\nTitisee, Germany | 2009 | Plenary Speaker\n\n\n\n\nCGRB Genomics Symposium\nPlenary\n\n\nOregon State University Center for Genome Research and Biocomputing\nCorvallis, OR | 2009 | Plenary Speaker\n\n\n\n\nGenetic Architecture\nWorking Group\n\n\nGenetic Architecture Working Group Meeting\nVienna, Austria | 2009 | Plenary Speaker\n\n\n\n\nUniversity of Pennsylvania\nDepartmental Seminar\n\n\nDepartment of Biology\nPhiladelphia, PA | 2009 | Invited Speaker\n\n\n\n\nSyracuse University\nDepartmental Seminar\n\n\nDepartment of Biology\nSyracuse, NY | 2009 | Invited Speaker\n\n\n\n\nUniversity of Oregon\nMarine Station Seminar\n\n\nOregon Institute of Marine Biology\nCharleston, OR | 2009 | Invited Speaker\n\n\n\n\nUniversity of Maryland\nDepartmental Seminar\n\n\nDepartment of Biology\nCollege Park, MD | 2009 | Invited Speaker\n\n\n\n\nBryn Mawr College\nDepartmental Seminar\n\n\nDepartment of Biology\nBryn Mawr, PA | 2009 | Invited Speaker\n\n\n\n\n\n\n\nEVoS Distinguished Lecture\nKeynote\n\n\nEVoS Distinguished Evening Lecture, Binghamton University\nBinghamton, NY | 2008 | Keynote Speaker\n\n\n\n\nUC Berkeley EvoDevo\nPlenary\n\n\nUniversity of California, Berkeley EvoDevo Conference\nBerkeley, CA | 2008 | Plenary Speaker\n\n\n\n\nUO/IU IGERT EvoDevo\nPlenary\n\n\nUO/IU IGERT EvoDevo Conference\nEugene, OR | 2008 | Plenary Speaker\n\n\n\n\nUniversity of Idaho\nDepartmental Seminar\n\n\nDepartment of Biological Sciences\nMoscow, ID | 2008 | Invited Speaker\n\n\n\n\nGuelph University\nDepartmental Seminar\n\n\nDepartment of Integrative Biology\nGuelph, Canada | 2008 | Invited Speaker\n\n\n\n\nOregon State University\nDepartmental Seminar\n\n\nDepartment of Zoology\nCorvallis, OR | 2008 | Invited Speaker\n\n\n\n\nBinghamton University\nDepartmental Seminar\n\n\nDepartment of Biological Sciences\nBinghamton, NY | 2008 | Invited Speaker\n\n\n\n\n\n\n\nOSU Cascades Distinguished Lectures\nKeynote\n\n\nOregon State University Cascades Campus Distinguished Evening Lectures\nBend, OR | 2007 | Keynote Speaker\n\n\n\n\nGordon Conference\nPlenary\n\n\nGordon Conference on Quantitative Genetics\nSan Diego, CA | 2007 | Plenary Speaker\n\n\n\n\nUC Davis\nDepartmental Seminar\n\n\nDepartment of Evolution and Ecology\nDavis, CA | 2007 | Invited Speaker\n\n\n\n\n\n\n\nUniversity of Illinois\nDepartmental Seminar\n\n\nDepartment of Animal Biology\nUrbana, IL | 2006 | Invited Speaker\n\n\n\n\nPortland State University\nDepartmental Seminar\n\n\nDepartment of Biology\nPortland, OR | 2006 | Invited Speaker\n\n\n\n\nTexas A&M University\nDepartmental Seminar\n\n\nDepartment of Biology\nCollege Station, TX | 2006 | Invited Speaker\n\n\n\n\n\n\n\nDevelopmental Evolution\nPlenary\n\n\nConference on the Developmental Basis of Evolutionary Change\nChicago, IL | 2005 | Plenary Speaker\n\n\n\n\nEvolutionary Psychology\nPublic Presentation\n\n\nEvolutionary Psychology Research Group\nEugene, OR | 2005 | Public Lecture\n\n\n\n\nOregon State University\nDepartmental Seminar\n\n\nDepartment of Zoology\nCorvallis, OR | 2005 | Invited Speaker\n\n\n\n\nReed College\nDepartmental Seminar\n\n\nDepartment of Biology\nPortland, OR | 2005 | Invited Speaker\n\n\n\n\n\n\n\nLaval University\nDepartmental Seminar\n\n\nDepartment of Biology\nQuebec, Canada | 2004 | Invited Speaker\n\n\n\n\nTulane University\nDepartmental Seminar\n\n\nDepartment of Ecology and Evolutionary Biology\nNew Orleans, LA | 2004 | Invited Speaker\n\n\n\n\nUniversity of Alaska Anchorage\nDepartmental Seminar\n\n\nDepartment of Biological Sciences\nAnchorage, AK | 2004 | Invited Speaker\n\n\n\n\nUniversity of Nebraska\nDepartmental Seminar\n\n\nSchool of Biological Sciences\nLincoln, NE | 2004 | Invited Speaker\n\n\n\n\nUniversity of Oregon\nMarine Station Seminar\n\n\nOregon Institute of Marine Biology\nCharleston, OR | 2004 | Invited Speaker\n\n\n\n\nUniversity of Connecticut\nDepartmental Seminar\n\n\nDepartment of Ecology and Evolutionary Biology\nStorrs, CT | 2004 | Invited Speaker\n\n\n\n\nUniversity of Oregon\nCEEB Seminar\n\n\nCenter for Ecology and Evolutionary Biology\nEugene, OR | 2004 | Invited Speaker\n\n\n\n\n\n\n\nEugene Natural History Society\nPublic Presentation\n\n\nPublic Seminar\nEugene, OR | 2003 | Public Lecture\n\n\n\n\nClark University\nDepartmental Seminar\n\n\nDepartment of Biology\nWorcester, MA | 2003 | Invited Speaker\n\n\n\n\n\n\n\nBinghamton University\nDepartmental Seminar\n\n\nDepartment of Biological Sciences\nBinghamton, NY | 1999 | Invited Speaker\nFor slides or recordings: wcresko@uoregon.edu"
+  },
+  {
+    "objectID": "talks.html#section",
+    "href": "talks.html#section",
+    "title": "Talks",
+    "section": "",
+    "text": "University of Arizona\nDepartmental Seminar\n\n\nDepartment of Ecology and Evolutionary Biology\nTucson, AZ | 2025 | Invited Speaker\n\n\n\n\nWestern Washington University\nDepartmental Seminar\n\n\nDepartment of Biology\nBellingham, WA | 2025 | Invited Speaker"
+  },
+  {
+    "objectID": "talks.html#section-1",
+    "href": "talks.html#section-1",
+    "title": "Talks",
+    "section": "",
+    "text": "University of Oregon\nDepartmental Seminar\n\n\nInstitute of Ecology and Evolution\nEugene, OR | 2023 | Invited Speaker"
+  },
+  {
+    "objectID": "talks.html#section-2",
+    "href": "talks.html#section-2",
+    "title": "Talks",
+    "section": "",
+    "text": "Aesthetic and Organic Complexity\nPublic Seminar\n\n\nPublic Presentation\nBoston, MA | 2021 | Public Lecture\n\n\n\n\nBern University\nDepartmental Seminar\n\n\nInstitute of Ecology and Evolution\nBern, Switzerland | 2021 | Invited Speaker\n\n\n\n\nCardiff University\nDepartmental Seminar\n\n\nSchool of Biosciences\nCardiff, Wales, UK | 2021 | Invited Speaker"
+  },
+  {
+    "objectID": "talks.html#section-3",
+    "href": "talks.html#section-3",
+    "title": "Talks",
+    "section": "",
+    "text": "ARCS Foundation\nPublic Presentation\n\n\nAchievement Rewards for College Scientists\nPortland, OR | 2020 | Public Lecture"
+  },
+  {
+    "objectID": "talks.html#section-4",
+    "href": "talks.html#section-4",
+    "title": "Talks",
+    "section": "",
+    "text": "University of Iowa\nDepartmental Seminar\n\n\nDepartment of Biology\nIowa City, IA | 2019 | Invited Speaker"
+  },
+  {
+    "objectID": "talks.html#section-5",
+    "href": "talks.html#section-5",
+    "title": "Talks",
+    "section": "",
+    "text": "Washington University\nGraduate Student Invited\n\n\nAnnual Graduate Student Invited Speaker\nSt. Louis, MO | 2018 | Invited Speaker\n\n\n\n\nNorthern Arizona University\nDepartmental Seminar\n\n\nDepartment of Biological Sciences\nFlagstaff, AZ | 2018 | Invited Speaker"
+  },
+  {
+    "objectID": "talks.html#section-6",
+    "href": "talks.html#section-6",
+    "title": "Talks",
+    "section": "",
+    "text": "Stowers Institute\nResearch Seminar\n\n\nStowers Institute for Medical Research\nKansas City, MO | 2017 | Invited Speaker\n\n\n\n\nHumboldt State University\nDepartmental Seminar\n\n\nDepartment of Biological Sciences\nArcata, CA | 2017 | Invited Speaker\n\n\n\n\nEugene Natural History Society\nPublic Seminar\n\n\nPublic Presentation\nEugene, OR | 2017 | Public Lecture"
+  },
+  {
+    "objectID": "talks.html#section-7",
+    "href": "talks.html#section-7",
+    "title": "Talks",
+    "section": "",
+    "text": "CGRB Distinguished Lecture\nKeynote\n\n\nOregon State University Center for Genome Research and Biocomputing\nCorvallis, OR | 2016 | Keynote Speaker\n\n\n\n\nLund University\nDepartmental Seminar\n\n\nDepartment of Biology\nLund, Sweden | 2016 | Invited Speaker\n\n\n\n\nARCS Foundation\nPublic Presentation\n\n\nAchievement Rewards for College Scientists\nPortland, OR | 2016 | Public Lecture"
+  },
+  {
+    "objectID": "talks.html#section-8",
+    "href": "talks.html#section-8",
+    "title": "Talks",
+    "section": "",
+    "text": "Donald W. Hagen Keynote\nInternational Conference\n\n\nInternational Stickleback Conference\nLeicester, England | 2015 | Keynote Speaker\n\n\n\n\nUniversity of Kansas\nGraduate Student Speaker\n\n\nAnnual Graduate Student Speaker Series\nLawrence, KS | 2015 | Invited Speaker\n\n\n\n\nUniversity of Oregon\nDepartmental Seminar\n\n\nDepartment of Biology\nEugene, OR | 2015 | Invited Speaker"
+  },
+  {
+    "objectID": "talks.html#section-9",
+    "href": "talks.html#section-9",
+    "title": "Talks",
+    "section": "",
+    "text": "Genomics and Adaptation\nKeynote\n\n\nGenomics and Adaptation in an NGS Age, Lund University\nLund, Sweden | 2014 | Keynote Speaker\n\n\n\n\nCharles Henry Gilber Lecture\nNamed Lecture\n\n\nGilbert Icthyological Meeting\nCorvallis, OR | 2014 | Keynote Speaker\n\n\n\n\nIGERT Capstone\nPlenary\n\n\nIGERT Capstone Conference, University of Arizona\nTucson, AZ | 2014 | Plenary Speaker\n\n\n\n\nAquatic Model Organism\nPlenary\n\n\nAquatic Model Organism Meeting\nAustin, TX | 2014 | Plenary Speaker\n\n\n\n\nAGBT Conference\nPlenary\n\n\nAdvances in Genomics and BioTechnology\nPanacea, FL | 2014 | Plenary Speaker\n\n\n\n\nOregon State University\nDepartmental Seminar\n\n\nIntegrative Biology\nCorvallis, OR | 2014 | Invited Speaker"
+  },
+  {
+    "objectID": "talks.html#section-10",
+    "href": "talks.html#section-10",
+    "title": "Talks",
+    "section": "",
+    "text": "Aquatic Model Organism\nPlenary\n\n\nAquatic Model Organism Meeting\nMilwaukee, WI | 2013 | Plenary Speaker\n\n\n\n\nGENECO Summer Conference\nPlenary\n\n\nLund University\nLund, Sweden | 2013 | Plenary Speaker\n\n\n\n\nEuropean Society for Evolutionary Biology\nPlenary\n\n\nESEB Conference\nLisbon, Portugal | 2013 | Plenary Speaker\n\n\n\n\nUniversity of Alaska\nDepartmental Seminar\n\n\nDepartment of Biology and Wildlife\nFairbanks, AK | 2013 | Invited Speaker\n\n\n\n\nOregon State University\nMarine Station Seminar\n\n\nHatfield Marine Science Center\nNewport, OR | 2013 | Invited Speaker"
+  },
+  {
+    "objectID": "talks.html#section-11",
+    "href": "talks.html#section-11",
+    "title": "Talks",
+    "section": "",
+    "text": "West Coast Salmonid\nPlenary\n\n\nWest Coast Salmonid Conference\nDavis, CA | 2012 | Plenary Speaker\n\n\n\n\nEcological Genomics\nAnniversary Plenary\n\n\n10th Anniversary Ecological Genomics Conference\nSt. Louis, MO | 2012 | Plenary Speaker\n\n\n\n\nPlant and Animal Genome\nPlenary\n\n\nPAG Conference\nSan Diego, CA | 2012 | Plenary Speaker\n\n\n\n\nPanAsian Genomics\nPlenary\n\n\nPanAsian Genomics Conference, Silliman University\nPhilippines | 2012 | Plenary Speaker\n\n\n\n\nUniversity of Oregon\nPhysics Seminar\n\n\nDepartment of Physics\nEugene, OR | 2012 | Invited Speaker\n\n\n\n\nInstitut Jacques Monod\nResearch Seminar\n\n\nInstitut Jacques Monod\nParis, France | 2012 | Invited Speaker"
+  },
+  {
+    "objectID": "talks.html#section-12",
+    "href": "talks.html#section-12",
+    "title": "Talks",
+    "section": "",
+    "text": "Next Generation Genomics\nKeynote\n\n\nConference on Next Generation Genomics, University of Puerto Rico\nSan Juan, PR | 2011 | Keynote Speaker\n\n\n\n\nTupper Seminar\nNamed Lecture\n\n\nSmithsonian Tropical Research Institute\nPanama | 2011 | Keynote Speaker\n\n\n\n\nEcological Society of America\nPlenary\n\n\nESA Annual Meeting\nPortland, OR | 2011 | Plenary Speaker\n\n\n\n\nIberian Genomics Conference\nPlenary\n\n\nIberian Genomics Conference\nSeville, Spain | 2011 | Plenary Speaker\n\n\n\n\nIllumina RAD-seq\nPlenary\n\n\nIllumina RAD-seq Conference\nPortland, OR | 2011 | Plenary Speaker\n\n\n\n\nGrEBEs Evening Lecture\nPublic Presentation\n\n\nWhat Genomics Means for our Past, Present and Future\nEugene, OR | 2011 | Public Lecture\n\n\n\n\nUniversity of Missouri\nDepartmental Seminar\n\n\nDivision of Biological Sciences\nColumbia, MO | 2011 | Invited Speaker\n\n\n\n\nInstitute Gulbenkian de Ciencia\nResearch Seminar\n\n\nInstituto Gulbenkian de Ciência\nLisbon, Portugal | 2011 | Invited Speaker\n\n\n\n\nUniversity of Washington\nDepartmental Seminar\n\n\nDepartment of Biology\nSeattle, WA | 2011 | Invited Speaker\n\n\n\n\nUniversity of Puerto Rico\nDepartmental Seminar\n\n\nDepartment of Biology\nSan Juan, PR | 2011 | Invited Speaker"
+  },
+  {
+    "objectID": "talks.html#section-13",
+    "href": "talks.html#section-13",
+    "title": "Talks",
+    "section": "",
+    "text": "Illumina NGS\nPlenary\n\n\nIllumina Next Generation Sequencing Conference\nSeattle, WA | 2010 | Plenary Speaker\n\n\n\n\nAGA Conservation Genomics\nPlenary\n\n\nAmerican Genetic Association Conference on Conservation Genomics\nHilo, HI | 2010 | Plenary Speaker\n\n\n\n\nNIH Transcriptomics\nPlenary\n\n\nNIH Conference on Transcriptomics\nPortland, OR | 2010 | Plenary Speaker\n\n\n\n\nEdinburgh RAD-seq\nPlenary\n\n\nEdinburgh RAD-seq Conference\nPortland, OR | 2010 | Plenary Speaker\n\n\n\n\nEvolution in a Genomics World\nPublic Presentation\n\n\nPublic Seminar\nSun River, OR | 2010 | Public Lecture\n\n\n\n\nWashington State University\nDepartmental Seminar\n\n\nSchool of Biological Sciences\nVancouver, WA | 2010 | Invited Speaker\n\n\n\n\nUniversity of Alaska\nDepartmental Seminar\n\n\nDepartment of Biological Sciences\nAnchorage, AK | 2010 | Invited Speaker\n\n\n\n\nPrinceton University\nDepartmental Seminar\n\n\nDepartment of Ecology and Evolutionary Biology\nPrinceton, NJ | 2010 | Invited Speaker\n\n\n\n\nNew York University\nDepartmental Seminar\n\n\nDepartment of Biology\nNew York, NY | 2010 | Invited Speaker"
+  },
+  {
+    "objectID": "talks.html#section-14",
+    "href": "talks.html#section-14",
+    "title": "Talks",
+    "section": "",
+    "text": "Titisee Genetics Conference\nPlenary\n\n\n100th International Titisee Genetics Conference\nTitisee, Germany | 2009 | Plenary Speaker\n\n\n\n\nCGRB Genomics Symposium\nPlenary\n\n\nOregon State University Center for Genome Research and Biocomputing\nCorvallis, OR | 2009 | Plenary Speaker\n\n\n\n\nGenetic Architecture\nWorking Group\n\n\nGenetic Architecture Working Group Meeting\nVienna, Austria | 2009 | Plenary Speaker\n\n\n\n\nUniversity of Pennsylvania\nDepartmental Seminar\n\n\nDepartment of Biology\nPhiladelphia, PA | 2009 | Invited Speaker\n\n\n\n\nSyracuse University\nDepartmental Seminar\n\n\nDepartment of Biology\nSyracuse, NY | 2009 | Invited Speaker\n\n\n\n\nUniversity of Oregon\nMarine Station Seminar\n\n\nOregon Institute of Marine Biology\nCharleston, OR | 2009 | Invited Speaker\n\n\n\n\nUniversity of Maryland\nDepartmental Seminar\n\n\nDepartment of Biology\nCollege Park, MD | 2009 | Invited Speaker\n\n\n\n\nBryn Mawr College\nDepartmental Seminar\n\n\nDepartment of Biology\nBryn Mawr, PA | 2009 | Invited Speaker"
+  },
+  {
+    "objectID": "talks.html#section-15",
+    "href": "talks.html#section-15",
+    "title": "Talks",
+    "section": "",
+    "text": "EVoS Distinguished Lecture\nKeynote\n\n\nEVoS Distinguished Evening Lecture, Binghamton University\nBinghamton, NY | 2008 | Keynote Speaker\n\n\n\n\nUC Berkeley EvoDevo\nPlenary\n\n\nUniversity of California, Berkeley EvoDevo Conference\nBerkeley, CA | 2008 | Plenary Speaker\n\n\n\n\nUO/IU IGERT EvoDevo\nPlenary\n\n\nUO/IU IGERT EvoDevo Conference\nEugene, OR | 2008 | Plenary Speaker\n\n\n\n\nUniversity of Idaho\nDepartmental Seminar\n\n\nDepartment of Biological Sciences\nMoscow, ID | 2008 | Invited Speaker\n\n\n\n\nGuelph University\nDepartmental Seminar\n\n\nDepartment of Integrative Biology\nGuelph, Canada | 2008 | Invited Speaker\n\n\n\n\nOregon State University\nDepartmental Seminar\n\n\nDepartment of Zoology\nCorvallis, OR | 2008 | Invited Speaker\n\n\n\n\nBinghamton University\nDepartmental Seminar\n\n\nDepartment of Biological Sciences\nBinghamton, NY | 2008 | Invited Speaker"
+  },
+  {
+    "objectID": "talks.html#section-16",
+    "href": "talks.html#section-16",
+    "title": "Talks",
+    "section": "",
+    "text": "OSU Cascades Distinguished Lectures\nKeynote\n\n\nOregon State University Cascades Campus Distinguished Evening Lectures\nBend, OR | 2007 | Keynote Speaker\n\n\n\n\nGordon Conference\nPlenary\n\n\nGordon Conference on Quantitative Genetics\nSan Diego, CA | 2007 | Plenary Speaker\n\n\n\n\nUC Davis\nDepartmental Seminar\n\n\nDepartment of Evolution and Ecology\nDavis, CA | 2007 | Invited Speaker"
+  },
+  {
+    "objectID": "talks.html#section-17",
+    "href": "talks.html#section-17",
+    "title": "Talks",
+    "section": "",
+    "text": "University of Illinois\nDepartmental Seminar\n\n\nDepartment of Animal Biology\nUrbana, IL | 2006 | Invited Speaker\n\n\n\n\nPortland State University\nDepartmental Seminar\n\n\nDepartment of Biology\nPortland, OR | 2006 | Invited Speaker\n\n\n\n\nTexas A&M University\nDepartmental Seminar\n\n\nDepartment of Biology\nCollege Station, TX | 2006 | Invited Speaker"
+  },
+  {
+    "objectID": "talks.html#section-18",
+    "href": "talks.html#section-18",
+    "title": "Talks",
+    "section": "",
+    "text": "Developmental Evolution\nPlenary\n\n\nConference on the Developmental Basis of Evolutionary Change\nChicago, IL | 2005 | Plenary Speaker\n\n\n\n\nEvolutionary Psychology\nPublic Presentation\n\n\nEvolutionary Psychology Research Group\nEugene, OR | 2005 | Public Lecture\n\n\n\n\nOregon State University\nDepartmental Seminar\n\n\nDepartment of Zoology\nCorvallis, OR | 2005 | Invited Speaker\n\n\n\n\nReed College\nDepartmental Seminar\n\n\nDepartment of Biology\nPortland, OR | 2005 | Invited Speaker"
+  },
+  {
+    "objectID": "talks.html#section-19",
+    "href": "talks.html#section-19",
+    "title": "Talks",
+    "section": "",
+    "text": "Laval University\nDepartmental Seminar\n\n\nDepartment of Biology\nQuebec, Canada | 2004 | Invited Speaker\n\n\n\n\nTulane University\nDepartmental Seminar\n\n\nDepartment of Ecology and Evolutionary Biology\nNew Orleans, LA | 2004 | Invited Speaker\n\n\n\n\nUniversity of Alaska Anchorage\nDepartmental Seminar\n\n\nDepartment of Biological Sciences\nAnchorage, AK | 2004 | Invited Speaker\n\n\n\n\nUniversity of Nebraska\nDepartmental Seminar\n\n\nSchool of Biological Sciences\nLincoln, NE | 2004 | Invited Speaker\n\n\n\n\nUniversity of Oregon\nMarine Station Seminar\n\n\nOregon Institute of Marine Biology\nCharleston, OR | 2004 | Invited Speaker\n\n\n\n\nUniversity of Connecticut\nDepartmental Seminar\n\n\nDepartment of Ecology and Evolutionary Biology\nStorrs, CT | 2004 | Invited Speaker\n\n\n\n\nUniversity of Oregon\nCEEB Seminar\n\n\nCenter for Ecology and Evolutionary Biology\nEugene, OR | 2004 | Invited Speaker"
+  },
+  {
+    "objectID": "talks.html#section-20",
+    "href": "talks.html#section-20",
+    "title": "Talks",
+    "section": "",
+    "text": "Eugene Natural History Society\nPublic Presentation\n\n\nPublic Seminar\nEugene, OR | 2003 | Public Lecture\n\n\n\n\nClark University\nDepartmental Seminar\n\n\nDepartment of Biology\nWorcester, MA | 2003 | Invited Speaker"
+  },
+  {
+    "objectID": "talks.html#section-21",
+    "href": "talks.html#section-21",
+    "title": "Talks",
+    "section": "",
+    "text": "Binghamton University\nDepartmental Seminar\n\n\nDepartment of Biological Sciences\nBinghamton, NY | 1999 | Invited Speaker"
+  },
+  {
+    "objectID": "posts/2020-06-15-thesis-defenses.html",
+    "href": "posts/2020-06-15-thesis-defenses.html",
+    "title": "Congratulations to Our New Ph.D. Graduates!",
+    "section": "",
+    "text": "We’re proud to announce that three lab members have successfully defended their Ph.D. dissertations this spring! Despite the challenges of remote defenses during COVID-19, they delivered outstanding presentations of their research."
+  },
+  {
+    "objectID": "posts/2020-06-15-thesis-defenses.html#dr.-emily-lescak",
+    "href": "posts/2020-06-15-thesis-defenses.html#dr.-emily-lescak",
+    "title": "Congratulations to Our New Ph.D. Graduates!",
+    "section": "Dr. Emily Lescak",
+    "text": "Dr. Emily Lescak\nDissertation: “Ancient Mitochondrial Lineages and Contemporary Adaptation in Threespine Stickleback”\nEmily’s work revealed cryptic mitochondrial diversity in stickleback populations and demonstrated that ancient mtDNA lineages don’t constrain contemporary adaptive evolution. Her research combined phylogenetics, population genomics, and experimental approaches.\nNext position: Research Scientist, Alaska Department of Fish and Game"
+  },
+  {
+    "objectID": "posts/2020-06-15-thesis-defenses.html#dr.-kristin-alisha-sikkink",
+    "href": "posts/2020-06-15-thesis-defenses.html#dr.-kristin-alisha-sikkink",
+    "title": "Congratulations to Our New Ph.D. Graduates!",
+    "section": "Dr. Kristin Alisha Sikkink",
+    "text": "Dr. Kristin Alisha Sikkink\nDissertation: “The Evolutionary Genetics of Stress Response Networks”\nKristin discovered that pleiotropy across stress response networks is highly sensitive to environmental conditions, with important implications for understanding evolutionary constraints and adaptation to multiple stressors.\nNext position: Postdoctoral Fellow, University of Minnesota"
+  },
+  {
+    "objectID": "posts/2020-06-15-thesis-defenses.html#dr.-allison-fuiten",
+    "href": "posts/2020-06-15-thesis-defenses.html#dr.-allison-fuiten",
+    "title": "Congratulations to Our New Ph.D. Graduates!",
+    "section": "Dr. Allison Fuiten",
+    "text": "Dr. Allison Fuiten\nDissertation: “Genomic Architecture of Reproductive Isolation in Stickleback”\nAllison’s research identified genomic regions contributing to reproductive barriers between marine and freshwater stickleback, revealing how adaptation can lead to speciation.\nNext position: Data Scientist, 23andMe"
+  },
+  {
+    "objectID": "posts/2020-06-15-thesis-defenses.html#virtual-celebrations",
+    "href": "posts/2020-06-15-thesis-defenses.html#virtual-celebrations",
+    "title": "Congratulations to Our New Ph.D. Graduates!",
+    "section": "Virtual Celebrations",
+    "text": "Virtual Celebrations\nWhile we couldn’t gather in person, we celebrated with: - Virtual defense parties with lab alumni joining from around the world - Socially-distanced champagne toast outside the lab - Commemorative lab t-shirts mailed to each graduate - Video messages from former lab members"
+  },
+  {
+    "objectID": "posts/2020-06-15-thesis-defenses.html#continuing-the-legacy",
+    "href": "posts/2020-06-15-thesis-defenses.html#continuing-the-legacy",
+    "title": "Congratulations to Our New Ph.D. Graduates!",
+    "section": "Continuing the Legacy",
+    "text": "Continuing the Legacy\nThese three join our growing community of Cresko Lab Ph.D. alumni who are making impacts in academia, government, and industry. Their success reflects not only their individual excellence but also the collaborative spirit of our lab.\n“Emily, Kristin, and Allison exemplify the integration of rigorous science with creative thinking that we strive for in the lab,” says Bill Cresko. “We’re excited to watch their continued success in their new positions.”\nCongratulations doctors! The Cresko Lab family is proud of you!"
   },
   {
     "objectID": "posts/2019-01-15-stacks-release.html",
@@ -518,62 +735,6 @@
     "text": "Contact\nFor questions about courses or training opportunities:\nDr. William Cresko\n📧 wcresko@uoregon.edu\n📍 Office Hours: Tuesdays & Thursdays, 2-3 PM (312 Pacific Hall)"
   },
   {
-    "objectID": "MIGRATION_CHECKLIST.html",
-    "href": "MIGRATION_CHECKLIST.html",
-    "title": "Migration Checklist for Cresko Lab Website",
-    "section": "",
-    "text": "Main configuration file (_quarto.yml)\nHomepage (index.qmd)\nResearch page (research.qmd)\nPublications page (publications.qmd)\nPeople page (people.qmd)\nTeaching page (teaching.qmd)\nNews/Posts page (posts.qmd)\nSample news posts\nCSS and theme files\nDirectory structure for files and images\nREADME with instructions\n.gitignore file\n\n\n\n\n\n\n\n\nWelcome message/introduction\nLab mission statement\nRecent highlights (update with current news)\nHero image from the Willamette River\nLab logo\n\n\n\n\nCurrent members to add with photos and bios: - [x] Bill Cresko (PI) - basic info added, needs photo - [x] Susan Bassham - needs full bio and photo - [x] Martin Stervander - basic info added, needs photo - [ ] Graduate students (names and projects needed) - [x] Vithika Goyal (undergraduate) - [x] Walker Meyer (undergraduate) - [x] Micah Woods (post-bac) - [ ] Other current lab members - [ ] Alumni section (needs to be populated)\n\n\n\n\nCurrent NSF grants (specific titles and details)\nCurrent NIH grants (specific titles and details)\nCollaborative projects details\nField site photos and descriptions\nResearch area graphics/figures\n\n\n\n\nFrom your current site, migrate: - [ ] 2024 publications - [ ] 2023 publications - [ ] 2022 publications - [ ] 2021 publications - [ ] 2020 publications - [ ] 2019 and earlier key publications - [ ] The Gulf pipefish genome paper (2016) - [ ] Stacks paper (2013) - [ ] RAD-seq paper (2008) - [ ] Stickleback armor loss paper (2004) - [ ] Correct Google Scholar link - [ ] Correct ORCID link\n\n\n\n\nCurrent course syllabi\nCourse materials links (Canvas)\nWorkshop materials\nTutorial documents\nStudent resources\n\n\n\n\nRecent posts to migrate: - [x] Micah Woods Ms. Magazine publication - [x] Bill Cresko Lorry Lokey Chair - [ ] Vithika Goyal Hui Fellowship (full post) - [ ] Walker Meyer Knight Campus Scholar (full post) - [ ] Other recent lab news - [ ] Conference presentations - [ ] Grant announcements - [ ] Publication announcements\n\n\n\n\nProtocols (RAD-seq, etc.)\nSoftware documentation (Stacks)\nData repositories\nLinks to external resources\n\n\n\n\n\nLab logo (PNG format)\nFavicon\nHero images for main pages\nTeam member photos\nResearch area images\nField site photos\nLab event photos\nNews post images\n\n\n\n\n\n\nGitHub repository link\nTwitter/X account link\nLab email address\nGoogle Scholar profiles\nORCID profiles\nResearchGate profiles\nCanvas course links\nStacks website link\nInstitutional links (UO, IE2, Knight Campus)\n\n\n\n\n\nTest site locally with quarto preview\nEnsure all images are optimized for web\nCheck all internal links work\nValidate external links\nTest responsive design on mobile\nCreate/update GitHub repository\nConfigure GitHub Pages\nTest deployed site\nUpdate DNS if using custom domain\nRedirect old site to new one\n\n\n\n\n\nProofread all content\nEnsure consistent formatting\nAdd Google Analytics (if desired)\nAdd meta descriptions for SEO\nCreate 404 page\nAdd site search functionality\nTest dark mode thoroughly\nOptimize images for fast loading\nAdd alt text to all images\nEnsure accessibility compliance\n\n\n\n\n\nAdd publication database with filtering\nCreate individual pages for major projects\nAdd photo gallery for lab events\nImplement RSS feed for news\nAdd calendar for lab events\nCreate resource download section\nAdd testimonials from alumni\nInclude social media feed integration\n\n\n\n\nUse this checklist to track your progress. Check off items as you complete them. The basic structure is ready - now you need to:\n\nGather all content from your current site\nCollect/prepare all images and media\nUpdate placeholder text with actual content\nTest thoroughly before deploying\n\nRemember to commit your changes regularly to Git to track your progress!"
-  },
-  {
-    "objectID": "MIGRATION_CHECKLIST.html#completed-setup",
-    "href": "MIGRATION_CHECKLIST.html#completed-setup",
-    "title": "Migration Checklist for Cresko Lab Website",
-    "section": "",
-    "text": "Main configuration file (_quarto.yml)\nHomepage (index.qmd)\nResearch page (research.qmd)\nPublications page (publications.qmd)\nPeople page (people.qmd)\nTeaching page (teaching.qmd)\nNews/Posts page (posts.qmd)\nSample news posts\nCSS and theme files\nDirectory structure for files and images\nREADME with instructions\n.gitignore file"
-  },
-  {
-    "objectID": "MIGRATION_CHECKLIST.html#content-to-migrate-from-old-site",
-    "href": "MIGRATION_CHECKLIST.html#content-to-migrate-from-old-site",
-    "title": "Migration Checklist for Cresko Lab Website",
-    "section": "",
-    "text": "Welcome message/introduction\nLab mission statement\nRecent highlights (update with current news)\nHero image from the Willamette River\nLab logo\n\n\n\n\nCurrent members to add with photos and bios: - [x] Bill Cresko (PI) - basic info added, needs photo - [x] Susan Bassham - needs full bio and photo - [x] Martin Stervander - basic info added, needs photo - [ ] Graduate students (names and projects needed) - [x] Vithika Goyal (undergraduate) - [x] Walker Meyer (undergraduate) - [x] Micah Woods (post-bac) - [ ] Other current lab members - [ ] Alumni section (needs to be populated)\n\n\n\n\nCurrent NSF grants (specific titles and details)\nCurrent NIH grants (specific titles and details)\nCollaborative projects details\nField site photos and descriptions\nResearch area graphics/figures\n\n\n\n\nFrom your current site, migrate: - [ ] 2024 publications - [ ] 2023 publications - [ ] 2022 publications - [ ] 2021 publications - [ ] 2020 publications - [ ] 2019 and earlier key publications - [ ] The Gulf pipefish genome paper (2016) - [ ] Stacks paper (2013) - [ ] RAD-seq paper (2008) - [ ] Stickleback armor loss paper (2004) - [ ] Correct Google Scholar link - [ ] Correct ORCID link\n\n\n\n\nCurrent course syllabi\nCourse materials links (Canvas)\nWorkshop materials\nTutorial documents\nStudent resources\n\n\n\n\nRecent posts to migrate: - [x] Micah Woods Ms. Magazine publication - [x] Bill Cresko Lorry Lokey Chair - [ ] Vithika Goyal Hui Fellowship (full post) - [ ] Walker Meyer Knight Campus Scholar (full post) - [ ] Other recent lab news - [ ] Conference presentations - [ ] Grant announcements - [ ] Publication announcements\n\n\n\n\nProtocols (RAD-seq, etc.)\nSoftware documentation (Stacks)\nData repositories\nLinks to external resources\n\n\n\n\n\nLab logo (PNG format)\nFavicon\nHero images for main pages\nTeam member photos\nResearch area images\nField site photos\nLab event photos\nNews post images"
-  },
-  {
-    "objectID": "MIGRATION_CHECKLIST.html#external-links-to-update",
-    "href": "MIGRATION_CHECKLIST.html#external-links-to-update",
-    "title": "Migration Checklist for Cresko Lab Website",
-    "section": "",
-    "text": "GitHub repository link\nTwitter/X account link\nLab email address\nGoogle Scholar profiles\nORCID profiles\nResearchGate profiles\nCanvas course links\nStacks website link\nInstitutional links (UO, IE2, Knight Campus)"
-  },
-  {
-    "objectID": "MIGRATION_CHECKLIST.html#deployment-steps",
-    "href": "MIGRATION_CHECKLIST.html#deployment-steps",
-    "title": "Migration Checklist for Cresko Lab Website",
-    "section": "",
-    "text": "Test site locally with quarto preview\nEnsure all images are optimized for web\nCheck all internal links work\nValidate external links\nTest responsive design on mobile\nCreate/update GitHub repository\nConfigure GitHub Pages\nTest deployed site\nUpdate DNS if using custom domain\nRedirect old site to new one"
-  },
-  {
-    "objectID": "MIGRATION_CHECKLIST.html#final-polish",
-    "href": "MIGRATION_CHECKLIST.html#final-polish",
-    "title": "Migration Checklist for Cresko Lab Website",
-    "section": "",
-    "text": "Proofread all content\nEnsure consistent formatting\nAdd Google Analytics (if desired)\nAdd meta descriptions for SEO\nCreate 404 page\nAdd site search functionality\nTest dark mode thoroughly\nOptimize images for fast loading\nAdd alt text to all images\nEnsure accessibility compliance"
-  },
-  {
-    "objectID": "MIGRATION_CHECKLIST.html#optional-enhancements",
-    "href": "MIGRATION_CHECKLIST.html#optional-enhancements",
-    "title": "Migration Checklist for Cresko Lab Website",
-    "section": "",
-    "text": "Add publication database with filtering\nCreate individual pages for major projects\nAdd photo gallery for lab events\nImplement RSS feed for news\nAdd calendar for lab events\nCreate resource download section\nAdd testimonials from alumni\nInclude social media feed integration"
-  },
-  {
-    "objectID": "MIGRATION_CHECKLIST.html#notes",
-    "href": "MIGRATION_CHECKLIST.html#notes",
-    "title": "Migration Checklist for Cresko Lab Website",
-    "section": "",
-    "text": "Use this checklist to track your progress. Check off items as you complete them. The basic structure is ready - now you need to:\n\nGather all content from your current site\nCollect/prepare all images and media\nUpdate placeholder text with actual content\nTest thoroughly before deploying\n\nRemember to commit your changes regularly to Git to track your progress!"
-  },
-  {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
@@ -819,207 +980,46 @@
     "text": "Open Positions\nWe’re recruiting for this project! We seek motivated individuals with interests in: - Microbial ecology - Population genetics - Bioinformatics - Experimental evolution\nView position details | Contact Dr. Cresko\n“This award recognizes our lab’s unique position to address fundamental questions in host-microbiome biology,” says Bill Cresko. “The natural variation in stickleback provides an unprecedented opportunity to understand these complex interactions.”\nWe thank NIH/NIGMS for this support and look forward to advancing the field of host-microbiome interactions!"
   },
   {
-    "objectID": "posts/2020-06-15-thesis-defenses.html",
-    "href": "posts/2020-06-15-thesis-defenses.html",
-    "title": "Congratulations to Our New Ph.D. Graduates!",
+    "objectID": "posts/2025-11-05-contreras-SACNAS.html",
+    "href": "posts/2025-11-05-contreras-SACNAS.html",
+    "title": "Ethan Contreras Presents at SACNAS",
     "section": "",
-    "text": "We’re proud to announce that three lab members have successfully defended their Ph.D. dissertations this spring! Despite the challenges of remote defenses during COVID-19, they delivered outstanding presentations of their research."
+    "text": "Congratulations to undergraduate researcher Ethan Contreras and his mentor Shannon Snyder for his presentation at the annual conference for the Society for Advancement of Chicanos/Hispanics and Native Americans in Science (SACNAS)!"
   },
   {
-    "objectID": "posts/2020-06-15-thesis-defenses.html#dr.-emily-lescak",
-    "href": "posts/2020-06-15-thesis-defenses.html#dr.-emily-lescak",
-    "title": "Congratulations to Our New Ph.D. Graduates!",
-    "section": "Dr. Emily Lescak",
-    "text": "Dr. Emily Lescak\nDissertation: “Ancient Mitochondrial Lineages and Contemporary Adaptation in Threespine Stickleback”\nEmily’s work revealed cryptic mitochondrial diversity in stickleback populations and demonstrated that ancient mtDNA lineages don’t constrain contemporary adaptive evolution. Her research combined phylogenetics, population genomics, and experimental approaches.\nNext position: Research Scientist, Alaska Department of Fish and Game"
-  },
-  {
-    "objectID": "posts/2020-06-15-thesis-defenses.html#dr.-kristin-alisha-sikkink",
-    "href": "posts/2020-06-15-thesis-defenses.html#dr.-kristin-alisha-sikkink",
-    "title": "Congratulations to Our New Ph.D. Graduates!",
-    "section": "Dr. Kristin Alisha Sikkink",
-    "text": "Dr. Kristin Alisha Sikkink\nDissertation: “The Evolutionary Genetics of Stress Response Networks”\nKristin discovered that pleiotropy across stress response networks is highly sensitive to environmental conditions, with important implications for understanding evolutionary constraints and adaptation to multiple stressors.\nNext position: Postdoctoral Fellow, University of Minnesota"
-  },
-  {
-    "objectID": "posts/2020-06-15-thesis-defenses.html#dr.-allison-fuiten",
-    "href": "posts/2020-06-15-thesis-defenses.html#dr.-allison-fuiten",
-    "title": "Congratulations to Our New Ph.D. Graduates!",
-    "section": "Dr. Allison Fuiten",
-    "text": "Dr. Allison Fuiten\nDissertation: “Genomic Architecture of Reproductive Isolation in Stickleback”\nAllison’s research identified genomic regions contributing to reproductive barriers between marine and freshwater stickleback, revealing how adaptation can lead to speciation.\nNext position: Data Scientist, 23andMe"
-  },
-  {
-    "objectID": "posts/2020-06-15-thesis-defenses.html#virtual-celebrations",
-    "href": "posts/2020-06-15-thesis-defenses.html#virtual-celebrations",
-    "title": "Congratulations to Our New Ph.D. Graduates!",
-    "section": "Virtual Celebrations",
-    "text": "Virtual Celebrations\nWhile we couldn’t gather in person, we celebrated with: - Virtual defense parties with lab alumni joining from around the world - Socially-distanced champagne toast outside the lab - Commemorative lab t-shirts mailed to each graduate - Video messages from former lab members"
-  },
-  {
-    "objectID": "posts/2020-06-15-thesis-defenses.html#continuing-the-legacy",
-    "href": "posts/2020-06-15-thesis-defenses.html#continuing-the-legacy",
-    "title": "Congratulations to Our New Ph.D. Graduates!",
-    "section": "Continuing the Legacy",
-    "text": "Continuing the Legacy\nThese three join our growing community of Cresko Lab Ph.D. alumni who are making impacts in academia, government, and industry. Their success reflects not only their individual excellence but also the collaborative spirit of our lab.\n“Emily, Kristin, and Allison exemplify the integration of rigorous science with creative thinking that we strive for in the lab,” says Bill Cresko. “We’re excited to watch their continued success in their new positions.”\nCongratulations doctors! The Cresko Lab family is proud of you!"
-  },
-  {
-    "objectID": "talks.html",
-    "href": "talks.html",
-    "title": "Talks",
+    "objectID": "posts/2024-10-01-lokey-chair.html",
+    "href": "posts/2024-10-01-lokey-chair.html",
+    "title": "Bill Cresko Awarded Lorry Lokey Endowed Chair",
     "section": "",
-    "text": "University of Arizona\nDepartmental Seminar\n\n\nDepartment of Ecology and Evolutionary Biology\nTucson, AZ | 2025\nInvited Speaker\n\n\n\n\nWestern Washington University\nDepartmental Seminar\n\n\nDepartment of Biology\nBellingham, WA | 2025\nInvited Speaker\n\n\n\n\n\n\n\nUniversity of Oregon\nDepartmental Seminar\n\n\nInstitute of Ecology and Evolution\nEugene, OR | 2023\nInvited Speaker\n\n\n\n\n\n\n\nAesthetic and Organic Complexity\nPublic Seminar\n\n\nPublic Presentation\nBoston, MA | 2021\nPublic Lecture\n\n\n\n\nBern University\nDepartmental Seminar\n\n\nInstitute of Ecology and Evolution\nBern, Switzerland | 2021\nInvited Speaker\n\n\n\n\nCardiff University\nDepartmental Seminar\n\n\nSchool of Biosciences\nCardiff, Wales, UK | 2021\nInvited Speaker\n\n\n\n\n\n\n\nARCS Foundation\nPublic Presentation\n\n\nAchievement Rewards for College Scientists\nPortland, OR | 2020\nPublic Lecture\n\n\n\n\n\n\n\nUniversity of Iowa\nDepartmental Seminar\n\n\nDepartment of Biology\nIowa City, IA | 2019\nInvited Speaker\n\n\n\n\n\n\n\nWashington University\nGraduate Student Invited\n\n\nAnnual Graduate Student Invited Speaker\nSt. Louis, MO | 2018\nInvited Speaker\n\n\n\n\nNorthern Arizona University\nDepartmental Seminar\n\n\nDepartment of Biological Sciences\nFlagstaff, AZ | 2018\nInvited Speaker\n\n\n\n\n\n\n\nStowers Institute\nResearch Seminar\n\n\nStowers Institute for Medical Research\nKansas City, MO | 2017\nInvited Speaker\n\n\n\n\nHumboldt State University\nDepartmental Seminar\n\n\nDepartment of Biological Sciences\nArcata, CA | 2017\nInvited Speaker\n\n\n\n\nEugene Natural History Society\nPublic Seminar\n\n\nPublic Presentation\nEugene, OR | 2017\nPublic Lecture\n\n\n\n\n\n\n\nCGRB Distinguished Lecture\nKeynote\n\n\nOregon State University Center for Genome Research and Biocomputing\nCorvallis, OR | 2016\nKeynote Speaker\n\n\n\n\nLund University\nDepartmental Seminar\n\n\nDepartment of Biology\nLund, Sweden | 2016\nInvited Speaker\n\n\n\n\nARCS Foundation\nPublic Presentation\n\n\nAchievement Rewards for College Scientists\nPortland, OR | 2016\nPublic Lecture\n\n\n\n\n\n\n\nDonald W. Hagen Keynote\nInternational Conference\n\n\nInternational Stickleback Conference\nLeicester, England | 2015\nKeynote Speaker\n\n\n\n\nUniversity of Kansas\nGraduate Student Speaker\n\n\nAnnual Graduate Student Speaker Series\nLawrence, KS | 2015\nInvited Speaker\n\n\n\n\nUniversity of Oregon\nDepartmental Seminar\n\n\nDepartment of Biology\nEugene, OR | 2015\nInvited Speaker\n\n\n\n\n\n\n\nGenomics and Adaptation\nKeynote\n\n\nGenomics and Adaptation in an NGS Age, Lund University\nLund, Sweden | 2014\nKeynote Speaker\n\n\n\n\nCharles Henry Gilber Lecture\nNamed Lecture\n\n\nGilbert Icthyological Meeting\nCorvallis, OR | 2014\nKeynote Speaker\n\n\n\n\nIGERT Capstone\nPlenary\n\n\nIGERT Capstone Conference, University of Arizona\nTucson, AZ | 2014\nPlenary Speaker\n\n\n\n\nAquatic Model Organism\nPlenary\n\n\nAquatic Model Organism Meeting\nAustin, TX | 2014\nPlenary Speaker\n\n\n\n\nAGBT Conference\nPlenary\n\n\nAdvances in Genomics and BioTechnology\nPanacea, FL | 2014\nPlenary Speaker\n\n\n\n\nOregon State University\nDepartmental Seminar\n\n\nIntegrative Biology\nCorvallis, OR | 2014\nInvited Speaker\n\n\n\n\n\n\n\nAquatic Model Organism\nPlenary\n\n\nAquatic Model Organism Meeting\nMilwaukee, WI | 2013\nPlenary Speaker\n\n\n\n\nGENECO Summer Conference\nPlenary\n\n\nLund University\nLund, Sweden | 2013\nPlenary Speaker\n\n\n\n\nEuropean Society for Evolutionary Biology\nPlenary\n\n\nESEB Conference\nLisbon, Portugal | 2013\nPlenary Speaker\n\n\n\n\nUniversity of Alaska\nDepartmental Seminar\n\n\nDepartment of Biology and Wildlife\nFairbanks, AK | 2013\nInvited Speaker\n\n\n\n\nOregon State University\nMarine Station Seminar\n\n\nHatfield Marine Science Center\nNewport, OR | 2013\nInvited Speaker\n\n\n\n\n\n\n\nWest Coast Salmonid\nPlenary\n\n\nWest Coast Salmonid Conference\nDavis, CA | 2012\nPlenary Speaker\n\n\n\n\nEcological Genomics\nAnniversary Plenary\n\n\n10th Anniversary Ecological Genomics Conference\nSt. Louis, MO | 2012\nPlenary Speaker\n\n\n\n\nPlant and Animal Genome\nPlenary\n\n\nPAG Conference\nSan Diego, CA | 2012\nPlenary Speaker\n\n\n\n\nPanAsian Genomics\nPlenary\n\n\nPanAsian Genomics Conference, Silliman University\nPhilippines | 2012\nPlenary Speaker\n\n\n\n\nUniversity of Oregon\nPhysics Seminar\n\n\nDepartment of Physics\nEugene, OR | 2012\nInvited Speaker\n\n\n\n\nInstitut Jacques Monod\nResearch Seminar\n\n\nInstitut Jacques Monod\nParis, France | 2012\nInvited Speaker\n\n\n\n\n\n\n\nNext Generation Genomics\nKeynote\n\n\nConference on Next Generation Genomics, University of Puerto Rico\nSan Juan, PR | 2011\nKeynote Speaker\n\n\n\n\nTupper Seminar\nNamed Lecture\n\n\nSmithsonian Tropical Research Institute\nPanama | 2011\nKeynote Speaker\n\n\n\n\nEcological Society of America\nPlenary\n\n\nESA Annual Meeting\nPortland, OR | 2011\nPlenary Speaker\n\n\n\n\nIberian Genomics Conference\nPlenary\n\n\nIberian Genomics Conference\nSeville, Spain | 2011\nPlenary Speaker\n\n\n\n\nIllumina RAD-seq\nPlenary\n\n\nIllumina RAD-seq Conference\nPortland, OR | 2011\nPlenary Speaker\n\n\n\n\nGrEBEs Evening Lecture\nPublic Presentation\n\n\nWhat Genomics Means for our Past, Present and Future\nEugene, OR | 2011\nPublic Lecture\n\n\n\n\nUniversity of Missouri\nDepartmental Seminar\n\n\nDivision of Biological Sciences\nColumbia, MO | 2011\nInvited Speaker\n\n\n\n\nInstitute Gulbenkian de Ciencia\nResearch Seminar\n\n\nInstituto Gulbenkian de Ciência\nLisbon, Portugal | 2011\nInvited Speaker\n\n\n\n\nUniversity of Washington\nDepartmental Seminar\n\n\nDepartment of Biology\nSeattle, WA | 2011\nInvited Speaker\n\n\n\n\nUniversity of Puerto Rico\nDepartmental Seminar\n\n\nDepartment of Biology\nSan Juan, PR | 2011\nInvited Speaker\n\n\n\n\n\n\n\nIllumina NGS\nPlenary\n\n\nIllumina Next Generation Sequencing Conference\nSeattle, WA | 2010\nPlenary Speaker\n\n\n\n\nAGA Conservation Genomics\nPlenary\n\n\nAmerican Genetic Association Conference on Conservation Genomics\nHilo, HI | 2010\nPlenary Speaker\n\n\n\n\nNIH Transcriptomics\nPlenary\n\n\nNIH Conference on Transcriptomics\nPortland, OR | 2010\nPlenary Speaker\n\n\n\n\nEdinburgh RAD-seq\nPlenary\n\n\nEdinburgh RAD-seq Conference\nPortland, OR | 2010\nPlenary Speaker\n\n\n\n\nEvolution in a Genomics World\nPublic Presentation\n\n\nPublic Seminar\nSun River, OR | 2010\nPublic Lecture\n\n\n\n\nWashington State University\nDepartmental Seminar\n\n\nSchool of Biological Sciences\nVancouver, WA | 2010\nInvited Speaker\n\n\n\n\nUniversity of Alaska\nDepartmental Seminar\n\n\nDepartment of Biological Sciences\nAnchorage, AK | 2010\nInvited Speaker\n\n\n\n\nPrinceton University\nDepartmental Seminar\n\n\nDepartment of Ecology and Evolutionary Biology\nPrinceton, NJ | 2010\nInvited Speaker\n\n\n\n\nNew York University\nDepartmental Seminar\n\n\nDepartment of Biology\nNew York, NY | 2010\nInvited Speaker\n\n\n\n\n\n\n\nTitisee Genetics Conference\nPlenary\n\n\n100th International Titisee Genetics Conference\nTitisee, Germany | 2009\nPlenary Speaker\n\n\n\n\nCGRB Genomics Symposium\nPlenary\n\n\nOregon State University Center for Genome Research and Biocomputing\nCorvallis, OR | 2009\nPlenary Speaker\n\n\n\n\nGenetic Architecture\nWorking Group\n\n\nGenetic Architecture Working Group Meeting\nVienna, Austria | 2009\nPlenary Speaker\n\n\n\n\nUniversity of Pennsylvania\nDepartmental Seminar\n\n\nDepartment of Biology\nPhiladelphia, PA | 2009\nInvited Speaker\n\n\n\n\nSyracuse University\nDepartmental Seminar\n\n\nDepartment of Biology\nSyracuse, NY | 2009\nInvited Speaker\n\n\n\n\nUniversity of Oregon\nMarine Station Seminar\n\n\nOregon Institute of Marine Biology\nCharleston, OR | 2009\nInvited Speaker\n\n\n\n\nUniversity of Maryland\nDepartmental Seminar\n\n\nDepartment of Biology\nCollege Park, MD | 2009\nInvited Speaker\n\n\n\n\nBryn Mawr College\nDepartmental Seminar\n\n\nDepartment of Biology\nBryn Mawr, PA | 2009\nInvited Speaker\n\n\n\n\n\n\n\nEVoS Distinguished Lecture\nKeynote\n\n\nEVoS Distinguished Evening Lecture, Binghamton University\nBinghamton, NY | 2008\nKeynote Speaker\n\n\n\n\nUC Berkeley EvoDevo\nPlenary\n\n\nUniversity of California, Berkeley EvoDevo Conference\nBerkeley, CA | 2008\nPlenary Speaker\n\n\n\n\nUO/IU IGERT EvoDevo\nPlenary\n\n\nUO/IU IGERT EvoDevo Conference\nEugene, OR | 2008\nPlenary Speaker\n\n\n\n\nUniversity of Idaho\nDepartmental Seminar\n\n\nDepartment of Biological Sciences\nMoscow, ID | 2008\nInvited Speaker\n\n\n\n\nGuelph University\nDepartmental Seminar\n\n\nDepartment of Integrative Biology\nGuelph, Canada | 2008\nInvited Speaker\n\n\n\n\nOregon State University\nDepartmental Seminar\n\n\nDepartment of Zoology\nCorvallis, OR | 2008\nInvited Speaker\n\n\n\n\nBinghamton University\nDepartmental Seminar\n\n\nDepartment of Biological Sciences\nBinghamton, NY | 2008\nInvited Speaker\n\n\n\n\n\n\n\nOSU Cascades Distinguished Lectures\nKeynote\n\n\nOregon State University Cascades Campus Distinguished Evening Lectures\nBend, OR | 2007\nKeynote Speaker\n\n\n\n\nGordon Conference\nPlenary\n\n\nGordon Conference on Quantitative Genetics\nSan Diego, CA | 2007\nPlenary Speaker\n\n\n\n\nUC Davis\nDepartmental Seminar\n\n\nDepartment of Evolution and Ecology\nDavis, CA | 2007\nInvited Speaker\n\n\n\n\n\n\n\nUniversity of Illinois\nDepartmental Seminar\n\n\nDepartment of Animal Biology\nUrbana, IL | 2006\nInvited Speaker\n\n\n\n\nPortland State University\nDepartmental Seminar\n\n\nDepartment of Biology\nPortland, OR | 2006\nInvited Speaker\n\n\n\n\nTexas A&M University\nDepartmental Seminar\n\n\nDepartment of Biology\nCollege Station, TX | 2006\nInvited Speaker\n\n\n\n\n\n\n\nDevelopmental Evolution\nPlenary\n\n\nConference on the Developmental Basis of Evolutionary Change\nChicago, IL | 2005\nPlenary Speaker\n\n\n\n\nEvolutionary Psychology\nPublic Presentation\n\n\nEvolutionary Psychology Research Group\nEugene, OR | 2005\nPublic Lecture\n\n\n\n\nOregon State University\nDepartmental Seminar\n\n\nDepartment of Zoology\nCorvallis, OR | 2005\nInvited Speaker\n\n\n\n\nReed College\nDepartmental Seminar\n\n\nDepartment of Biology\nPortland, OR | 2005\nInvited Speaker\n\n\n\n\n\n\n\nLaval University\nDepartmental Seminar\n\n\nDepartment of Biology\nQuebec, Canada | 2004\nInvited Speaker\n\n\n\n\nTulane University\nDepartmental Seminar\n\n\nDepartment of Ecology and Evolutionary Biology\nNew Orleans, LA | 2004\nInvited Speaker\n\n\n\n\nUniversity of Alaska Anchorage\nDepartmental Seminar\n\n\nDepartment of Biological Sciences\nAnchorage, AK | 2004\nInvited Speaker\n\n\n\n\nUniversity of Nebraska\nDepartmental Seminar\n\n\nSchool of Biological Sciences\nLincoln, NE | 2004\nInvited Speaker\n\n\n\n\nUniversity of Oregon\nMarine Station Seminar\n\n\nOregon Institute of Marine Biology\nCharleston, OR | 2004\nInvited Speaker\n\n\n\n\nUniversity of Connecticut\nDepartmental Seminar\n\n\nDepartment of Ecology and Evolutionary Biology\nStorrs, CT | 2004\nInvited Speaker\n\n\n\n\nUniversity of Oregon\nCEEB Seminar\n\n\nCenter for Ecology and Evolutionary Biology\nEugene, OR | 2004\nInvited Speaker\n\n\n\n\n\n\n\nEugene Natural History Society\nPublic Presentation\n\n\nPublic Seminar\nEugene, OR | 2003\nPublic Lecture\n\n\n\n\nClark University\nDepartmental Seminar\n\n\nDepartment of Biology\nWorcester, MA | 2003\nInvited Speaker\n\n\n\n\n\n\n\nBinghamton University\nDepartmental Seminar\n\n\nDepartment of Biological Sciences\nBinghamton, NY | 1999\nInvited Speaker\nFor slides or recordings: wcresko@uoregon.edu"
+    "text": "Professor Bill Cresko has been awarded a Lorry Lokey Endowed Chair in recognition of the outstanding contributions that he and his laboratory have made to the University of Oregon’s mission.\nThe Lorry Lokey Endowed Chairs represent one of the highest honors the University can bestow upon its faculty, reserved for scholars who have demonstrated exceptional achievement in their fields.\nThis recognition celebrates Bill’s many contributions to science and the university:\n\nDevelopment of RAD-seq technology and the Stacks software pipeline, now used by thousands of researchers worldwide\nNearly 100 publications advancing our understanding of evolutionary genomics\nService as Associate Vice President of Research and leader of the Presidential Initiative in Data Science\nTraining dozens of students and postdocs who have gone on to successful careers\nFostering collaborative research across campus and internationally\n\nThe endowed chair will provide additional resources to support the Cresko Lab’s cutting-edge research in evolutionary genomics and the development of new computational tools for biology.\nWe thank the Lorry I. Lokey Foundation for their generous support of scientific research and education at the University of Oregon."
   },
   {
-    "objectID": "talks.html#section",
-    "href": "talks.html#section",
-    "title": "Talks",
-    "section": "",
-    "text": "University of Arizona\nDepartmental Seminar\n\n\nDepartment of Ecology and Evolutionary Biology\nTucson, AZ | 2025\nInvited Speaker\n\n\n\n\nWestern Washington University\nDepartmental Seminar\n\n\nDepartment of Biology\nBellingham, WA | 2025\nInvited Speaker"
+    "objectID": "index_old.html#research-areas",
+    "href": "index_old.html#research-areas",
+    "title": "Cresko Laboratory",
+    "section": "Research Areas",
+    "text": "Research Areas\nParallel Evolution & Adaptation — We study how independent populations evolve similar solutions to environmental challenges, revealing the predictability of evolution and the genetic architecture of adaptive traits.\nHost-Microbiome Dynamics — Using stickleback as a model, we explore how host genetic variation shapes microbial communities and how these interactions influence adaptation.\nGenomic Tool Development — We developed RAD-seq technology and the Stacks software pipeline, now used by thousands of researchers worldwide for population genomics analyses.\nLearn more about our projects →\n\n\n\nPublications\n\nSingle cell analysis of syngnathids (eLife 2025)\nHost genomic variation shapes gut microbiome diversity (mBio 2023)\nSeadragon genomes reveal syngnathid evolution (PNAS 2022)\nSingle-cell sequencing for genome annotation (Genetics 2022)\n\nAll publications →\n\n\n\nNews\n\nEthan Contreras presents research at SACNAS\nBill Cresko awarded Lorry Lokey Endowed Chair\nHope Healey successfully defends her dissertation!\nEmily Niebergall receives Goldwater Fellowship\n\nRecent updates →"
   },
   {
-    "objectID": "talks.html#section-1",
-    "href": "talks.html#section-1",
-    "title": "Talks",
-    "section": "",
-    "text": "University of Oregon\nDepartmental Seminar\n\n\nInstitute of Ecology and Evolution\nEugene, OR | 2023\nInvited Speaker"
+    "objectID": "index_old.html#team",
+    "href": "index_old.html#team",
+    "title": "Cresko Laboratory",
+    "section": "Team",
+    "text": "Team\nLed by Bill Cresko, our lab includes research scientists, postdoctoral scholars, graduate students, and undergraduates working together on evolutionary questions.\nMeet our team →"
   },
   {
-    "objectID": "talks.html#section-2",
-    "href": "talks.html#section-2",
-    "title": "Talks",
-    "section": "",
-    "text": "Aesthetic and Organic Complexity\nPublic Seminar\n\n\nPublic Presentation\nBoston, MA | 2021\nPublic Lecture\n\n\n\n\nBern University\nDepartmental Seminar\n\n\nInstitute of Ecology and Evolution\nBern, Switzerland | 2021\nInvited Speaker\n\n\n\n\nCardiff University\nDepartmental Seminar\n\n\nSchool of Biosciences\nCardiff, Wales, UK | 2021\nInvited Speaker"
+    "objectID": "index_old.html#join-us",
+    "href": "index_old.html#join-us",
+    "title": "Cresko Laboratory",
+    "section": "Join Us",
+    "text": "Join Us\nI welcome inquiries from prospective graduate students, postdocs, and undergraduates interested in:\nOpen positions →"
   },
   {
-    "objectID": "talks.html#section-3",
-    "href": "talks.html#section-3",
-    "title": "Talks",
-    "section": "",
-    "text": "ARCS Foundation\nPublic Presentation\n\n\nAchievement Rewards for College Scientists\nPortland, OR | 2020\nPublic Lecture"
-  },
-  {
-    "objectID": "talks.html#section-4",
-    "href": "talks.html#section-4",
-    "title": "Talks",
-    "section": "",
-    "text": "University of Iowa\nDepartmental Seminar\n\n\nDepartment of Biology\nIowa City, IA | 2019\nInvited Speaker"
-  },
-  {
-    "objectID": "talks.html#section-5",
-    "href": "talks.html#section-5",
-    "title": "Talks",
-    "section": "",
-    "text": "Washington University\nGraduate Student Invited\n\n\nAnnual Graduate Student Invited Speaker\nSt. Louis, MO | 2018\nInvited Speaker\n\n\n\n\nNorthern Arizona University\nDepartmental Seminar\n\n\nDepartment of Biological Sciences\nFlagstaff, AZ | 2018\nInvited Speaker"
-  },
-  {
-    "objectID": "talks.html#section-6",
-    "href": "talks.html#section-6",
-    "title": "Talks",
-    "section": "",
-    "text": "Stowers Institute\nResearch Seminar\n\n\nStowers Institute for Medical Research\nKansas City, MO | 2017\nInvited Speaker\n\n\n\n\nHumboldt State University\nDepartmental Seminar\n\n\nDepartment of Biological Sciences\nArcata, CA | 2017\nInvited Speaker\n\n\n\n\nEugene Natural History Society\nPublic Seminar\n\n\nPublic Presentation\nEugene, OR | 2017\nPublic Lecture"
-  },
-  {
-    "objectID": "talks.html#section-7",
-    "href": "talks.html#section-7",
-    "title": "Talks",
-    "section": "",
-    "text": "CGRB Distinguished Lecture\nKeynote\n\n\nOregon State University Center for Genome Research and Biocomputing\nCorvallis, OR | 2016\nKeynote Speaker\n\n\n\n\nLund University\nDepartmental Seminar\n\n\nDepartment of Biology\nLund, Sweden | 2016\nInvited Speaker\n\n\n\n\nARCS Foundation\nPublic Presentation\n\n\nAchievement Rewards for College Scientists\nPortland, OR | 2016\nPublic Lecture"
-  },
-  {
-    "objectID": "talks.html#section-8",
-    "href": "talks.html#section-8",
-    "title": "Talks",
-    "section": "",
-    "text": "Donald W. Hagen Keynote\nInternational Conference\n\n\nInternational Stickleback Conference\nLeicester, England | 2015\nKeynote Speaker\n\n\n\n\nUniversity of Kansas\nGraduate Student Speaker\n\n\nAnnual Graduate Student Speaker Series\nLawrence, KS | 2015\nInvited Speaker\n\n\n\n\nUniversity of Oregon\nDepartmental Seminar\n\n\nDepartment of Biology\nEugene, OR | 2015\nInvited Speaker"
-  },
-  {
-    "objectID": "talks.html#section-9",
-    "href": "talks.html#section-9",
-    "title": "Talks",
-    "section": "",
-    "text": "Genomics and Adaptation\nKeynote\n\n\nGenomics and Adaptation in an NGS Age, Lund University\nLund, Sweden | 2014\nKeynote Speaker\n\n\n\n\nCharles Henry Gilber Lecture\nNamed Lecture\n\n\nGilbert Icthyological Meeting\nCorvallis, OR | 2014\nKeynote Speaker\n\n\n\n\nIGERT Capstone\nPlenary\n\n\nIGERT Capstone Conference, University of Arizona\nTucson, AZ | 2014\nPlenary Speaker\n\n\n\n\nAquatic Model Organism\nPlenary\n\n\nAquatic Model Organism Meeting\nAustin, TX | 2014\nPlenary Speaker\n\n\n\n\nAGBT Conference\nPlenary\n\n\nAdvances in Genomics and BioTechnology\nPanacea, FL | 2014\nPlenary Speaker\n\n\n\n\nOregon State University\nDepartmental Seminar\n\n\nIntegrative Biology\nCorvallis, OR | 2014\nInvited Speaker"
-  },
-  {
-    "objectID": "talks.html#section-10",
-    "href": "talks.html#section-10",
-    "title": "Talks",
-    "section": "",
-    "text": "Aquatic Model Organism\nPlenary\n\n\nAquatic Model Organism Meeting\nMilwaukee, WI | 2013\nPlenary Speaker\n\n\n\n\nGENECO Summer Conference\nPlenary\n\n\nLund University\nLund, Sweden | 2013\nPlenary Speaker\n\n\n\n\nEuropean Society for Evolutionary Biology\nPlenary\n\n\nESEB Conference\nLisbon, Portugal | 2013\nPlenary Speaker\n\n\n\n\nUniversity of Alaska\nDepartmental Seminar\n\n\nDepartment of Biology and Wildlife\nFairbanks, AK | 2013\nInvited Speaker\n\n\n\n\nOregon State University\nMarine Station Seminar\n\n\nHatfield Marine Science Center\nNewport, OR | 2013\nInvited Speaker"
-  },
-  {
-    "objectID": "talks.html#section-11",
-    "href": "talks.html#section-11",
-    "title": "Talks",
-    "section": "",
-    "text": "West Coast Salmonid\nPlenary\n\n\nWest Coast Salmonid Conference\nDavis, CA | 2012\nPlenary Speaker\n\n\n\n\nEcological Genomics\nAnniversary Plenary\n\n\n10th Anniversary Ecological Genomics Conference\nSt. Louis, MO | 2012\nPlenary Speaker\n\n\n\n\nPlant and Animal Genome\nPlenary\n\n\nPAG Conference\nSan Diego, CA | 2012\nPlenary Speaker\n\n\n\n\nPanAsian Genomics\nPlenary\n\n\nPanAsian Genomics Conference, Silliman University\nPhilippines | 2012\nPlenary Speaker\n\n\n\n\nUniversity of Oregon\nPhysics Seminar\n\n\nDepartment of Physics\nEugene, OR | 2012\nInvited Speaker\n\n\n\n\nInstitut Jacques Monod\nResearch Seminar\n\n\nInstitut Jacques Monod\nParis, France | 2012\nInvited Speaker"
-  },
-  {
-    "objectID": "talks.html#section-12",
-    "href": "talks.html#section-12",
-    "title": "Talks",
-    "section": "",
-    "text": "Next Generation Genomics\nKeynote\n\n\nConference on Next Generation Genomics, University of Puerto Rico\nSan Juan, PR | 2011\nKeynote Speaker\n\n\n\n\nTupper Seminar\nNamed Lecture\n\n\nSmithsonian Tropical Research Institute\nPanama | 2011\nKeynote Speaker\n\n\n\n\nEcological Society of America\nPlenary\n\n\nESA Annual Meeting\nPortland, OR | 2011\nPlenary Speaker\n\n\n\n\nIberian Genomics Conference\nPlenary\n\n\nIberian Genomics Conference\nSeville, Spain | 2011\nPlenary Speaker\n\n\n\n\nIllumina RAD-seq\nPlenary\n\n\nIllumina RAD-seq Conference\nPortland, OR | 2011\nPlenary Speaker\n\n\n\n\nGrEBEs Evening Lecture\nPublic Presentation\n\n\nWhat Genomics Means for our Past, Present and Future\nEugene, OR | 2011\nPublic Lecture\n\n\n\n\nUniversity of Missouri\nDepartmental Seminar\n\n\nDivision of Biological Sciences\nColumbia, MO | 2011\nInvited Speaker\n\n\n\n\nInstitute Gulbenkian de Ciencia\nResearch Seminar\n\n\nInstituto Gulbenkian de Ciência\nLisbon, Portugal | 2011\nInvited Speaker\n\n\n\n\nUniversity of Washington\nDepartmental Seminar\n\n\nDepartment of Biology\nSeattle, WA | 2011\nInvited Speaker\n\n\n\n\nUniversity of Puerto Rico\nDepartmental Seminar\n\n\nDepartment of Biology\nSan Juan, PR | 2011\nInvited Speaker"
-  },
-  {
-    "objectID": "talks.html#section-13",
-    "href": "talks.html#section-13",
-    "title": "Talks",
-    "section": "",
-    "text": "Illumina NGS\nPlenary\n\n\nIllumina Next Generation Sequencing Conference\nSeattle, WA | 2010\nPlenary Speaker\n\n\n\n\nAGA Conservation Genomics\nPlenary\n\n\nAmerican Genetic Association Conference on Conservation Genomics\nHilo, HI | 2010\nPlenary Speaker\n\n\n\n\nNIH Transcriptomics\nPlenary\n\n\nNIH Conference on Transcriptomics\nPortland, OR | 2010\nPlenary Speaker\n\n\n\n\nEdinburgh RAD-seq\nPlenary\n\n\nEdinburgh RAD-seq Conference\nPortland, OR | 2010\nPlenary Speaker\n\n\n\n\nEvolution in a Genomics World\nPublic Presentation\n\n\nPublic Seminar\nSun River, OR | 2010\nPublic Lecture\n\n\n\n\nWashington State University\nDepartmental Seminar\n\n\nSchool of Biological Sciences\nVancouver, WA | 2010\nInvited Speaker\n\n\n\n\nUniversity of Alaska\nDepartmental Seminar\n\n\nDepartment of Biological Sciences\nAnchorage, AK | 2010\nInvited Speaker\n\n\n\n\nPrinceton University\nDepartmental Seminar\n\n\nDepartment of Ecology and Evolutionary Biology\nPrinceton, NJ | 2010\nInvited Speaker\n\n\n\n\nNew York University\nDepartmental Seminar\n\n\nDepartment of Biology\nNew York, NY | 2010\nInvited Speaker"
-  },
-  {
-    "objectID": "talks.html#section-14",
-    "href": "talks.html#section-14",
-    "title": "Talks",
-    "section": "",
-    "text": "Titisee Genetics Conference\nPlenary\n\n\n100th International Titisee Genetics Conference\nTitisee, Germany | 2009\nPlenary Speaker\n\n\n\n\nCGRB Genomics Symposium\nPlenary\n\n\nOregon State University Center for Genome Research and Biocomputing\nCorvallis, OR | 2009\nPlenary Speaker\n\n\n\n\nGenetic Architecture\nWorking Group\n\n\nGenetic Architecture Working Group Meeting\nVienna, Austria | 2009\nPlenary Speaker\n\n\n\n\nUniversity of Pennsylvania\nDepartmental Seminar\n\n\nDepartment of Biology\nPhiladelphia, PA | 2009\nInvited Speaker\n\n\n\n\nSyracuse University\nDepartmental Seminar\n\n\nDepartment of Biology\nSyracuse, NY | 2009\nInvited Speaker\n\n\n\n\nUniversity of Oregon\nMarine Station Seminar\n\n\nOregon Institute of Marine Biology\nCharleston, OR | 2009\nInvited Speaker\n\n\n\n\nUniversity of Maryland\nDepartmental Seminar\n\n\nDepartment of Biology\nCollege Park, MD | 2009\nInvited Speaker\n\n\n\n\nBryn Mawr College\nDepartmental Seminar\n\n\nDepartment of Biology\nBryn Mawr, PA | 2009\nInvited Speaker"
-  },
-  {
-    "objectID": "talks.html#section-15",
-    "href": "talks.html#section-15",
-    "title": "Talks",
-    "section": "",
-    "text": "EVoS Distinguished Lecture\nKeynote\n\n\nEVoS Distinguished Evening Lecture, Binghamton University\nBinghamton, NY | 2008\nKeynote Speaker\n\n\n\n\nUC Berkeley EvoDevo\nPlenary\n\n\nUniversity of California, Berkeley EvoDevo Conference\nBerkeley, CA | 2008\nPlenary Speaker\n\n\n\n\nUO/IU IGERT EvoDevo\nPlenary\n\n\nUO/IU IGERT EvoDevo Conference\nEugene, OR | 2008\nPlenary Speaker\n\n\n\n\nUniversity of Idaho\nDepartmental Seminar\n\n\nDepartment of Biological Sciences\nMoscow, ID | 2008\nInvited Speaker\n\n\n\n\nGuelph University\nDepartmental Seminar\n\n\nDepartment of Integrative Biology\nGuelph, Canada | 2008\nInvited Speaker\n\n\n\n\nOregon State University\nDepartmental Seminar\n\n\nDepartment of Zoology\nCorvallis, OR | 2008\nInvited Speaker\n\n\n\n\nBinghamton University\nDepartmental Seminar\n\n\nDepartment of Biological Sciences\nBinghamton, NY | 2008\nInvited Speaker"
-  },
-  {
-    "objectID": "talks.html#section-16",
-    "href": "talks.html#section-16",
-    "title": "Talks",
-    "section": "",
-    "text": "OSU Cascades Distinguished Lectures\nKeynote\n\n\nOregon State University Cascades Campus Distinguished Evening Lectures\nBend, OR | 2007\nKeynote Speaker\n\n\n\n\nGordon Conference\nPlenary\n\n\nGordon Conference on Quantitative Genetics\nSan Diego, CA | 2007\nPlenary Speaker\n\n\n\n\nUC Davis\nDepartmental Seminar\n\n\nDepartment of Evolution and Ecology\nDavis, CA | 2007\nInvited Speaker"
-  },
-  {
-    "objectID": "talks.html#section-17",
-    "href": "talks.html#section-17",
-    "title": "Talks",
-    "section": "",
-    "text": "University of Illinois\nDepartmental Seminar\n\n\nDepartment of Animal Biology\nUrbana, IL | 2006\nInvited Speaker\n\n\n\n\nPortland State University\nDepartmental Seminar\n\n\nDepartment of Biology\nPortland, OR | 2006\nInvited Speaker\n\n\n\n\nTexas A&M University\nDepartmental Seminar\n\n\nDepartment of Biology\nCollege Station, TX | 2006\nInvited Speaker"
-  },
-  {
-    "objectID": "talks.html#section-18",
-    "href": "talks.html#section-18",
-    "title": "Talks",
-    "section": "",
-    "text": "Developmental Evolution\nPlenary\n\n\nConference on the Developmental Basis of Evolutionary Change\nChicago, IL | 2005\nPlenary Speaker\n\n\n\n\nEvolutionary Psychology\nPublic Presentation\n\n\nEvolutionary Psychology Research Group\nEugene, OR | 2005\nPublic Lecture\n\n\n\n\nOregon State University\nDepartmental Seminar\n\n\nDepartment of Zoology\nCorvallis, OR | 2005\nInvited Speaker\n\n\n\n\nReed College\nDepartmental Seminar\n\n\nDepartment of Biology\nPortland, OR | 2005\nInvited Speaker"
-  },
-  {
-    "objectID": "talks.html#section-19",
-    "href": "talks.html#section-19",
-    "title": "Talks",
-    "section": "",
-    "text": "Laval University\nDepartmental Seminar\n\n\nDepartment of Biology\nQuebec, Canada | 2004\nInvited Speaker\n\n\n\n\nTulane University\nDepartmental Seminar\n\n\nDepartment of Ecology and Evolutionary Biology\nNew Orleans, LA | 2004\nInvited Speaker\n\n\n\n\nUniversity of Alaska Anchorage\nDepartmental Seminar\n\n\nDepartment of Biological Sciences\nAnchorage, AK | 2004\nInvited Speaker\n\n\n\n\nUniversity of Nebraska\nDepartmental Seminar\n\n\nSchool of Biological Sciences\nLincoln, NE | 2004\nInvited Speaker\n\n\n\n\nUniversity of Oregon\nMarine Station Seminar\n\n\nOregon Institute of Marine Biology\nCharleston, OR | 2004\nInvited Speaker\n\n\n\n\nUniversity of Connecticut\nDepartmental Seminar\n\n\nDepartment of Ecology and Evolutionary Biology\nStorrs, CT | 2004\nInvited Speaker\n\n\n\n\nUniversity of Oregon\nCEEB Seminar\n\n\nCenter for Ecology and Evolutionary Biology\nEugene, OR | 2004\nInvited Speaker"
-  },
-  {
-    "objectID": "talks.html#section-20",
-    "href": "talks.html#section-20",
-    "title": "Talks",
-    "section": "",
-    "text": "Eugene Natural History Society\nPublic Presentation\n\n\nPublic Seminar\nEugene, OR | 2003\nPublic Lecture\n\n\n\n\nClark University\nDepartmental Seminar\n\n\nDepartment of Biology\nWorcester, MA | 2003\nInvited Speaker"
-  },
-  {
-    "objectID": "talks.html#section-21",
-    "href": "talks.html#section-21",
-    "title": "Talks",
-    "section": "",
-    "text": "Binghamton University\nDepartmental Seminar\n\n\nDepartment of Biological Sciences\nBinghamton, NY | 1999\nInvited Speaker"
+    "objectID": "index_old.html#contact",
+    "href": "index_old.html#contact",
+    "title": "Cresko Laboratory",
+    "section": "Contact",
+    "text": "Contact\nWilliam A. Cresko, Ph.D.\nInstitute of Ecology and Evolution\nUniversity of Oregon\n312 Pacific Hall\nEugene, OR 97403\n wcresko@uoregon.edu\n (541) 346-4779\n GitHub\n Instagram\n Bluesky"
   },
   {
     "objectID": "publications.html",
@@ -1225,74 +1225,165 @@
     "text": "Metrics\n100+ publications | 15,000+ citations | h-index: 52 |  Google Scholar"
   },
   {
-    "objectID": "teaching_old.html",
-    "href": "teaching_old.html",
-    "title": "Teaching",
+    "objectID": "talks_old.html",
+    "href": "talks_old.html",
+    "title": "Talks",
     "section": "",
-    "text": "Term: Fall\nLevel: Upper-division undergraduate\nDescription: This course explores the mechanisms of evolutionary change, from molecular evolution to macroevolution. Topics include natural selection, genetic drift, phylogenetics, speciation, and the evolution of complex traits.\nLearning Objectives: - Understand the fundamental principles of evolutionary biology - Apply population genetics theory to real-world examples - Analyze phylogenetic relationships and evolutionary patterns - Evaluate evidence for evolutionary processes\nCourse Materials →\n\n\n\nTerm: Winter\nLevel: Upper-division undergraduate / Graduate\nDescription: An introduction to genomic technologies and computational approaches for analyzing large-scale biological data. Students gain hands-on experience with genomic data analysis using R and command-line tools.\nTopics Covered: - Next-generation sequencing technologies - Genome assembly and annotation - RNA-seq analysis - Population genomics - GWAS and QTL mapping\nPrerequisites: BI 282 (Genetics) or equivalent\n\n\n\nTerm: Spring (alternate years)\nLevel: Graduate seminar\nDescription: In-depth exploration of current topics in evolutionary genomics through discussion of primary literature and student-led presentations."
+    "text": "University of Arizona\nDepartmental Seminar\n\n\nDepartment of Ecology and Evolutionary Biology\nTucson, AZ | 2025\nInvited Speaker\n\n\n\n\nWestern Washington University\nDepartmental Seminar\n\n\nDepartment of Biology\nBellingham, WA | 2025\nInvited Speaker\n\n\n\n\n\n\n\nUniversity of Oregon\nDepartmental Seminar\n\n\nInstitute of Ecology and Evolution\nEugene, OR | 2023\nInvited Speaker\n\n\n\n\n\n\n\nAesthetic and Organic Complexity\nPublic Seminar\n\n\nPublic Presentation\nBoston, MA | 2021\nPublic Lecture\n\n\n\n\nBern University\nDepartmental Seminar\n\n\nInstitute of Ecology and Evolution\nBern, Switzerland | 2021\nInvited Speaker\n\n\n\n\nCardiff University\nDepartmental Seminar\n\n\nSchool of Biosciences\nCardiff, Wales, UK | 2021\nInvited Speaker\n\n\n\n\n\n\n\nARCS Foundation\nPublic Presentation\n\n\nAchievement Rewards for College Scientists\nPortland, OR | 2020\nPublic Lecture\n\n\n\n\n\n\n\nUniversity of Iowa\nDepartmental Seminar\n\n\nDepartment of Biology\nIowa City, IA | 2019\nInvited Speaker\n\n\n\n\n\n\n\nWashington University\nGraduate Student Invited\n\n\nAnnual Graduate Student Invited Speaker\nSt. Louis, MO | 2018\nInvited Speaker\n\n\n\n\nNorthern Arizona University\nDepartmental Seminar\n\n\nDepartment of Biological Sciences\nFlagstaff, AZ | 2018\nInvited Speaker\n\n\n\n\n\n\n\nStowers Institute\nResearch Seminar\n\n\nStowers Institute for Medical Research\nKansas City, MO | 2017\nInvited Speaker\n\n\n\n\nHumboldt State University\nDepartmental Seminar\n\n\nDepartment of Biological Sciences\nArcata, CA | 2017\nInvited Speaker\n\n\n\n\nEugene Natural History Society\nPublic Seminar\n\n\nPublic Presentation\nEugene, OR | 2017\nPublic Lecture\n\n\n\n\n\n\n\nCGRB Distinguished Lecture\nKeynote\n\n\nOregon State University Center for Genome Research and Biocomputing\nCorvallis, OR | 2016\nKeynote Speaker\n\n\n\n\nLund University\nDepartmental Seminar\n\n\nDepartment of Biology\nLund, Sweden | 2016\nInvited Speaker\n\n\n\n\nARCS Foundation\nPublic Presentation\n\n\nAchievement Rewards for College Scientists\nPortland, OR | 2016\nPublic Lecture\n\n\n\n\n\n\n\nDonald W. Hagen Keynote\nInternational Conference\n\n\nInternational Stickleback Conference\nLeicester, England | 2015\nKeynote Speaker\n\n\n\n\nUniversity of Kansas\nGraduate Student Speaker\n\n\nAnnual Graduate Student Speaker Series\nLawrence, KS | 2015\nInvited Speaker\n\n\n\n\nUniversity of Oregon\nDepartmental Seminar\n\n\nDepartment of Biology\nEugene, OR | 2015\nInvited Speaker\n\n\n\n\n\n\n\nGenomics and Adaptation\nKeynote\n\n\nGenomics and Adaptation in an NGS Age, Lund University\nLund, Sweden | 2014\nKeynote Speaker\n\n\n\n\nCharles Henry Gilber Lecture\nNamed Lecture\n\n\nGilbert Icthyological Meeting\nCorvallis, OR | 2014\nKeynote Speaker\n\n\n\n\nIGERT Capstone\nPlenary\n\n\nIGERT Capstone Conference, University of Arizona\nTucson, AZ | 2014\nPlenary Speaker\n\n\n\n\nAquatic Model Organism\nPlenary\n\n\nAquatic Model Organism Meeting\nAustin, TX | 2014\nPlenary Speaker\n\n\n\n\nAGBT Conference\nPlenary\n\n\nAdvances in Genomics and BioTechnology\nPanacea, FL | 2014\nPlenary Speaker\n\n\n\n\nOregon State University\nDepartmental Seminar\n\n\nIntegrative Biology\nCorvallis, OR | 2014\nInvited Speaker\n\n\n\n\n\n\n\nAquatic Model Organism\nPlenary\n\n\nAquatic Model Organism Meeting\nMilwaukee, WI | 2013\nPlenary Speaker\n\n\n\n\nGENECO Summer Conference\nPlenary\n\n\nLund University\nLund, Sweden | 2013\nPlenary Speaker\n\n\n\n\nEuropean Society for Evolutionary Biology\nPlenary\n\n\nESEB Conference\nLisbon, Portugal | 2013\nPlenary Speaker\n\n\n\n\nUniversity of Alaska\nDepartmental Seminar\n\n\nDepartment of Biology and Wildlife\nFairbanks, AK | 2013\nInvited Speaker\n\n\n\n\nOregon State University\nMarine Station Seminar\n\n\nHatfield Marine Science Center\nNewport, OR | 2013\nInvited Speaker\n\n\n\n\n\n\n\nWest Coast Salmonid\nPlenary\n\n\nWest Coast Salmonid Conference\nDavis, CA | 2012\nPlenary Speaker\n\n\n\n\nEcological Genomics\nAnniversary Plenary\n\n\n10th Anniversary Ecological Genomics Conference\nSt. Louis, MO | 2012\nPlenary Speaker\n\n\n\n\nPlant and Animal Genome\nPlenary\n\n\nPAG Conference\nSan Diego, CA | 2012\nPlenary Speaker\n\n\n\n\nPanAsian Genomics\nPlenary\n\n\nPanAsian Genomics Conference, Silliman University\nPhilippines | 2012\nPlenary Speaker\n\n\n\n\nUniversity of Oregon\nPhysics Seminar\n\n\nDepartment of Physics\nEugene, OR | 2012\nInvited Speaker\n\n\n\n\nInstitut Jacques Monod\nResearch Seminar\n\n\nInstitut Jacques Monod\nParis, France | 2012\nInvited Speaker\n\n\n\n\n\n\n\nNext Generation Genomics\nKeynote\n\n\nConference on Next Generation Genomics, University of Puerto Rico\nSan Juan, PR | 2011\nKeynote Speaker\n\n\n\n\nTupper Seminar\nNamed Lecture\n\n\nSmithsonian Tropical Research Institute\nPanama | 2011\nKeynote Speaker\n\n\n\n\nEcological Society of America\nPlenary\n\n\nESA Annual Meeting\nPortland, OR | 2011\nPlenary Speaker\n\n\n\n\nIberian Genomics Conference\nPlenary\n\n\nIberian Genomics Conference\nSeville, Spain | 2011\nPlenary Speaker\n\n\n\n\nIllumina RAD-seq\nPlenary\n\n\nIllumina RAD-seq Conference\nPortland, OR | 2011\nPlenary Speaker\n\n\n\n\nGrEBEs Evening Lecture\nPublic Presentation\n\n\nWhat Genomics Means for our Past, Present and Future\nEugene, OR | 2011\nPublic Lecture\n\n\n\n\nUniversity of Missouri\nDepartmental Seminar\n\n\nDivision of Biological Sciences\nColumbia, MO | 2011\nInvited Speaker\n\n\n\n\nInstitute Gulbenkian de Ciencia\nResearch Seminar\n\n\nInstituto Gulbenkian de Ciência\nLisbon, Portugal | 2011\nInvited Speaker\n\n\n\n\nUniversity of Washington\nDepartmental Seminar\n\n\nDepartment of Biology\nSeattle, WA | 2011\nInvited Speaker\n\n\n\n\nUniversity of Puerto Rico\nDepartmental Seminar\n\n\nDepartment of Biology\nSan Juan, PR | 2011\nInvited Speaker\n\n\n\n\n\n\n\nIllumina NGS\nPlenary\n\n\nIllumina Next Generation Sequencing Conference\nSeattle, WA | 2010\nPlenary Speaker\n\n\n\n\nAGA Conservation Genomics\nPlenary\n\n\nAmerican Genetic Association Conference on Conservation Genomics\nHilo, HI | 2010\nPlenary Speaker\n\n\n\n\nNIH Transcriptomics\nPlenary\n\n\nNIH Conference on Transcriptomics\nPortland, OR | 2010\nPlenary Speaker\n\n\n\n\nEdinburgh RAD-seq\nPlenary\n\n\nEdinburgh RAD-seq Conference\nPortland, OR | 2010\nPlenary Speaker\n\n\n\n\nEvolution in a Genomics World\nPublic Presentation\n\n\nPublic Seminar\nSun River, OR | 2010\nPublic Lecture\n\n\n\n\nWashington State University\nDepartmental Seminar\n\n\nSchool of Biological Sciences\nVancouver, WA | 2010\nInvited Speaker\n\n\n\n\nUniversity of Alaska\nDepartmental Seminar\n\n\nDepartment of Biological Sciences\nAnchorage, AK | 2010\nInvited Speaker\n\n\n\n\nPrinceton University\nDepartmental Seminar\n\n\nDepartment of Ecology and Evolutionary Biology\nPrinceton, NJ | 2010\nInvited Speaker\n\n\n\n\nNew York University\nDepartmental Seminar\n\n\nDepartment of Biology\nNew York, NY | 2010\nInvited Speaker\n\n\n\n\n\n\n\nTitisee Genetics Conference\nPlenary\n\n\n100th International Titisee Genetics Conference\nTitisee, Germany | 2009\nPlenary Speaker\n\n\n\n\nCGRB Genomics Symposium\nPlenary\n\n\nOregon State University Center for Genome Research and Biocomputing\nCorvallis, OR | 2009\nPlenary Speaker\n\n\n\n\nGenetic Architecture\nWorking Group\n\n\nGenetic Architecture Working Group Meeting\nVienna, Austria | 2009\nPlenary Speaker\n\n\n\n\nUniversity of Pennsylvania\nDepartmental Seminar\n\n\nDepartment of Biology\nPhiladelphia, PA | 2009\nInvited Speaker\n\n\n\n\nSyracuse University\nDepartmental Seminar\n\n\nDepartment of Biology\nSyracuse, NY | 2009\nInvited Speaker\n\n\n\n\nUniversity of Oregon\nMarine Station Seminar\n\n\nOregon Institute of Marine Biology\nCharleston, OR | 2009\nInvited Speaker\n\n\n\n\nUniversity of Maryland\nDepartmental Seminar\n\n\nDepartment of Biology\nCollege Park, MD | 2009\nInvited Speaker\n\n\n\n\nBryn Mawr College\nDepartmental Seminar\n\n\nDepartment of Biology\nBryn Mawr, PA | 2009\nInvited Speaker\n\n\n\n\n\n\n\nEVoS Distinguished Lecture\nKeynote\n\n\nEVoS Distinguished Evening Lecture, Binghamton University\nBinghamton, NY | 2008\nKeynote Speaker\n\n\n\n\nUC Berkeley EvoDevo\nPlenary\n\n\nUniversity of California, Berkeley EvoDevo Conference\nBerkeley, CA | 2008\nPlenary Speaker\n\n\n\n\nUO/IU IGERT EvoDevo\nPlenary\n\n\nUO/IU IGERT EvoDevo Conference\nEugene, OR | 2008\nPlenary Speaker\n\n\n\n\nUniversity of Idaho\nDepartmental Seminar\n\n\nDepartment of Biological Sciences\nMoscow, ID | 2008\nInvited Speaker\n\n\n\n\nGuelph University\nDepartmental Seminar\n\n\nDepartment of Integrative Biology\nGuelph, Canada | 2008\nInvited Speaker\n\n\n\n\nOregon State University\nDepartmental Seminar\n\n\nDepartment of Zoology\nCorvallis, OR | 2008\nInvited Speaker\n\n\n\n\nBinghamton University\nDepartmental Seminar\n\n\nDepartment of Biological Sciences\nBinghamton, NY | 2008\nInvited Speaker\n\n\n\n\n\n\n\nOSU Cascades Distinguished Lectures\nKeynote\n\n\nOregon State University Cascades Campus Distinguished Evening Lectures\nBend, OR | 2007\nKeynote Speaker\n\n\n\n\nGordon Conference\nPlenary\n\n\nGordon Conference on Quantitative Genetics\nSan Diego, CA | 2007\nPlenary Speaker\n\n\n\n\nUC Davis\nDepartmental Seminar\n\n\nDepartment of Evolution and Ecology\nDavis, CA | 2007\nInvited Speaker\n\n\n\n\n\n\n\nUniversity of Illinois\nDepartmental Seminar\n\n\nDepartment of Animal Biology\nUrbana, IL | 2006\nInvited Speaker\n\n\n\n\nPortland State University\nDepartmental Seminar\n\n\nDepartment of Biology\nPortland, OR | 2006\nInvited Speaker\n\n\n\n\nTexas A&M University\nDepartmental Seminar\n\n\nDepartment of Biology\nCollege Station, TX | 2006\nInvited Speaker\n\n\n\n\n\n\n\nDevelopmental Evolution\nPlenary\n\n\nConference on the Developmental Basis of Evolutionary Change\nChicago, IL | 2005\nPlenary Speaker\n\n\n\n\nEvolutionary Psychology\nPublic Presentation\n\n\nEvolutionary Psychology Research Group\nEugene, OR | 2005\nPublic Lecture\n\n\n\n\nOregon State University\nDepartmental Seminar\n\n\nDepartment of Zoology\nCorvallis, OR | 2005\nInvited Speaker\n\n\n\n\nReed College\nDepartmental Seminar\n\n\nDepartment of Biology\nPortland, OR | 2005\nInvited Speaker\n\n\n\n\n\n\n\nLaval University\nDepartmental Seminar\n\n\nDepartment of Biology\nQuebec, Canada | 2004\nInvited Speaker\n\n\n\n\nTulane University\nDepartmental Seminar\n\n\nDepartment of Ecology and Evolutionary Biology\nNew Orleans, LA | 2004\nInvited Speaker\n\n\n\n\nUniversity of Alaska Anchorage\nDepartmental Seminar\n\n\nDepartment of Biological Sciences\nAnchorage, AK | 2004\nInvited Speaker\n\n\n\n\nUniversity of Nebraska\nDepartmental Seminar\n\n\nSchool of Biological Sciences\nLincoln, NE | 2004\nInvited Speaker\n\n\n\n\nUniversity of Oregon\nMarine Station Seminar\n\n\nOregon Institute of Marine Biology\nCharleston, OR | 2004\nInvited Speaker\n\n\n\n\nUniversity of Connecticut\nDepartmental Seminar\n\n\nDepartment of Ecology and Evolutionary Biology\nStorrs, CT | 2004\nInvited Speaker\n\n\n\n\nUniversity of Oregon\nCEEB Seminar\n\n\nCenter for Ecology and Evolutionary Biology\nEugene, OR | 2004\nInvited Speaker\n\n\n\n\n\n\n\nEugene Natural History Society\nPublic Presentation\n\n\nPublic Seminar\nEugene, OR | 2003\nPublic Lecture\n\n\n\n\nClark University\nDepartmental Seminar\n\n\nDepartment of Biology\nWorcester, MA | 2003\nInvited Speaker\n\n\n\n\n\n\n\nBinghamton University\nDepartmental Seminar\n\n\nDepartment of Biological Sciences\nBinghamton, NY | 1999\nInvited Speaker\nFor slides or recordings: wcresko@uoregon.edu"
   },
   {
-    "objectID": "teaching_old.html#current-courses",
-    "href": "teaching_old.html#current-courses",
-    "title": "Teaching",
+    "objectID": "talks_old.html#section",
+    "href": "talks_old.html#section",
+    "title": "Talks",
     "section": "",
-    "text": "Term: Fall\nLevel: Upper-division undergraduate\nDescription: This course explores the mechanisms of evolutionary change, from molecular evolution to macroevolution. Topics include natural selection, genetic drift, phylogenetics, speciation, and the evolution of complex traits.\nLearning Objectives: - Understand the fundamental principles of evolutionary biology - Apply population genetics theory to real-world examples - Analyze phylogenetic relationships and evolutionary patterns - Evaluate evidence for evolutionary processes\nCourse Materials →\n\n\n\nTerm: Winter\nLevel: Upper-division undergraduate / Graduate\nDescription: An introduction to genomic technologies and computational approaches for analyzing large-scale biological data. Students gain hands-on experience with genomic data analysis using R and command-line tools.\nTopics Covered: - Next-generation sequencing technologies - Genome assembly and annotation - RNA-seq analysis - Population genomics - GWAS and QTL mapping\nPrerequisites: BI 282 (Genetics) or equivalent\n\n\n\nTerm: Spring (alternate years)\nLevel: Graduate seminar\nDescription: In-depth exploration of current topics in evolutionary genomics through discussion of primary literature and student-led presentations."
+    "text": "University of Arizona\nDepartmental Seminar\n\n\nDepartment of Ecology and Evolutionary Biology\nTucson, AZ | 2025\nInvited Speaker\n\n\n\n\nWestern Washington University\nDepartmental Seminar\n\n\nDepartment of Biology\nBellingham, WA | 2025\nInvited Speaker"
   },
   {
-    "objectID": "teaching_old.html#past-courses",
-    "href": "teaching_old.html#past-courses",
-    "title": "Teaching",
-    "section": "Past Courses",
-    "text": "Past Courses\n\nBI 283: Introduction to Molecular Biology\nBI 471/571: Population Genetics\nBI 399: Special Studies in Genomics\nBI 610: Journal Club in Evolution and Ecology"
+    "objectID": "talks_old.html#section-1",
+    "href": "talks_old.html#section-1",
+    "title": "Talks",
+    "section": "",
+    "text": "University of Oregon\nDepartmental Seminar\n\n\nInstitute of Ecology and Evolution\nEugene, OR | 2023\nInvited Speaker"
   },
   {
-    "objectID": "teaching_old.html#educational-resources",
-    "href": "teaching_old.html#educational-resources",
-    "title": "Teaching",
-    "section": "Educational Resources",
-    "text": "Educational Resources\n\nTutorials and Workshops\n\nRAD-seq Workshop\nAnnual workshop on RAD-seq library preparation and data analysis using Stacks. - Workshop Materials - Video Tutorials\n\n\nBioinformatics Bootcamp\nIntensive one-week introduction to command-line tools and genomic data analysis. - Offered each summer - Open to UO students and external participants - Registration Information\n\n\n\nOnline Resources\n\nStacks Tutorials\nComprehensive tutorials for population genomics analysis: - Getting Started with Stacks - RAD-seq Data Processing - Population Structure Analysis\n\n\nLecture Materials\nSelected lecture slides and materials (password protected for enrolled students): - Evolution Lecture Slides - Genomics Lab Protocols"
+    "objectID": "talks_old.html#section-2",
+    "href": "talks_old.html#section-2",
+    "title": "Talks",
+    "section": "",
+    "text": "Aesthetic and Organic Complexity\nPublic Seminar\n\n\nPublic Presentation\nBoston, MA | 2021\nPublic Lecture\n\n\n\n\nBern University\nDepartmental Seminar\n\n\nInstitute of Ecology and Evolution\nBern, Switzerland | 2021\nInvited Speaker\n\n\n\n\nCardiff University\nDepartmental Seminar\n\n\nSchool of Biosciences\nCardiff, Wales, UK | 2021\nInvited Speaker"
   },
   {
-    "objectID": "teaching_old.html#mentoring-philosophy",
-    "href": "teaching_old.html#mentoring-philosophy",
-    "title": "Teaching",
-    "section": "Mentoring Philosophy",
-    "text": "Mentoring Philosophy\nOur lab is committed to fostering an inclusive and supportive environment for all trainees. We believe in:\n\nActive mentoring: Regular one-on-one meetings and goal setting\nProfessional development: Support for conference attendance, workshops, and career planning\nCollaborative learning: Peer mentoring and lab group discussions\nWork-life balance: Flexible schedules and respect for personal time\nDiversity and inclusion: Welcoming all backgrounds and perspectives"
+    "objectID": "talks_old.html#section-3",
+    "href": "talks_old.html#section-3",
+    "title": "Talks",
+    "section": "",
+    "text": "ARCS Foundation\nPublic Presentation\n\n\nAchievement Rewards for College Scientists\nPortland, OR | 2020\nPublic Lecture"
   },
   {
-    "objectID": "teaching_old.html#student-achievements",
-    "href": "teaching_old.html#student-achievements",
-    "title": "Teaching",
-    "section": "Student Achievements",
-    "text": "Student Achievements\n\nAwards and Honors\n\n2024: Vithika Goyal - Hui Fellowship\n2024: Walker Meyer - Knight Campus Undergraduate Scholar\n2023: [Student Name] - NSF Graduate Research Fellowship\n2023: [Student Name] - Best Student Presentation, Evolution Conference\n\n\n\nStudent Publications\nMany lab members have been lead authors on publications: - See our Publications page for papers with student first authors"
+    "objectID": "talks_old.html#section-4",
+    "href": "talks_old.html#section-4",
+    "title": "Talks",
+    "section": "",
+    "text": "University of Iowa\nDepartmental Seminar\n\n\nDepartment of Biology\nIowa City, IA | 2019\nInvited Speaker"
   },
   {
-    "objectID": "teaching_old.html#training-opportunities",
-    "href": "teaching_old.html#training-opportunities",
-    "title": "Teaching",
-    "section": "Training Opportunities",
-    "text": "Training Opportunities\n\nGraduate Program\nThe University of Oregon offers excellent graduate training in: - Biology Graduate Program - Bioinformatics and Genomics Training Program - Data Science Initiative\n\n\nUndergraduate Research\nWe regularly host undergraduate researchers through: - CURE Programs: Course-based Undergraduate Research Experiences - Summer REU: NSF Research Experiences for Undergraduates - Honors Thesis Projects: Year-long independent research projects - Work-Study Positions: Part-time research assistant positions\n\n\nPostdoctoral Training\nPostdocs in our lab receive training in: - Grant writing and funding strategies - Teaching and mentoring - Project management - Career development for academia and industry"
+    "objectID": "talks_old.html#section-5",
+    "href": "talks_old.html#section-5",
+    "title": "Talks",
+    "section": "",
+    "text": "Washington University\nGraduate Student Invited\n\n\nAnnual Graduate Student Invited Speaker\nSt. Louis, MO | 2018\nInvited Speaker\n\n\n\n\nNorthern Arizona University\nDepartmental Seminar\n\n\nDepartment of Biological Sciences\nFlagstaff, AZ | 2018\nInvited Speaker"
   },
   {
-    "objectID": "teaching_old.html#outreach-and-k-12-education",
-    "href": "teaching_old.html#outreach-and-k-12-education",
-    "title": "Teaching",
-    "section": "Outreach and K-12 Education",
-    "text": "Outreach and K-12 Education\n\nScience Outreach Programs\n\nOregon Science Olympiad: Volunteer judges and workshop leaders\nSPICE Program: Summer Program to Inspire Creativity in Engineering\nDarwin Day: Annual public lecture series on evolution\n\n\n\nSchool Visits\nLab members regularly visit local schools to: - Present hands-on science activities - Discuss careers in science - Mentor high school science fair projects"
+    "objectID": "talks_old.html#section-6",
+    "href": "talks_old.html#section-6",
+    "title": "Talks",
+    "section": "",
+    "text": "Stowers Institute\nResearch Seminar\n\n\nStowers Institute for Medical Research\nKansas City, MO | 2017\nInvited Speaker\n\n\n\n\nHumboldt State University\nDepartmental Seminar\n\n\nDepartment of Biological Sciences\nArcata, CA | 2017\nInvited Speaker\n\n\n\n\nEugene Natural History Society\nPublic Seminar\n\n\nPublic Presentation\nEugene, OR | 2017\nPublic Lecture"
   },
   {
-    "objectID": "teaching_old.html#resources-for-students",
-    "href": "teaching_old.html#resources-for-students",
-    "title": "Teaching",
-    "section": "Resources for Students",
-    "text": "Resources for Students\n\nGetting Started in Research\n\nHow to Contact Faculty about Research Opportunities\nWriting a Research Proposal\nFellowship and Grant Opportunities\n\n\n\nCareer Development\n\nAcademic Job Search Timeline\nIndustry Careers in Genomics\nCV and Resume Templates"
+    "objectID": "talks_old.html#section-7",
+    "href": "talks_old.html#section-7",
+    "title": "Talks",
+    "section": "",
+    "text": "CGRB Distinguished Lecture\nKeynote\n\n\nOregon State University Center for Genome Research and Biocomputing\nCorvallis, OR | 2016\nKeynote Speaker\n\n\n\n\nLund University\nDepartmental Seminar\n\n\nDepartment of Biology\nLund, Sweden | 2016\nInvited Speaker\n\n\n\n\nARCS Foundation\nPublic Presentation\n\n\nAchievement Rewards for College Scientists\nPortland, OR | 2016\nPublic Lecture"
   },
   {
-    "objectID": "teaching_old.html#contact",
-    "href": "teaching_old.html#contact",
-    "title": "Teaching",
-    "section": "Contact",
-    "text": "Contact\nFor questions about courses or training opportunities:\nDr. William Cresko\n📧 wcresko@uoregon.edu\n📍 Office Hours: Tuesdays & Thursdays, 2-3 PM (312 Pacific Hall)"
+    "objectID": "talks_old.html#section-8",
+    "href": "talks_old.html#section-8",
+    "title": "Talks",
+    "section": "",
+    "text": "Donald W. Hagen Keynote\nInternational Conference\n\n\nInternational Stickleback Conference\nLeicester, England | 2015\nKeynote Speaker\n\n\n\n\nUniversity of Kansas\nGraduate Student Speaker\n\n\nAnnual Graduate Student Speaker Series\nLawrence, KS | 2015\nInvited Speaker\n\n\n\n\nUniversity of Oregon\nDepartmental Seminar\n\n\nDepartment of Biology\nEugene, OR | 2015\nInvited Speaker"
+  },
+  {
+    "objectID": "talks_old.html#section-9",
+    "href": "talks_old.html#section-9",
+    "title": "Talks",
+    "section": "",
+    "text": "Genomics and Adaptation\nKeynote\n\n\nGenomics and Adaptation in an NGS Age, Lund University\nLund, Sweden | 2014\nKeynote Speaker\n\n\n\n\nCharles Henry Gilber Lecture\nNamed Lecture\n\n\nGilbert Icthyological Meeting\nCorvallis, OR | 2014\nKeynote Speaker\n\n\n\n\nIGERT Capstone\nPlenary\n\n\nIGERT Capstone Conference, University of Arizona\nTucson, AZ | 2014\nPlenary Speaker\n\n\n\n\nAquatic Model Organism\nPlenary\n\n\nAquatic Model Organism Meeting\nAustin, TX | 2014\nPlenary Speaker\n\n\n\n\nAGBT Conference\nPlenary\n\n\nAdvances in Genomics and BioTechnology\nPanacea, FL | 2014\nPlenary Speaker\n\n\n\n\nOregon State University\nDepartmental Seminar\n\n\nIntegrative Biology\nCorvallis, OR | 2014\nInvited Speaker"
+  },
+  {
+    "objectID": "talks_old.html#section-10",
+    "href": "talks_old.html#section-10",
+    "title": "Talks",
+    "section": "",
+    "text": "Aquatic Model Organism\nPlenary\n\n\nAquatic Model Organism Meeting\nMilwaukee, WI | 2013\nPlenary Speaker\n\n\n\n\nGENECO Summer Conference\nPlenary\n\n\nLund University\nLund, Sweden | 2013\nPlenary Speaker\n\n\n\n\nEuropean Society for Evolutionary Biology\nPlenary\n\n\nESEB Conference\nLisbon, Portugal | 2013\nPlenary Speaker\n\n\n\n\nUniversity of Alaska\nDepartmental Seminar\n\n\nDepartment of Biology and Wildlife\nFairbanks, AK | 2013\nInvited Speaker\n\n\n\n\nOregon State University\nMarine Station Seminar\n\n\nHatfield Marine Science Center\nNewport, OR | 2013\nInvited Speaker"
+  },
+  {
+    "objectID": "talks_old.html#section-11",
+    "href": "talks_old.html#section-11",
+    "title": "Talks",
+    "section": "",
+    "text": "West Coast Salmonid\nPlenary\n\n\nWest Coast Salmonid Conference\nDavis, CA | 2012\nPlenary Speaker\n\n\n\n\nEcological Genomics\nAnniversary Plenary\n\n\n10th Anniversary Ecological Genomics Conference\nSt. Louis, MO | 2012\nPlenary Speaker\n\n\n\n\nPlant and Animal Genome\nPlenary\n\n\nPAG Conference\nSan Diego, CA | 2012\nPlenary Speaker\n\n\n\n\nPanAsian Genomics\nPlenary\n\n\nPanAsian Genomics Conference, Silliman University\nPhilippines | 2012\nPlenary Speaker\n\n\n\n\nUniversity of Oregon\nPhysics Seminar\n\n\nDepartment of Physics\nEugene, OR | 2012\nInvited Speaker\n\n\n\n\nInstitut Jacques Monod\nResearch Seminar\n\n\nInstitut Jacques Monod\nParis, France | 2012\nInvited Speaker"
+  },
+  {
+    "objectID": "talks_old.html#section-12",
+    "href": "talks_old.html#section-12",
+    "title": "Talks",
+    "section": "",
+    "text": "Next Generation Genomics\nKeynote\n\n\nConference on Next Generation Genomics, University of Puerto Rico\nSan Juan, PR | 2011\nKeynote Speaker\n\n\n\n\nTupper Seminar\nNamed Lecture\n\n\nSmithsonian Tropical Research Institute\nPanama | 2011\nKeynote Speaker\n\n\n\n\nEcological Society of America\nPlenary\n\n\nESA Annual Meeting\nPortland, OR | 2011\nPlenary Speaker\n\n\n\n\nIberian Genomics Conference\nPlenary\n\n\nIberian Genomics Conference\nSeville, Spain | 2011\nPlenary Speaker\n\n\n\n\nIllumina RAD-seq\nPlenary\n\n\nIllumina RAD-seq Conference\nPortland, OR | 2011\nPlenary Speaker\n\n\n\n\nGrEBEs Evening Lecture\nPublic Presentation\n\n\nWhat Genomics Means for our Past, Present and Future\nEugene, OR | 2011\nPublic Lecture\n\n\n\n\nUniversity of Missouri\nDepartmental Seminar\n\n\nDivision of Biological Sciences\nColumbia, MO | 2011\nInvited Speaker\n\n\n\n\nInstitute Gulbenkian de Ciencia\nResearch Seminar\n\n\nInstituto Gulbenkian de Ciência\nLisbon, Portugal | 2011\nInvited Speaker\n\n\n\n\nUniversity of Washington\nDepartmental Seminar\n\n\nDepartment of Biology\nSeattle, WA | 2011\nInvited Speaker\n\n\n\n\nUniversity of Puerto Rico\nDepartmental Seminar\n\n\nDepartment of Biology\nSan Juan, PR | 2011\nInvited Speaker"
+  },
+  {
+    "objectID": "talks_old.html#section-13",
+    "href": "talks_old.html#section-13",
+    "title": "Talks",
+    "section": "",
+    "text": "Illumina NGS\nPlenary\n\n\nIllumina Next Generation Sequencing Conference\nSeattle, WA | 2010\nPlenary Speaker\n\n\n\n\nAGA Conservation Genomics\nPlenary\n\n\nAmerican Genetic Association Conference on Conservation Genomics\nHilo, HI | 2010\nPlenary Speaker\n\n\n\n\nNIH Transcriptomics\nPlenary\n\n\nNIH Conference on Transcriptomics\nPortland, OR | 2010\nPlenary Speaker\n\n\n\n\nEdinburgh RAD-seq\nPlenary\n\n\nEdinburgh RAD-seq Conference\nPortland, OR | 2010\nPlenary Speaker\n\n\n\n\nEvolution in a Genomics World\nPublic Presentation\n\n\nPublic Seminar\nSun River, OR | 2010\nPublic Lecture\n\n\n\n\nWashington State University\nDepartmental Seminar\n\n\nSchool of Biological Sciences\nVancouver, WA | 2010\nInvited Speaker\n\n\n\n\nUniversity of Alaska\nDepartmental Seminar\n\n\nDepartment of Biological Sciences\nAnchorage, AK | 2010\nInvited Speaker\n\n\n\n\nPrinceton University\nDepartmental Seminar\n\n\nDepartment of Ecology and Evolutionary Biology\nPrinceton, NJ | 2010\nInvited Speaker\n\n\n\n\nNew York University\nDepartmental Seminar\n\n\nDepartment of Biology\nNew York, NY | 2010\nInvited Speaker"
+  },
+  {
+    "objectID": "talks_old.html#section-14",
+    "href": "talks_old.html#section-14",
+    "title": "Talks",
+    "section": "",
+    "text": "Titisee Genetics Conference\nPlenary\n\n\n100th International Titisee Genetics Conference\nTitisee, Germany | 2009\nPlenary Speaker\n\n\n\n\nCGRB Genomics Symposium\nPlenary\n\n\nOregon State University Center for Genome Research and Biocomputing\nCorvallis, OR | 2009\nPlenary Speaker\n\n\n\n\nGenetic Architecture\nWorking Group\n\n\nGenetic Architecture Working Group Meeting\nVienna, Austria | 2009\nPlenary Speaker\n\n\n\n\nUniversity of Pennsylvania\nDepartmental Seminar\n\n\nDepartment of Biology\nPhiladelphia, PA | 2009\nInvited Speaker\n\n\n\n\nSyracuse University\nDepartmental Seminar\n\n\nDepartment of Biology\nSyracuse, NY | 2009\nInvited Speaker\n\n\n\n\nUniversity of Oregon\nMarine Station Seminar\n\n\nOregon Institute of Marine Biology\nCharleston, OR | 2009\nInvited Speaker\n\n\n\n\nUniversity of Maryland\nDepartmental Seminar\n\n\nDepartment of Biology\nCollege Park, MD | 2009\nInvited Speaker\n\n\n\n\nBryn Mawr College\nDepartmental Seminar\n\n\nDepartment of Biology\nBryn Mawr, PA | 2009\nInvited Speaker"
+  },
+  {
+    "objectID": "talks_old.html#section-15",
+    "href": "talks_old.html#section-15",
+    "title": "Talks",
+    "section": "",
+    "text": "EVoS Distinguished Lecture\nKeynote\n\n\nEVoS Distinguished Evening Lecture, Binghamton University\nBinghamton, NY | 2008\nKeynote Speaker\n\n\n\n\nUC Berkeley EvoDevo\nPlenary\n\n\nUniversity of California, Berkeley EvoDevo Conference\nBerkeley, CA | 2008\nPlenary Speaker\n\n\n\n\nUO/IU IGERT EvoDevo\nPlenary\n\n\nUO/IU IGERT EvoDevo Conference\nEugene, OR | 2008\nPlenary Speaker\n\n\n\n\nUniversity of Idaho\nDepartmental Seminar\n\n\nDepartment of Biological Sciences\nMoscow, ID | 2008\nInvited Speaker\n\n\n\n\nGuelph University\nDepartmental Seminar\n\n\nDepartment of Integrative Biology\nGuelph, Canada | 2008\nInvited Speaker\n\n\n\n\nOregon State University\nDepartmental Seminar\n\n\nDepartment of Zoology\nCorvallis, OR | 2008\nInvited Speaker\n\n\n\n\nBinghamton University\nDepartmental Seminar\n\n\nDepartment of Biological Sciences\nBinghamton, NY | 2008\nInvited Speaker"
+  },
+  {
+    "objectID": "talks_old.html#section-16",
+    "href": "talks_old.html#section-16",
+    "title": "Talks",
+    "section": "",
+    "text": "OSU Cascades Distinguished Lectures\nKeynote\n\n\nOregon State University Cascades Campus Distinguished Evening Lectures\nBend, OR | 2007\nKeynote Speaker\n\n\n\n\nGordon Conference\nPlenary\n\n\nGordon Conference on Quantitative Genetics\nSan Diego, CA | 2007\nPlenary Speaker\n\n\n\n\nUC Davis\nDepartmental Seminar\n\n\nDepartment of Evolution and Ecology\nDavis, CA | 2007\nInvited Speaker"
+  },
+  {
+    "objectID": "talks_old.html#section-17",
+    "href": "talks_old.html#section-17",
+    "title": "Talks",
+    "section": "",
+    "text": "University of Illinois\nDepartmental Seminar\n\n\nDepartment of Animal Biology\nUrbana, IL | 2006\nInvited Speaker\n\n\n\n\nPortland State University\nDepartmental Seminar\n\n\nDepartment of Biology\nPortland, OR | 2006\nInvited Speaker\n\n\n\n\nTexas A&M University\nDepartmental Seminar\n\n\nDepartment of Biology\nCollege Station, TX | 2006\nInvited Speaker"
+  },
+  {
+    "objectID": "talks_old.html#section-18",
+    "href": "talks_old.html#section-18",
+    "title": "Talks",
+    "section": "",
+    "text": "Developmental Evolution\nPlenary\n\n\nConference on the Developmental Basis of Evolutionary Change\nChicago, IL | 2005\nPlenary Speaker\n\n\n\n\nEvolutionary Psychology\nPublic Presentation\n\n\nEvolutionary Psychology Research Group\nEugene, OR | 2005\nPublic Lecture\n\n\n\n\nOregon State University\nDepartmental Seminar\n\n\nDepartment of Zoology\nCorvallis, OR | 2005\nInvited Speaker\n\n\n\n\nReed College\nDepartmental Seminar\n\n\nDepartment of Biology\nPortland, OR | 2005\nInvited Speaker"
+  },
+  {
+    "objectID": "talks_old.html#section-19",
+    "href": "talks_old.html#section-19",
+    "title": "Talks",
+    "section": "",
+    "text": "Laval University\nDepartmental Seminar\n\n\nDepartment of Biology\nQuebec, Canada | 2004\nInvited Speaker\n\n\n\n\nTulane University\nDepartmental Seminar\n\n\nDepartment of Ecology and Evolutionary Biology\nNew Orleans, LA | 2004\nInvited Speaker\n\n\n\n\nUniversity of Alaska Anchorage\nDepartmental Seminar\n\n\nDepartment of Biological Sciences\nAnchorage, AK | 2004\nInvited Speaker\n\n\n\n\nUniversity of Nebraska\nDepartmental Seminar\n\n\nSchool of Biological Sciences\nLincoln, NE | 2004\nInvited Speaker\n\n\n\n\nUniversity of Oregon\nMarine Station Seminar\n\n\nOregon Institute of Marine Biology\nCharleston, OR | 2004\nInvited Speaker\n\n\n\n\nUniversity of Connecticut\nDepartmental Seminar\n\n\nDepartment of Ecology and Evolutionary Biology\nStorrs, CT | 2004\nInvited Speaker\n\n\n\n\nUniversity of Oregon\nCEEB Seminar\n\n\nCenter for Ecology and Evolutionary Biology\nEugene, OR | 2004\nInvited Speaker"
+  },
+  {
+    "objectID": "talks_old.html#section-20",
+    "href": "talks_old.html#section-20",
+    "title": "Talks",
+    "section": "",
+    "text": "Eugene Natural History Society\nPublic Presentation\n\n\nPublic Seminar\nEugene, OR | 2003\nPublic Lecture\n\n\n\n\nClark University\nDepartmental Seminar\n\n\nDepartment of Biology\nWorcester, MA | 2003\nInvited Speaker"
+  },
+  {
+    "objectID": "talks_old.html#section-21",
+    "href": "talks_old.html#section-21",
+    "title": "Talks",
+    "section": "",
+    "text": "Binghamton University\nDepartmental Seminar\n\n\nDepartment of Biological Sciences\nBinghamton, NY | 1999\nInvited Speaker"
   },
   {
     "objectID": "people/bill-cresko.html",
@@ -1370,159 +1461,5 @@
     "title": "Bill Cresko",
     "section": "Contact",
     "text": "Contact\nOffice: 312 Pacific Hall\nPhone: (541) 346-4779\nEmail: wcresko@uoregon.edu\nLab Website: https://wcresko.github.io\nMailing Address:\nInstitute of Ecology and Evolution\nUniversity of Oregon\nEugene, OR 97403-5289\nUSA"
-  },
-  {
-    "objectID": "index_old.html",
-    "href": "index_old.html",
-    "title": "Cresko Laboratory",
-    "section": "",
-    "text": "We study the genomic basis of evolutionary change using the threespine stickleback fish as our primary model system. Our research combines field studies, laboratory experiments, and computational approaches to understand how organisms adapt to changing environments.\n\n\nParallel Evolution & Adaptation — We study how independent populations evolve similar solutions to environmental challenges, revealing the predictability of evolution and the genetic architecture of adaptive traits.\nHost-Microbiome Dynamics — Using stickleback as a model, we explore how host genetic variation shapes microbial communities and how these interactions influence adaptation.\nGenomic Tool Development — We developed RAD-seq technology and the Stacks software pipeline, now used by thousands of researchers worldwide for population genomics analyses.\nLearn more about our projects →\n\n\n\n\n\n\n\n\nHost genomic variation shapes gut microbiome diversity (mBio 2023)\nSeadragon genomes reveal syngnathid evolution (PNAS 2022)\nSingle-cell sequencing for genome annotation (Genetics 2022)\n\nAll publications →\n\n\n\n\n\nBill Cresko awarded Lorry Lokey Endowed Chair\nEmily Niebergall receives Goldwater Fellowship\nLab members win six conference awards\nRapid evolution paper featured in PNAS\n\nRecent updates →"
-  },
-  {
-    "objectID": "index_old.html#research-areas",
-    "href": "index_old.html#research-areas",
-    "title": "Cresko Laboratory",
-    "section": "",
-    "text": "Parallel Evolution & Adaptation — We study how independent populations evolve similar solutions to environmental challenges, revealing the predictability of evolution and the genetic architecture of adaptive traits.\nHost-Microbiome Dynamics — Using stickleback as a model, we explore how host genetic variation shapes microbial communities and how these interactions influence adaptation.\nGenomic Tool Development — We developed RAD-seq technology and the Stacks software pipeline, now used by thousands of researchers worldwide for population genomics analyses.\nLearn more about our projects →"
-  },
-  {
-    "objectID": "index_old.html#recent-highlights",
-    "href": "index_old.html#recent-highlights",
-    "title": "Cresko Laboratory",
-    "section": "",
-    "text": "Host genomic variation shapes gut microbiome diversity (mBio 2023)\nSeadragon genomes reveal syngnathid evolution (PNAS 2022)\nSingle-cell sequencing for genome annotation (Genetics 2022)\n\nAll publications →"
-  },
-  {
-    "objectID": "index_old.html#team",
-    "href": "index_old.html#team",
-    "title": "Cresko Laboratory",
-    "section": "Team",
-    "text": "Team\nLed by Bill Cresko, our lab includes research scientists, postdoctoral scholars, graduate students, and undergraduates working together on evolutionary questions.\nMeet our team →"
-  },
-  {
-    "objectID": "index_old.html#join-us",
-    "href": "index_old.html#join-us",
-    "title": "Cresko Laboratory",
-    "section": "Join Us",
-    "text": "Join Us\nWe welcome inquiries from prospective graduate students, postdocs, and undergraduates interested in:\n\nEvolutionary genomics and adaptation\nHost-microbiome interactions\nBioinformatics and computational biology\nPopulation genetics and phylogenomics\n\nOpen positions →"
-  },
-  {
-    "objectID": "index_old.html#contact",
-    "href": "index_old.html#contact",
-    "title": "Cresko Laboratory",
-    "section": "Contact",
-    "text": "Contact\nWilliam A. Cresko, Ph.D.\nInstitute of Ecology and Evolution\nUniversity of Oregon\n312 Pacific Hall\nEugene, OR 97403\n wcresko@uoregon.edu\n (541) 346-4779\n GitHub\n Instagram\n Bluesky"
-  },
-  {
-    "objectID": "projects.html#applications-in-review",
-    "href": "projects.html#applications-in-review",
-    "title": "Projects",
-    "section": "",
-    "text": "Single-Cell Resolution of the Epigenomic Basis of Adaptation in the Wild\n\n\nNIH NIGMS R01 (2026-2031) | $2,187,344 | PI: William Cresko\nUsing threespine stickleback fish to understand epigenomic mechanisms underlying adaptation in natural populations at single-cell resolution."
-  },
-  {
-    "objectID": "projects.html#current-research-funding",
-    "href": "projects.html#current-research-funding",
-    "title": "Projects",
-    "section": "",
-    "text": "Male Pregnancy and its Effects on the Brood Pouch Microbiome\n\n\nNSF (2020-2025) | $1,070,484 | PI: William Cresko\nInvestigating the unique biology of male pregnancy in syngnathid fishes and how it shapes host-microbiome interactions in the brood pouch."
-  },
-  {
-    "objectID": "projects.html#recent-major-research-projects",
-    "href": "projects.html#recent-major-research-projects",
-    "title": "Projects",
-    "section": "",
-    "text": "Mathematical Models of Host-Symbiont Ecology and Evolution\n\n\nMoore Foundation (2022-2025) | $564,000 | PI: William Cresko\nDeveloping mathematical frameworks to understand the evolutionary dynamics of host-microbiome interactions.\n\n\n\n\nNIH P50 Reducing Opioid Addiction in Mothers\n\n\nNIH P50 (2019-2025) | $11,190,603 | Co-Investigator\nMulti-institutional center grant focused on understanding and reducing opioid use disorder in pregnant and parenting mothers.\n\n\n\n\nMETA Center of Excellence in Systems Biology\n\n\nNIH Center Grant (2012-2018) | $10,298,725 | PI: William Cresko\nEstablished the Microbial Ecology and Theory of Animals Center to study host-microbiome interactions across multiple model systems."
-  },
-  {
-    "objectID": "projects.html#covid-19-response-projects",
-    "href": "projects.html#covid-19-response-projects",
-    "title": "Projects",
-    "section": "",
-    "text": "SARS-CoV-2 Testing Infrastructure and Scale-up\n\n\nOregon Health Authority (2020-2022) | $4,364,823 | PI: William Cresko\nMajor equipment purchase and infrastructure development for high-throughput COVID-19 testing at UO and throughout Oregon.\n\n\n\n\nOptimizing SARS-CoV-2 Testing in Latinx Communities\n\n\nNIH RADx-UP (2021-2023) | $1,832,583 | MPI: William Cresko\nIncreasing COVID-19 testing access and efficacy in underserved Latinx populations throughout Oregon.\n\n\n\n\nScaling up SARS-CoV-2 Testing in Latinx Communities\n\n\nNIH RADx-UP (2020-2022) | $4,166,575 | MPI: William Cresko\nLarge-scale implementation of culturally appropriate testing strategies for Oregon’s Latinx communities."
-  },
-  {
-    "objectID": "projects.html#genomics-and-transcriptomics-research",
-    "href": "projects.html#genomics-and-transcriptomics-research",
-    "title": "Projects",
-    "section": "",
-    "text": "Advancing Transcriptomics in Aquatic Models\n\n\nNIH (2011-2019) | $2,647,451 | PI: William Cresko\nDeveloped novel transcriptomic tools and CRISPR applications for aquatic model organisms. Included major supplement for CRISPR technology development.\n\n\n\n\nThe Study of Cancer Development as an Evolutionary Process\n\n\nW.M. Keck Foundation (2011-2015) | $1,000,000 | PI: William Cresko\nApplied evolutionary theory to understand cancer progression and treatment resistance.\n\n\n\n\nFunctional and Population Genomics of Small RNA Regulation\n\n\nNIH (2011-2016) | $1,484,689 | PI: William Cresko\nInvestigated the role of small RNAs in developmental plasticity and evolutionary adaptation."
-  },
-  {
-    "objectID": "projects.html#evolution-and-development-studies",
-    "href": "projects.html#evolution-and-development-studies",
-    "title": "Projects",
-    "section": "",
-    "text": "Evolutionary Genomics of Rapid Adaptation in Stickleback\n\n\nNSF (2009-2013) | $364,756 | PI: William Cresko\nDocumented genomic changes underlying rapid evolutionary responses to environmental change.\n\n\n\n\nEvolution of Development of Facial Bone Morphology\n\n\nNSF (2008-2012) | $555,016 | PI: William Cresko\nUncovered developmental genetic mechanisms controlling craniofacial variation in natural populations.\n\n\n\n\nMicroevolution of Craniofacial Development in Stickleback\n\n\nNIH (2007-2011) | $473,944 | PI: William Cresko\nIdentified genetic variants affecting skull morphology with implications for understanding human craniofacial disorders."
-  },
-  {
-    "objectID": "projects.html#infrastructure-and-educational-support",
-    "href": "projects.html#infrastructure-and-educational-support",
-    "title": "Projects",
-    "section": "",
-    "text": "Major Renovation of UO Animal Facilities\n\n\nNIH C06 (2010-2012) | $9,117,040 | PI: William Cresko\nComplete modernization of animal research facilities supporting campus-wide biomedical research.\n\n\n\n\nNSF IGERT - Evolution, Development and Genomics\n\n\nNSF (2005-2010) | $2,399,988 | PI: William Cresko\nEstablished interdisciplinary graduate training program combining evolutionary biology with genomics.\n\n\n\n\nComputational Instrument for Scientific Synthesis\n\n\nNSF MRI (2009-2011) | $1,971,109 | PI: William Cresko\nAcquisition of high-performance computing infrastructure supporting genomics research across campus.\n\n\n\n\nGraduate Internship Program Support\n\n\nETIC (2013-2015) | $1,299,109 | PI: William Cresko\nRenewable funding establishing industry partnerships for graduate student training.\n\n\n\n\nX-ray Microscope Capabilities\n\n\nMurdock Charitable Trust (2019-2020) | $500,000 | PI: William Cresko\nAdvanced imaging infrastructure for biological and materials science research."
-  },
-  {
-    "objectID": "projects.html#fellowship-and-student-support",
-    "href": "projects.html#fellowship-and-student-support",
-    "title": "Projects",
-    "section": "",
-    "text": "Postdoctoral Fellowship Support\n\n\nSuccessfully mentored 8 NIH-funded postdocs including Kirchstein NRSA Fellows\nTotal postdoctoral fellowship funding secured: &gt;$1,000,000\n\n\n\n\nGraduate Student Support\n\n\nSecured funding for 5 NSF Doctoral Dissertation Improvement Grants\nMentored NSF Graduate Research Fellowship recipients\nNIH F31 Fellowship advisor for multiple students"
-  },
-  {
-    "objectID": "projects.html#total-research-funding",
-    "href": "projects.html#total-research-funding",
-    "title": "Projects",
-    "section": "Total Research Funding",
-    "text": "Total Research Funding\nCareer Total: &gt;$60 million in federal, foundation, and state funding\nCurrent Active Funding: &gt;$1.6 million\nLeadership Roles: PI on &gt;25 major grants | Co-I on &gt;10 collaborative grants\n\nFor collaboration inquiries or data access: wcresko@uoregon.edu"
-  },
-  {
-    "objectID": "projects_old.html",
-    "href": "projects_old.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Host Genetic Control of the Microbiome\n\n\nNIH R01 (2022-2026) | PI: William Cresko, Brendan Bohannan\nUsing experimental evolution and genome-wide association studies to understand how host genetics shapes microbiome composition and function.\n\n\n\n\nGenomic Architecture of Parallel Evolution\n\n\nNSF DEB (2023-2027) | PI: William Cresko\nInvestigating the repeatability of evolution by comparing genomic changes in multiple independently evolved stickleback populations.\n\n\n\n\nMETA Center for Systems Biology\n\n\nNIH (2017-2025) | Role: Co-Investigator\nPart of the Microbial Ecology and Theory of Animals Center, studying host-microbiome interactions across multiple model systems.\n\n\n\n\n\n\n\nRapid Evolution Following Environmental Change\n\n\nNSF (2013-2018) | Outcome: PNAS publication\nDemonstrated evolution can occur within decades following the 1964 Alaska earthquake.\n\n\n\n\nSyngnathid Genome Consortium\n\n\nNSF & Moore Foundation (2014-2020) | Outcome: Multiple genome publications\nLed sequencing and analysis of syngnathid fish genomes to understand unique trait evolution.\n\n\n\n\n\n\n\nRAD-seq Technology\n\n\nYears: 2008-present | Impact: 10,000+ users worldwide\nDeveloped Restriction site Associated DNA sequencing for cost-effective genome-wide SNP discovery.\n\n\n\n\nStacks Software Pipeline\n\n\nYears: 2010-present | Downloads: 50,000+\nCreated comprehensive software for building loci from short-read sequences.\n\n\n\n\n\nNational & International: University of Alaska | Stanford Hopkins Marine Station | Max Planck Institute | Swedish Museum of Natural History\nCampus Collaborations: Institute of Ecology and Evolution | Knight Campus | META Center | Genomics Core Facility\n\n\n\nAll data available through: NCBI BioProject | Dryad | GitHub\nFor access to specific datasets or collaboration inquiries: wcresko@uoregon.edu"
-  },
-  {
-    "objectID": "projects_old.html#current-projects",
-    "href": "projects_old.html#current-projects",
-    "title": "Projects",
-    "section": "",
-    "text": "Host Genetic Control of the Microbiome\n\n\nNIH R01 (2022-2026) | PI: William Cresko, Brendan Bohannan\nUsing experimental evolution and genome-wide association studies to understand how host genetics shapes microbiome composition and function.\n\n\n\n\nGenomic Architecture of Parallel Evolution\n\n\nNSF DEB (2023-2027) | PI: William Cresko\nInvestigating the repeatability of evolution by comparing genomic changes in multiple independently evolved stickleback populations.\n\n\n\n\nMETA Center for Systems Biology\n\n\nNIH (2017-2025) | Role: Co-Investigator\nPart of the Microbial Ecology and Theory of Animals Center, studying host-microbiome interactions across multiple model systems."
-  },
-  {
-    "objectID": "projects_old.html#recent-completed-projects",
-    "href": "projects_old.html#recent-completed-projects",
-    "title": "Projects",
-    "section": "",
-    "text": "Rapid Evolution Following Environmental Change\n\n\nNSF (2013-2018) | Outcome: PNAS publication\nDemonstrated evolution can occur within decades following the 1964 Alaska earthquake.\n\n\n\n\nSyngnathid Genome Consortium\n\n\nNSF & Moore Foundation (2014-2020) | Outcome: Multiple genome publications\nLed sequencing and analysis of syngnathid fish genomes to understand unique trait evolution."
-  },
-  {
-    "objectID": "projects_old.html#methodological-developments",
-    "href": "projects_old.html#methodological-developments",
-    "title": "Projects",
-    "section": "",
-    "text": "RAD-seq Technology\n\n\nYears: 2008-present | Impact: 10,000+ users worldwide\nDeveloped Restriction site Associated DNA sequencing for cost-effective genome-wide SNP discovery.\n\n\n\n\nStacks Software Pipeline\n\n\nYears: 2010-present | Downloads: 50,000+\nCreated comprehensive software for building loci from short-read sequences."
-  },
-  {
-    "objectID": "projects_old.html#collaborative-networks",
-    "href": "projects_old.html#collaborative-networks",
-    "title": "Projects",
-    "section": "",
-    "text": "National & International: University of Alaska | Stanford Hopkins Marine Station | Max Planck Institute | Swedish Museum of Natural History\nCampus Collaborations: Institute of Ecology and Evolution | Knight Campus | META Center | Genomics Core Facility"
-  },
-  {
-    "objectID": "projects_old.html#data-resources",
-    "href": "projects_old.html#data-resources",
-    "title": "Projects",
-    "section": "",
-    "text": "All data available through: NCBI BioProject | Dryad | GitHub"
-  },
-  {
-    "objectID": "posts/2025-11-05-contreras-SACNAS.html",
-    "href": "posts/2025-11-05-contreras-SACNAS.html",
-    "title": "Ethan Contreras Presents at SACNAS",
-    "section": "",
-    "text": "Congratulations to undergraduate researcher Ethan Contreras and his mentor Shannon Snyder for his presentation at the annual conference for the Society for Advancement of Chicanos/Hispanics and Native Americans in Science (SACNAS)!"
   }
 ]
