@@ -27,11 +27,11 @@ Bill Cresko is Lorry Lokey Chair and Professor of Bioengineering, and a member o
 
 :::::: grid
 ::: {.g-col-12 .g-col-md-12}
-### Susan Bassham, Ph.D. - Senior Research Associate
+### Susan (Susie) Bassham, Ph.D. - Senior Research Associate
 :::
 
 ::: {.g-col-12 .g-col-md-4}
-![](images/lab_folks/Bassham_Susie_1.jpg){.img-fluid .rounded width="200"}
+![](images/lab_folks/Bassham_Susie_3.jpeg){.img-fluid .rounded}
 :::
 
 ::: {.g-col-12 .g-col-md-8}
@@ -39,7 +39,7 @@ Bill Cresko is Lorry Lokey Chair and Professor of Bioengineering, and a member o
 Institute of Ecology and Evolution\
 University of Oregon
 
-Susan is interested in understanding the vast variety of life. How is morphological variation, seen in populations of the same species, partitioned among different environments and what are the genetic and genomic factors associated with this partitioning? She uses a variety of molecular genetic tools to uncover genome-scale patterns that underlie phenotypic variation in wild populations of fish, and directs this knowledge to the study of developmental pathways that contribute to novel or modified morphologies.
+Susie is interested in understanding the vast variety of life. How is morphological variation, seen in populations of the same species, partitioned among different environments and what are the genetic and genomic factors associated with this partitioning? She uses a variety of molecular genetic tools to uncover genome-scale patterns that underlie phenotypic variation in wild populations of fish, and directs this knowledge to the study of developmental pathways that contribute to novel or modified morphologies.
 
 **Contact:** sbassham\@uoregon.edu\
 [Full Profile](bassham.html) \| [Publications](publications.html#bassham)
@@ -52,7 +52,7 @@ Susan is interested in understanding the vast variety of life. How is morphologi
 :::
 
 ::: {.g-col-12 .g-col-md-4}
-![](images/lab_folks/Currey_Mark_1.jpg){.img-fluid .rounded}
+![](images/lab_folks/Currey_Mark_3.jpeg){.img-fluid .rounded}
 :::
 
 ::: {.g-col-12 .g-col-md-8}
@@ -114,7 +114,7 @@ Chuck is....
 :::
 
 ::: {.g-col-12 .g-col-md-4}
-![](images/lab_folks/xx.jpg){.img-fluid .rounded}
+![](images/lab_folks/Rice_Lily.jpeg){.img-fluid .rounded}
 :::
 
 ::: {.g-col-12 .g-col-md-8}
@@ -135,7 +135,7 @@ Lily is....
 :::
 
 ::: {.g-col-12 .g-col-md-4}
-![](images/lab_folks/xx.jpg){.img-fluid .rounded}
+![](images/lab_folks/Belafort_Bruno.jpeg){.img-fluid .rounded}
 :::
 
 ::: {.g-col-12 .g-col-md-8}
