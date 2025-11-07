@@ -2,7 +2,6 @@
 title: "Talks"
 page-layout: full
 toc: false
-css: talks-styles.css
 ---
 
 ## 2025
