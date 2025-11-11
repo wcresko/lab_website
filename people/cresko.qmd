@@ -1,0 +1,156 @@
+---
+title: "William A. Cresko"
+subtitle: "Professor of Biology | Lorry Lokey Chair in Bioengineering | Associate Vice President for Research"
+image: "/images/cresko-profile.jpg"
+about:
+  template: trestles
+  image-shape: rounded
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:wcresko@uoregon.edu
+    - icon: google
+      text: Scholar
+      href: https://scholar.google.com/citations?user=USERID
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/wcresko
+    - icon: github
+      text: GitHub
+      href: https://github.com/wcresko
+page-layout: full
+toc: true
+---
+
+## Biography
+
+Bill Cresko is a Professor of Biology, the Lorry Lokey Chair in Bioengineering, and Associate Vice President for Research at the University of Oregon. He serves as Director of the Center for Biomedical Data Science in the Knight Campus for Accelerating Scientific Impact. With career funding exceeding $60 million, Bill has established himself as a leader in evolutionary genomics, developing tools and approaches that are used by thousands of scientists worldwide.
+
+Bill studies the genomic basis of evolutionary change using comparative studies of natural populations in the wild and experimental approaches in the laboratory. He uses the threespine stickleback fish as his primary model to understand how molecular genetic variation can modify networks of genes and proteins to produce variation in evolutionarily important traits. His lab is also well known for developing genomic tools (e.g. RAD-seq) and super-computing software (e.g. Stacks), both of which are now used by thousands of scientists around the world.
+
+## Education
+
+- **Ph.D. Biology**, Clark University (2001)
+  - Advisor: Dr. Susan Foster
+  - Dissertation on threespine stickleback evolution
+- **B.A. Biology**, University of Pennsylvania (1991)
+
+## Honors & Awards
+
+- **2022**: Lorry Lokey Endowed Chair in Bioengineering
+- **2016**: Elected Fellow of the American Association for the Advancement of Science (AAAS)
+- **2013**: Fund for Faculty Excellence Award, University of Oregon
+- **2010**: Biology Department Teaching Recognition Award, University of Oregon
+- **2001-2004**: NRSA Postdoctoral Fellowship, National Institutes of Health
+- **1998-2000**: Doctoral Dissertation Improvement Grant (DDIG), NSF
+- **1996-2000**: STAR Graduate Fellowship, Environmental Protection Agency
+- **1995 & 1996**: NSF GRFP Honorable Mention
+
+## Appointments
+
+### Current Positions
+- **2022-present**: Lorry Lokey Chair in Bioengineering
+- **2016-present**: Professor, Department of Biology, University of Oregon
+- **2014-present**: Associate Vice President for Research, University of Oregon
+- **2022-present**: Director, Center for Biomedical Data Science, Knight Campus
+
+### Previous Positions
+- **2013-2014**: Director, Institute of Ecology and Evolution, University of Oregon
+- **2012-2017**: Director, Master's Program in Genomics and Bioinformatics
+- **2011-2016**: Associate Professor, Department of Biology, University of Oregon
+- **2009-2012**: Director of High Throughput Sequencing Center, University of Oregon
+- **2005-2011**: Assistant Professor, Department of Biology, University of Oregon
+- **2001-2004**: NRSA Postdoctoral Fellow, NIH, University of Oregon
+
+## Research Interests
+
+- **Quantitative & Evolutionary Genomics**: Understanding the genetic basis of complex traits
+- **Computational Biology**: Developing tools for genomic data analysis
+- **Cell & Developmental Biology**: Mechanisms of morphological evolution
+- **Molecular Biology & Genetics**: Functional genomics approaches
+- **Biological Data Science**: Large-scale data integration and analysis
+
+## Major Research Contributions
+
+### RAD-seq Development
+Co-developed restriction-site associated DNA sequencing (RAD-seq), revolutionizing population genomics for non-model organisms.
+
+### Stacks Software
+Led development of the Stacks software pipeline, now the standard tool for RAD-seq data analysis used by thousands of researchers worldwide.
+
+### Stickleback Genomics
+Established threespine stickleback as a premier model for understanding rapid evolution and the genetic basis of adaptation.
+
+### Host-Microbiome Interactions
+Pioneered gnotobiotic stickleback as a model for understanding how host genetics influences microbiome composition.
+
+## Professional Activities
+
+### Editorial Service
+- **2016-present**: Associate Editor, PeerJ
+- **2014-2015**: Guest Associate Editor, PLoS Genetics
+
+### Grant Review Panels
+- Ad hoc Member NIH K99/R00 study section (2018)
+- Ad hoc Member NIH Molecular NeuroGenomics Study Section (2016)
+- Ad hoc Member NIH Genes, Genomes and Genetics Study Section (2013-15)
+- Ad hoc Member NIH Center of Excellence Study Section (2014)
+- NSF Evolutionary Genetics Grant Review Panel (2010-2013)
+
+### International Activities
+- Dissertation Opponent in Sweden (2) and Portugal (1) (2011-2015)
+- External Reviewer for tenure cases at AAU institutions
+- Reviewer for European Research Council (ERC) proposals (2012-2014)
+- Reviewer for Austrian Science Foundation grants (2014)
+- Outside Program Review Member, GENECO program, Sweden (2014)
+
+### Conference Organization
+- Organizer, 2014 Evo-WIBO Conference
+- Organizer, NESCENT RAD-seq workshop, Durham, NC (2011)
+- Co-organizer, Fifth International Stickleback Conference (2006)
+
+### Journal Peer Review
+Regular reviewer for Science, Nature, PNAS, Development, Developmental Biology, Evolution, Ecology, Molecular Biology and Evolution, Genetics, G3, Genome Research, PLoS Genetics, Genome Biology, and many others.
+
+## Funding
+
+Bill has secured over $60 million in research funding from:
+- National Institutes of Health (NIH)
+- National Science Foundation (NSF)
+- M.J. Murdock Charitable Trust
+- W.M. Keck Foundation
+- Other federal and private sources
+
+## Publications
+
+Author of nearly 100 peer-reviewed publications with thousands of citations, including landmark papers in:
+- Science
+- Nature
+- PNAS
+- Genetics
+- PLoS Genetics
+- Molecular Ecology
+- Evolution
+- Genome Biology
+
+## Leadership & Service
+
+### University Leadership
+- Associate Vice President for Research
+- Knight Campus leadership team
+- Presidential Initiative in Data Science leader
+- Major role in securing $600+ million in philanthropic support
+
+### Training Programs
+- Co-founded Applied Graduate Internship Program in Genomics and Bioinformatics
+- Mentor to dozens of graduate students and postdocs
+- Trained numerous undergraduates in research
+
+## Teaching
+
+Courses in:
+- Evolutionary Genomics
+- Computational Biology
+- Genetics
+- Data Science
+- Bioinformatics

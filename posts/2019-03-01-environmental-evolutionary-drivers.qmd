@@ -1,0 +1,86 @@
+---
+title: "New Publication: Modular Gene Networks Drive Stress Resistance Evolution"
+author: "Cresko Lab"
+date: "2019-03-01"
+categories: [news, publication, journal article, evolutionary genetics, gene networks, G3]
+image: "environmental-evolutionary-drivers.jpg"
+draft: false
+---
+
+Important publication in G3: Genes|Genomes|Genetics reveals how environmental and evolutionary drivers shape modular gene regulatory networks!
+
+Former graduate student Kristin Sikkink, in collaboration with Robert Reynolds, Kate Ituarte, Patrick Phillips, and Bill Cresko, demonstrates how stress resistance evolution is controlled by modular transcriptional networks that respond dynamically to both heat and oxidative stress in C. remanei.
+
+## Network Discovery
+
+The research reveals:
+- Modular gene regulatory network organization
+- Environment-specific network activation
+- Evolutionary rewiring of stress responses
+- Transcriptional plasticity patterns
+- Network robustness and flexibility
+
+## Experimental Evolution
+
+Key approaches include:
+- Multi-generation selection experiments
+- Heat and oxidative stress treatments
+- RNA-seq transcriptional profiling
+- Network analysis methods
+- Comparative genomics
+
+## Stress Response Systems
+
+The study identifies:
+- Heat stress response modules
+- Oxidative stress pathways
+- Cross-stress network connections
+- Evolutionary changes in regulation
+- Plasticity evolution patterns
+
+## Transcriptional Innovation
+
+Findings demonstrate:
+- Dynamic network reconfiguration
+- Module-specific evolution
+- Regulatory rewiring
+- Expression level changes
+- Network topology alterations
+
+## Evolutionary Theory
+
+This work advances:
+- Understanding of network evolution
+- Gene regulatory adaptation
+- Phenotypic plasticity mechanisms
+- Stress response evolution
+- Systems biology perspectives
+
+## C. remanei Model
+
+The system provides:
+- Rapid generation times
+- Experimental evolution power
+- Genomic resources
+- Stress response conservation
+- Comparative opportunities
+
+## Environmental Relevance
+
+Applications include:
+- Climate change adaptation
+- Stress tolerance evolution
+- Organismal resilience
+- Population persistence
+- Evolutionary predictions
+
+## Collaborative Success
+
+This publication represents:
+- Graduate student achievement
+- Cross-lab collaboration
+- Integration of approaches
+- Mentorship excellence
+- Scientific teamwork
+
+[Read the paper →](https://www.g3journal.org/content/9/3/969.abstract)

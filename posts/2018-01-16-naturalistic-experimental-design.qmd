@@ -1,0 +1,84 @@
+---
+title: "New Publication: Naturalistic Designs for Understanding Gene-Environment Interactions"
+author: "Cresko Lab"
+date: "2018-01-16"
+categories: [news, publication, journal article, human genetics, prevention research]
+image: "naturalistic-experimental-design.jpg"
+draft: false
+---
+
+Important interdisciplinary publication in Prevention Science explores naturalistic experimental designs for understanding gene-environment interactions!
+
+Leslie Leve, Jenae Neiderhiser, Gordon Harold, Misaki Natsuaki, Brendan Bohannan, and Bill Cresko demonstrate how adoption studies, sibling designs, and in vitro fertilization approaches can illuminate the complex interplay between genes and environment in human development and prevention research.
+
+## Research Innovation
+
+The publication explores three key designs:
+- Children adopted at birth (common garden approach)
+- Sibling designs with differential rearing (cross-fostering)
+- In vitro fertilization variations (prenatal cross-fostering)
+
+## Common Garden Approach
+
+Adoption studies reveal:
+- Genetic influences separated from rearing
+- Environmental effects on development
+- Gene-environment correlations
+- Adoptive parent influences
+- Nature versus nurture parsing
+
+## Cross-Fostering Insights
+
+Sibling designs demonstrate:
+- Within-family genetic variation effects
+- Differential environmental influences
+- Biological versus adoptive parent contributions
+- Shared versus unique environments
+- Developmental trajectories
+
+## IVF Design Power
+
+Assisted reproduction enables:
+- Egg donation studies
+- Sperm donation analyses
+- Embryo donation research
+- Surrogacy investigations
+- Prenatal environment effects
+
+## Prevention Applications
+
+These designs inform:
+- Risk factor identification
+- Intervention targeting
+- Resilience mechanisms
+- Protective factor discovery
+- Precision prevention approaches
+
+## Interdisciplinary Bridge
+
+This work connects:
+- Human and animal research
+- Basic and applied science
+- Genetics and psychology
+- Biology and social science
+- Research and practice
+
+## Methodological Contributions
+
+The paper provides:
+- Design comparison frameworks
+- Statistical power considerations
+- Ethical guidelines
+- Practical implementation advice
+- Future research directions
+
+## Broader Impact
+
+Applications include:
+- Child development understanding
+- Mental health prevention
+- Educational interventions
+- Policy recommendations
+- Personalized medicine
+
+[Read the paper →](https://link.springer.com/article/10.1007%2Fs11121-017-0746-8)

@@ -21,7 +21,7 @@ University of Oregon
 Bill Cresko is Lorry Lokey Chair and Professor of Bioengineering, and a member of the Institute of Ecology and Evolution (IE2) at the University of Oregon. He has had leadership roles on campus as the director of IE2, associate vice president of research (2014-2018), and the executive director of the Presidential Initiative in Data Science (2018-2023). He is currently the UO Director of the Center for Biomedical Data Science. Cresko studies the genomic basis of evolutionary change using comparative studies of natural populations in the wild and experimental approaches in the laboratory. He uses the threespine stickleback fish as his primary model to understand how molecular genetic variation can modify networks of genes and proteins to produce variation in evolutionarily important traits.
 
 **Contact:** wcresko\@uoregon.edu\
-[Full Profile](cresko.html) \| [Google Scholar](https://scholar.google.com/citations?user=USERID) \| [ORCID](https://orcid.org/0000-0000-0000-0000)
+[Full Profile](people/cresko.qmd) \| [Google Scholar](https://scholar.google.com/citations?user=USERID) \| [ORCID](https://orcid.org/0000-0000-0000-0000)
 :::
 ::::::
 
@@ -42,7 +42,7 @@ University of Oregon
 Susie is interested in understanding the vast variety of life. How is morphological variation, seen in populations of the same species, partitioned among different environments and what are the genetic and genomic factors associated with this partitioning? She uses a variety of molecular genetic tools to uncover genome-scale patterns that underlie phenotypic variation in wild populations of fish, and directs this knowledge to the study of developmental pathways that contribute to novel or modified morphologies.
 
 **Contact:** sbassham\@uoregon.edu\
-[Full Profile](bassham.html) \| [Publications](publications.html#bassham)
+[Full Profile](people/bassham.qmd) \| [Publications](publications.html#bassham)
 :::
 ::::::
 
@@ -62,7 +62,7 @@ University of Oregon
 Mark's research investigates the genetic and genomic basis of evolutionary change in natural populations. He uses computational approaches to analyze large-scale genomic datasets and understand patterns of genetic variation that contribute to adaptation and speciation.
 
 **Contact:** mcurrey\@uoregon.edu\
-[Publications](publications.html#currey)
+[Full Profile](people/currey.qmd) \| [Publications](publications.html#currey)
 :::
 ::::::
 
@@ -83,7 +83,7 @@ University of Oregon
 Shannon is a graduate student studying the transcriptional and epigenetic basis of transgenerational inheritence using the freshwater microcrustacean *Daphnia*. Shannon earned her undergraduate and Masters degrees at Arizona State University under the tutelage of Dr. Mike Lynch. Shannon was awarded support from the NIH T32 Genetics Training Program.
 
 **Contact:** ssnyder3\@uoregon.edu\
-[Full Profile](healey.html)
+[Full Profile](people/snyder.qmd)
 :::
 ::::::
 
@@ -103,8 +103,7 @@ University of Oregon
 
 Chuck is....
 
-**Contact:** ssnyder3\@uoregon.edu\
-[Full Profile](healey.html)
+**Contact:** ckimmel\@uoregon.edu
 :::
 ::::::
 
@@ -159,7 +158,7 @@ Bruno is....
 -   **Bob Week, Ph.D.** (2022-2025) - Supported by Moore Foundation Funding
 -   **Veronica Oro, Ph.D.** (2021-2024) - Supported by Providence-KCASI Fellowship
 -   **Hannah Tavalire, Ph.D.** (2017-2020) - Supported by Grant Funding. Now Research Associate at University of Oregon
--   **Martin Stervander, Ph.D.** (2017-2020) - Postdoctoral Fellow. Martin was a postdoctoral research fellow on a three-year grant from the Swedish Research Council. In the Cresko Lab, he does research in comparative genomics of syngnathid fishes. With a background in phylogenetic and phylogenomic analyses of birds, his overall research interests span microevolutionary dynamics to large-scale macroevolution. He received his PhD at Lund University, Sweden, in 2015 with a thesis on speciation in birds.
+-   **Martin Stervander, Ph.D.** (2017-2020) - Postdoctoral Fellow. Martin was a postdoctoral research fellow on a three-year grant from the Swedish Research Council. In the Cresko Lab, he does research in comparative genomics of syngnathid fishes. With a background in phylogenetic and phylogenomic analyses of birds, his overall research interests span microevolutionary dynamics to large-scale macroevolution. He received his PhD at Lund University, Sweden, in 2015 with a thesis on speciation in birds. [Full Profile](people/stervander.qmd)
 -   **Emily Beck, Ph.D.** (2017-2020) - Postdoctoral Fellow supported by NIH Ruth Kirchstein NRSA Fellowship. Emily's research focuses on the evolutionary genomics of adaptation in natural populations. She is particularly interested in understanding how genetic variation influences phenotypic diversity and adaptation to different environments. Her work combines population genomics, quantitative genetics, and experimental approaches to understand evolutionary processes. Now Assistant Research Professor at University of Oregon.
 -   **Gavin Woodruff, Ph.D.** (2015-2020) - Supported by Grant Funding
 -   **Ann Petersen, Ph.D.** (2014-2019) - Supported by Grant Funding
@@ -179,7 +178,7 @@ Bruno is....
 #### Ph.D. Students
 
 -   **Caitlin Smith** (2019-2024) - Supported by Grant Funding
--   **Hope Healey** (2019-2024) - Supported by NIH Genetics Training Program (GTP)
+-   **Hope Healey** (2019-2024) - Supported by NIH Genetics Training Program (GTP). [Full Profile](people/healey.qmd)
 -   **Allison Fuiten** (2012-2019) - Supported by NIH Developmental Training Program (DTP) and NSF DDIG
 -   **Thom Nelson** (2011-2017) - Supported by NIH Developmental Training Program (DTP) and NSF DDIG
 -   **Kristin Alligood** (2010-2017) - Supported by NIH Developmental Training Program (DTP) and NSF DDIG
@@ -205,7 +204,7 @@ Bruno is....
 
 -   **Jillian Vogel** (2024-2025) - Jillian was a postdoctoral scholar in the laboratory.
 -   **Hayden Penn** (2024-2025) - Post-baccalaureate Scholar
--   **Micah Woods** (2023-2024) - Micah assisted with a range of projects throughout the lab. Before their role as a Post-Baccalaureate Scholar, they worked as a Knight Campus Undergraduate Scholar exploring gene expression in craniofacial development of zebrafish, stickleback, and pipefish using in situ hybridization. They wrote, defended, and earned the Robert D. Clark Award for their thesis in philosophy of biology. Recently published in Ms. Magazine highlighting the contributions of Dr. Kata Karáth.
+-   **Micah Woods** (2023-2024) - Micah assisted with a range of projects throughout the lab. Before their role as a Post-Baccalaureate Scholar, they worked as a Knight Campus Undergraduate Scholar exploring gene expression in craniofacial development of zebrafish, stickleback, and pipefish using in situ hybridization. They wrote, defended, and earned the Robert D. Clark Award for their thesis in philosophy of biology. Recently published in Ms. Magazine highlighting the contributions of Dr. Kata Karáth. [Full Profile](people/woods.qmd)
 
 ------------------------------------------------------------------------
 

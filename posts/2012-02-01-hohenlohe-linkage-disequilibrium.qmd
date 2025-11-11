@@ -1,0 +1,55 @@
+---
+title: "Publication Reveals Extensive Linkage Disequilibrium in Stickleback"
+author: "Cresko Lab"
+date: "2012-02-01"
+categories: [publication, journal article, stickleback, population genomics, linkage disequilibrium]
+image: "linkage-disequilibrium.jpg"
+draft: false
+---
+
+We're excited to share a new publication revealing unexpected patterns of genome-wide linkage in threespine stickleback!
+
+The paper "Extensive linkage disequilibrium and parallel adaptive divergence across threespine stickleback genomes" has been published in Philosophical Transactions of the Royal Society B. Dr. Paul Hohenlohe led this collaborative effort that challenges previous models of stickleback evolution.
+
+## About the Research
+
+Our genome-wide analyses reveal extensive linkage disequilibrium in stickleback populations, supporting a previously unappreciated biogeographic model for the stickleback radiation. The work describes a metapopulation with appreciable bi-directional gene flow combined with strong divergent selection between oceanic and freshwater populations.
+
+## Key Insights
+
+The research demonstrates:
+- Unexpectedly high levels of linkage disequilibrium across the genome
+- Evidence for ongoing gene flow between marine and freshwater populations
+- A mechanism for rapid re-assembly of multi-locus genotypes
+- Parallel genomic divergence patterns across independent populations
+
+## Evolutionary Model
+
+These results suggest a new model that may provide a mechanism for the rapid re-assembly and evolution of multi-locus genotypes in newly colonized freshwater habitats. This has important implications for understanding:
+- Rapid adaptation in nature
+- The genetic architecture of complex traits
+- Parallel evolution at the genomic level
+
+## Research Team
+
+- Paul Hohenlohe (Lead Author, now at University of Idaho)
+- Susan Bassham
+- Mark Currey
+- William Cresko
+
+## Methods Innovation
+
+This study showcased:
+- Early application of RAD-seq for population genomics
+- Novel analytical approaches for detecting selection
+- Integration of population genetics theory with genomic data
+
+## Broader Implications
+
+This work contributes to our understanding of:
+- How organisms rapidly adapt to new environments
+- The role of standing genetic variation in evolution
+- The genetic basis of parallel phenotypic evolution
+- Conservation genetics in the face of environmental change
+
+[Read the full article at Royal Society Publishing →](https://royalsocietypublishing.org/doi/full/10.1098/rstb.2011.0245)

@@ -1,0 +1,95 @@
+---
+title: "New Publication: Culturally Tailored COVID-19 Intervention for Oregon's Latinx Communities"
+author: "Cresko Lab"
+date: "2022-09-23"
+categories: [news, publication, journal article, public health, COVID-19, community engagement]
+image: "covid-latinx-intervention.jpg"
+draft: false
+---
+
+Important publication in Frontiers in Public Health describes development of culturally tailored interventions to address COVID-19 disparities!
+
+Bill Cresko joins a collaborative team led by Jennifer Budd in documenting the development and design of interventions specifically tailored to address COVID-19 disparities among Oregon's Latinx communities, demonstrating the power of community-engaged research during public health emergencies.
+
+## Community Partnership
+
+The research demonstrates:
+- Community-based participatory approaches
+- Culturally responsive intervention design
+- Trust building with marginalized communities
+- Equitable research practices
+- Social justice in science
+
+## COVID-19 Disparities
+
+The work addresses:
+- Disproportionate pandemic impacts
+- Healthcare access barriers
+- Social determinants of health
+- Structural inequalities
+- Community resilience
+
+## Intervention Development
+
+Key components include:
+- Culturally appropriate messaging
+- Language accessibility
+- Community health workers
+- Trusted messenger networks
+- Barrier reduction strategies
+
+## Oregon Focus
+
+The study highlights:
+- Local community needs
+- Regional disparities
+- State-level responses
+- Community organizations
+- Grassroots efforts
+
+## Public Health Impact
+
+This research provides:
+- Evidence-based interventions
+- Scalable approaches
+- Policy recommendations
+- Community empowerment
+- Health equity advancement
+
+## Methodological Innovation
+
+The work employs:
+- Mixed methods approaches
+- Community engagement strategies
+- Participatory design
+- Implementation science
+- Equity frameworks
+
+## Interdisciplinary Excellence
+
+This collaboration brings together:
+- Public health expertise
+- Community organizations
+- Academic researchers
+- Healthcare providers
+- Policy makers
+
+## Lessons Learned
+
+Key insights include:
+- Importance of cultural tailoring
+- Community partnership value
+- Trust building necessity
+- Flexibility requirements
+- Sustainability considerations
+
+## Future Applications
+
+This model informs:
+- Future pandemic responses
+- Health disparity interventions
+- Community engagement practices
+- Equity-centered research
+- Public health preparedness
+
+[Download the paper →]({{ site.url }}{{ site.baseurl }}/assets/publications/2022_Budd_FiPH.pdf)

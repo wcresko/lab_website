@@ -1,0 +1,86 @@
+---
+title: "New Publication: Iodide Supplementation Ameliorates Perchlorate Thyroid Damage"
+author: "Cresko Lab"
+date: "2017-03-01"
+categories: [news, publication, journal article, endocrinology, environmental toxicology]
+image: "iodide-perchlorate-thyroid.jpg"
+draft: false
+---
+
+Important publication in General and Comparative Endocrinology reveals that exogenous iodide can protect against perchlorate-induced thyroid damage!
+
+Adam Gardell, Frank von Hippel, Aubrey Adams, Danielle Dillon, Ann Petersen, John Postlethwait, Bill Cresko, and C. Loren Buck demonstrate that iodide supplementation significantly ameliorates most thyroid histomorphological phenotypes induced by perchlorate exposure, offering potential mitigation strategies for environmental contamination.
+
+## Major Findings
+
+The research reveals:
+- Iodide supplementation protects against perchlorate damage
+- Follicle proliferation is significantly reduced
+- Colloid depletion is prevented
+- Thyrocyte hypertrophy is ameliorated
+- Protective effects vary with developmental stage
+
+## Mechanistic Insights
+
+Key discoveries about:
+- Sodium-iodide symporter (NIS) function
+- Competitive inhibition mechanisms
+- Iodide transport dynamics
+- Thyroid hormone synthesis protection
+- Endocrine disruption mitigation
+
+## Environmental Relevance
+
+This work addresses:
+- Widespread perchlorate contamination
+- Potential remediation strategies
+- Dietary intervention possibilities
+- Public health implications
+- Water treatment approaches
+
+## Histopathological Analysis
+
+The study documents:
+- Follicle area restoration in adults
+- Reduced follicle proliferation
+- Colloid preservation
+- Normal thyrocyte morphology
+- Tissue architecture maintenance
+
+## Developmental Differences
+
+Findings reveal:
+- Adult versus subadult response variation
+- Stage-specific protective effects
+- Developmental timing importance
+- Age-dependent vulnerability
+- Therapeutic window considerations
+
+## Clinical Applications
+
+Potential implications for:
+- Human health protection strategies
+- Dietary supplementation guidelines
+- Risk mitigation approaches
+- Vulnerable population protection
+- Environmental health policy
+
+## Obesogen Connection
+
+The research also explores:
+- Metabolic disruption aspects
+- Body weight regulation effects
+- Energy homeostasis impacts
+- Endocrine-metabolism interactions
+- Broader health consequences
+
+## Conservation Impact
+
+This work informs:
+- Wildlife protection strategies
+- Ecosystem health management
+- Contaminated habitat remediation
+- Population recovery approaches
+- Environmental monitoring priorities
+
+[Read the paper →](https://www.sciencedirect.com/science/article/pii/S0016648016303483?via%3Dihub)

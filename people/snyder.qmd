@@ -1,0 +1,98 @@
+---
+title: "Shannon Snyder"
+subtitle: "Graduate Student"
+image: "/images/snyder-profile.jpg"
+about:
+  template: trestles
+  image-shape: rounded
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:ssnyder@uoregon.edu
+    - icon: google
+      text: Scholar
+      href: https://scholar.google.com/citations?user=USERID
+page-layout: full
+toc: true
+---
+
+## Biography
+
+Shannon Snyder is a graduate student in the Cresko Laboratory focusing on the evolution of transgenerational phenotypic plasticity. Using the invasive water flea *Daphnia lumholtzi* as a model system, Shannon investigates how organisms respond to environmental threats across multiple generations and the molecular mechanisms underlying these remarkable adaptations.
+
+## Education
+
+- **Ph.D. Candidate, Biology**, University of Oregon (in progress)
+- **B.S.**, [Previous Institution]
+
+## Research Interests
+
+My dissertation work focuses on uncovering the molecular mechanisms governing within and between generational phenotypic plasticity. By capitalizing on the invasive water flea, *Daphnia lumholtzi*'s, dramatic morphological response to predation, I am working to disentangle the molecular and epigenetic mechanisms underlying this plastic response and its persistence over generational time.
+
+## Current Research
+
+### Transgenerational Plasticity in *Daphnia*
+- Investigating predator-induced morphological defenses
+- Tracking phenotypic changes across generations
+- Identifying epigenetic inheritance mechanisms
+
+### Molecular Mechanisms
+- Gene expression analysis during defense induction
+- Epigenetic modifications and inheritance
+- Hormonal signaling pathways
+- Environmental sensing mechanisms
+
+### Evolutionary Implications
+- Adaptive value of transgenerational plasticity
+- Costs and benefits of phenotypic flexibility
+- Invasion biology and plasticity
+- Climate change and adaptive responses
+
+## Research Approach
+
+### Experimental Methods
+- Multi-generational exposure experiments
+- Predator cue manipulations
+- Morphological measurements
+- Behavioral assays
+
+### Molecular Techniques
+- RNA sequencing
+- Epigenetic profiling
+- CRISPR/Cas9 genome editing
+- Hormone quantification
+
+### Computational Analyses
+- Transcriptomic analysis
+- Epigenetic data processing
+- Statistical modeling
+- Evolutionary simulations
+
+## Skills
+
+- **Organismal Biology**: *Daphnia* culture and maintenance
+- **Molecular Biology**: Gene expression analysis, epigenetics
+- **Microscopy**: Imaging and morphological analysis
+- **Data Analysis**: R, Python, bioinformatics
+- **Experimental Design**: Multi-generational studies
+
+## Professional Activities
+
+- Conference presentations
+- Peer review service
+- Graduate student mentoring
+- Science outreach
+
+## Teaching Experience
+
+- Graduate Teaching Fellow
+- Mentoring undergraduate researchers
+- Workshop instruction
+
+## Future Directions
+
+My research aims to:
+- Understand the molecular basis of adaptive plasticity
+- Predict evolutionary responses to environmental change
+- Apply findings to conservation and management
+- Bridge ecology, evolution, and molecular biology

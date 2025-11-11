@@ -1,0 +1,87 @@
+---
+title: "New Publication: Computational Approaches for Mining Genomic Databases"
+author: "Cresko Lab"
+date: "2014-01-27"
+categories: [news, publication, book chapter, bioinformatics, computational biology]
+image: "computational-databases.jpg"
+draft: false
+---
+
+We're pleased to announce a new book chapter on computational approaches for mining publicly available genomic databases!
+
+This comprehensive guide by Richard Voelker, William Cresko, and Clayton Burgland provides researchers with essential skills for efficiently obtaining, manipulating, and interrogating genomic data from public repositories. Published as part of a major bioinformatics methods collection, this chapter empowers scientists to leverage the wealth of publicly available genomic resources.
+
+## Chapter Highlights
+
+The publication covers:
+- Introduction to primary genomic data repositories
+- Common file format specifications
+- Sequence annotation best practices
+- UCSC Genome Browser utilization
+- Genomic interval operations
+- BED format manipulation
+
+## Practical Application
+
+A fully worked example demonstrates:
+- ChIP-seq data analysis
+- Annotation data integration
+- Query formulation strategies
+- Data visualization techniques
+- Result interpretation methods
+
+## Key Learning Objectives
+
+Readers will master:
+- Efficient data retrieval from public databases
+- File format conversions and manipulations
+- Command-line tools for genomic analysis
+- Browser-based data exploration
+- Integration of diverse data types
+
+## Essential Skills
+
+The chapter teaches:
+- Navigation of major genomic databases
+- Understanding of standardized file formats
+- Use of bedtools and related utilities
+- Custom track creation
+- Batch data processing
+
+## Target Audience
+
+This resource benefits:
+- Graduate students entering genomics
+- Researchers new to bioinformatics
+- Biologists transitioning to computational work
+- Core facility personnel
+- Educators teaching genomics
+
+## Database Coverage
+
+Featured repositories include:
+- NCBI/GenBank
+- UCSC Genome Browser
+- Ensembl
+- ENCODE project
+- Model organism databases
+
+## Computational Tools
+
+Introduction to essential software:
+- Command-line utilities
+- Scripting approaches
+- Browser interfaces
+- Data manipulation tools
+- Visualization platforms
+
+## Educational Impact
+
+This chapter serves as:
+- Laboratory training material
+- Course curriculum content
+- Self-study resource
+- Reference guide
+- Protocol foundation
+
+[Read the chapter →](https://link.springer.com/protocol/10.1007%2F978-1-62703-980-2_24)

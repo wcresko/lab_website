@@ -1,0 +1,86 @@
+---
+title: "New Publication: Developmental Timing of Perchlorate Exposure Affects Skeletal Development"
+author: "Cresko Lab"
+date: "2015-02-16"
+categories: [news, publication, journal article, developmental biology, environmental toxicology]
+image: "perchlorate-skeletal-development.jpg"
+draft: false
+---
+
+Important publication in General and Comparative Endocrinology reveals critical windows for perchlorate effects on stickleback skeletal development!
+
+Ann Petersen Furin, Frank von Hippel, John Postlethwait, C. Loren Buck, Bill Cresko, and Todd O'Hara demonstrate that perchlorate exposure during the first 21 days post-fertilization causes lasting effects on dermal bone development, with implications for predator avoidance and survival.
+
+## Critical Findings
+
+The research reveals:
+- Early developmental windows are most sensitive to perchlorate
+- Concentration-dependent effects on bone growth
+- Continuous exposure initiated early has greatest impact
+- Small traits and abnormal morphology persist into adulthood
+- Skeletal effects could impact survival in nature
+
+## Developmental Sensitivity
+
+Key discoveries about:
+- Critical periods for thyroid hormone action
+- Timing-dependent skeletal abnormalities
+- Persistent organizational effects
+- Developmental plasticity windows
+- Endocrine disruption consequences
+
+## Skeletal Impacts
+
+The study documents:
+- Dermal bone malformations
+- Reduced skeletal trait sizes
+- Abnormal morphological patterns
+- Compromised defensive structures
+- Long-term structural defects
+
+## Ecological Consequences
+
+Findings suggest impacts on:
+- Predator avoidance ability
+- Swimming performance
+- Feeding efficiency
+- Competitive abilities
+- Population viability
+
+## Thyroid Disruption
+
+The work reveals:
+- Hypothyroidism effects on development
+- Thyroid hormone's role in skeletogenesis
+- Compensatory mechanism limitations
+- Tissue-specific hormone requirements
+- Developmental timing importance
+
+## Conservation Applications
+
+This research informs:
+- Critical exposure period identification
+- Risk assessment refinement
+- Water quality standard development
+- Population impact predictions
+- Management strategy optimization
+
+## Methodological Innovation
+
+The study employed:
+- Stage-specific exposure protocols
+- Detailed morphometric analyses
+- Long-term developmental tracking
+- Dose-response characterization
+- Multiple developmental endpoints
+
+## Environmental Relevance
+
+Addressing concerns about:
+- Widespread perchlorate contamination
+- Developmental effects of pollutants
+- Sublethal impacts on fish populations
+- Long-term ecosystem consequences
+- Regulatory threshold determination
+
+[Read the paper →](https://www.sciencedirect.com/science/article/pii/S0016648015000532?via%3Dihub)

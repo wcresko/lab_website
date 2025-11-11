@@ -1,0 +1,86 @@
+---
+title: "New Publication: Genetic Mapping of Neutrophil Variation in Stickleback"
+author: "Cresko Lab"
+date: "2019-12-17"
+categories: [news, publication, journal article, quantitative genetics, immunology, G3]
+image: "neutrophil-qtl.jpg"
+draft: false
+---
+
+Exciting publication in G3: Genes|Genomes|Genetics reveals the genetic architecture of neutrophil variation between oceanic and freshwater stickleback!
+
+Emily Beck, Clay Small, Mark Currey, and the team present the first quantitative trait locus (QTL) mapping of immune cell variation in stickleback, identifying genomic regions controlling neutrophil abundance differences between populations adapted to different environments.
+
+## Genetic Discovery
+
+The research reveals:
+- QTL controlling neutrophil numbers
+- Population differences in immune cells
+- Genetic basis of immune variation
+- Multiple genomic regions involved
+- Complex trait architecture
+
+## Immunological Innovation
+
+Key findings include:
+- Neutrophil abundance varies between ecotypes
+- Oceanic versus freshwater differences
+- Genetic control of innate immunity
+- Environmental adaptation of immune systems
+- Microbiome interaction possibilities
+
+## QTL Mapping Excellence
+
+The study employed:
+- F2 intercross design
+- High-throughput phenotyping
+- RAD-seq genotyping
+- QTL analysis methods
+- Fine mapping approaches
+
+## Evolutionary Immunology
+
+This work demonstrates:
+- Immune system evolution
+- Local adaptation of immunity
+- Trade-offs in immune investment
+- Environmental pressures on defense
+- Genetic variation maintenance
+
+## Stickleback Model
+
+Advantages include:
+- Natural immune variation
+- Controlled crosses possible
+- Genomic resources available
+- Ecological context clear
+- Microbiome connections
+
+## Broader Significance
+
+Applications include:
+- Understanding immune evolution
+- Disease resistance mechanisms
+- Population health assessment
+- Conservation implications
+- Biomedical insights
+
+## Technical Achievement
+
+The work showcases:
+- Novel phenotyping methods
+- Quantitative genetics power
+- Integration with genomics
+- Statistical rigor
+- Reproducible approaches
+
+## Future Directions
+
+This enables:
+- Fine mapping studies
+- Functional validation
+- Comparative immunology
+- Microbiome interactions
+- Clinical applications
+
+[Read the paper →](https://www.g3journal.org/content/early/2019/12/16/g3.119.400685.article-info)

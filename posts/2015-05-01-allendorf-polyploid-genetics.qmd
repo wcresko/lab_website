@@ -1,0 +1,34 @@
+---
+title: "New Publication on Polyploid Genetics in Salmonid Fishes"
+author: "Cresko Lab"
+date: "2015-05-01"
+categories: [publication, journal article, polyploidy, salmonids, population genomics]
+image: "polyploid-salmonids.jpg"
+draft: false
+---
+
+We're excited to announce a new publication from our collaborative research on polyploid genomics in salmonid fishes!
+
+Our paper "Effects of Crossovers Between Homeologs on Inheritance and Population Genomics in Polyploid-Derived Salmonid Fishes" has been published in the Journal of Heredity. This work, led by Fred Allendorf with contributions from Susan Bassham and Bill Cresko, explores the unique challenges and opportunities presented by polyploid genomes in understanding population and evolutionary genetics.
+
+## About the Research
+
+Polyploid genomes, such as those found in salmonid fishes, present special challenges for understanding population and evolutionary genetics. Many genetic studies intentionally exclude parts of the genome that show residual tetrasomic inheritance. Our work explores how incorporating these loci will benefit our understanding of population and evolutionary genetics.
+
+## Key Contributions
+
+This research demonstrates:
+- The importance of including tetrasomic inheritance regions in genomic analyses
+- Novel approaches to genetic mapping in polyploid species
+- Implications for conservation genetics of salmonid populations
+
+## Research Team
+
+- Fred Allendorf (University of Montana)
+- Susan Bassham (University of Oregon)
+- William Cresko (University of Oregon)
+- Additional collaborators from multiple institutions
+
+This work was supported by grants from the National Science Foundation.
+
+[Read the full article at Oxford Academic →](https://academic.oup.com/jhered/article/106/3/217/2960044)

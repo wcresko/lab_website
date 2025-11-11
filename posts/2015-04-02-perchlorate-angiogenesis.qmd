@@ -1,0 +1,86 @@
+---
+title: "New Publication: Perchlorate Alters Angiogenesis and Sexual Maturation in Stickleback"
+author: "Cresko Lab"
+date: "2015-04-02"
+categories: [news, publication, journal article, developmental biology, environmental toxicology]
+image: "perchlorate-angiogenesis.jpg"
+draft: false
+---
+
+Major publication in General and Comparative Endocrinology reveals profound effects of perchlorate on reproductive and thyroid tissues!
+
+Ann Petersen Furin, Frank von Hippel, John Postlethwait, C. Loren Buck, Bill Cresko, and Todd O'Hara demonstrate that developmental timing of perchlorate exposure critically affects angiogenesis, thyroid follicle proliferation, and sexual maturation, with significant implications for population dynamics.
+
+## Major Discoveries
+
+The research reveals:
+- Profound effects on reproductive tissues
+- Altered angiogenesis patterns
+- Thyroid follicle proliferation changes
+- Disrupted sexual maturation timing
+- Long-term impacts from early exposure
+
+## Critical Windows
+
+The study identifies:
+- First 42 days as sensitive period
+- Stage-specific vulnerability
+- Lasting organizational effects
+- Developmental timing importance
+- Exposure window consequences
+
+## Tissue-Level Impacts
+
+Documented effects include:
+- Altered ovary development
+- Testis histological changes
+- Thyroid hyperplasia
+- Vascular development disruption
+- Reproductive tissue remodeling
+
+## Population Implications
+
+Findings suggest impacts on:
+- Population dynamics
+- Reproductive success
+- Recruitment rates
+- Generation time
+- Population viability
+
+## Endocrine Mechanisms
+
+The work reveals:
+- Complex hormone disruption patterns
+- Compensatory response limitations
+- Tissue-specific effects
+- Developmental programming alterations
+- Long-term endocrine consequences
+
+## Management Applications
+
+This research provides:
+- Novel risk assessment information
+- Sensitive developmental windows identification
+- Long-term exposure effect characterization
+- Population-level impact predictions
+- Resource management insights
+
+## Histological Excellence
+
+The study employed:
+- Detailed tissue analysis
+- Multiple organ system examination
+- Quantitative morphometry
+- Time-series sampling
+- Comprehensive histopathology
+
+## Environmental Significance
+
+Addressing concerns about:
+- Widespread water contamination
+- Reproductive impacts of pollutants
+- Multi-system developmental effects
+- Ecosystem-level consequences
+- Long-term population effects
+
+[Read the paper →](https://www.sciencedirect.com/science/article/pii/S0016648015000921?via%3Dihub)

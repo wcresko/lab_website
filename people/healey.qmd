@@ -1,0 +1,80 @@
+---
+title: "Hope Healey"
+subtitle: "Graduate Student"
+image: "/images/healey-profile.jpg"
+about:
+  template: trestles
+  image-shape: rounded
+  links:
+    - icon: globe
+      text: Website
+      href: https://blogs.uoregon.edu/hhealey/
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/hope_a_soap
+    - icon: envelope
+      text: Email
+      href: mailto:hhealey@uoregon.edu
+    - icon: google
+      text: Scholar
+      href: https://scholar.google.com/citations?user=USERID
+page-layout: full
+toc: true
+---
+
+## Biography
+
+Hope Healey is a graduate student in the Cresko Laboratory where she conducts research on syngnathid fishes. She received her bachelor's degree in zoology from Michigan State University (MSU) in 2018. While at MSU, she worked with Dr. Scott Peacor on Michigan zooplankton and Dr. Jason Gallant on electric fish. She developed a love for teleost fishes while in the Gallant lab and is fortunate to continue working with unique fish models in the Cresko Lab.
+
+## Education
+
+- **Ph.D. Candidate, Biology**, University of Oregon (in progress)
+- **B.S. Zoology**, Michigan State University (2018)
+
+## Honors & Awards
+
+- **2022**: NIH Ruth L. Kirschstein F31 Fellowship (NIDCR)
+- **2019-2020**: Department of Biology Hill Fund Outstanding GE Teaching Award
+- **2019-present**: NIH-funded Genetics Training Program Trainee
+
+## Research Interests
+
+My research focuses on understanding the evolution of development in syngnathid fishes, particularly:
+- **Fish Evolution**: Comparative genomics and development across teleost species
+- **Gene Duplication**: Understanding the fate and function of duplicated genes
+- **Development**: Craniofacial and skeletal development in syngnathids
+- **Single-cell Genomics**: Applying cutting-edge techniques to understand cell fate
+
+## Current Projects
+
+### Single-cell Analysis of Syngnathid Development
+Using single-cell RNA sequencing and CRISPR approaches to understand the evolution of craniofacial development in seahorses and pipefish.
+
+### Genome Annotation Enhancement
+Developing improved genome annotations for non-model organisms using single-cell Iso-Seq technology.
+
+## Publications
+
+- **Healey, H.M.**, Bassham, S., & Cresko, W.A. (2022). Single-cell Iso-Sequencing enables rapid genome annotation for scRNAseq analysis. *Genetics*.
+
+## Teaching Experience
+
+- Graduate Teaching Fellow for multiple courses
+- Recognized for excellence in teaching with Hill Fund Award
+- Mentor for undergraduate researchers
+
+## Professional Activities
+
+- Member of the Genetics Training Program
+- Conference presentations at national meetings
+- Peer reviewer for scientific journals
+- Science outreach and communication
+
+## Skills
+
+- Single-cell RNA sequencing
+- CRISPR/Cas9 genome editing
+- Bioinformatics and computational analysis
+- In situ hybridization
+- Confocal microscopy
+- Science communication

@@ -1,0 +1,95 @@
+---
+title: "New Publication: Selection, Linkage, and Population Structure Shape Genomic Variation"
+author: "Cresko Lab"
+date: "2019-08-01"
+categories: [news, publication, journal article, population genomics, evolution, Genetics]
+image: "selection-linkage-structure.jpg"
+draft: false
+---
+
+Major publication in Genetics reveals how selection, linkage, and population structure interact to shape genetic variation across stickleback genomes!
+
+Thom Nelson, John Crandall, Kate Ituarte, Julian Catchen, and Bill Cresko demonstrate how these three evolutionary forces work together to create complex patterns of genomic diversity, providing fundamental insights into how genomes evolve in natural populations.
+
+## Triple Interaction
+
+The research reveals:
+- Selection shapes local adaptation
+- Linkage creates correlated evolution
+- Population structure modulates gene flow
+- Three forces interact dynamically
+- Complex genomic landscapes emerge
+
+## Linked Selection
+
+Key findings include:
+- Background selection effects
+- Selective sweeps detected
+- Hitchhiking of neutral variants
+- Recombination rate variation matters
+- Interference between selected sites
+
+## Population Structure Effects
+
+The study shows:
+- Gene flow patterns vary
+- Local adaptation persists
+- Metapopulation dynamics operate
+- Isolation by distance occurs
+- Structure affects selection efficacy
+
+## Genomic Architecture
+
+Discoveries reveal:
+- Recombination landscape importance
+- Chromosomal variation patterns
+- Genomic island formation
+- Linkage disequilibrium extent
+- Structural variant impacts
+
+## Methodological Innovation
+
+Approaches include:
+- Genome-wide selection scans
+- Linkage analysis methods
+- Population structure inference
+- Integrated analytical frameworks
+- Simulation validation
+
+## Evolutionary Theory
+
+This work advances:
+- Population genetics theory
+- Understanding of genome evolution
+- Selection in structured populations
+- Role of genetic architecture
+- Predictive evolutionary models
+
+## Stickleback Excellence
+
+The system provides:
+- Natural population replication
+- Genomic resources
+- Ecological context
+- Evolutionary experiments
+- Comparative opportunities
+
+## Broader Applications
+
+Findings apply to:
+- Conservation genetics
+- Crop improvement
+- Disease evolution
+- Climate adaptation
+- Evolutionary predictions
+
+## Collaborative Achievement
+
+This publication showcases:
+- Graduate student leadership
+- Undergraduate contributions
+- Computational excellence
+- Team science success
+- Mentorship impact
+
+[Read the paper →](https://www.genetics.org/content/212/4/1367)

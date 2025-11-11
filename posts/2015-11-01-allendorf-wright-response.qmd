@@ -1,0 +1,34 @@
+---
+title: "Response Published: We Never Said Wright was Wrong"
+author: "Cresko Lab"
+date: "2015-11-01"
+categories: [publication, journal article, polyploidy, salmonids, correspondence]
+image: "response-letter.jpg"
+draft: false
+---
+
+We have published a response to recent commentary on our polyploid genetics research in salmonid fishes.
+
+Our brief reply, "Response to May and Delany: We Never Said Wright was Wrong," appears in the Journal of Heredity. This correspondence addresses the critique by May and Delany of our earlier collaborative paper on the effects of crossovers between homeologs in polyploid-derived salmonid fishes.
+
+## About the Response
+
+The response clarifies key points from our original research and addresses misconceptions raised in the commentary. We appreciate the opportunity for scientific dialogue and the chance to further elaborate on our findings regarding polyploid inheritance patterns.
+
+## Context
+
+This exchange highlights the ongoing scientific discussion about:
+- Interpretation of Wright's theoretical framework in polyploid systems
+- The complexity of homeolog pairing in salmonid genomes
+- Methodological approaches to studying polyploid population genetics
+
+## Contributing Authors
+
+- Fred Allendorf (University of Montana)
+- Susan Bassham (University of Oregon)
+- William Cresko (University of Oregon)
+- Additional co-authors from the original publication
+
+We believe this type of scientific discourse advances our collective understanding of polyploid genomics.
+
+[Read the response at Oxford Academic →](https://academic.oup.com/jhered/article/106/6/762/2614249)

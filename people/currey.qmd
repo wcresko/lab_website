@@ -1,0 +1,73 @@
+---
+title: "Mark Currey"
+subtitle: "Senior Research Assistant"
+image: "/images/currey-profile.jpg"
+about:
+  template: trestles
+  image-shape: rounded
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:mcurrey@uoregon.edu
+    - icon: google
+      text: Scholar
+      href: https://scholar.google.com/citations?user=USERID
+page-layout: full
+toc: true
+---
+
+## Biography
+
+Mark Currey is a Senior Research Assistant in the Cresko Laboratory at the University of Oregon. With a strong foundation in population genetics and extensive field experience throughout Oregon's watersheds, Mark has become an expert in threespine stickleback biology and ecology. His journey through community college to graduate education exemplifies dedication to scientific research and lifelong learning.
+
+## Education
+
+- **M.S. Population Genetics**, University of Oregon
+  - Thesis: "The Phenotypic and Genetic Distribution of Threespine Stickleback that Inhabit the Willamette Basin, Oregon, USA"
+- **B.S. Biology**, University of Oregon
+- **A.A.**, Chemeketa Community College
+
+## Research Interests
+
+I'm interested in understanding the vast variety of life. How is morphological variation, seen in populations of the same species, partitioned among different environments and what are the genetic and genomic factors associated with this partitioning? To get at this I'm investigating the distribution of populations of threespine stickleback in Oregon, looking for patterns of association between phenotype and environment, and ultimately querying the genomes of these populations to associate patterns we see at the phenotypic level with patterns at the genetic and genomic level.
+
+### Current Research Areas
+
+- **Population Genetics**: Understanding genetic structure and diversity in natural populations
+- **Phenotypic Variation**: Documenting morphological diversity across environments
+- **Genomic Association Studies**: Linking genetic variation to phenotypic traits
+- **Field Ecology**: Long-term monitoring of stickleback populations throughout Oregon
+
+## Field Expertise
+
+Mark has unparalleled knowledge of Oregon's stickleback populations, including:
+- Population locations and access
+- Seasonal dynamics
+- Habitat characteristics
+- Sampling methodologies
+- Long-term population trends
+
+## Technical Skills
+
+- Population genetic analysis
+- RAD-seq library preparation
+- Field sampling and collection
+- Morphometric analysis
+- Database management
+- Laboratory protocol development
+
+## Contributions
+
+- Co-author on multiple high-impact publications
+- Essential contributor to Oregon stickleback phylogeography project
+- Developer of laboratory protocols
+- Trainer of numerous students in field and lab techniques
+- Curator of long-term datasets
+
+## Professional Activities
+
+- Field expedition leader
+- Student mentor
+- Protocol development
+- Data management
+- Community outreach

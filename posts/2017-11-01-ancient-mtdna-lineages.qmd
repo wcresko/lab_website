@@ -1,0 +1,86 @@
+---
+title: "New Publication: Ancient mtDNA Lineages Show No Link to Phenotypes"
+author: "Cresko Lab"
+date: "2017-11-01"
+categories: [news, publication, journal article, phylogeography, population genetics]
+image: "ancient-mtdna-lineages.jpg"
+draft: false
+---
+
+Surprising publication in Biological Journal of the Linnean Society reveals that ancient mitochondrial lineages have no association with phenotypic or nuclear genetic variation!
+
+Emily Lescak, Matthew Wund, Susan Bassham, Julian Catchen, Daniel Prince, Ryan Lucas, Genevieve Dominguez, Frank von Hippel, and Bill Cresko demonstrate that deep mitochondrial divergence, still evident in contemporary populations, appears to have no residual influence on morphological or nuclear genomic patterns at any scale.
+
+## Key Discovery
+
+The research reveals:
+- Ancient mtDNA divergence persists in populations
+- No association with phenotypic variation
+- No correlation with nuclear genetic patterns
+- Mitochondrial-nuclear discordance
+- Decoupled evolutionary histories
+
+## Phylogeographic Insights
+
+The study demonstrates:
+- Deep mitochondrial lineage divergence
+- Geographic distribution of ancient clades
+- Lack of phenotypic correspondence
+- Nuclear genome independence
+- Complex evolutionary history
+
+## Implications for Evolution
+
+Findings suggest:
+- Mitochondrial evolution can be neutral
+- Nuclear genes drive phenotypes
+- Ancient polymorphisms persist without effect
+- Cytonuclear interactions are complex
+- Phylogeography needs multiple markers
+
+## Population Genetics
+
+The work reveals:
+- Maintenance of ancient variation
+- Incomplete lineage sorting
+- Demographic history complexity
+- Gene flow patterns
+- Population structure nuances
+
+## Methodological Rigor
+
+The study employed:
+- Comprehensive geographic sampling
+- Mitochondrial sequencing
+- Nuclear genomic analysis
+- Morphological measurements
+- Multi-scale comparisons
+
+## Evolutionary Theory
+
+This challenges assumptions about:
+- Mitochondrial functional importance
+- Cytonuclear coevolution
+- Adaptive significance of mtDNA
+- Phylogeographic inference
+- Marker choice in studies
+
+## Conservation Applications
+
+Findings inform:
+- Management unit delineation
+- Genetic diversity assessment
+- Evolutionary potential evaluation
+- Population history reconstruction
+- Conservation prioritization
+
+## Broader Significance
+
+This work demonstrates:
+- Complexity of genome evolution
+- Importance of multi-marker approaches
+- Neutral evolution's role
+- Historical contingency effects
+- Need for comprehensive analyses
+
+[Read the paper →](https://academic.oup.com/biolinnean/article/122/3/579/4091353)

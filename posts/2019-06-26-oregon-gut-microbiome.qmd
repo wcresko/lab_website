@@ -1,0 +1,86 @@
+---
+title: "New Publication: Population Genetics and Environment Shape Gut Microbiomes"
+author: "Cresko Lab"
+date: "2019-06-26"
+categories: [news, publication, journal article, microbiome, population genetics, Genes]
+image: "oregon-gut-microbiome.jpg"
+draft: false
+---
+
+Important publication in Genes reveals how both host genetics and environment influence gut microbiome composition in Oregon threespine stickleback!
+
+Robert Steury, Mark Currey, Bill Cresko, and Brendan Bohannan demonstrate that population genetic divergence and environmental factors work together to shape gut microbial communities, providing insights into the complex factors governing host-microbe associations in natural populations.
+
+## Key Discoveries
+
+The research reveals:
+- Host genetics influences microbiome composition
+- Environmental factors also shape communities
+- Population-specific microbiome signatures exist
+- Genetic divergence correlates with microbiome differences
+- Ecology and evolution interact
+
+## Population Genomics Integration
+
+The study combines:
+- RAD-seq population genetics
+- 16S microbiome profiling
+- Environmental characterization
+- Multi-scale analysis
+- Ecological context
+
+## Microbiome Patterns
+
+Findings show:
+- Population-specific bacterial communities
+- Core versus variable microbiome members
+- Environmental filtering effects
+- Host genetic selection
+- Community assembly rules
+
+## Oregon System
+
+The research leverages:
+- Diverse stickleback populations
+- Environmental gradients
+- Genetic variation
+- Replicated populations
+- Natural laboratories
+
+## Host-Microbe Evolution
+
+This work demonstrates:
+- Co-evolutionary dynamics
+- Local adaptation influences
+- Microbiome heritability
+- Ecological selection
+- Holobiont evolution
+
+## Methodological Excellence
+
+Approaches include:
+- Population sampling strategies
+- Microbiome standardization
+- Genetic analysis pipelines
+- Statistical frameworks
+- Integrative analyses
+
+## Ecological Understanding
+
+The research illuminates:
+- Community ecology principles
+- Host-microbe interactions
+- Environmental drivers
+- Population dynamics
+- Ecosystem functioning
+
+## Conservation Applications
+
+Findings inform:
+- Population health assessment
+- Microbiome conservation
+- Habitat management
+- Restoration strategies
+- Climate change impacts
+
+[Read the paper →](https://www.mdpi.com/2073-4425/10/7/484)

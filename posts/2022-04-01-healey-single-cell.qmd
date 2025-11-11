@@ -1,0 +1,86 @@
+---
+title: "New Publication: Single-cell Iso-Seq Revolutionizes Genome Annotation"
+author: "Cresko Lab"
+date: "2022-04-01"
+categories: [news, publication, journal article, genomics, single-cell, Genetics]
+image: "single-cell-iso-seq.jpg"
+draft: false
+---
+
+Groundbreaking publication in Genetics introduces single-cell Iso-Sequencing for rapid genome annotation!
+
+Hope Healey, Susan Bassham, and Bill Cresko present a revolutionary approach that enables rapid genome annotation specifically optimized for single-cell RNA sequencing analysis. This technical innovation dramatically improves the accuracy and completeness of gene models for single-cell studies.
+
+## Technical Breakthrough
+
+The research achieves:
+- Single-cell resolution transcript sequencing
+- Full-length isoform identification
+- Rapid genome annotation improvement
+- Enhanced scRNAseq analysis capability
+- Cell-type specific transcript discovery
+
+## Innovation Impact
+
+Key advances include:
+- Complete transcript structures
+- Previously unknown isoforms
+- Corrected gene boundaries
+- Cell-specific expression patterns
+- Improved functional annotation
+
+## Single-cell Revolution
+
+This work enables:
+- More accurate cell type identification
+- Better trajectory analysis
+- Improved differential expression
+- Enhanced pathway analysis
+- Deeper biological insights
+
+## Methodological Excellence
+
+The approach combines:
+- Long-read sequencing technology
+- Single-cell isolation techniques
+- Computational pipeline development
+- Quality control metrics
+- Validation strategies
+
+## Resource Development
+
+The publication provides:
+- Updated genome annotations
+- Analysis pipelines
+- Quality metrics
+- Best practices
+- Community tools
+
+## Stickleback Applications
+
+Immediate benefits for:
+- Developmental studies
+- Cell atlas projects
+- Disease modeling
+- Evolutionary comparisons
+- Functional genomics
+
+## Broader Significance
+
+Applications extend to:
+- Other non-model organisms
+- Clinical research
+- Agricultural genomics
+- Conservation genetics
+- Biotechnology
+
+## Future Directions
+
+This enables:
+- Comprehensive cell atlases
+- Developmental trajectories
+- Disease mechanisms
+- Therapeutic targets
+- Precision medicine
+
+[Download the paper →]({{ site.url }}{{ site.baseurl }}/assets/publications/2022_Healey_Genetics.pdf)

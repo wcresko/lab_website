@@ -1,0 +1,95 @@
+---
+title: "New Publication: Rapid Evolution in 50 Years on Earthquake-Uplifted Islands"
+author: "Cresko Lab"
+date: "2015-12-29"
+categories: [news, publication, journal article, rapid evolution, PNAS, stickleback]
+image: "earthquake-evolution.jpg"
+draft: false
+---
+
+Remarkable publication in PNAS demonstrates evolution occurring in just 50 years following the Great Alaska Earthquake!
+
+Emily Lescak, Susan Bassham, Julian Catchen, Ofer Gelmond, Mary Sherbick, Frank von Hippel, and Bill Cresko show that stickleback populations in habitats created by the 1964 earthquake have evolved and differentiated to nearly the same extent as populations founded thousands of years ago. This groundbreaking work provides rare documentation of evolution on contemporary timescales.
+
+## Extraordinary Discovery
+
+The research reveals:
+- Evolution in less than 50 years
+- Differentiation matching ancient populations
+- Repeated freshwater evolution from marine ancestors
+- Contemporary evolution in action
+- Metapopulation dynamics driving rapid change
+
+## Natural Experiment
+
+The 1964 earthquake provided:
+- New freshwater habitats from uplift
+- Known colonization timing
+- Multiple replicate populations
+- Natural evolutionary experiment
+- Precise evolutionary timeline
+
+## Genomic Evidence
+
+Population structure analyses show:
+- Rapid genomic differentiation
+- Parallel evolution patterns
+- Strong selection signatures
+- Adaptive allele frequency changes
+- Contemporary evolutionary rates
+
+## Evolutionary Speed
+
+This work demonstrates:
+- Evolution visible in human lifetimes
+- Rapid adaptation to new environments
+- Standing variation enables quick evolution
+- Parallel evolution occurs rapidly
+- Natural selection's immediate power
+
+## Conservation Implications
+
+Findings inform:
+- Species' adaptive potential
+- Response to environmental change
+- Recovery from disturbance
+- Population resilience
+- Management timescales
+
+## Methodological Innovation
+
+The study employed:
+- Population genomics approaches
+- Historical sample comparisons
+- RAD-seq genotyping
+- Temporal genomic analyses
+- Natural experiment framework
+
+## Global Significance
+
+This research shows:
+- Evolution isn't just historical
+- Adaptation can be rapid
+- Environmental change drives evolution
+- Genomics captures evolution in action
+- Field studies reveal evolutionary dynamics
+
+## Scientific Impact
+
+Publication in PNAS reflects:
+- Fundamental importance of findings
+- Broad scientific interest
+- Paradigm-shifting results
+- Excellence in evolutionary biology
+- Real-time evolution documentation
+
+## Media Coverage
+
+This work attracted attention for:
+- Demonstrating observable evolution
+- Natural disaster creating evolution opportunity
+- Implications for climate change
+- Public understanding of evolution
+- Scientific use of natural experiments
+
+[Read the paper in PNAS →](https://www.pnas.org/content/112/52/E7204)

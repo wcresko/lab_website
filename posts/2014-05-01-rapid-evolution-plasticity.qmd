@@ -1,0 +1,77 @@
+---
+title: "New Publication: Rapid Evolution of Phenotypic Plasticity in C. remanei"
+author: "Cresko Lab"
+date: "2014-05-01"
+categories: [news, publication, journal article, evolution, phenotypic plasticity]
+image: "remanei-evolution.jpg"
+draft: false
+---
+
+Exciting new publication in G3: Genes|Genomes|Genetics reveals rapid evolution of phenotypic plasticity in nematodes!
+
+Dr. Kristin Sikkink, with co-authors Robert Reynolds, Kate Ituarte, Patrick Phillips, and Bill Cresko, demonstrates that apparent genetic assimilation can result from shifting thresholds of induction across environments. This groundbreaking work highlights the critical importance of environmental context for understanding evolution of phenotypic plasticity.
+
+## Major Findings
+
+The research reveals:
+- Rapid evolution of plasticity thresholds
+- Variable genetic assimilation patterns across environments
+- Complex interactions between genes and environment
+- Evolution of heat shock protein responses
+- Hormetic effects under stress conditions
+
+## Research Innovation
+
+This study pioneered:
+- Experimental evolution approaches in C. remanei
+- Multi-environment selection experiments
+- Analysis of shifting induction thresholds
+- Integration of stress biology and evolution
+- Novel frameworks for understanding plasticity
+
+## Evolutionary Significance
+
+The work demonstrates:
+- Plasticity can evolve remarkably quickly
+- Environmental context shapes evolutionary trajectories
+- Genetic assimilation is more complex than previously thought
+- Natural selection acts on reaction norms
+- Stress responses are highly evolvable
+
+## Experimental Design
+
+The research employed:
+- Multiple replicate selection lines
+- Controlled temperature stress regimes
+- Multi-generation experimental evolution
+- Comprehensive phenotypic measurements
+- Statistical analysis of evolutionary change
+
+## Broader Impacts
+
+This research informs:
+- Climate change adaptation predictions
+- Understanding organismal stress responses
+- Evolution in variable environments
+- Conservation under changing conditions
+- Basic evolutionary theory
+
+## Collaborative Excellence
+
+This publication represents:
+- Cross-institutional collaboration
+- Integration of multiple expertise areas
+- Graduate student leadership
+- Mentorship in experimental evolution
+- Team science success
+
+## Heat Shock Response
+
+Key insights into:
+- Heat shock protein regulation
+- Stress response networks
+- Temperature adaptation mechanisms
+- Cellular protection strategies
+- Evolutionary constraints and opportunities
+
+[Read the paper →](https://www.sciencedirect.com/science/article/pii/S0888754314001918?via%3Dihub)

@@ -1,0 +1,40 @@
+---
+title: "Major Publication on Parallel Evolution in Stickleback"
+author: "Cresko Lab"
+date: "2018-07-01"
+categories: [publication, journal article, stickleback, rapid evolution, population genomics]
+image: "stickleback-evolution.jpg"
+draft: false
+---
+
+Congratulations to Dr. Susan Bassham and the team for their groundbreaking publication in Genetics!
+
+The paper "Repeated Selection of Alternatively Adapted Haplotypes Creates Sweeping Genomic Remodeling in Stickleback" reveals fascinating insights into how threespine stickleback fish achieve rapid parallel evolution across different populations. This work represents years of careful genomic analysis and field collection across Oregon's diverse aquatic habitats.
+
+## About the Research
+
+Our analyses suggest that a long history of divergent selection and gene flow among stickleback populations in oceanic and freshwater habitats has maintained polymorphisms of alternatively adapted DNA sequences. These genetic variants facilitate parallel evolution over extremely short time scales—sometimes just decades!
+
+## Key Findings
+
+The research demonstrates:
+- Maintenance of alternatively adapted haplotypes through balancing selection
+- Rapid genomic remodeling during freshwater colonization
+- Evidence for evolution occurring within observable human timescales
+- The power of standing genetic variation in facilitating adaptation
+
+## Research Team
+
+- Susan Bassham (Lead Author, University of Oregon)
+- William Cresko (University of Oregon)
+- Additional collaborators from the Cresko Lab
+
+## Broader Impact
+
+This work has important implications for:
+- Understanding rapid adaptation to environmental change
+- Conservation genetics in changing climates
+- Evolutionary theory regarding the speed of adaptation
+- The role of gene flow in maintaining adaptive potential
+
+[Read the full article in Genetics →](https://www.genetics.org/content/209/3/921)

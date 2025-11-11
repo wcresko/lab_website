@@ -1,0 +1,97 @@
+---
+title: "New Publication: Chromonomer Tool for Genome Assembly Enhancement"
+author: "Cresko Lab"
+date: "2020-02-05"
+categories: [news, publication, journal article, bioinformatics, genome assembly, bioRxiv]
+image: "chromonomer-tool.jpg"
+draft: false
+---
+
+Exciting preprint on bioRxiv introduces Chromonomer, a powerful tool set for repairing and enhancing genome assemblies!
+
+Julian Catchen, Angel Amores, and Susan Bassham present Chromonomer, which integrates genetic maps and conserved synteny information to construct improved reference genomes called "chromonomes." This tool addresses critical challenges in genome assembly, particularly for non-model organisms.
+
+## Tool Innovation
+
+Chromonomer provides:
+- Genome assembly improvement
+- Genetic map integration
+- Conserved synteny utilization
+- Chromosome-level scaffolding
+- Assembly error correction
+
+## Technical Features
+
+Key capabilities include:
+- Reference genome refinement
+- Marker map alignment
+- Synteny-based validation
+- Scaffold ordering and orientation
+- Gap identification and resolution
+
+## Performance Excellence
+
+The tool demonstrates:
+- Robust performance across quality levels
+- Handling of disparate data types
+- Flexible parameter options
+- Scalability to large genomes
+- Accuracy validation methods
+
+## Application Breadth
+
+Chromonomer works with:
+- Draft genome assemblies
+- Various genetic map types
+- RAD-seq derived maps
+- Different quality levels
+- Diverse organisms
+
+## Bioinformatics Contribution
+
+This work provides:
+- Open-source software
+- Comprehensive documentation
+- Test datasets
+- User tutorials
+- Community support
+
+## Genome Science Impact
+
+Applications include:
+- Non-model organism genomics
+- Comparative genomics studies
+- Population genomics projects
+- Conservation genetics
+- Agricultural genomics
+
+## Validation Approach
+
+The paper demonstrates:
+- Multiple test cases
+- Quality metrics
+- Comparison with other tools
+- Real-world applications
+- Performance benchmarks
+
+## Community Resource
+
+Chromonomer offers:
+- GitHub repository
+- Easy installation
+- Active development
+- User feedback integration
+- Regular updates
+
+## Future Genomics
+
+This tool enables:
+- Better genome assemblies
+- More accurate analyses
+- Faster research progress
+- Broader organism coverage
+- Democratized genomics
+
+![Chromonomer Method](20200128_Fig_1_chrr_method.jpg)
+
+[Read the preprint →](https://www.biorxiv.org/content/10.1101/2020.02.04.934711v1)

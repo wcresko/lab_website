@@ -1,0 +1,53 @@
+---
+title: "New Publication Maps Oregon Stickleback Population Structure"
+author: "Cresko Lab"
+date: "2013-06-01"  
+categories: [publication, journal article, stickleback, population genomics, phylogeography, RAD-seq]
+image: "oregon-stickleback-map.jpg"
+draft: false
+---
+
+We're pleased to announce a new publication describing the phylogeographic history of Oregon's threespine stickleback populations!
+
+The paper "The population structure and recent colonization history of Oregon threespine stickleback determined using restriction-site associated DNA-sequencing" has been published in Molecular Ecology. Led by Dr. Julian Catchen with a fantastic team of co-authors, this work provides the most comprehensive genetic survey of Oregon stickleback populations to date.
+
+## About the Research
+
+Using RAD-seq technology, we performed STRUCTURE analyses to describe the phylogeographic history of stickleback populations from across Oregon. The study reveals patterns of divergence among coastal and inland basin populations, and also uncovered evidence of recent, anthropogenic introductions.
+
+## Key Discoveries
+
+Our research revealed:
+- Distinct genetic clusters corresponding to major geographic basins
+- Clear divergence between coastal and inland populations
+- Evidence of human-mediated fish introductions
+- Complex patterns of gene flow among watersheds
+- The power of RAD-seq for population genomic studies in non-model organisms
+
+## Research Team
+
+- Julian Catchen (Lead Author)
+- Susan Bassham
+- Taylor Wilson
+- Mark Currey
+- Conor O'Brien
+- Quick Yeates
+- William Cresko
+
+## Field Work Highlights
+
+This project involved extensive field collections across Oregon, including:
+- Coastal streams from the Columbia River to the Coos Bay watershed
+- Willamette Valley populations
+- Central Oregon high desert lakes
+- Cascade Range mountain lakes
+
+## Applications
+
+This baseline population genetic data is crucial for:
+- Conservation management decisions
+- Understanding invasion biology
+- Tracking climate change impacts on aquatic ecosystems
+- Evolutionary studies of parallel adaptation
+
+[Read the full article in Molecular Ecology →](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.12330)

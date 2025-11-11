@@ -1,0 +1,77 @@
+---
+title: "New Publication: Temporal Variation of Hormones Under Perchlorate Exposure"
+author: "Cresko Lab"
+date: "2015-02-14"
+categories: [news, publication, journal article, endocrinology, environmental toxicology]
+image: "perchlorate-temporal-hormones.jpg"
+draft: false
+---
+
+New research in General and Comparative Endocrinology examines how perchlorate exposure affects daily and seasonal hormone patterns in stickleback!
+
+Adam Gardell, Danielle Dillon, Leah Smayda, Frank von Hippel, Bill Cresko, John Postlethwait, and C. Loren Buck demonstrate that while perchlorate doesn't modulate diel or seasonal variations in thyroid and androgen hormones, important natural rhythms in 11-ketotestosterone are linked to reproductive physiology and behavior.
+
+## Key Findings
+
+The study reveals:
+- Diel variations in 11-KT remain unaffected by perchlorate
+- Reproductive season hormone patterns persist despite exposure
+- T4 content increases across reproductive season
+- Natural hormone rhythms are remarkably robust
+- Energy investment in reproduction drives seasonal changes
+
+## Temporal Dynamics
+
+Important discoveries about:
+- Daily hormone fluctuation patterns
+- Seasonal reproductive cycles
+- Circadian regulation of hormones
+- Reproductive timing mechanisms
+- Environmental synchronization
+
+## Behavioral Connections
+
+The research links:
+- 11-KT variations to reproductive behavior
+- Hormone patterns to breeding physiology
+- Daily rhythms to mating activities
+- Seasonal changes to life history
+- Endocrine function to fitness
+
+## Environmental Context
+
+This work addresses:
+- Chronic contaminant exposure effects
+- Natural variation versus pollution impacts
+- Robustness of biological rhythms
+- Sublethal toxicological effects
+- Real-world exposure scenarios
+
+## Life History Insights
+
+Findings reveal:
+- Increased T4 reflects reproductive investment
+- End-of-life reproductive effort
+- Trade-offs between survival and reproduction
+- Hormonal regulation of life history
+- Adaptive hormone patterns
+
+## Methodological Rigor
+
+The study employed:
+- Time-series sampling designs
+- Multiple seasonal time points
+- Diel sampling protocols
+- Precise hormone quantification
+- Statistical analysis of temporal patterns
+
+## Conservation Relevance
+
+This research informs:
+- Understanding of pollution impacts
+- Natural baseline hormone variations
+- Timing of sensitive periods
+- Population-level effects
+- Management strategies
+
+[Read the paper →](https://www.sciencedirect.com/science/article/pii/S0016648015000519?via%3Dihub)

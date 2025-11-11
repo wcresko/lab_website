@@ -112,5 +112,257 @@
   },
   "talks_old.qmd": {
     "talks_old.html": "90ec7354"
+  },
+  "posts/2015-11-01-allendorf-wright-response.qmd": {
+    "2015-11-01-allendorf-wright-response.html": "9484dd47"
+  },
+  "posts/2012-02-01-hohenlohe-linkage-disequilibrium.qmd": {
+    "2012-02-01-hohenlohe-linkage-disequilibrium.html": "a166dd89"
+  },
+  "posts/2015-05-01-allendorf-polyploid-genetics.qmd": {
+    "2015-05-01-allendorf-polyploid-genetics.html": "40f7f706"
+  },
+  "posts/2010-02-01-hohenlohe-radseq-landmark.qmd": {
+    "2010-02-01-hohenlohe-radseq-landmark.html": "1183711e"
+  },
+  "posts/2013-06-01-catchen-oregon-phylogeography.qmd": {
+    "2013-06-01-catchen-oregon-phylogeography.html": "688e97e7"
+  },
+  "posts/2018-07-01-bassham-parallel-evolution.qmd": {
+    "2018-07-01-bassham-parallel-evolution.html": "7b8a7f08"
+  },
+  "posts/2015-05-01-polyploid-salmonids.qmd": {
+    "2015-05-01-polyploid-salmonids.html": "8d18bf6c"
+  },
+  "posts/2010-12-01-rad-mosquito-phylogeny.qmd": {
+    "2010-12-01-rad-mosquito-phylogeny.html": "e2afafb1"
+  },
+  "posts/2012-06-15-taylor-wilson-graduation.qmd": {
+    "2012-06-15-taylor-wilson-graduation.html": "761da43c"
+  },
+  "posts/2016-02-01-bassham-scientific-american.qmd": {
+    "2016-02-01-bassham-scientific-american.html": "b2a156c2"
+  },
+  "posts/2019-08-01-selection-linkage-structure.qmd": {
+    "2019-08-01-selection-linkage-structure.html": "86fe8b6b"
+  },
+  "posts/2022-04-01-healey-single-cell.qmd": {
+    "2022-04-01-healey-single-cell.html": "20937ebf"
+  },
+  "posts/2015-01-01-mitochondrial-admixture.qmd": {
+    "2015-01-01-mitochondrial-admixture.html": "26c1c458"
+  },
+  "posts/2016-01-01-gnotobiotic-stickleback.qmd": {
+    "2016-01-01-gnotobiotic-stickleback.html": "a75599d1"
+  },
+  "posts/2019-11-01-score-students.qmd": {
+    "2019-11-01-score-students.html": "137a9896"
+  },
+  "posts/2020-02-20-stervander-marie-curie.qmd": {
+    "2020-02-20-stervander-marie-curie.html": "44e555c6"
+  },
+  "posts/2019-03-01-environmental-evolutionary-drivers.qmd": {
+    "2019-03-01-environmental-evolutionary-drivers.html": "66b9820e"
+  },
+  "posts/2023-06-01-goyal-hui-fellowship.qmd": {
+    "2023-06-01-goyal-hui-fellowship.html": "5f3b48c9"
+  },
+  "posts/2019-12-30-happy-new-year-2020.qmd": {
+    "2019-12-30-happy-new-year-2020.html": "5f4eb788"
+  },
+  "posts/2019-05-01-threespine-ipa.qmd": {
+    "2019-05-01-threespine-ipa.html": "5e39094c"
+  },
+  "posts/2016-04-02-fuiten-evowibo-talk.qmd": {
+    "2016-04-02-fuiten-evowibo-talk.html": "76faf0c2"
+  },
+  "posts/2016-07-06-perchlorate-germcells.qmd": {
+    "2016-07-06-perchlorate-germcells.html": "b39b0f16"
+  },
+  "posts/2016-04-01-nelson-genetics-poster.qmd": {
+    "2016-04-01-nelson-genetics-poster.html": "d1d4ecd4"
+  },
+  "posts/2022-04-01-beck-mito-nuclear.qmd": {
+    "2022-04-01-beck-mito-nuclear.html": "863e43c6"
+  },
+  "posts/2016-01-01-bassham-jefferson-radio.qmd": {
+    "2016-01-01-bassham-jefferson-radio.html": "85fb9ceb"
+  },
+  "posts/2017-11-08-developmental-armor-loss.qmd": {
+    "2017-11-08-developmental-armor-loss.html": "7bc06daa"
+  },
+  "posts/2019-11-05-microbial-methods.qmd": {
+    "2019-11-05-microbial-methods.html": "90c889a3"
+  },
+  "posts/2016-04-04-nikoleris-defense-sweden.qmd": {
+    "2016-04-04-nikoleris-defense-sweden.html": "fc888903"
+  },
+  "posts/2016-11-01-cresko-aaas-fellow.qmd": {
+    "2016-11-01-cresko-aaas-fellow.html": "d7058056"
+  },
+  "posts/2014-01-16-jaw-mechanics-evolution.qmd": {
+    "2014-01-16-jaw-mechanics-evolution.html": "19b2f76f"
+  },
+  "posts/2017-11-01-ancient-mtdna-lineages.qmd": {
+    "2017-11-01-ancient-mtdna-lineages.html": "7ffaaee2"
+  },
+  "posts/2022-04-01-healey-genetics-paper.qmd": {
+    "2022-04-01-healey-genetics-paper.html": "bc44bf9f"
+  },
+  "posts/2020-02-01-few-stickleback-suffice.qmd": {
+    "2020-02-01-few-stickleback-suffice.html": "8f4483e5"
+  },
+  "posts/2022-09-23-covid-latinx-intervention.qmd": {
+    "2022-09-23-covid-latinx-intervention.html": "95a69d5b"
+  },
+  "posts/2017-01-02-fuiten-nsf-ddig.qmd": {
+    "2017-01-02-fuiten-nsf-ddig.html": "bfc5dee9"
+  },
+  "posts/2018-07-01-alternative-haplotypes.qmd": {
+    "2018-07-01-alternative-haplotypes.html": "481eed31"
+  },
+  "posts/2015-04-02-perchlorate-angiogenesis.qmd": {
+    "2015-04-02-perchlorate-angiogenesis.html": "402c07ab"
+  },
+  "posts/2014-01-27-computational-databases-chapter.qmd": {
+    "2014-01-27-computational-databases-chapter.html": "46dce978"
+  },
+  "posts/2016-04-06-crandall-evowibo-poster.qmd": {
+    "2016-04-06-crandall-evowibo-poster.html": "b917615b"
+  },
+  "posts/2017-01-01-alligood-phd-defense.qmd": {
+    "2017-01-01-alligood-phd-defense.html": "bae19ddc"
+  },
+  "posts/2022-06-01-healey-f31-fellowship.qmd": {
+    "2022-06-01-healey-f31-fellowship.html": "41b336df"
+  },
+  "posts/2023-05-15-meyer-knight-scholar.qmd": {
+    "2023-05-15-meyer-knight-scholar.html": "2e054536"
+  },
+  "posts/2012-06-01-kate-ituarte-graduation.qmd": {
+    "2012-06-01-kate-ituarte-graduation.html": "a9b4eaeb"
+  },
+  "posts/2013-05-24-stacks-software-publication.qmd": {
+    "2013-05-24-stacks-software-publication.html": "e45f2777"
+  },
+  "posts/2015-01-01-perchlorate-embryonic-androgen.qmd": {
+    "2015-01-01-perchlorate-embryonic-androgen.html": "bcb9d8d8"
+  },
+  "posts/2016-04-05-currey-evowibo-poster.qmd": {
+    "2016-04-05-currey-evowibo-poster.html": "fae8838a"
+  },
+  "posts/2016-04-04-nelson-evowibo-talk.qmd": {
+    "2016-04-04-nelson-evowibo-talk.html": "ff8430ed"
+  },
+  "posts/2017-09-01-stervander-joins-lab.qmd": {
+    "2017-09-01-stervander-joins-lab.html": "49da0bc2"
+  },
+  "posts/2019-05-28-niebergall-goldwater.qmd": {
+    "2019-05-28-niebergall-goldwater.html": "338d10ee"
+  },
+  "posts/2015-02-14-perchlorate-temporal-hormones.qmd": {
+    "2015-02-14-perchlorate-temporal-hormones.html": "174eff9b"
+  },
+  "posts/2019-12-17-neutrophil-qtl.qmd": {
+    "2019-12-17-neutrophil-qtl.html": "0ed66d5b"
+  },
+  "posts/2015-05-01-environmental-genetic-networks.qmd": {
+    "2015-05-01-environmental-genetic-networks.html": "377025ab"
+  },
+  "posts/2018-01-16-naturalistic-experimental-design.qmd": {
+    "2018-01-16-naturalistic-experimental-design.html": "1cb7cf2f"
+  },
+  "posts/2014-05-01-rapid-evolution-plasticity.qmd": {
+    "2014-05-01-rapid-evolution-plasticity.html": "7464ef61"
+  },
+  "posts/2023-09-20-woods-ms-magazine.qmd": {
+    "2023-09-20-woods-ms-magazine.html": "85808ff3"
+  },
+  "posts/2016-04-03-alligood-evowibo-poster.qmd": {
+    "2016-04-03-alligood-evowibo-poster.html": "32984711"
+  },
+  "posts/2022-09-16-cresko-lokey-chair.qmd": {
+    "2022-09-16-cresko-lokey-chair.html": "7ea54d3d"
+  },
+  "posts/2015-02-16-perchlorate-skeletal-development.qmd": {
+    "2015-02-16-perchlorate-skeletal-development.html": "829fd5f8"
+  },
+  "posts/2014-09-14-transgenerational-effects.qmd": {
+    "2014-09-14-transgenerational-effects.html": "13a0e71e"
+  },
+  "posts/2019-06-26-oregon-gut-microbiome.qmd": {
+    "2019-06-26-oregon-gut-microbiome.html": "949d36c2"
+  },
+  "posts/2011-02-01-rad-genome-scans.qmd": {
+    "2011-02-01-rad-genome-scans.html": "31402897"
+  },
+  "posts/2020-02-05-chromonomer-tool.qmd": {
+    "2020-02-05-chromonomer-tool.html": "51e17731"
+  },
+  "posts/2012-02-01-sikkink-poster-award.qmd": {
+    "2012-02-01-sikkink-poster-award.html": "8df0222f"
+  },
+  "posts/2022-07-07-seadragon-nytimes.qmd": {
+    "2022-07-07-seadragon-nytimes.html": "f758b53c"
+  },
+  "posts/2018-01-26-ancient-genomic-variation.qmd": {
+    "2018-01-26-ancient-genomic-variation.html": "8c7bbe15"
+  },
+  "posts/2017-01-03-beck-evomics-czech.qmd": {
+    "2017-01-03-beck-evomics-czech.html": "92636d70"
+  },
+  "posts/2015-12-29-earthquake-evolution-pnas.qmd": {
+    "2015-12-29-earthquake-evolution-pnas.html": "1627e876"
+  },
+  "posts/2013-05-30-oregon-stickleback-structure.qmd": {
+    "2013-05-30-oregon-stickleback-structure.html": "2de774b5"
+  },
+  "posts/2019-10-01-oregon-stickleback-divergence.qmd": {
+    "2019-10-01-oregon-stickleback-divergence.html": "82f420ec"
+  },
+  "posts/2017-03-01-iodide-perchlorate-thyroid.qmd": {
+    "2017-03-01-iodide-perchlorate-thyroid.html": "b9454f1e"
+  },
+  "posts/2017-03-01-host-microbe-transcription.qmd": {
+    "2017-03-01-host-microbe-transcription.html": "72516fcc"
+  },
+  "posts/2016-12-20-gulf-pipefish-genome.qmd": {
+    "2016-12-20-gulf-pipefish-genome.html": "dcd26fa7"
+  },
+  "posts/2014-09-30-lundberg-defense-sweden.qmd": {
+    "2014-09-30-lundberg-defense-sweden.html": "7717cf71"
+  },
+  "posts/2015-10-01-ray-troll-visit.qmd": {
+    "2015-10-01-ray-troll-visit.html": "96ecc0f1"
+  },
+  "posts/2011-08-01-bradic-defense-portugal.qmd": {
+    "2011-08-01-bradic-defense-portugal.html": "67575c87"
+  },
+  "posts/2015-12-01-response-may-delany.qmd": {
+    "2015-12-01-response-may-delany.html": "fe10b690"
+  },
+  "posts/2012-03-01-sikkink-nsf-ddig.qmd": {
+    "2012-03-01-sikkink-nsf-ddig.html": "b3fef6c1"
+  },
+  "people/stervander.qmd": {
+    "stervander.html": "982e3d94"
+  },
+  "people/cresko.qmd": {
+    "cresko.html": "9778be03"
+  },
+  "people/snyder.qmd": {
+    "snyder.html": "93bfb5d9"
+  },
+  "people/currey.qmd": {
+    "currey.html": "9020ac57"
+  },
+  "people/healey.qmd": {
+    "healey.html": "cfe7e410"
+  },
+  "people/bassham.qmd": {
+    "bassham.html": "c9b6590e"
+  },
+  "people/woods.qmd": {
+    "woods.html": "59db9661"
   }
 }

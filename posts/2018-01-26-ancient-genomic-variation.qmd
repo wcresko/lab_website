@@ -1,0 +1,86 @@
+---
+title: "New Publication: Ancient Genomic Variation Drives Repeated Adaptation"
+author: "Cresko Lab"
+date: "2018-01-26"
+categories: [news, publication, journal article, evolutionary genomics, adaptation, Evolution Letters]
+image: "ancient-genomic-variation.jpg"
+draft: false
+---
+
+Groundbreaking publication in Evolution Letters reveals that ancient genomic variation underlies repeated ecological adaptation in young stickleback populations!
+
+Thom Nelson and Bill Cresko demonstrate that the genomic variation driving recent and rapid local adaptation has been evolving throughout the 15-million-year history since oceanic and freshwater stickleback lineages split. This work reveals how deep evolutionary history enables contemporary rapid adaptation.
+
+## Major Discovery
+
+The research reveals:
+- Ancient variation drives modern adaptation
+- 15-million-year-old genomic divergence persists
+- Multiple chromosomal inversions maintained
+- Extensive linked variation preserved
+- Speciation islands exist between ecotypes
+
+## Evolutionary Time Scales
+
+Key findings show:
+- Deep divergence enables rapid adaptation
+- Standing variation has ancient origins
+- Long-term balancing selection operates
+- Genomic architecture evolution spans millions of years
+- Contemporary adaptation uses old variation
+
+## Genomic Architecture
+
+The study documents:
+- Large regions of ancient ancestry
+- Multiple chromosomal inversions
+- Suppressed recombination zones
+- Linked adaptive variation
+- Genomic islands of divergence
+
+## RAD-seq Innovation
+
+Technical advances include:
+- High-resolution population genomics
+- Inversion detection methods
+- Divergence dating approaches
+- Selection signature analyses
+- Comparative genomic techniques
+
+## Theoretical Implications
+
+This work demonstrates:
+- Importance of standing variation
+- Role of structural variants
+- Long-term maintenance of diversity
+- Predictability of adaptation
+- Evolution's deep preparation
+
+## Speciation Insights
+
+Findings illuminate:
+- Speciation with gene flow
+- Ecological speciation mechanisms
+- Genomic island formation
+- Reproductive isolation evolution
+- Adaptive divergence patterns
+
+## Conservation Relevance
+
+Applications include:
+- Understanding adaptive potential
+- Predicting climate change responses
+- Managing genetic diversity
+- Evolutionary rescue possibilities
+- Conservation genomics strategies
+
+## Future Directions
+
+This research enables:
+- Functional validation studies
+- Comparative genomics across species
+- Understanding adaptation mechanisms
+- Predicting evolutionary responses
+- Testing evolutionary theory
+
+[Read the paper →](https://onlinelibrary.wiley.com/doi/full/10.1002/evl3.37)

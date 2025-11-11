@@ -1,0 +1,86 @@
+---
+title: "New Publication: Polyploid Genomics in Salmonid Fishes"
+author: "Cresko Lab"
+date: "2015-05-01"
+categories: [news, publication, journal article, polyploidy, salmonids, population genomics]
+image: "polyploid-salmonids.jpg"
+draft: false
+---
+
+Important publication in Journal of Heredity reveals how crossovers between homeologs affect inheritance and population genomics in salmonid fishes!
+
+Fred Allendorf, Susan Bassham, Bill Cresko, Morten Limborg, and Jim Seeb demonstrate that residual tetrasomic inheritance from homeologous recombination occurs primarily near chromosome ends, while disomic inheritance is maintained through homologous pairing at centromeric regions. This work has major implications for genetic mapping and conservation genetics in these economically important species.
+
+## Key Discoveries
+
+The research reveals:
+- Homeologous recombination near telomeres
+- Centromeric regions maintain disomic inheritance
+- Many genetic maps miss telomeric regions
+- Tetrasomic inheritance affects population genomics
+- Current maps underrepresent chromosome ends
+
+## Polyploid Complexity
+
+Important findings about:
+- Residual tetraploidy patterns
+- Chromosome pairing mechanisms
+- Inheritance mode variation
+- Genomic architecture of polyploids
+- Evolution after whole genome duplication
+
+## Mapping Implications
+
+This work shows:
+- SNP and microsatellite maps have gaps
+- Long chromosome sections poorly represented
+- Telomeric regions especially undersampled
+- Need for comprehensive mapping approaches
+- Importance of including duplicated regions
+
+## Conservation Applications
+
+Findings inform:
+- Population genetic analyses
+- Conservation unit delineation
+- Effective population size estimates
+- Genetic rescue strategies
+- Hatchery management practices
+
+## Evolutionary Insights
+
+The study reveals:
+- Rediploidization processes
+- Chromosome evolution patterns
+- Homeolog divergence mechanisms
+- Selection on duplicated genes
+- Polyploid genome stabilization
+
+## Technical Innovation
+
+The research employed:
+- Comparative genomic approaches
+- Inheritance pattern analysis
+- Chromosome mapping techniques
+- Population genomic methods
+- Integration of multiple marker types
+
+## Salmonid Importance
+
+This work benefits:
+- Commercial fisheries management
+- Aquaculture breeding programs
+- Conservation efforts
+- Evolutionary studies
+- Climate change adaptation research
+
+## Broader Impact
+
+Applications extend to:
+- Other polyploid species
+- Crop improvement programs
+- Understanding genome evolution
+- Biotechnology applications
+- Comparative genomics
+
+[Read the paper →](https://academic.oup.com/jhered/article/106/3/217/2960044)

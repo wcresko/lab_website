@@ -1,0 +1,38 @@
+---
+title: "Taylor Wilson Graduates with Highest Honors"
+author: "Cresko Lab"
+date: "2012-06-15"
+categories: [news, achievement, undergraduate, graduation, Clark Honors College]
+image: "taylor-wilson-graduation.jpg"
+draft: false
+---
+
+Congratulations to Taylor Wilson on graduating with highest honors from the Clark Honors College at the University of Oregon!
+
+Taylor has been an exceptional undergraduate researcher in the Cresko Lab, making significant contributions to our understanding of Oregon stickleback population structure. Their dedication to research excellence and academic achievement exemplifies the best of undergraduate science at the University of Oregon.
+
+## Research Contributions
+
+During their time in the lab, Taylor contributed to:
+- Field collections across Oregon watersheds
+- RAD-seq library preparation and optimization
+- Population genetic analyses
+- Co-authorship on our 2013 Molecular Ecology paper on Oregon stickleback phylogeography
+
+## Academic Excellence
+
+Taylor's achievements include:
+- Graduating with Highest Honors from Clark Honors College
+- Completion of an honors thesis on stickleback population genetics
+- Dean's List recognition throughout their undergraduate career
+- Presentation of research at regional conferences
+
+## Honors Thesis
+
+Taylor's thesis work focused on population structure and gene flow patterns in Oregon stickleback populations, utilizing cutting-edge genomic techniques to address evolutionary questions.
+
+## What's Next
+
+Taylor's strong foundation in genomics and evolutionary biology, combined with extensive research experience, positions them well for future success in graduate studies or scientific careers.
+
+Congratulations Taylor! We're incredibly proud of your achievements and excited to see where your scientific journey takes you next!

@@ -1,0 +1,86 @@
+---
+title: "New Publication: Few Stickleback Suffice for Allele Transport to New Lakes"
+author: "Cresko Lab"
+date: "2020-02-01"
+categories: [news, publication, journal article, population genetics, modeling, G3]
+image: "few-stickleback-modeling.jpg"
+draft: false
+---
+
+Fascinating publication in G3: Genes|Genomes|Genetics reveals that just a few stickleback can transport adaptive alleles to new lakes!
+
+Jared Galloway, Bill Cresko, and Peter Ralph use spatially explicit simulations to demonstrate that freshwater adapted alleles can be traced back to the original marine colonizers rather than subsequent migrants, providing striking insights into adaptation dynamics.
+
+## Key Discovery
+
+The research reveals:
+- Few founders carry sufficient adaptive variation
+- Original colonizers contribute most adaptation
+- Subsequent gene flow less important than thought
+- Migration-selection balance maintains alleles
+- Low-frequency marine variants enable adaptation
+
+## Simulation Innovation
+
+The study employs:
+- SLiM forward-time simulations
+- Spatially explicit models
+- Individual-based approaches
+- Realistic parameter ranges
+- Genealogical tracking
+
+## Population Dynamics
+
+Findings show:
+- Shared adaptive alleles across populations
+- Standing variation importance
+- Marine reservoir maintenance
+- Rare allele contributions
+- Founder effect implications
+
+## Evolutionary Insights
+
+This work demonstrates:
+- Rapid adaptation from standing variation
+- Importance of initial colonization
+- Limited ongoing gene flow needed
+- Predictability of adaptive responses
+- Conservation of adaptive potential
+
+## Model Validation
+
+Simulations match:
+- Observed allele sharing patterns
+- Population differentiation levels
+- Adaptive trait distributions
+- Genomic signatures
+- Natural population data
+
+## Conservation Applications
+
+Implications include:
+- Small founder populations can adapt
+- Genetic rescue considerations
+- Reintroduction strategies
+- Adaptive potential assessment
+- Population viability
+
+## Theoretical Advances
+
+The work contributes to:
+- Adaptation theory
+- Colonization genetics
+- Gene flow models
+- Standing variation importance
+- Evolutionary predictability
+
+## Collaborative Excellence
+
+This publication showcases:
+- Computational biology expertise
+- Evolutionary modeling skills
+- Empirical-theoretical integration
+- Cross-disciplinary approaches
+- Modern simulation methods
+
+[Read the paper →](https://www.g3journal.org/content/10/2/505)

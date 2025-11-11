@@ -1,0 +1,60 @@
+---
+title: "Susan Bassham"
+subtitle: "Senior Research Associate"
+image: "/images/bassham-profile.jpg"
+about:
+  template: trestles
+  image-shape: rounded
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:sbassham@uoregon.edu
+    - icon: google
+      text: Scholar
+      href: https://scholar.google.com/citations?user=USERID
+page-layout: full
+toc: true
+---
+
+## Biography
+
+Susan Bassham is a Senior Research Associate in the Cresko Laboratory at the University of Oregon. She received her Ph.D. in Biology from the University of Oregon, where her doctoral research focused on "Molecular embryology of a larvacean urochordate, Oikopleura dioica, and the origin of chordate innovations." Dr. Bassham has been instrumental in developing and applying molecular genetic tools to understand genome-scale patterns underlying phenotypic variation in wild fish populations.
+
+## Education
+
+- **Ph.D. Biology**, University of Oregon
+  - Thesis: "Molecular embryology of a larvacean urochordate, Oikopleura dioica, and the origin of chordate innovations"
+
+## Research Interests
+
+What are the developmental and genetic bases of evolution in natural populations? Using a variety of molecular genetic tools, I work to uncover genome-scale patterns that underlie phenotypic variation in wild populations of fish, and direct this knowledge to the study of developmental pathways that contribute to novel or modified morphologies.
+
+### Current Research Areas
+
+- **Evolutionary Developmental Biology**: Understanding how developmental mechanisms evolve to produce morphological diversity
+- **Population Genomics**: Applying genomic approaches to study adaptation in natural populations
+- **Stickleback Evolution**: Using threespine stickleback as a model for rapid evolutionary change
+- **Molecular Genetics**: Developing and applying molecular tools for evolutionary studies
+
+## Selected Publications
+
+Dr. Bassham has contributed to numerous high-impact publications, including work on:
+- Parallel evolution in stickleback populations
+- RAD-seq methodology development
+- Population genomics of adaptation
+- Developmental evolution of novel traits
+
+## Teaching and Mentorship
+
+Susan has mentored numerous undergraduate and graduate students in:
+- Molecular biology techniques
+- Bioinformatics and data analysis
+- Experimental design
+- Scientific writing and presentation
+
+## Professional Service
+
+- Reviewer for multiple scientific journals
+- Grant review panels
+- Conference organization
+- Outreach and science communication

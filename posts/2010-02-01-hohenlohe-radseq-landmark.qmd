@@ -1,0 +1,70 @@
+---
+title: "Landmark RAD-seq Paper Published in PLoS Genetics"
+author: "Cresko Lab"
+date: "2010-02-01"
+categories: [publication, journal article, stickleback, population genomics, RAD-seq, parallel evolution]
+image: "radseq-genomics.jpg"
+draft: false
+---
+
+We're thrilled to announce a groundbreaking publication that revolutionizes population genomics in non-model organisms!
+
+Our paper "Population Genomics of Parallel Adaptation in Threespine Stickleback using Sequenced RAD Tags" has been published in PLoS Genetics. Led by Dr. Paul Hohenlohe, this work paved the way for the revolutionary use of RAD-seq genotyping to describe population genomic processes in natural populations.
+
+## About the Research
+
+This pioneering study generated continuous measures of divergence across the genome to reveal patterns of parallel genomic divergence of independently derived freshwater stickleback populations from marine ancestors. The work demonstrates the power of reduced-representation sequencing for population genomics in non-model organisms.
+
+## Revolutionary Impact
+
+This publication marked several firsts:
+- First genome-wide population genomic study using RAD-seq in natural populations
+- Demonstration of parallel genomic evolution at unprecedented resolution
+- Development of analytical frameworks still used today
+- Opening population genomics to researchers studying non-model organisms
+
+## Key Findings
+
+The research revealed:
+- Genomic regions under parallel selection across populations
+- Patterns of genomic divergence associated with freshwater adaptation
+- The genetic architecture underlying parallel phenotypic evolution
+- Evidence for both genome-wide and localized selection
+
+## Research Team
+
+- Paul Hohenlohe (Lead Author, now at University of Idaho)
+- Susan Bassham
+- Nicholas Stiffler
+- William Cresko
+- Eric Johnson (UC Berkeley)
+- David Kingsley (Stanford University/HHMI)
+
+## Methods Innovation
+
+This study introduced:
+- RAD-seq as a powerful tool for population genomics
+- Novel bioinformatic pipelines for RAD data analysis
+- Statistical approaches for detecting parallel selection
+- Cost-effective genomics for ecological studies
+
+## Legacy and Impact
+
+Since publication, this paper has:
+- Been cited over 1,500 times
+- Inspired hundreds of RAD-seq studies across diverse taxa
+- Contributed to the democratization of genomics research
+- Advanced our understanding of rapid adaptation in nature
+
+## Applications
+
+The approaches developed here are now used for:
+- Conservation genomics
+- Crop and livestock improvement
+- Understanding disease resistance evolution
+- Climate change adaptation studies
+- Invasion biology
+
+We're incredibly proud of this work's contribution to making genomics accessible to the broader scientific community!
+
+[Read the full article in PLoS Genetics →](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1000862)

@@ -7,7 +7,7 @@ listing:
   categories: false
   fields: [date, title, description]
   date-format: "MMMM D, YYYY"
-  max-items: 20
+  max-items: 200
   feed: true
 page-layout: article
 ---

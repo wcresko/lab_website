@@ -1,0 +1,77 @@
+---
+title: "New Publication: Ancient Mitochondrial Lineages in North Pacific Stickleback"
+author: "Cresko Lab"
+date: "2015-01-01"
+categories: [news, publication, journal article, phylogeography, population genetics]
+image: "mitochondrial-admixture.jpg"
+draft: false
+---
+
+New publication in Journal of Biogeography reveals complex patterns of ancient mitochondrial lineage admixture in North Pacific stickleback populations!
+
+Emily Lescak, Robert Marcotte, Leo Kenny, Frank von Hippel, Bill Cresko, Michelle Sherbick, Jessica Colgren, and J. Andrés López demonstrate high variance in mitochondrial clade composition at small geographical scales, with surprising patterns across the Aleutian and Kuril island chains.
+
+## Key Findings
+
+Our research reveals:
+- Complex admixture of ancient mitochondrial lineages
+- High clade composition variance at small scales
+- Deep-water trenches don't partition genetic variation as expected
+- Discordance between local and broad-scale patterns
+- Complex colonization history of island populations
+
+## Biogeographic Insights
+
+The study demonstrates:
+- Island chains show unexpected genetic patterns
+- Ocean currents influence gene flow differently than predicted
+- Historical sea level changes affected population structure
+- Multiple colonization events shaped current diversity
+- Geographic barriers have variable effects
+
+## Sampling Excellence
+
+Comprehensive coverage including:
+- Aleutian Island chain populations
+- Kuril Islands sampling
+- North Pacific coastal sites
+- Multiple individuals per population
+- Comparison with historical samples
+
+## Evolutionary History
+
+The work reveals:
+- Deep divergence between mitochondrial clades
+- Secondary contact and admixture
+- Complex demographic history
+- Retention of ancestral polymorphism
+- Variable rates of lineage sorting
+
+## Conservation Relevance
+
+Findings inform:
+- Management unit delineation
+- Understanding of genetic diversity patterns
+- Climate change impact predictions
+- Conservation prioritization
+- Population connectivity assessment
+
+## Methodological Approach
+
+We employed:
+- Mitochondrial DNA sequencing
+- Phylogeographic analyses
+- Admixture testing
+- Geographic barrier analysis
+- Comparative phylogenetics
+
+## Collaborative Network
+
+This international effort involved:
+- Multiple institutions across the Pacific
+- Field work in remote locations
+- Museum specimen analysis
+- Cross-cultural collaboration
+- Student training opportunities
+
+[Read the paper →](https://onlinelibrary.wiley.com/doi/full/10.1111/jbi.12426)

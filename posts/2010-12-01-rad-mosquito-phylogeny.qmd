@@ -1,0 +1,42 @@
+---
+title: "RAD-seq Used to Infer Phylogenetic History in Mosquitos"
+author: "Cresko Lab"
+date: "2010-12-01"
+categories: [news, publication, RAD-seq, phylogenetics]
+image: "mosquito-phylogeny.jpg"
+draft: false
+---
+
+Exciting news! RAD sequencing is being used to infer phylogenetic relationships in mosquito species, as featured in Science.
+
+This publication demonstrates the expanding applications of RAD-seq technology beyond population genomics into phylogenetics. The study showcases how restriction-site associated DNA sequencing can resolve evolutionary relationships in disease vectors, providing crucial insights for understanding mosquito evolution and disease transmission.
+
+## About the Research
+
+The featured work demonstrates how RAD sequencing enables:
+- Resolution of complex phylogenetic relationships in mosquitos
+- Generation of thousands of phylogenetically informative markers
+- Cost-effective genomic approaches for non-model organisms
+- Better understanding of disease vector evolution
+
+## Significance for Public Health
+
+Understanding mosquito phylogenetics is crucial for:
+- Tracking disease transmission patterns
+- Developing targeted vector control strategies
+- Understanding the evolution of insecticide resistance
+- Predicting disease emergence patterns
+
+## RAD-seq Innovation
+
+This application shows the versatility of RAD-seq for:
+- Systematic biology studies
+- Species delimitation
+- Phylogeographic analyses
+- Conservation genetics
+
+## Our Laboratory's Role
+
+The Cresko Lab continues to pioneer RAD-seq applications, contributing to its adoption across diverse research areas from population genomics to phylogenetics.
+
+[Read the paper in Science →](http://www.sciencemag.org/content/331/6020/1006.full)

@@ -1,0 +1,85 @@
+---
+title: "New Publication: Oregon Stickleback Population Structure Revealed by RAD-seq"
+author: "Cresko Lab"
+date: "2013-05-30"
+categories: [news, publication, journal article, population genomics, phylogeography]
+image: "oregon-stickleback-structure.jpg"
+draft: false
+---
+
+We're pleased to announce a major publication in Molecular Ecology revealing the population structure and colonization history of Oregon threespine stickleback!
+
+This comprehensive study, led by Julian Catchen with team members Susan Bassham, Taylor Wilson, Mark Currey, Conor O'Brien, Quick Yeates, and Bill Cresko, uses RAD-sequencing to uncover patterns of genetic diversity, gene flow, and recent colonization events across Oregon's watersheds.
+
+## Key Discoveries
+
+Our genome-wide analysis revealed:
+- Complex patterns of population structure across Oregon
+- Evidence for introgressive hybridization in coastal populations  
+- Recent expansion in central Oregon populations
+- Human-mediated introductions in some watersheds
+- Strong isolation by distance patterns
+
+## Research Significance
+
+This work demonstrates:
+- Power of RAD-seq for phylogeographic studies
+- Historical and recent colonization patterns
+- Role of gene flow in population differentiation
+- Impact of human activities on fish distributions
+- Genomic signatures of adaptation
+
+## Comprehensive Sampling
+
+The study analyzed populations from:
+- Coastal watersheds from Columbia River to Coos Bay
+- Willamette Valley systems
+- Central Oregon lakes
+- Cascade Range habitats
+- Over 20 distinct populations
+
+## Technical Innovation
+
+We employed cutting-edge approaches including:
+- Genome-wide genetic diversity (π) calculations
+- FIS analysis for population substructure
+- Tests for introgressive hybridization
+- Isolation by distance analyses
+- Detection of recent colonization events
+
+## Conservation Implications
+
+Our findings inform:
+- Management of native fish populations
+- Understanding invasion dynamics
+- Predicting responses to habitat change
+- Conservation prioritization
+- Restoration planning
+
+## Evolutionary Insights
+
+The research reveals:
+- Rapid colonization of new habitats
+- Complex patterns of gene flow
+- Maintenance of genetic diversity
+- Local adaptation signatures
+- Metapopulation dynamics
+
+## Research Team Excellence
+
+This publication showcases:
+- Collaborative field work across Oregon
+- Integration of genomics and ecology
+- Graduate and undergraduate training
+- Team science approach
+- Long-term research vision
+
+## Data Availability
+
+Supporting open science:
+- Raw sequence data in public repositories
+- Analysis pipelines available
+- Detailed sampling information
+- Reproducible research practices
+
+[Read the paper in Molecular Ecology →](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.12330)

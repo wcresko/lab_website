@@ -1,0 +1,86 @@
+---
+title: "New Publication: Genetic Divergence Outpaces Phenotypic Evolution"
+author: "Cresko Lab"
+date: "2019-10-01"
+categories: [news, publication, journal article, population genetics, evolution, Biological Journal of the Linnean Society]
+image: "genetic-phenotypic-divergence.jpg"
+draft: false
+---
+
+Fascinating publication in Biological Journal of the Linnean Society reveals that genetic divergence outpaces phenotypic evolution in old freshwater stickleback habitats!
+
+Senior Research Scientist Mark Currey, with Susan Bassham and Bill Cresko, demonstrates surprising patterns where populations in older freshwater habitats show greater genetic differentiation than morphological divergence, challenging assumptions about the relationship between genetic and phenotypic evolution.
+
+## Surprising Discovery
+
+The research reveals:
+- Genetic divergence exceeds phenotypic change
+- Older populations show this pattern most strongly
+- Morphology can be conserved despite genetic change
+- Neutral evolution dominates in stable habitats
+- Phenotypic stasis occurs with genetic drift
+
+## Population Structure Analysis
+
+Key findings include:
+- Strong genetic differentiation among populations
+- Principal component analysis reveals structure
+- RAD-seq provides genome-wide resolution
+- Geographic patterns of variation
+- Time since colonization effects
+
+## Phenotypic Patterns
+
+The study documents:
+- Morphological conservation in old habitats
+- Less phenotypic variation than expected
+- Trait stability despite genetic change
+- Environmental consistency effects
+- Relaxed selection possibilities
+
+## Evolutionary Implications
+
+This work demonstrates:
+- Genotype-phenotype relationship complexity
+- Neutral evolution's importance
+- Selection relaxation in stable environments
+- Genetic drift in small populations
+- Evolutionary rate heterogeneity
+
+## Oregon Stickleback System
+
+The research leverages:
+- Ancient freshwater populations
+- Known colonization histories
+- Environmental gradients
+- Replicated evolution
+- Natural experiments
+
+## Methodological Excellence
+
+Approaches include:
+- Comprehensive population sampling
+- RAD-seq genotyping
+- Morphometric analyses
+- Statistical frameworks
+- Comparative methods
+
+## Conservation Relevance
+
+Findings inform:
+- Genetic diversity patterns
+- Evolutionary potential assessment
+- Population uniqueness
+- Management priorities
+- Long-term viability
+
+## Theoretical Contributions
+
+The work advances:
+- Understanding evolutionary rates
+- Neutral theory applications
+- Population genetics theory
+- Phenotypic evolution models
+- Eco-evolutionary dynamics
+
+[Read the paper →](https://academic.oup.com/biolinnean/article/128/2/415/5543242)

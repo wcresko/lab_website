@@ -1,0 +1,86 @@
+---
+title: "New Publication: Stickleback as Model for Mito-Nuclear Interactions"
+author: "Cresko Lab"
+date: "2022-04-01"
+categories: [news, publication, journal article, mitochondrial genetics, evolution, Frontiers in Genetics]
+image: "mito-nuclear-interactions.jpg"
+draft: false
+---
+
+Important publication in Frontiers in Genetics establishes threespine stickleback as an emerging evolutionary model for studying mito-nuclear interactions!
+
+Emily Beck, Susan Bassham, and Bill Cresko reveal extreme intraspecific divergence in mitochondrial haplotypes, making stickleback an ideal system for understanding how mitochondrial and nuclear genomes co-evolve and interact to maintain cellular function.
+
+## Revolutionary Discovery
+
+The research reveals:
+- Extreme mitochondrial haplotype divergence within species
+- Potential for mito-nuclear incompatibilities
+- Natural evolutionary experiments
+- Model system establishment
+- Functional interaction opportunities
+
+## Mitochondrial Diversity
+
+Key findings include:
+- Deep divergence between haplotypes
+- Geographic distribution patterns
+- Maintenance of ancient lineages
+- Cytonuclear co-evolution potential
+- Functional consequences possibilities
+
+## Model System Advantages
+
+Stickleback offer:
+- Natural mitochondrial variation
+- Controlled breeding capability
+- Genomic resources availability
+- Ecological context
+- Experimental tractability
+
+## Evolutionary Significance
+
+This work demonstrates:
+- Mito-nuclear co-evolution importance
+- Genetic incompatibility evolution
+- Speciation mechanisms
+- Hybrid zone dynamics
+- Adaptation constraints
+
+## Biomedical Relevance
+
+Applications include:
+- Mitochondrial disease models
+- Aging research
+- Metabolic studies
+- Fertility investigations
+- Therapeutic insights
+
+## Comparative Genomics
+
+The study provides:
+- Cross-population comparisons
+- Sequence divergence analyses
+- Functional variant identification
+- Evolutionary rate calculations
+- Phylogenetic relationships
+
+## Future Research
+
+This enables:
+- Functional studies of incompatibilities
+- Hybrid crosses experiments
+- Metabolic phenotyping
+- Gene expression analyses
+- Clinical applications
+
+## Theoretical Contributions
+
+Advances understanding of:
+- Cytonuclear evolution
+- Genetic conflict
+- Co-adaptation mechanisms
+- Speciation processes
+- Genome interactions
+
+[Download the paper →]({{ site.url }}{{ site.baseurl }}/assets/publications/2022_Beck_FIG.pdf)

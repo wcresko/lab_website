@@ -1,0 +1,110 @@
+---
+title: "Martin Stervander"
+subtitle: "Postdoctoral Research Fellow"
+image: "/images/stervander-profile.jpg"
+about:
+  template: trestles
+  image-shape: rounded
+  links:
+    - icon: globe
+      text: Website
+      href: http://www.stervander.com
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/nesospiza
+    - icon: google
+      text: Scholar
+      href: https://scholar.google.co.za/citations?user=VedbpwsAAAAJ&hl=sv&oi=ao
+    - icon: envelope
+      text: Email
+      href: mailto:mste@uoregon.edu
+    - text: ORCID
+      href: http://orcid.org/0000-0002-6139-7828
+    - text: Publons
+      href: https://publons.com/researcher/1370305/martin-stervander/
+    - text: ResearchGate
+      href: https://www.researchgate.net/profile/Martin_Stervander
+page-layout: full
+toc: true
+---
+
+## Biography
+
+Martin Stervander is a postdoctoral research fellow on a three-year grant from the Swedish Research Council. In the Cresko Lab at the Institute of Ecology and Evolution (IE2), University of Oregon, he conducts research in comparative genomics of syngnathid fishes. With a background in phylogenetic and phylogenomic analyses of birds, his overall research interests span microevolutionary dynamics to large-scale macroevolution. Martin has published over 20 papers that have been cited over a thousand times.
+
+## Education
+
+- **Ph.D. Evolutionary Biology**, Lund University, Sweden (2015)
+  - Thesis: "On Speciation in Birds – Genomic Signatures Across Space and Time"
+  - Advisors: Drs. Bengt Hansson and Staffan Bensch
+
+## Honors & Awards
+
+- **2020**: Marie Skłodowska-Curie Actions Individual Fellowship (for Natural History Museum London)
+- **2018**: Marie Skłodowska-Curie Actions Seal of Excellence
+- **2017-2020**: Swedish Research Council International Postdoc Fellowship
+
+## Appointments
+
+- **2020-2022**: Marie Curie Fellow, Natural History Museum London, UK
+- **2017-2020**: Swedish Research Council Postdoctoral Fellow, University of Oregon
+- **2016**: Postdoctoral Researcher, Linnaeus University, Sweden
+- **2011-2015**: PhD Student (employed), Lund University, Sweden
+- **2002-2003**: Warden and Acting Warden, Ottenby Bird Observatory, Sweden
+
+## Research Interests
+
+- **Speciation**: Understanding how new species arise and maintain reproductive isolation
+- **Phylogenomics**: Reconstructing evolutionary relationships using genome-scale data
+- **Comparative Genomics**: Identifying genomic changes underlying phenotypic evolution
+- **Ornithology**: Evolutionary biology of birds, particularly island species
+
+## Current Research
+
+### Syngnathid Comparative Genomics
+Investigating the genomic basis of unique morphological traits in seahorses and pipefishes, including:
+- Loss of ribs and pelvic fins
+- Evolution of male pregnancy
+- Craniofacial modifications
+- Body armor development
+
+### Convergent Evolution
+Now at Natural History Museum London studying:
+- Genomic underpinnings of flight loss in island rails
+- Repeated evolution of similar traits
+- Predictability of evolution
+
+## Professional Activities
+
+### Editorial Roles
+- **Managing Editor**, Ornis Svecica (2019-present)
+- **Subject Editor**, Ornis Svecica (2017-present)
+
+### Grant Review
+- Icelandic Research Council Rannís (2017-2019)
+- Project grants and grants of excellence
+
+### Peer Review
+Regular reviewer for: Molecular Ecology, Evolutionary Applications, Royal Society Open Science, Molecular Phylogenetics and Evolution, PeerJ, Ecology & Evolution, Journal of Avian Biology, Ibis, Zoology, Bird Conservation International, and others
+
+### University Service
+- Organizer, University of Oregon 2nd International LGBTSTEM Day celebrations (2019)
+- Multiple elected positions at Lund University (2011-2015):
+  - University Council member
+  - Faculty of Science committees
+  - Department of Biology board
+
+## Selected Publications
+
+Martin has authored over 20 peer-reviewed publications in leading journals, with expertise spanning:
+- Avian speciation and phylogenomics
+- Comparative genomics methods
+- Island biogeography
+- Conservation genetics
+
+## Diversity & Inclusion
+
+Martin is committed to promoting diversity in STEM:
+- Featured in [LGBTQ+ STEM interviews](https://lgbtstem.wordpress.com/2016/11/23/an-interview-with-martin-stervander/)
+- Member of [500 Queer Scientists](https://www.500queerscientists.com/)
+- Organizer of LGBTSTEM Day events

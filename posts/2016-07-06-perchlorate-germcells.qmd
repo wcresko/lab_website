@@ -1,0 +1,95 @@
+---
+title: "New Publication: Perchlorate Reduces Primordial Germ Cells in Stickleback"
+author: "Cresko Lab"
+date: "2016-07-06"
+categories: [news, publication, journal article, developmental biology, environmental toxicology, PLOS ONE]
+image: "perchlorate-germcells.jpg"
+draft: false
+---
+
+Important publication in PLOS ONE reveals first evidence linking endocrine disruption to primordial germ cell reduction!
+
+Ann Petersen, Nicole Earp, Shaun Redmond, John Postlethwait, Frank von Hippel, C. Loren Buck, and Bill Cresko demonstrate that perchlorate exposure reduces primordial germ cell (PGC) numbers in female threespine stickleback prior to the first meiosis during sex determination. This groundbreaking discovery connects environmental contamination to fundamental reproductive development.
+
+## Breakthrough Discovery
+
+The research reveals:
+- First evidence linking endocrine disruptor to PGC reduction
+- Female-specific effects on germ cells
+- Critical window during sex determination
+- Pre-meiotic germ cell loss
+- Potential population-level impacts
+
+## Developmental Impact
+
+Key findings include:
+- Reduced primordial germ cell numbers
+- Effects occur before first meiosis
+- Sex-specific vulnerability
+- Disruption of gonad development
+- Long-term reproductive consequences
+
+## Mechanistic Insights
+
+The study shows:
+- Thyroid disruption affects germ cells
+- Sex determination period sensitivity
+- Female-biased effects
+- Developmental programming disruption
+- Cellular-level reproductive impacts
+
+## Conservation Significance
+
+This work has implications for:
+- Population reproductive potential
+- Sex ratio effects
+- Recruitment impacts
+- Species persistence
+- Ecosystem-level consequences
+
+## Comparative Biology
+
+Findings inform understanding in:
+- Vertebrate sex determination
+- Germ cell development
+- Endocrine disruption mechanisms
+- Reproductive toxicology
+- Developmental biology
+
+## Environmental Relevance
+
+The research addresses:
+- Widespread perchlorate contamination
+- Reproductive impacts of pollution
+- Early life stage sensitivity
+- Transgenerational effects potential
+- Water quality standards
+
+## Technical Innovation
+
+Methods employed include:
+- Germ cell quantification techniques
+- Developmental staging precision
+- Sex-specific analysis
+- Cellular-level assessment
+- Comparative approaches with zebrafish
+
+## Broader Applications
+
+This work contributes to:
+- Understanding reproductive disorders
+- Predicting pollution impacts
+- Developing biomarkers
+- Risk assessment refinement
+- Conservation strategies
+
+## Research Excellence
+
+The publication demonstrates:
+- Novel discovery in reproductive biology
+- Environmental health significance
+- Developmental biology insights
+- Collaborative research success
+- High-impact findings
+
+[Read the paper in PLOS ONE →](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0157792)

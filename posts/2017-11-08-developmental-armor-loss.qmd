@@ -1,0 +1,86 @@
+---
+title: "New Publication: Developmental Timing Drives Armor Loss in Stickleback"
+author: "Cresko Lab"
+date: "2017-11-08"
+categories: [news, publication, journal article, developmental biology, evolution, EvoDevo]
+image: "developmental-armor-loss.jpg"
+draft: false
+---
+
+Important publication in Evolution & Development reveals how developmental timing differences underlie armor loss across stickleback populations!
+
+Mark Currey, Susan Bassham, Shaun Perry, and Bill Cresko demonstrate that changes in ossified pelvic armor elements are linked to delayed and incomplete development of early-forming pelvic cartilage, providing mechanistic insights into this classic example of evolutionary change.
+
+## Major Discovery
+
+The research reveals:
+- Developmental timing underlies armor loss
+- Early cartilage formation is disrupted
+- Incomplete development leads to vestigial structures
+- Heterochrony drives morphological evolution
+- Variable pelvic vestiges have developmental basis
+
+## Evolutionary Development
+
+Key findings include:
+- Pelvic cartilage forms early in development
+- Delayed development in derived populations
+- Incomplete ossification patterns
+- Developmental disruption cascades
+- Predictable morphological outcomes
+
+## Mechanistic Insights
+
+The study shows:
+- Cartilage template disruption
+- Ossification timing changes
+- Developmental trajectory alterations
+- Cellular differentiation delays
+- Morphogenetic process modifications
+
+## Classic Evolution Example
+
+This work illuminates:
+- Textbook case of rapid evolution
+- Repeated armor loss patterns
+- Parallel evolution mechanisms
+- Developmental basis of adaptation
+- Predictability of evolutionary change
+
+## Evo-Devo Integration
+
+Findings bridge:
+- Developmental biology and evolution
+- Proximate and ultimate causes
+- Genotype to phenotype mapping
+- Micro and macroevolution
+- Pattern and process
+
+## Population Variation
+
+The research documents:
+- Variation across populations
+- Spectrum of armor reduction
+- Intermediate phenotypes
+- Population-specific trajectories
+- Environmental correlations
+
+## Methodological Excellence
+
+The study employed:
+- Detailed developmental staging
+- Cartilage and bone staining
+- Comparative morphology
+- Time-series analysis
+- Multiple population sampling
+
+## Broader Implications
+
+This work informs:
+- Understanding morphological evolution
+- Developmental constraint theory
+- Evolutionary predictability
+- Adaptation mechanisms
+- Phenotypic plasticity
+
+[Read the paper →](https://onlinelibrary.wiley.com/doi/full/10.1111/ede.12242)

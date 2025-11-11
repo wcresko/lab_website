@@ -1,0 +1,95 @@
+---
+title: "New Publication: Reproducible Microbiome Methods for Host Genetics Studies"
+author: "Cresko Lab"
+date: "2019-11-05"
+categories: [news, publication, journal article, microbiome, methods, mSystems]
+image: "microbial-methods.jpg"
+draft: false
+---
+
+Important methodological publication in mSystems establishes highly reproducible 16S sequencing protocols for measuring host genetic influences on microbiomes!
+
+Clay Small, Mark Currey, Emily Beck, Susan Bassham, and Bill Cresko provide crucial technical insights for microbiome variation studies, demonstrating how to quantify biological variation while controlling for technical factors across multiple system levels.
+
+## Methodological Excellence
+
+The research establishes:
+- Highly reproducible 16S protocols
+- Technical versus biological variation separation
+- Host genetic effect quantification
+- Standardization approaches
+- Quality control metrics
+
+## Technical Innovation
+
+Key advances include:
+- Optimized DNA extraction protocols
+- Sequencing depth recommendations
+- Batch effect minimization
+- Contamination control strategies
+- Data processing pipelines
+
+## Study Design Insights
+
+The work provides:
+- Power analysis frameworks
+- Sampling strategy guidance
+- Replication requirements
+- Control implementation
+- Experimental design principles
+
+## Microbiome Variation
+
+Findings reveal:
+- Host genetic contributions
+- Environmental influences
+- Technical noise sources
+- Biological signal detection
+- Variance partitioning methods
+
+## Stickleback Advantages
+
+The system offers:
+- Controlled genetic backgrounds
+- Laboratory tractability
+- Natural population access
+- Microbiome manipulation capability
+- Evolutionary context
+
+## Reproducibility Focus
+
+This work emphasizes:
+- Protocol standardization
+- Method validation
+- Result replication
+- Transparency practices
+- Open science principles
+
+## Community Resource
+
+The publication provides:
+- Detailed protocols
+- Analysis scripts
+- Validation datasets
+- Troubleshooting guides
+- Best practices
+
+## Broader Applications
+
+Methods apply to:
+- Other fish systems
+- Vertebrate microbiome studies
+- Host-microbe research
+- Population-level analyses
+- Comparative studies
+
+## Field Advancement
+
+This work enables:
+- More reliable studies
+- Better result comparisons
+- Improved reproducibility
+- Stronger conclusions
+- Accelerated discovery
+
+[Read the paper →](https://msystems.asm.org/content/4/4/e00331-19)

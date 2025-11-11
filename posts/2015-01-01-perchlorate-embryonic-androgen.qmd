@@ -1,0 +1,86 @@
+---
+title: "New Publication: Perchlorate Disrupts Embryonic Hormones in Stickleback"
+author: "Cresko Lab"
+date: "2015-01-01"
+categories: [news, publication, journal article, endocrinology, environmental toxicology]
+image: "perchlorate-hormones.jpg"
+draft: false
+---
+
+Important new publication in General and Comparative Endocrinology reveals how perchlorate exposure disrupts reproductive development without changing thyroid hormone levels!
+
+Ann Petersen, Danielle Dillon, Richard Bernhardt, John Postlethwait, Frank von Hippel, C. Loren Buck, and Bill Cresko demonstrate that chronic perchlorate exposure disrupts embryonic androgen synthesis and reproductive development through compensatory mechanisms involving thyroid follicle hyperplasia.
+
+## Major Findings
+
+The research reveals:
+- Perchlorate disrupts embryonic androgen synthesis
+- Reproductive development is significantly affected
+- Whole-body thyroid hormone levels remain unchanged
+- Compensation occurs through thyroid follicle hyperplasia
+- Lasting modifications to gonads persist into adulthood
+
+## Endocrine Disruption
+
+Key discoveries about:
+- 11-ketotestosterone synthesis disruption
+- Dose-response relationships in embryos
+- Steroid biogenesis pathway effects
+- Compensatory endocrine mechanisms
+- Long-term reproductive consequences
+
+## Environmental Relevance
+
+This work addresses:
+- Widespread perchlorate contamination
+- Water quality impacts on fish populations
+- Endocrine disrupting chemicals in ecosystems
+- Sublethal effects on reproduction
+- Population-level consequences
+
+## Mechanistic Insights
+
+The study reveals:
+- Decoupling of thyroid and reproductive effects
+- Tissue-specific hormone disruption
+- Developmental timing sensitivity
+- Compensatory response limitations
+- Persistent organizational effects
+
+## Conservation Implications
+
+Findings inform:
+- Risk assessment for aquatic organisms
+- Water quality standards
+- Population viability assessments
+- Management of contaminated waters
+- Understanding of reproductive impacts
+
+## Methodological Excellence
+
+The research employed:
+- Controlled exposure experiments
+- Hormone quantification techniques
+- Histological analyses
+- Dose-response assessments
+- Long-term effect monitoring
+
+## Research Team
+
+Collaborative effort involving:
+- Multiple universities
+- Environmental toxicology expertise
+- Endocrinology specialists
+- Developmental biology insights
+- Conservation biology applications
+
+## Broader Impacts
+
+This research contributes to:
+- Understanding endocrine disruption
+- Protecting aquatic ecosystems
+- Informing regulatory decisions
+- Public health considerations
+- Environmental monitoring strategies
+
+[Read the paper →](https://www.sciencedirect.com/science/article/pii/S001664801400416X?via%3Dihub)

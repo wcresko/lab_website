@@ -1,0 +1,77 @@
+---
+title: "New Publication: Transgenerational Effects of Heat Stress in C. remanei"
+author: "Cresko Lab"
+date: "2014-09-14"
+categories: [news, publication, journal article, evolution, transgenerational effects]
+image: "transgenerational-stress.jpg"
+draft: false
+---
+
+Important new publication in G3: Genes|Genomes|Genetics reveals how transgenerational effects evolve under selection!
+
+Kristin Sikkink, Robert Reynolds, Kate Ituarte, Patrick Phillips, and Bill Cresko demonstrate that transgenerational effects of heat stress are negative and can be rapidly eliminated through direct selection. This work, including whole genome transcriptional analysis, provides crucial insights into how parental effects evolve.
+
+## Major Discoveries
+
+The research reveals:
+- Transgenerational effects can be rapidly eliminated by selection
+- Parental heat stress negatively affects offspring
+- Weak correspondence between parental and larval stress responses
+- Different genetic pathways respond to stress at different life stages
+- Selection acts efficiently on offspring phenotypes
+
+## Genomic Innovation
+
+Whole genome analysis shows:
+- Distinct transcriptional responses to stress timing
+- Limited overlap in stress response pathways
+- Stage-specific gene expression patterns
+- Rapid evolutionary changes in gene regulation
+- Complex genotype-environment interactions
+
+## Evolutionary Implications
+
+This work demonstrates:
+- Parental effects can evolve very rapidly
+- Selection on offspring can override parental influences
+- Transgenerational plasticity is not always adaptive
+- Environmental stress has stage-specific effects
+- Evolution can decouple parent-offspring responses
+
+## Experimental Design
+
+The study employed:
+- Multi-generation selection experiments
+- Controlled heat stress treatments
+- Whole genome RNA sequencing
+- Comparative transcriptomics
+- Quantitative genetic analyses
+
+## Stress Response Networks
+
+Key findings about:
+- Heat shock protein regulation
+- Stress resistance mechanisms
+- Hormetic responses
+- Cellular protection pathways
+- Evolutionary constraints
+
+## Broader Significance
+
+This research informs:
+- Climate change adaptation
+- Transgenerational inheritance mechanisms
+- Stress biology and evolution
+- Phenotypic plasticity theory
+- Experimental evolution approaches
+
+## Methodological Advances
+
+The work showcases:
+- Integration of genomics and experimental evolution
+- Multi-generational experimental design
+- Transcriptomic analysis of evolved lines
+- Quantification of transgenerational effects
+- Novel selection regimes
+
+[Read the paper →](https://www.g3journal.org/content/4/6/1103.long)

@@ -1,0 +1,86 @@
+---
+title: "New Publication: Evolution of Jaw Mechanics in Stickleback"
+author: "Cresko Lab"
+date: "2014-01-16"
+categories: [news, publication, journal article, evolutionary development, morphology]
+image: "jaw-mechanics-evolution.jpg"
+draft: false
+---
+
+We're excited to announce a new publication in Biological Journal of the Linnean Society on the evolution of jaw mechanics in threespine stickleback!
+
+This collaborative study with Heather Jamniczky, Emily Harper, Ryan Garner, Bill Cresko, Peter Wainwright, Benedikt Hallgrímsson, and Charles Kimmel reveals how modular organization of the opercular four-bar lever apparatus facilitates rapid evolutionary transitions. The work demonstrates a remarkable correspondence between functional modules and regions of morphological evolution.
+
+## Key Discovery
+
+Our research reveals:
+- A modular boundary subdivides the jaw lever apparatus
+- This boundary corresponds to regions of prominent morphological evolution
+- Matched modular architecture facilitates rapid adaptation
+- Integration patterns predict evolutionary changes
+- Form and function co-evolve in predictable ways
+
+## Evolutionary Innovation
+
+The study demonstrates:
+- Modular organization enables evolutionary flexibility
+- Functional constraints shape morphological evolution
+- Rapid transitions between habitats are facilitated by modularity
+- Integration and modularity balance evolutionary potential
+- Predictable patterns of phenotypic evolution
+
+## The Four-Bar System
+
+The opercular four-bar lever:
+- Controls jaw protrusion and suction feeding
+- Varies dramatically between populations
+- Responds to ecological pressures
+- Shows clear functional modules
+- Evolves rapidly in new environments
+
+## Methodological Approach
+
+We employed:
+- High-resolution morphometric analysis
+- Functional biomechanical modeling
+- Comparative phylogenetic methods
+- Integration and modularity tests
+- Evolutionary rate analyses
+
+## Ecological Significance
+
+This work explains:
+- How fish adapt feeding mechanics to new prey
+- Rapid evolution in colonized habitats
+- Trade-offs between feeding modes
+- Ecological opportunity and morphological innovation
+- Predictability of adaptive evolution
+
+## Evo-Devo Insights
+
+The research bridges:
+- Developmental biology and evolution
+- Functional morphology and ecology
+- Micro- and macroevolution
+- Genotype-phenotype relationships
+- Constraint and opportunity in evolution
+
+## Collaborative Excellence
+
+This publication showcases:
+- International research collaboration
+- Integration of multiple disciplines
+- Advanced imaging and analysis techniques
+- Theoretical and empirical synthesis
+- Team science success
+
+## Broader Applications
+
+Findings apply to:
+- Understanding vertebrate skull evolution
+- Predicting evolutionary responses
+- Biomimetic design principles
+- Conservation of adaptive potential
+- Evolutionary medicine applications
+
+[Read the paper →](https://academic.oup.com/biolinnean/article/111/2/375/2415785)

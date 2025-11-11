@@ -1,0 +1,95 @@
+---
+title: "New Publication: Gnotobiotic Stickleback Model Reveals Population Differences in Immunity"
+author: "Cresko Lab"
+date: "2016-01-01"
+categories: [news, publication, journal article, immunology, microbiome, Disease Models & Mechanisms]
+image: "gnotobiotic-stickleback.jpg"
+draft: false
+---
+
+Groundbreaking publication in Disease Models & Mechanisms establishes the gnotobiotic stickleback model system!
+
+Kathryn Milligan-Myhre, Clay Small, Ellie Mittge, Meghna Agarwal, Mark Currey, Bill Cresko, and Karen Guillemin demonstrate that oceanic and freshwater stickleback populations differ in their innate immune responses to gut microbiota. This pioneering work establishes stickleback as a powerful gnotobiotic model for host-microbe interaction studies.
+
+## Major Innovation
+
+The research establishes:
+- First gnotobiotic stickleback system
+- Germ-free fish protocols
+- Controlled microbiome colonization
+- Population-specific immune responses
+- New model for microbiome research
+
+## Key Findings
+
+The study reveals:
+- Population differences in neutrophil responses
+- Habitat-specific immune evolution
+- Microbiota-dependent immune development
+- Genetic basis of immune variation
+- Host-microbe co-evolution patterns
+
+## Model System Advantages
+
+Gnotobiotic stickleback offer:
+- Natural genetic variation
+- Evolutionary context
+- Controlled microbiome manipulation
+- Visible immune responses
+- Population comparisons
+
+## Immunological Insights
+
+Discoveries include:
+- Neutrophil recruitment differences
+- Intestinal immune responses
+- Microbiome-immune interactions
+- Population-specific immunity
+- Evolutionary immunology patterns
+
+## Technical Achievement
+
+The work required:
+- Sterile fish derivation
+- Germ-free maintenance protocols
+- Controlled colonization methods
+- Immune response quantification
+- Comparative population analysis
+
+## Biomedical Relevance
+
+Applications include:
+- Understanding immune evolution
+- Host-microbe interaction mechanisms
+- Disease susceptibility factors
+- Microbiome therapeutic targets
+- Comparative immunology
+
+## Evolutionary Medicine
+
+This research bridges:
+- Evolutionary biology and immunology
+- Basic and applied research
+- Model organism development
+- Microbiome science
+- Population health
+
+## Future Directions
+
+This system enables:
+- Mechanistic microbiome studies
+- Immune gene function analysis
+- Drug discovery applications
+- Probiotic development
+- Disease modeling
+
+## Collaborative Success
+
+The work represents:
+- Integration of multiple expertise areas
+- Development of new techniques
+- Cross-disciplinary innovation
+- Team science achievement
+- Methodological advancement
+
+[Read the paper →](https://dmm.biologists.org/content/dmm/9/2/187.full.pdf)

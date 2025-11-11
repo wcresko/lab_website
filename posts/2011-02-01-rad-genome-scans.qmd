@@ -1,0 +1,42 @@
+---
+title: "RAD-seq for Genome Scans Highlighted in Science"
+author: "Cresko Lab"
+date: "2011-02-01"
+categories: [news, publication, RAD-seq, genome scans, population genomics]
+image: "genome-scans.jpg"
+draft: false
+---
+
+The use of RAD sequencing for population genomic scans has been highlighted in Science!
+
+This feature recognizes the transformative impact of RAD-seq technology on population genomics. The methodology, which our lab has helped pioneer, enables researchers to conduct genome-wide association studies and selection scans in organisms without reference genomes, democratizing genomics research across the tree of life.
+
+## About the Highlight
+
+Science magazine features how RAD-seq is revolutionizing:
+- Population genomic studies in non-model organisms
+- Detection of signatures of natural selection
+- Genome-wide association studies (GWAS)
+- Understanding of local adaptation
+
+## Key Applications
+
+The highlighted work demonstrates RAD-seq's power for:
+- Identifying genomic regions under selection
+- Mapping traits in natural populations
+- Understanding population structure and gene flow
+- Conservation genomics applications
+
+## Methodological Innovation
+
+RAD-seq enables researchers to:
+- Generate thousands of genetic markers economically
+- Study organisms without genomic resources
+- Conduct population-level sampling at genomic scales
+- Detect both neutral and adaptive genetic variation
+
+## Our Laboratory's Contribution
+
+The Cresko Lab has been at the forefront of developing RAD-seq applications for evolutionary genomics, contributing both methodological advances and empirical studies demonstrating its power.
+
+[Read the paper in Science →](http://www.sciencemag.org/content/330/6011/1608.3.full)
