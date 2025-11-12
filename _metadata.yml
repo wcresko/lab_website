@@ -1,0 +1,17 @@
+# Save this as _metadata.yml in your project root
+# This applies settings to ALL pages in your Quarto project
+
+format:
+  html:
+    include-in-header:
+      - text: |
+          <!-- Font Awesome 6.6.0 with Bluesky icon support -->
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" crossorigin="anonymous">
+          <style>
+            /* Ensure Bluesky icon works everywhere */
+            .fa-bluesky::before {
+              content: "\e671" !important;
+              font-family: "Font Awesome 6 Brands" !important;
+              font-weight: 400 !important;
+            }
+          </style>

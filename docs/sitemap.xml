@@ -2,39 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://wcresko.github.io/index.html</loc>
-    <lastmod>2025-11-07T23:17:20.557Z</lastmod>
+    <lastmod>2025-11-12T19:49:28.801Z</lastmod>
   </url>
   <url>
-    <loc>https://wcresko.github.io/posts.html</loc>
-    <lastmod>2025-11-11T20:14:39.590Z</lastmod>
+    <loc>https://wcresko.github.io/research_evo_devo.html</loc>
+    <lastmod>2025-11-13T03:34:20.000Z</lastmod>
   </url>
   <url>
-    <loc>https://wcresko.github.io/people/bassham.html</loc>
-    <lastmod>2025-11-12T04:05:46.000Z</lastmod>
+    <loc>https://wcresko.github.io/people/woods.html</loc>
+    <lastmod>2025-11-12T20:02:12.414Z</lastmod>
   </url>
   <url>
-    <loc>https://wcresko.github.io/people/currey.html</loc>
-    <lastmod>2025-11-12T04:05:46.000Z</lastmod>
+    <loc>https://wcresko.github.io/people/healey.html</loc>
+    <lastmod>2025-11-12T20:01:12.786Z</lastmod>
   </url>
   <url>
-    <loc>https://wcresko.github.io/people/cresko.html</loc>
-    <lastmod>2025-11-12T04:05:46.000Z</lastmod>
+    <loc>https://wcresko.github.io/people/snyder.html</loc>
+    <lastmod>2025-11-12T20:05:14.051Z</lastmod>
+  </url>
+  <url>
+    <loc>https://wcresko.github.io/people/stervander.html</loc>
+    <lastmod>2025-11-12T20:01:47.677Z</lastmod>
   </url>
   <url>
     <loc>https://wcresko.github.io/people.html</loc>
-    <lastmod>2025-11-11T20:10:50.768Z</lastmod>
+    <lastmod>2025-11-12T18:12:44.919Z</lastmod>
   </url>
   <url>
-    <loc>https://wcresko.github.io/about.html</loc>
-    <lastmod>2025-11-02T22:42:25.000Z</lastmod>
+    <loc>https://wcresko.github.io/research_methods_development.html</loc>
+    <lastmod>2025-11-13T03:34:20.000Z</lastmod>
   </url>
   <url>
-    <loc>https://wcresko.github.io/projects.html</loc>
-    <lastmod>2025-11-06T02:09:46.323Z</lastmod>
+    <loc>https://wcresko.github.io/publications.html</loc>
+    <lastmod>2025-11-12T18:41:42.146Z</lastmod>
   </url>
   <url>
-    <loc>https://wcresko.github.io/index_old.html</loc>
-    <lastmod>2025-11-06T22:49:45.662Z</lastmod>
+    <loc>https://wcresko.github.io/research_evolutionary_genomics.html</loc>
+    <lastmod>2025-11-13T03:34:20.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://wcresko.github.io/research_host_microbiome.html</loc>
+    <lastmod>2025-11-13T03:34:20.000Z</lastmod>
   </url>
   <url>
     <loc>https://wcresko.github.io/posts/2012-03-01-sikkink-nsf-ddig.html</loc>
@@ -57,52 +65,72 @@
     <lastmod>2025-11-12T03:22:22.000Z</lastmod>
   </url>
   <url>
-    <loc>https://wcresko.github.io/posts/2019-01-15-stacks-release.html</loc>
-    <lastmod>2025-11-02T23:17:03.000Z</lastmod>
+    <loc>https://wcresko.github.io/posts/2016-07-15-thom-nelson-allied-genetics.html</loc>
+    <lastmod>2025-11-12T20:09:37.000Z</lastmod>
   </url>
   <url>
-    <loc>https://wcresko.github.io/posts/2017-03-01-host-microbe-transcription.html</loc>
+    <loc>https://wcresko.github.io/posts/2016-12-20-gulf-pipefish-genome.html</loc>
+    <lastmod>2025-11-12T03:46:58.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://wcresko.github.io/posts/2017-03-01-iodide-perchlorate-thyroid.html</loc>
     <lastmod>2025-11-12T03:57:44.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://wcresko.github.io/posts/2016-04-25-evo-wibo-sweep.html</loc>
+    <lastmod>2025-11-12T20:09:37.000Z</lastmod>
   </url>
   <url>
     <loc>https://wcresko.github.io/posts/2019-10-01-oregon-stickleback-divergence.html</loc>
     <lastmod>2025-11-12T03:57:44.000Z</lastmod>
   </url>
   <url>
-    <loc>https://wcresko.github.io/posts/2022-09-01-nih-grant.html</loc>
-    <lastmod>2025-11-02T23:17:53.000Z</lastmod>
+    <loc>https://wcresko.github.io/posts/2012-11-01-clay-small-joins.html</loc>
+    <lastmod>2025-11-12T20:09:37.000Z</lastmod>
   </url>
   <url>
-    <loc>https://wcresko.github.io/posts/2010-02-01-hohenlohe-radseq-landmark.html</loc>
-    <lastmod>2025-11-12T02:46:58.000Z</lastmod>
+    <loc>https://wcresko.github.io/posts/2018-05-15-marie-curie-fellowship.html</loc>
+    <lastmod>2025-11-02T23:15:49.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://wcresko.github.io/posts/2023-09-15-microbiome-genetics.html</loc>
+    <lastmod>2025-11-02T23:08:05.000Z</lastmod>
   </url>
   <url>
     <loc>https://wcresko.github.io/posts/2015-12-29-earthquake-evolution-pnas.html</loc>
     <lastmod>2025-11-12T03:46:58.000Z</lastmod>
   </url>
   <url>
-    <loc>https://wcresko.github.io/posts/2018-01-26-ancient-genomic-variation.html</loc>
+    <loc>https://wcresko.github.io/posts/2017-01-03-beck-evomics-czech.html</loc>
+    <lastmod>2025-11-12T03:32:32.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://wcresko.github.io/posts/2022-06-28-seadragon-genomes.html</loc>
+    <lastmod>2025-11-02T23:18:21.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://wcresko.github.io/posts/2016-01-20-bassham-jefferson-radio.html</loc>
+    <lastmod>2025-11-12T20:09:37.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://wcresko.github.io/posts/2009-10-01-nsf-genomics-alaska-stickleback.html</loc>
+    <lastmod>2025-11-12T20:09:22.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://wcresko.github.io/posts/2011-02-01-rad-genome-scans.html</loc>
+    <lastmod>2025-11-12T03:22:22.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://wcresko.github.io/posts/2019-06-26-oregon-gut-microbiome.html</loc>
     <lastmod>2025-11-12T03:57:44.000Z</lastmod>
   </url>
   <url>
-    <loc>https://wcresko.github.io/posts/2022-07-07-seadragon-nytimes.html</loc>
-    <lastmod>2025-11-12T03:32:32.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://wcresko.github.io/posts/2020-02-05-chromonomer-tool.html</loc>
-    <lastmod>2025-11-12T03:57:46.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://wcresko.github.io/posts/2022-02-15-single-cell-method.html</loc>
-    <lastmod>2025-11-02T23:07:45.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://wcresko.github.io/posts/2014-09-14-transgenerational-effects.html</loc>
+    <loc>https://wcresko.github.io/posts/2015-02-16-perchlorate-skeletal-development.html</loc>
     <lastmod>2025-11-12T03:46:58.000Z</lastmod>
   </url>
   <url>
-    <loc>https://wcresko.github.io/posts/2022-09-16-cresko-lokey-chair.html</loc>
-    <lastmod>2025-11-12T03:32:32.000Z</lastmod>
+    <loc>https://wcresko.github.io/posts/2014-03-15-kristin-alligood-nsf-ddig.html</loc>
+    <lastmod>2025-11-12T20:09:37.000Z</lastmod>
   </url>
   <url>
     <loc>https://wcresko.github.io/posts/2023-09-20-woods-ms-magazine.html</loc>
@@ -121,28 +149,36 @@
     <lastmod>2025-11-12T03:46:58.000Z</lastmod>
   </url>
   <url>
-    <loc>https://wcresko.github.io/posts/2015-12-14-rapid-evolution.html</loc>
-    <lastmod>2025-11-02T23:05:32.000Z</lastmod>
+    <loc>https://wcresko.github.io/posts/2015-01-20-thom-nelson-nsf-ddig.html</loc>
+    <lastmod>2025-11-12T20:09:37.000Z</lastmod>
   </url>
   <url>
-    <loc>https://wcresko.github.io/posts/2016-02-01-scientific-american.html</loc>
-    <lastmod>2025-11-02T23:14:55.000Z</lastmod>
+    <loc>https://wcresko.github.io/posts/2017-09-01-stervander-joins-lab.html</loc>
+    <lastmod>2025-11-12T03:32:32.000Z</lastmod>
   </url>
   <url>
-    <loc>https://wcresko.github.io/posts/2016-04-04-nelson-evowibo-talk.html</loc>
+    <loc>https://wcresko.github.io/posts/2021-03-30-goldwater-fellowship.html</loc>
+    <lastmod>2025-11-02T23:15:30.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://wcresko.github.io/posts/2016-04-05-currey-evowibo-poster.html</loc>
     <lastmod>2025-11-12T03:22:22.000Z</lastmod>
   </url>
   <url>
-    <loc>https://wcresko.github.io/posts/2019-04-12-gnotobiotic-model.html</loc>
-    <lastmod>2025-11-02T23:16:37.000Z</lastmod>
+    <loc>https://wcresko.github.io/posts/2012-02-01-hohenlohe-linkage-disequilibrium.html</loc>
+    <lastmod>2025-11-12T02:46:58.000Z</lastmod>
   </url>
   <url>
-    <loc>https://wcresko.github.io/posts/2015-01-01-perchlorate-embryonic-androgen.html</loc>
+    <loc>https://wcresko.github.io/posts/2013-05-24-stacks-software-publication.html</loc>
     <lastmod>2025-11-12T03:46:58.000Z</lastmod>
   </url>
   <url>
-    <loc>https://wcresko.github.io/posts/2012-06-01-kate-ituarte-graduation.html</loc>
-    <lastmod>2025-11-12T03:22:22.000Z</lastmod>
+    <loc>https://wcresko.github.io/posts/2016-02-15-bassham-scientific-american.html</loc>
+    <lastmod>2025-11-12T20:09:37.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://wcresko.github.io/posts/2023-05-15-meyer-knight-scholar.html</loc>
+    <lastmod>2025-11-12T03:32:32.000Z</lastmod>
   </url>
   <url>
     <loc>https://wcresko.github.io/posts/2022-06-01-healey-f31-fellowship.html</loc>
@@ -161,19 +197,27 @@
     <lastmod>2025-11-12T03:46:58.000Z</lastmod>
   </url>
   <url>
-    <loc>https://wcresko.github.io/posts/2017-01-02-fuiten-nsf-ddig.html</loc>
-    <lastmod>2025-11-12T03:32:32.000Z</lastmod>
+    <loc>https://wcresko.github.io/posts/2017-01-20-kristin-alligood-phd-defense.html</loc>
+    <lastmod>2025-11-12T20:09:37.000Z</lastmod>
   </url>
   <url>
-    <loc>https://wcresko.github.io/posts/2020-02-01-few-stickleback-suffice.html</loc>
+    <loc>https://wcresko.github.io/posts/2022-09-23-covid-latinx-intervention.html</loc>
     <lastmod>2025-11-12T03:57:46.000Z</lastmod>
   </url>
   <url>
-    <loc>https://wcresko.github.io/posts/2017-11-01-ancient-mtdna-lineages.html</loc>
-    <lastmod>2025-11-12T03:57:44.000Z</lastmod>
+    <loc>https://wcresko.github.io/posts/2022-04-01-healey-genetics-paper.html</loc>
+    <lastmod>2025-11-12T03:32:32.000Z</lastmod>
   </url>
   <url>
-    <loc>https://wcresko.github.io/posts/2016-11-01-cresko-aaas-fellow.html</loc>
+    <loc>https://wcresko.github.io/posts/2015-10-20-ray-troll-visit.html</loc>
+    <lastmod>2025-11-12T20:09:37.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://wcresko.github.io/posts/2014-01-16-jaw-mechanics-evolution.html</loc>
+    <lastmod>2025-11-12T03:46:58.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://wcresko.github.io/posts/2016-04-04-nikoleris-defense-sweden.html</loc>
     <lastmod>2025-11-12T03:22:22.000Z</lastmod>
   </url>
   <url>
@@ -181,32 +225,48 @@
     <lastmod>2025-11-12T03:57:44.000Z</lastmod>
   </url>
   <url>
+    <loc>https://wcresko.github.io/posts/2010-12-17-science-breakthrough-area-to-watch.html</loc>
+    <lastmod>2025-11-12T20:09:37.000Z</lastmod>
+  </url>
+  <url>
     <loc>https://wcresko.github.io/posts/2016-01-01-bassham-jefferson-radio.html</loc>
     <lastmod>2025-11-12T03:22:22.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://wcresko.github.io/posts/2017-01-10-emily-beck-evomics-workshop.html</loc>
+    <lastmod>2025-11-12T20:09:37.000Z</lastmod>
   </url>
   <url>
     <loc>https://wcresko.github.io/posts/2016-04-01-nelson-genetics-poster.html</loc>
     <lastmod>2025-11-12T03:22:22.000Z</lastmod>
   </url>
   <url>
-    <loc>https://wcresko.github.io/posts/2016-04-02-fuiten-evowibo-talk.html</loc>
-    <lastmod>2025-11-12T03:22:22.000Z</lastmod>
+    <loc>https://wcresko.github.io/posts/2016-07-06-perchlorate-germcells.html</loc>
+    <lastmod>2025-11-12T03:46:58.000Z</lastmod>
   </url>
   <url>
-    <loc>https://wcresko.github.io/posts/2019-12-30-happy-new-year-2020.html</loc>
+    <loc>https://wcresko.github.io/posts/2019-05-01-threespine-ipa.html</loc>
     <lastmod>2025-11-12T03:32:32.000Z</lastmod>
   </url>
   <url>
-    <loc>https://wcresko.github.io/posts/2019-03-01-environmental-evolutionary-drivers.html</loc>
+    <loc>https://wcresko.github.io/posts/2023-06-01-goyal-hui-fellowship.html</loc>
+    <lastmod>2025-11-12T03:32:32.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://wcresko.github.io/posts/2020-02-20-stervander-marie-curie.html</loc>
+    <lastmod>2025-11-12T03:32:32.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://wcresko.github.io/posts/2016-01-01-gnotobiotic-stickleback.html</loc>
+    <lastmod>2025-11-12T03:46:58.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://wcresko.github.io/posts/2022-04-01-healey-single-cell.html</loc>
     <lastmod>2025-11-12T03:57:46.000Z</lastmod>
   </url>
   <url>
-    <loc>https://wcresko.github.io/posts/2019-11-01-score-students.html</loc>
-    <lastmod>2025-11-12T03:32:32.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://wcresko.github.io/posts/2015-01-01-mitochondrial-admixture.html</loc>
-    <lastmod>2025-11-12T03:46:58.000Z</lastmod>
+    <loc>https://wcresko.github.io/posts/2017-09-01-martin-stervander-joins.html</loc>
+    <lastmod>2025-11-12T20:09:37.000Z</lastmod>
   </url>
   <url>
     <loc>https://wcresko.github.io/posts/2019-08-01-selection-linkage-structure.html</loc>
@@ -230,7 +290,7 @@
   </url>
   <url>
     <loc>https://wcresko.github.io/research.html</loc>
-    <lastmod>2025-11-02T22:24:28.000Z</lastmod>
+    <lastmod>2025-11-12T19:50:20.179Z</lastmod>
   </url>
   <url>
     <loc>https://wcresko.github.io/posts/2010-12-01-rad-mosquito-phylogeny.html</loc>
@@ -245,52 +305,76 @@
     <lastmod>2025-11-12T03:22:22.000Z</lastmod>
   </url>
   <url>
-    <loc>https://wcresko.github.io/posts/2022-04-01-healey-single-cell.html</loc>
+    <loc>https://wcresko.github.io/posts/2010-03-15-genome-scan-publication.html</loc>
+    <lastmod>2025-11-12T20:09:22.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://wcresko.github.io/posts/2016-11-21-bill-cresko-aaas-fellow.html</loc>
+    <lastmod>2025-11-12T20:09:37.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://wcresko.github.io/posts/2015-01-01-mitochondrial-admixture.html</loc>
+    <lastmod>2025-11-12T03:46:58.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://wcresko.github.io/posts/2019-11-01-score-students.html</loc>
+    <lastmod>2025-11-12T03:32:32.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://wcresko.github.io/posts/2019-03-01-environmental-evolutionary-drivers.html</loc>
     <lastmod>2025-11-12T03:57:46.000Z</lastmod>
   </url>
   <url>
-    <loc>https://wcresko.github.io/posts/2016-01-01-gnotobiotic-stickleback.html</loc>
-    <lastmod>2025-11-12T03:46:58.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://wcresko.github.io/posts/2020-02-20-stervander-marie-curie.html</loc>
+    <loc>https://wcresko.github.io/posts/2019-12-30-happy-new-year-2020.html</loc>
     <lastmod>2025-11-12T03:32:32.000Z</lastmod>
   </url>
   <url>
-    <loc>https://wcresko.github.io/posts/2023-06-01-goyal-hui-fellowship.html</loc>
-    <lastmod>2025-11-12T03:32:32.000Z</lastmod>
+    <loc>https://wcresko.github.io/posts/2016-04-02-fuiten-evowibo-talk.html</loc>
+    <lastmod>2025-11-12T03:22:22.000Z</lastmod>
   </url>
   <url>
-    <loc>https://wcresko.github.io/posts/2019-05-01-threespine-ipa.html</loc>
-    <lastmod>2025-11-12T03:32:32.000Z</lastmod>
+    <loc>https://wcresko.github.io/posts/2017-01-15-allison-fuiten-nsf-ddig.html</loc>
+    <lastmod>2025-11-12T20:09:37.000Z</lastmod>
   </url>
   <url>
-    <loc>https://wcresko.github.io/posts/2016-07-06-perchlorate-germcells.html</loc>
-    <lastmod>2025-11-12T03:46:58.000Z</lastmod>
+    <loc>https://wcresko.github.io/posts/2010-07-01-julian-catchen-nih-fellowship.html</loc>
+    <lastmod>2025-11-12T20:09:22.000Z</lastmod>
   </url>
   <url>
     <loc>https://wcresko.github.io/posts/2022-04-01-beck-mito-nuclear.html</loc>
     <lastmod>2025-11-12T03:57:46.000Z</lastmod>
   </url>
   <url>
+    <loc>https://wcresko.github.io/posts/2015-12-22-pnas-rapid-evolution.html</loc>
+    <lastmod>2025-11-12T20:09:37.000Z</lastmod>
+  </url>
+  <url>
     <loc>https://wcresko.github.io/posts/2017-11-08-developmental-armor-loss.html</loc>
     <lastmod>2025-11-12T03:57:44.000Z</lastmod>
   </url>
   <url>
-    <loc>https://wcresko.github.io/posts/2016-04-04-nikoleris-defense-sweden.html</loc>
+    <loc>https://wcresko.github.io/posts/2016-12-22-gulf-pipefish-genome-published.html</loc>
+    <lastmod>2025-11-12T20:09:37.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://wcresko.github.io/posts/2016-11-01-cresko-aaas-fellow.html</loc>
     <lastmod>2025-11-12T03:22:22.000Z</lastmod>
   </url>
   <url>
-    <loc>https://wcresko.github.io/posts/2014-01-16-jaw-mechanics-evolution.html</loc>
-    <lastmod>2025-11-12T03:46:58.000Z</lastmod>
+    <loc>https://wcresko.github.io/posts/2017-11-01-ancient-mtdna-lineages.html</loc>
+    <lastmod>2025-11-12T03:57:44.000Z</lastmod>
   </url>
   <url>
-    <loc>https://wcresko.github.io/posts/2022-04-01-healey-genetics-paper.html</loc>
-    <lastmod>2025-11-12T03:32:32.000Z</lastmod>
+    <loc>https://wcresko.github.io/posts/2009-05-01-kristin-sikkink-nsf-grfp.html</loc>
+    <lastmod>2025-11-12T20:09:22.000Z</lastmod>
   </url>
   <url>
-    <loc>https://wcresko.github.io/posts/2022-09-23-covid-latinx-intervention.html</loc>
+    <loc>https://wcresko.github.io/posts/2020-02-01-few-stickleback-suffice.html</loc>
     <lastmod>2025-11-12T03:57:46.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://wcresko.github.io/posts/2017-01-02-fuiten-nsf-ddig.html</loc>
+    <lastmod>2025-11-12T03:32:32.000Z</lastmod>
   </url>
   <url>
     <loc>https://wcresko.github.io/posts/2018-07-01-alternative-haplotypes.html</loc>
@@ -309,28 +393,36 @@
     <lastmod>2025-11-12T03:32:32.000Z</lastmod>
   </url>
   <url>
-    <loc>https://wcresko.github.io/posts/2023-05-15-meyer-knight-scholar.html</loc>
-    <lastmod>2025-11-12T03:32:32.000Z</lastmod>
+    <loc>https://wcresko.github.io/posts/2010-05-01-nsf-pipefish-genomics.html</loc>
+    <lastmod>2025-11-12T20:09:22.000Z</lastmod>
   </url>
   <url>
-    <loc>https://wcresko.github.io/posts/2013-05-24-stacks-software-publication.html</loc>
-    <lastmod>2025-11-12T03:46:58.000Z</lastmod>
+    <loc>https://wcresko.github.io/posts/2015-10-15-plos-genetics-top-cited.html</loc>
+    <lastmod>2025-11-12T20:09:37.000Z</lastmod>
   </url>
   <url>
-    <loc>https://wcresko.github.io/posts/2012-02-01-hohenlohe-linkage-disequilibrium.html</loc>
-    <lastmod>2025-11-12T02:46:58.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://wcresko.github.io/posts/2016-04-05-currey-evowibo-poster.html</loc>
+    <loc>https://wcresko.github.io/posts/2012-06-01-kate-ituarte-graduation.html</loc>
     <lastmod>2025-11-12T03:22:22.000Z</lastmod>
   </url>
   <url>
-    <loc>https://wcresko.github.io/posts/2021-03-30-goldwater-fellowship.html</loc>
-    <lastmod>2025-11-02T23:15:30.000Z</lastmod>
+    <loc>https://wcresko.github.io/posts/2015-01-01-perchlorate-embryonic-androgen.html</loc>
+    <lastmod>2025-11-12T03:46:58.000Z</lastmod>
   </url>
   <url>
-    <loc>https://wcresko.github.io/posts/2017-09-01-stervander-joins-lab.html</loc>
-    <lastmod>2025-11-12T03:32:32.000Z</lastmod>
+    <loc>https://wcresko.github.io/posts/2019-04-12-gnotobiotic-model.html</loc>
+    <lastmod>2025-11-02T23:16:37.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://wcresko.github.io/posts/2016-04-04-nelson-evowibo-talk.html</loc>
+    <lastmod>2025-11-12T03:22:22.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://wcresko.github.io/posts/2016-02-01-scientific-american.html</loc>
+    <lastmod>2025-11-02T23:14:55.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://wcresko.github.io/posts/2015-12-14-rapid-evolution.html</loc>
+    <lastmod>2025-11-02T23:05:32.000Z</lastmod>
   </url>
   <url>
     <loc>https://wcresko.github.io/posts/2019-05-28-niebergall-goldwater.html</loc>
@@ -353,48 +445,68 @@
     <lastmod>2025-11-12T03:22:22.000Z</lastmod>
   </url>
   <url>
-    <loc>https://wcresko.github.io/posts/2015-02-16-perchlorate-skeletal-development.html</loc>
+    <loc>https://wcresko.github.io/posts/2022-09-16-cresko-lokey-chair.html</loc>
+    <lastmod>2025-11-12T03:32:32.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://wcresko.github.io/posts/2014-09-14-transgenerational-effects.html</loc>
     <lastmod>2025-11-12T03:46:58.000Z</lastmod>
   </url>
   <url>
-    <loc>https://wcresko.github.io/posts/2019-06-26-oregon-gut-microbiome.html</loc>
-    <lastmod>2025-11-12T03:57:44.000Z</lastmod>
+    <loc>https://wcresko.github.io/posts/2022-02-15-single-cell-method.html</loc>
+    <lastmod>2025-11-02T23:07:45.000Z</lastmod>
   </url>
   <url>
-    <loc>https://wcresko.github.io/posts/2011-02-01-rad-genome-scans.html</loc>
-    <lastmod>2025-11-12T03:22:22.000Z</lastmod>
+    <loc>https://wcresko.github.io/posts/2020-02-05-chromonomer-tool.html</loc>
+    <lastmod>2025-11-12T03:57:46.000Z</lastmod>
   </url>
   <url>
     <loc>https://wcresko.github.io/posts/2012-02-01-sikkink-poster-award.html</loc>
     <lastmod>2025-11-12T03:22:22.000Z</lastmod>
   </url>
   <url>
-    <loc>https://wcresko.github.io/posts/2022-06-28-seadragon-genomes.html</loc>
-    <lastmod>2025-11-02T23:18:21.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://wcresko.github.io/posts/2017-01-03-beck-evomics-czech.html</loc>
+    <loc>https://wcresko.github.io/posts/2022-07-07-seadragon-nytimes.html</loc>
     <lastmod>2025-11-12T03:32:32.000Z</lastmod>
   </url>
   <url>
-    <loc>https://wcresko.github.io/posts/2023-09-15-microbiome-genetics.html</loc>
-    <lastmod>2025-11-02T23:08:05.000Z</lastmod>
+    <loc>https://wcresko.github.io/posts/2018-01-26-ancient-genomic-variation.html</loc>
+    <lastmod>2025-11-12T03:57:44.000Z</lastmod>
   </url>
   <url>
-    <loc>https://wcresko.github.io/posts/2018-05-15-marie-curie-fellowship.html</loc>
-    <lastmod>2025-11-02T23:15:49.000Z</lastmod>
+    <loc>https://wcresko.github.io/posts/2011-02-25-science-human-genome-anniversary.html</loc>
+    <lastmod>2025-11-12T20:09:37.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://wcresko.github.io/posts/2015-10-01-emily-beck-joins.html</loc>
+    <lastmod>2025-11-12T20:09:37.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://wcresko.github.io/posts/2010-02-01-hohenlohe-radseq-landmark.html</loc>
+    <lastmod>2025-11-12T02:46:58.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://wcresko.github.io/posts/2012-02-20-kristin-sikkink-nsf-ddig.html</loc>
+    <lastmod>2025-11-12T20:09:37.000Z</lastmod>
   </url>
   <url>
     <loc>https://wcresko.github.io/posts/2013-05-30-oregon-stickleback-structure.html</loc>
     <lastmod>2025-11-12T03:46:58.000Z</lastmod>
   </url>
   <url>
-    <loc>https://wcresko.github.io/posts/2017-03-01-iodide-perchlorate-thyroid.html</loc>
+    <loc>https://wcresko.github.io/posts/2012-09-01-nih-systems-biology-center.html</loc>
+    <lastmod>2025-11-12T20:09:37.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://wcresko.github.io/posts/2012-08-10-stickleback-conference-awards.html</loc>
+    <lastmod>2025-11-12T20:09:37.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://wcresko.github.io/posts/2017-03-01-host-microbe-transcription.html</loc>
     <lastmod>2025-11-12T03:57:44.000Z</lastmod>
   </url>
   <url>
-    <loc>https://wcresko.github.io/posts/2016-12-20-gulf-pipefish-genome.html</loc>
-    <lastmod>2025-11-12T03:46:58.000Z</lastmod>
+    <loc>https://wcresko.github.io/posts/2019-01-15-stacks-release.html</loc>
+    <lastmod>2025-11-02T23:17:03.000Z</lastmod>
   </url>
   <url>
     <loc>https://wcresko.github.io/posts/2014-09-30-lundberg-defense-sweden.html</loc>
@@ -418,34 +530,42 @@
   </url>
   <url>
     <loc>https://wcresko.github.io/talks.html</loc>
-    <lastmod>2025-11-07T00:15:12.491Z</lastmod>
+    <lastmod>2025-11-12T18:34:15.814Z</lastmod>
   </url>
   <url>
-    <loc>https://wcresko.github.io/people_old.html</loc>
-    <lastmod>2025-11-07T23:19:37.964Z</lastmod>
+    <loc>https://wcresko.github.io/prospective_students.html</loc>
+    <lastmod>2025-11-13T03:19:38.000Z</lastmod>
   </url>
   <url>
-    <loc>https://wcresko.github.io/publications.html</loc>
-    <lastmod>2025-11-03T17:55:49.037Z</lastmod>
+    <loc>https://wcresko.github.io/projects.html</loc>
+    <lastmod>2025-11-06T02:09:46.323Z</lastmod>
   </url>
   <url>
-    <loc>https://wcresko.github.io/talks_old.html</loc>
-    <lastmod>2025-11-05T18:06:33.620Z</lastmod>
+    <loc>https://wcresko.github.io/about.html</loc>
+    <lastmod>2025-11-12T20:41:16.465Z</lastmod>
   </url>
   <url>
-    <loc>https://wcresko.github.io/people/stervander.html</loc>
-    <lastmod>2025-11-12T04:05:46.000Z</lastmod>
+    <loc>https://wcresko.github.io/software.html</loc>
+    <lastmod>2025-11-12T19:54:27.594Z</lastmod>
   </url>
   <url>
-    <loc>https://wcresko.github.io/people/snyder.html</loc>
-    <lastmod>2025-11-12T04:05:46.000Z</lastmod>
+    <loc>https://wcresko.github.io/press_coverage.html</loc>
+    <lastmod>2025-11-12T19:41:02.671Z</lastmod>
   </url>
   <url>
-    <loc>https://wcresko.github.io/people/healey.html</loc>
-    <lastmod>2025-11-12T04:05:46.000Z</lastmod>
+    <loc>https://wcresko.github.io/people/cresko.html</loc>
+    <lastmod>2025-11-12T20:00:48.217Z</lastmod>
   </url>
   <url>
-    <loc>https://wcresko.github.io/people/woods.html</loc>
-    <lastmod>2025-11-12T04:05:46.000Z</lastmod>
+    <loc>https://wcresko.github.io/people/currey.html</loc>
+    <lastmod>2025-11-12T20:00:33.930Z</lastmod>
+  </url>
+  <url>
+    <loc>https://wcresko.github.io/people/bassham.html</loc>
+    <lastmod>2025-11-12T20:04:54.985Z</lastmod>
+  </url>
+  <url>
+    <loc>https://wcresko.github.io/posts.html</loc>
+    <lastmod>2025-11-11T20:14:39.590Z</lastmod>
   </url>
 </urlset>

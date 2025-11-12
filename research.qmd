@@ -15,123 +15,94 @@ The Cresko Laboratory studies the genomic basis of evolutionary change using com
 
 We investigate how organisms adapt to new environments at the genomic level. Using the threespine stickleback fish as our primary model system, we study:
 
-- **Parallel evolution**: How do independent populations evolve similar solutions to environmental challenges?
-- **Genomic architecture**: What is the genetic basis of complex adaptive traits?
-- **Evolutionary constraints**: What factors limit or facilitate evolutionary change?
+-   **Parallel evolution**: How do independent populations evolve similar solutions to environmental challenges?
+-   **Genomic architecture**: What is the genetic basis of complex adaptive traits?
+-   **Evolutionary constraints**: What factors limit or facilitate evolutionary change?
 
 Our work has revealed fundamental principles about how natural selection shapes genomic variation and produces evolutionary change.
+
+[Learn more about our evolutionary genomics research →](/research_evolutionary_genomics.qmd)
 
 ### Host-Microbiome Coevolution
 
 Recently, our lab has developed stickleback as a model for studies of how host genetic variation influences associated microbial communities. This research addresses:
 
-- How host genetics shapes microbiome composition
-- The role of the microbiome in host adaptation
-- Coevolutionary dynamics between hosts and their microbiota
-- Environmental influences on host-microbiome interactions
+-   How host genetics shapes microbiome composition
+-   The role of the microbiome in host adaptation
+-   Coevolutionary dynamics between hosts and their microbiota
+-   Environmental influences on host-microbiome interactions
+
+[Learn more about our host-microbiome research →](/research_host_microbiome.qmd)
 
 ### Population Genomics Methods Development
 
 Our laboratory has been at the forefront of developing genomic tools and computational methods for evolutionary biology:
 
 #### RAD-seq Technology
+
 We developed Restriction site Associated DNA sequencing (RAD-seq), a method that has revolutionized population genomics by enabling cost-effective genome-wide SNP discovery and genotyping in non-model organisms.
 
 #### Stacks Software Pipeline
-We created Stacks, a software pipeline for building loci from short-read sequences. Stacks is now used by thousands of researchers worldwide for:
-- De novo and reference-based assembly of RAD-seq data
-- SNP discovery and genotyping
-- Population genomics analyses
-- Phylogenomics applications
 
-[Visit the Stacks website →](http://catchenlab.life.illinois.edu/stacks/)
+We created Stacks, a software pipeline for building loci from short-read sequences. Stacks is now used by thousands of researchers worldwide for: - De novo and reference-based assembly of RAD-seq data - SNP discovery and genotyping - Population genomics analyses - Phylogenomics applications
+
+[Learn more about our methods development →](/research_methods_development.qmd)
 
 ### Syngnathid Fish Evolution
 
 In collaboration with international partners, we study the unique evolutionary innovations of syngnathid fishes (seahorses, pipefishes, and seadragons):
 
-- Male pregnancy and its genomic basis
-- Evolution of morphological novelties
-- Comparative genomics across the syngnathid phylogeny
-- Conservation genomics of threatened species
+-   Male pregnancy and its genomic basis
+-   Evolution of morphological novelties
+-   Comparative genomics across the syngnathid phylogeny
+-   Conservation genomics of threatened species
 
-### Climate Change and Evolutionary Responses
+[Learn more about our evolution of development research →](/research_evo_devo.qmd)
 
-We investigate how organisms respond to rapid environmental change, including:
+### Evolution of Development
 
-- Thermal adaptation in natural populations
-- Ocean acidification effects on marine organisms
-- Evolutionary rescue and adaptive potential
-- Predicting evolutionary responses to climate change
+We investigate how developmental processes evolve to produce morphological diversity:
 
-## Current Projects
+-   Genetic basis of phenotypic evolution across time scales
+-   Rapid morphological evolution in stickleback populations
+-   Deep evolutionary innovations in syngnathid fishes
+-   CRISPR-based functional validation of developmental evolution
 
-### NSF-Funded Research
-**Title**: "Genomic Architecture of Parallel Evolution"  
-**Duration**: 2023-2027  
-**Summary**: This project investigates the repeatability of evolution by comparing genomic changes in multiple independently evolved stickleback populations.
+[Learn more about our evo-devo research →](/research_evo_devo.qmd)
 
-### NIH-Funded Research
-**Title**: "Host Genetic Control of the Microbiome"  
-**Duration**: 2022-2026  
-**Summary**: Using experimental evolution and genome-wide association studies to understand how host genetics shapes microbiome composition and function.
 
-### Collaborative Projects
-
-- **Pacific Northwest Stickleback Survey**: Long-term monitoring of stickleback populations across Oregon and Washington
-- **International Syngnathid Genome Consortium**: Sequencing and analyzing genomes across the syngnathid family
-- **Oregon Climate Assessment**: Evaluating evolutionary responses of native species to climate change
 
 ## Field Sites
 
 Our research takes us to diverse field sites across the Pacific Northwest and beyond:
 
-- **Willamette River Basin**: Long-term studies of freshwater stickleback populations
-- **Oregon Coast**: Marine-freshwater transitions and adaptation
-- **Alaska**: Extreme latitude adaptations and seasonal responses
-- **International Sites**: Collaborative work in Japan, Iceland, and Scotland
+-   **Willamette River Basin**: Long-term studies of freshwater stickleback populations
+-   **Oregon Coast**: Marine-freshwater transitions and adaptation
+-   **Alaska**: Extreme latitude adaptations and seasonal responses
+-   **International Sites**: Collaborative work in Japan, Iceland, and Scotland
 
 ## Techniques & Approaches
 
 Our research employs a wide range of modern techniques:
 
-**Field Methods**
-- Population sampling and ecological surveys
-- Environmental monitoring
-- Behavioral observations
-- Transplant experiments
+**Field Methods** - Population sampling and ecological surveys - Environmental monitoring - Behavioral observations - Transplant experiments
 
-**Laboratory Methods**
-- Whole genome sequencing
-- RNA-seq and gene expression analysis
-- CRISPR genome editing
-- Experimental evolution
-- Microbiome profiling (16S and metagenomics)
+**Laboratory Methods** - Whole genome sequencing - RNA-seq and gene expression analysis - CRISPR genome editing - Experimental evolution - Microbiome profiling (16S and metagenomics)
 
-**Computational Approaches**
-- Population genomics analyses
-- Phylogenomics
-- Genome-wide association studies (GWAS)
-- Machine learning applications
-- Bioinformatics pipeline development
+**Computational Approaches** - Population genomics analyses - Phylogenomics - Genome-wide association studies (GWAS) - Machine learning applications - Bioinformatics pipeline development
 
 ## Collaborations
 
 We maintain active collaborations with researchers around the world:
 
-- **University of Oregon**: Knight Campus for Accelerating Scientific Impact
-- **Stanford University**: Hopkins Marine Station
-- **University of British Columbia**: Biodiversity Research Centre
-- **Max Planck Institute**: Department of Evolutionary Biology
-- **Uppsala University**: Department of Ecology and Genetics
+-   **University of Oregon**: Knight Campus for Accelerating Scientific Impact
+-   **Stanford University**: Hopkins Marine Station
+-   **University of British Columbia**: Biodiversity Research Centre
+-   **Max Planck Institute**: Department of Evolutionary Biology
+-   **Uppsala University**: Department of Ecology and Genetics
 
 ## Join Our Research
 
-We welcome inquiries from prospective students and postdocs interested in:
-- Evolutionary genomics
-- Host-microbiome interactions
-- Bioinformatics and computational biology
-- Field ecology and evolution
-- Conservation genomics
+We welcome inquiries from prospective students and postdocs interested in: - Evolutionary genomics - Host-microbiome interactions - Bioinformatics and computational biology - Field ecology and evolution - Conservation genomics
 
 [Contact us to learn more →](mailto:wcresko@uoregon.edu)

@@ -1,0 +1,167 @@
+---
+title: "Evolutionary Genomics of Adaptation"
+description: "How DNA sequence divergence leads to phenotypic evolution and adaptation"
+page-layout: article
+toc: true
+---
+
+## Overview
+
+Beneath the phenomena of evolutionary adaptation lies a complex lattice in which population-level processes intersect with developmental and genomic constraints. The Cresko Lab explores these multilevel interactions in the threespine stickleback fish, which offers unique advantages as a model system for understanding the genomic basis of adaptation.
+
+## The Stickleback Model System
+
+The threespine stickleback provides unparalleled opportunities for studying evolutionary genomics:
+
+### Natural Experiments in Evolution
+- **Replicate adaptation**: Countless independent colonizations of freshwater from marine ancestors
+- **Phenotypic radiation**: Extensive morphological and physiological diversity within a single species
+- **Contemporary evolution**: Examples of extremely rapid evolution on human timescales
+- **Extant ancestors**: Marine populations representing the ancestral state still exist
+
+### Experimental Advantages
+- **Genetic tractability**: Ability to perform controlled crosses in the laboratory
+- **Developmental accessibility**: External fertilization and transparent embryos
+- **Genomic resources**: High-quality reference genome and extensive population data
+- **CRISPR compatibility**: Efficient genome editing for functional validation
+
+## Genomic Signatures of Natural Selection
+
+By richly genotyping wild populations and generating controlled laboratory crosses, we investigate:
+
+### Population Genomic Patterns
+- **Selective sweeps**: Identifying regions under strong positive selection
+- **Polygenic adaptation**: Understanding selection on standing genetic variation
+- **Balancing selection**: Detecting maintenance of adaptive variation
+- **Background selection**: Distinguishing selection from demographic processes
+
+### Parallel Evolution at the Genomic Level
+Our research reveals that a large proportion of the stickleback genome bears signatures of natural selection in replicate adaptations to freshwater:
+- Identification of parallel genomic regions under selection
+- Discovery of regulatory vs. coding sequence evolution
+- Understanding the role of chromosomal inversions in adaptation
+- Characterizing the genetic architecture of adaptive traits
+
+## RAD-seq Innovation and Applications
+
+RAD-seq (Restriction site Associated DNA sequencing), a method pioneered at UO through a Cresko and Johnson lab collaboration, revolutionized population genomics:
+
+### Methodological Advances
+- **De novo genotyping**: Genome-wide marker discovery without reference genomes
+- **Cost-effective scaling**: Enabling population-level studies in non-model organisms
+- **Flexible resolution**: Adjustable marker density for different applications
+- **Paired-end improvements**: Building haplotype blocks for enhanced analyses
+
+### Population Genetic Applications
+The method enables continuous genomic scans using population genetic statistics:
+- Detection of outlier loci under selection
+- Demographic inference and population structure analysis
+- Phylogeographic reconstruction
+- Genome-wide association studies (GWAS)
+
+## Genomic Architecture of Adaptation
+
+We investigate how genomic organization influences evolutionary processes:
+
+### Structural Variation
+- **Chromosomal inversions**: Their role in maintaining adaptive gene complexes
+- **Copy number variation**: Gene duplications and deletions in adaptation
+- **Transposable elements**: Mobile DNA as a source of adaptive variation
+- **Recombination landscapes**: How recombination rate variation affects adaptation
+
+### Gene Regulatory Evolution
+- **Cis-regulatory changes**: Evolution of gene expression through regulatory mutations
+- **Trans-acting factors**: Evolution of regulatory networks
+- **Epigenetic variation**: Heritable changes beyond DNA sequence
+- **Gene expression plasticity**: Environmental effects on gene regulation
+
+## Phylogeography and Population History
+
+Using paired-end RAD-seq data to build haplotype blocks, we employ coalescent approaches to investigate:
+
+### Historical Demography
+- **Colonization history**: Timing and routes of freshwater invasions
+- **Population expansions**: Demographic changes following colonization
+- **Gene flow patterns**: Ongoing migration between populations
+- **Hybridization zones**: Introgression between divergent populations
+
+### Molecular Dating
+- **Age of adaptive alleles**: When beneficial mutations arose or were selected
+- **Divergence times**: Dating population splits and colonization events
+- **Mutation rate calibration**: Using known geological events to calibrate molecular clocks
+- **Ancestral state reconstruction**: Inferring historical character states
+
+## Gene-by-Environment Interactions
+
+Understanding how genetic variation interacts with environmental factors:
+
+### Environmental Variables
+- **Temperature adaptation**: Thermal tolerance and performance curves
+- **Salinity tolerance**: Osmoregulatory adaptations
+- **Dietary adaptations**: Genetic basis of trophic specialization
+- **Parasite resistance**: Host-pathogen coevolution
+
+### Experimental Approaches
+- **Common garden experiments**: Separating genetic from environmental effects
+- **Reciprocal transplants**: Testing local adaptation
+- **Selection experiments**: Real-time evolution under controlled conditions
+- **Plasticity studies**: Reaction norm evolution
+
+## Current Research Directions
+
+### Genomics of Rapid Evolution
+- Tracking allele frequency changes in real-time
+- Understanding the predictability of evolution
+- Identifying constraints on adaptive evolution
+- Measuring the speed of adaptation
+
+### Integrative Approaches
+- Connecting genotype to phenotype to fitness
+- Multi-trait analyses of correlated evolution
+- Systems biology of adaptive changes
+- Eco-evolutionary dynamics in nature
+
+### Conservation Applications
+- Assessing adaptive potential under climate change
+- Managing genetic diversity in threatened populations
+- Understanding evolutionary responses to human impacts
+- Predicting population resilience
+
+## Computational Tools and Resources
+
+We develop and apply cutting-edge computational methods:
+
+### Software Development
+- Population genomics pipelines
+- Statistical methods for selection detection
+- Visualization tools for genomic data
+- Machine learning applications
+
+### Data Resources
+- Population genomic datasets
+- Annotated variant databases
+- Expression atlases
+- Phenotype-genotype maps
+
+## Collaborations
+
+This research involves collaborations with:
+- Population geneticists worldwide
+- Computational biologists and bioinformaticians
+- Evolutionary ecologists
+- Conservation biologists
+
+## Future Directions
+
+Our ongoing and future work aims to:
+- Integrate long-read sequencing for improved genome assemblies
+- Develop pangenome resources for stickleback
+- Apply machine learning to predict adaptive outcomes
+- Connect molecular evolution to ecosystem function
+
+## Learn More
+
+For more information about our evolutionary genomics research:
+- [Contact the Cresko Lab →](mailto:wcresko@uoregon.edu)
+- [View our publications →](/publications)
+- [Access our data →](/data)

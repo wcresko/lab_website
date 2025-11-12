@@ -1,7 +1,7 @@
 ---
 title: "Mark Currey"
 subtitle: "Senior Research Assistant"
-image: "/images/currey-profile.jpg"
+image: "../images/lab_folks/Currey_Mark_1.jpg"
 about:
   template: trestles
   image-shape: rounded
@@ -22,10 +22,10 @@ Mark Currey is a Senior Research Assistant in the Cresko Laboratory at the Unive
 
 ## Education
 
-- **M.S. Population Genetics**, University of Oregon
-  - Thesis: "The Phenotypic and Genetic Distribution of Threespine Stickleback that Inhabit the Willamette Basin, Oregon, USA"
-- **B.S. Biology**, University of Oregon
-- **A.A.**, Chemeketa Community College
+-   **M.S. Population Genetics**, University of Oregon
+    -   Thesis: "The Phenotypic and Genetic Distribution of Threespine Stickleback that Inhabit the Willamette Basin, Oregon, USA"
+-   **B.S. Biology**, University of Oregon
+-   **A.A.**, Chemeketa Community College
 
 ## Research Interests
 
@@ -33,41 +33,36 @@ I'm interested in understanding the vast variety of life. How is morphological v
 
 ### Current Research Areas
 
-- **Population Genetics**: Understanding genetic structure and diversity in natural populations
-- **Phenotypic Variation**: Documenting morphological diversity across environments
-- **Genomic Association Studies**: Linking genetic variation to phenotypic traits
-- **Field Ecology**: Long-term monitoring of stickleback populations throughout Oregon
+-   **Population Genetics**: Understanding genetic structure and diversity in natural populations
+-   **Phenotypic Variation**: Documenting morphological diversity across environments
+-   **Genomic Association Studies**: Linking genetic variation to phenotypic traits
+-   **Field Ecology**: Long-term monitoring of stickleback populations throughout Oregon
 
 ## Field Expertise
 
-Mark has unparalleled knowledge of Oregon's stickleback populations, including:
-- Population locations and access
-- Seasonal dynamics
-- Habitat characteristics
-- Sampling methodologies
-- Long-term population trends
+Mark has unparalleled knowledge of Oregon's stickleback populations, including: - Population locations and access - Seasonal dynamics - Habitat characteristics - Sampling methodologies - Long-term population trends
 
 ## Technical Skills
 
-- Population genetic analysis
-- RAD-seq library preparation
-- Field sampling and collection
-- Morphometric analysis
-- Database management
-- Laboratory protocol development
+-   Population genetic analysis
+-   RAD-seq library preparation
+-   Field sampling and collection
+-   Morphometric analysis
+-   Database management
+-   Laboratory protocol development
 
 ## Contributions
 
-- Co-author on multiple high-impact publications
-- Essential contributor to Oregon stickleback phylogeography project
-- Developer of laboratory protocols
-- Trainer of numerous students in field and lab techniques
-- Curator of long-term datasets
+-   Co-author on multiple high-impact publications
+-   Essential contributor to Oregon stickleback phylogeography project
+-   Developer of laboratory protocols
+-   Trainer of numerous students in field and lab techniques
+-   Curator of long-term datasets
 
 ## Professional Activities
 
-- Field expedition leader
-- Student mentor
-- Protocol development
-- Data management
-- Community outreach
+-   Field expedition leader
+-   Student mentor
+-   Protocol development
+-   Data management
+-   Community outreach

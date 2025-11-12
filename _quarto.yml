@@ -19,25 +19,33 @@ website:
     left:
       - text: "About"
         href: about.qmd
-      - text: "Projects"
-        href: projects.qmd
       - text: "Team"
         href: people.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "Funding"
+        href: projects.qmd
       - text: "Publications"
         href: publications.qmd
+      - text: "Press"
+        href: press_coverage.qmd
+      - text: "News"
+        href: posts.qmd
       - text: "Talks"
         href: talks.qmd
-      - text: "Blog"
-        href: posts.qmd
+      - text: "Software"
+        href: software.qmd
       - text: "Teaching"
         href: teaching.qmd
+
+
     right:
       - icon: github
         href: https://github.com/wcresko
         aria-label: "GitHub"
-      - icon: twitter
-        href: https://twitter.com/creskolab
-        aria-label: "Twitter"
+      - text: '<i class="fa-brands fa-bluesky"></i>'
+        href: https://bsky.app/profile/wcresko.bsky.social
+        aria-label: "Bluesky"
       - icon: envelope
         href: mailto:wcresko@uoregon.edu
         aria-label: "Email"
@@ -67,6 +75,9 @@ format:
     smooth-scroll: true
     anchor-sections: false
     css: styles.css
+    include-in-header:
+      - text: |
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 
 execute:
   freeze: auto

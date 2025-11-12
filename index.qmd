@@ -20,7 +20,7 @@ toc: false
 
 **Genomic Tool Development** — We developed RAD-seq technology and the Stacks software pipeline, now used by thousands of researchers worldwide for population genomics analyses.
 
-[Learn more about our projects →](projects.qmd)
+[Learn more about our research →](research.qmd)
 
 ::::: columns
 ::: {.column width="50%"}

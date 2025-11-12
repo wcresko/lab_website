@@ -1,0 +1,126 @@
+---
+title: "Cresko Lab Paper Among Top 10 Most Cited in PLOS Genetics First Decade"
+author: "Cresko Lab"
+date: "2015-10-15"
+categories: [news, publication, milestone, PLOS Genetics, citations, RAD-seq]
+image: "plos-genetics-anniversary.jpg"
+draft: false
+---
+
+Our 2010 PLOS Genetics paper on RAD-seq has been recognized as one of the 10 most cited papers in the journal's first decade!
+
+This recognition celebrates the transformative impact of our work developing and applying Restriction site-Associated DNA sequencing (RAD-seq) for population genomics, which has revolutionized the field of evolutionary genetics and enabled genomic studies in non-model organisms worldwide.
+
+## The Landmark Paper
+
+Our 2010 publication introduced:
+- RAD-seq methodology refinements
+- Population genomics applications
+- Stickleback genome mapping
+- Linkage map construction
+- Evolutionary insights
+
+## Citation Impact
+
+Being top 10 means:
+- Thousands of citations
+- Global research impact
+- Method adoption worldwide
+- Field transformation
+- Lasting scientific contribution
+
+## RAD-seq Revolution
+
+The technology enabled:
+- Non-model organism genomics
+- Cost-effective sequencing
+- Population-level studies
+- Conservation genomics
+- Agricultural applications
+
+## Scientific Applications
+
+Researchers worldwide use RAD-seq for:
+- Population genetics
+- Phylogenetics
+- Conservation biology
+- Crop improvement
+- Ecological genomics
+
+## Collaborative Development
+
+The paper resulted from:
+- Eric Johnson partnership
+- Technical innovation
+- Student contributions
+- Method optimization
+- Open science approach
+
+## Methodological Impact
+
+RAD-seq transformed:
+- Genomic accessibility
+- Research democratization
+- Field study possibilities
+- Cost barriers reduction
+- Technical capabilities
+
+## PLOS Genetics Milestone
+
+The journal's 10th anniversary:
+- Celebrates open access
+- Recognizes influential work
+- Highlights field advances
+- Promotes accessibility
+- Supports reproducibility
+
+## Continued Development
+
+Since 2010, we've:
+- Refined protocols
+- Developed Stacks software
+- Trained researchers globally
+- Published improvements
+- Supported community
+
+## Software Development
+
+Our Stacks pipeline:
+- Processes RAD data
+- Open source tool
+- Worldwide adoption
+- Continuous updates
+- Community support
+
+## Training Impact
+
+We've provided:
+- Workshop instruction
+- Protocol sharing
+- Technical support
+- Methods courses
+- International training
+
+## Research Enabled
+
+This method facilitated:
+- Thousands of studies
+- New model systems
+- Conservation projects
+- Agricultural improvements
+- Evolutionary discoveries
+
+## Future Directions
+
+Continued evolution includes:
+- Method refinements
+- New applications
+- Integration with other tools
+- Cost reductions
+- Accessibility improvements
+
+This recognition validates our commitment to developing transformative tools for the genomics community!
+
+[Read the original paper →](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1000862)
+
+[View the anniversary collection →](http://collections.plos.org/genetics-10th-anniversary)

@@ -197,6 +197,7 @@ Bruno is....
 -   **Andrew Nishida** (2009-2014) - Supported by Grant Funding
 -   **Kimberly Lum** (2007-2010) - Supported by Grant Funding
 -   **Quick Yeates-Burghart** (2006-2009) - Supported by Grant Funding
+-   **Robert Steury** - Now working at Steury Stonework and Design
 
 ------------------------------------------------------------------------
 
@@ -234,6 +235,18 @@ The Cresko Lab has mentored 77 undergraduate researchers since 2004, including 2
 -   **Nicole Nishimura** - Research Assistant (2008-2012)
 -   **Frances Sung** - Research Assistant (2005-2008)
 -   **Joe Dunham** - Research Assistant (2005-2008)
+-   **Nia Harper** - Undergraduate Researcher
+-   **Jade Kast** - Undergraduate Researcher
+-   **Erik Parker** - Undergraduate Researcher
+-   **Shira Mali** - Undergraduate Researcher
+-   **John Letaw** - Undergraduate Researcher
+-   **Maya Rommwatt** - Undergraduate Researcher
+-   **Steve Perry** - Undergraduate Researcher
+-   **James Bolle** - Undergraduate Researcher
+-   **Jenna Wood** - Undergraduate Researcher
+-   **Jessica Ava** - Undergraduate Researcher
+-   **Emma Kostin-Conley** - Undergraduate Researcher
+-   **Caroline Emui-Wei** - Undergraduate Researcher
 
 **Students from Underrepresented Groups:** Shannon Cannon, Ethan Contreras, Byron Etta, Linda Gai, Kyle Gonsalves, Vithika Goyal, Shanie Jorgensen, Jamie Kim, Taylor Lipscomb, Clayton Merz, Sara Phillips, Natasha Richardson, Mary Sherbick, Micah Woods
 
@@ -263,7 +276,9 @@ The Cresko Lab has mentored 77 undergraduate researchers since 2004, including 2
 -   **Tiffany Thornton** (2021-2023) - Research Assistant
 -   **Rene Hsu** (2020-2023) - Research Assistant
 -   **Kate Ituarte** (2012-2014) - Research Assistant
+-   **Nicholas Stiffler** - Research Assistant, Now Software Developer at University of Oregon
 -   **Nicole Nishimura** (2008-2012) - Research Assistant
+-   **Jason Sydes** - Research Assistant, Now Research Assistant in Postlethwait Lab at University of Oregon
 -   **Frances Sung** (2005-2008) - Research Assistant
 -   **Joe Dunham** (2005-2008) - Research Assistant
 

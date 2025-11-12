@@ -69,6 +69,17 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 <style>html{ scroll-behavior: smooth; }</style>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+<!-- Font Awesome 6.6.0 with Bluesky icon support -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" crossorigin="anonymous">
+<style>
+  /* Ensure Bluesky icon works everywhere */
+  .fa-bluesky::before {
+    content: "\e671" !important;
+    font-family: "Font Awesome 6 Brands" !important;
+    font-weight: 400 !important;
+  }
+</style>
 
 
 <link rel="stylesheet" href="styles.css">
@@ -99,24 +110,36 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./projects.html"> 
-<span class="menu-text">Projects</span></a>
-  </li>  
-  <li class="nav-item">
     <a class="nav-link" href="./people.html"> 
 <span class="menu-text">Team</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link active" href="./research.html" aria-current="page"> 
+<span class="menu-text">Research</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./projects.html"> 
+<span class="menu-text">Funding</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./publications.html"> 
 <span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
+    <a class="nav-link" href="./press_coverage.html"> 
+<span class="menu-text">Press</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./posts.html"> 
+<span class="menu-text">News</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="./talks.html"> 
 <span class="menu-text">Talks</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./posts.html"> 
-<span class="menu-text">Blog</span></a>
+    <a class="nav-link" href="./software.html"> 
+<span class="menu-text">Software</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./teaching.html"> 
@@ -129,10 +152,9 @@ ul.task-list li input[type="checkbox"] {
 </i> 
 <span class="menu-text"></span></a>
   </li>  
-  <li class="nav-item compact">
-    <a class="nav-link" href="https://twitter.com/creskolab"> <i class="bi bi-twitter" role="img" aria-label="Twitter">
-</i> 
-<span class="menu-text"></span></a>
+  <li class="nav-item">
+    <a class="nav-link" href="https://bsky.app/profile/wcresko.bsky.social"> 
+<span class="menu-text"><i class="fa-brands fa-bluesky"></i></span></a>
   </li>  
   <li class="nav-item compact">
     <a class="nav-link" href="mailto:wcresko@uoregon.edu"> <i class="bi bi-envelope" role="img" aria-label="Email">
@@ -162,13 +184,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#host-microbiome-coevolution" id="toc-host-microbiome-coevolution" class="nav-link" data-scroll-target="#host-microbiome-coevolution">Host-Microbiome Coevolution</a></li>
   <li><a href="#population-genomics-methods-development" id="toc-population-genomics-methods-development" class="nav-link" data-scroll-target="#population-genomics-methods-development">Population Genomics Methods Development</a></li>
   <li><a href="#syngnathid-fish-evolution" id="toc-syngnathid-fish-evolution" class="nav-link" data-scroll-target="#syngnathid-fish-evolution">Syngnathid Fish Evolution</a></li>
-  <li><a href="#climate-change-and-evolutionary-responses" id="toc-climate-change-and-evolutionary-responses" class="nav-link" data-scroll-target="#climate-change-and-evolutionary-responses">Climate Change and Evolutionary Responses</a></li>
-  </ul></li>
-  <li><a href="#current-projects" id="toc-current-projects" class="nav-link" data-scroll-target="#current-projects">Current Projects</a>
-  <ul class="collapse">
-  <li><a href="#nsf-funded-research" id="toc-nsf-funded-research" class="nav-link" data-scroll-target="#nsf-funded-research">NSF-Funded Research</a></li>
-  <li><a href="#nih-funded-research" id="toc-nih-funded-research" class="nav-link" data-scroll-target="#nih-funded-research">NIH-Funded Research</a></li>
-  <li><a href="#collaborative-projects" id="toc-collaborative-projects" class="nav-link" data-scroll-target="#collaborative-projects">Collaborative Projects</a></li>
+  <li><a href="#evolution-of-development" id="toc-evolution-of-development" class="nav-link" data-scroll-target="#evolution-of-development">Evolution of Development</a></li>
   </ul></li>
   <li><a href="#field-sites" id="toc-field-sites" class="nav-link" data-scroll-target="#field-sites">Field Sites</a></li>
   <li><a href="#techniques-approaches" id="toc-techniques-approaches" class="nav-link" data-scroll-target="#techniques-approaches">Techniques &amp; Approaches</a></li>
@@ -219,6 +235,7 @@ ul.task-list li input[type="checkbox"] {
 <li><strong>Evolutionary constraints</strong>: What factors limit or facilitate evolutionary change?</li>
 </ul>
 <p>Our work has revealed fundamental principles about how natural selection shapes genomic variation and produces evolutionary change.</p>
+<p><a href="./research_evolutionary_genomics.html">Learn more about our evolutionary genomics research →</a></p>
 </section>
 <section id="host-microbiome-coevolution" class="level3">
 <h3 data-anchor-id="host-microbiome-coevolution">Host-Microbiome Coevolution</h3>
@@ -229,6 +246,7 @@ ul.task-list li input[type="checkbox"] {
 <li>Coevolutionary dynamics between hosts and their microbiota</li>
 <li>Environmental influences on host-microbiome interactions</li>
 </ul>
+<p><a href="./research_host_microbiome.html">Learn more about our host-microbiome research →</a></p>
 </section>
 <section id="population-genomics-methods-development" class="level3">
 <h3 data-anchor-id="population-genomics-methods-development">Population Genomics Methods Development</h3>
@@ -240,7 +258,7 @@ ul.task-list li input[type="checkbox"] {
 <section id="stacks-software-pipeline" class="level4">
 <h4 data-anchor-id="stacks-software-pipeline">Stacks Software Pipeline</h4>
 <p>We created Stacks, a software pipeline for building loci from short-read sequences. Stacks is now used by thousands of researchers worldwide for: - De novo and reference-based assembly of RAD-seq data - SNP discovery and genotyping - Population genomics analyses - Phylogenomics applications</p>
-<p><a href="http://catchenlab.life.illinois.edu/stacks/">Visit the Stacks website →</a></p>
+<p><a href="./research_methods_development.html">Learn more about our methods development →</a></p>
 </section>
 </section>
 <section id="syngnathid-fish-evolution" class="level3">
@@ -252,39 +270,18 @@ ul.task-list li input[type="checkbox"] {
 <li>Comparative genomics across the syngnathid phylogeny</li>
 <li>Conservation genomics of threatened species</li>
 </ul>
+<p><a href="./research_evo_devo.html">Learn more about our evolution of development research →</a></p>
 </section>
-<section id="climate-change-and-evolutionary-responses" class="level3">
-<h3 data-anchor-id="climate-change-and-evolutionary-responses">Climate Change and Evolutionary Responses</h3>
-<p>We investigate how organisms respond to rapid environmental change, including:</p>
+<section id="evolution-of-development" class="level3">
+<h3 data-anchor-id="evolution-of-development">Evolution of Development</h3>
+<p>We investigate how developmental processes evolve to produce morphological diversity:</p>
 <ul>
-<li>Thermal adaptation in natural populations</li>
-<li>Ocean acidification effects on marine organisms</li>
-<li>Evolutionary rescue and adaptive potential</li>
-<li>Predicting evolutionary responses to climate change</li>
+<li>Genetic basis of phenotypic evolution across time scales</li>
+<li>Rapid morphological evolution in stickleback populations</li>
+<li>Deep evolutionary innovations in syngnathid fishes</li>
+<li>CRISPR-based functional validation of developmental evolution</li>
 </ul>
-</section>
-</section>
-<section id="current-projects" class="level2">
-<h2 data-anchor-id="current-projects">Current Projects</h2>
-<section id="nsf-funded-research" class="level3">
-<h3 data-anchor-id="nsf-funded-research">NSF-Funded Research</h3>
-<p><strong>Title</strong>: “Genomic Architecture of Parallel Evolution”<br>
-<strong>Duration</strong>: 2023-2027<br>
-<strong>Summary</strong>: This project investigates the repeatability of evolution by comparing genomic changes in multiple independently evolved stickleback populations.</p>
-</section>
-<section id="nih-funded-research" class="level3">
-<h3 data-anchor-id="nih-funded-research">NIH-Funded Research</h3>
-<p><strong>Title</strong>: “Host Genetic Control of the Microbiome”<br>
-<strong>Duration</strong>: 2022-2026<br>
-<strong>Summary</strong>: Using experimental evolution and genome-wide association studies to understand how host genetics shapes microbiome composition and function.</p>
-</section>
-<section id="collaborative-projects" class="level3">
-<h3 data-anchor-id="collaborative-projects">Collaborative Projects</h3>
-<ul>
-<li><strong>Pacific Northwest Stickleback Survey</strong>: Long-term monitoring of stickleback populations across Oregon and Washington</li>
-<li><strong>International Syngnathid Genome Consortium</strong>: Sequencing and analyzing genomes across the syngnathid family</li>
-<li><strong>Oregon Climate Assessment</strong>: Evaluating evolutionary responses of native species to climate change</li>
-</ul>
+<p><a href="./research_evo_devo.html">Learn more about our evo-devo research →</a></p>
 </section>
 </section>
 <section id="field-sites" class="level2">

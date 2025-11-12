@@ -1,0 +1,56 @@
+---
+title: "Software"
+page-layout: full
+toc: false
+---
+
+![](images/lily_lake_header.jpg){.banner fig-alt="Lily Lake, Oregon Coast" fig-align="center" width="800"}
+
+### We develop computational tools for genomic analysis, with a focus on population genomics and evolutionary biology applications.
+
+::: software-container
+## Stacks
+
+[![Stacks](stacks/images/stacks_logo_small.png){width="200"}](http://creskolab.uoregon.edu/stacks/)
+
+**A software pipeline for building loci from short-read sequences**
+
+Stacks is a software pipeline for building loci out of a set of short-read sequenced samples. Stacks was developed for the purpose of building genetic maps from RAD-Tag Illumina sequence data, but can also be readily applied to population studies, and phylogeography.
+
+**Key Features:**
+
+-   De novo and reference-based analyses
+-   SNP and haplotype calling
+-   Population statistics calculations
+-   Genetic map construction
+-   Phylogeographic analysis
+
+[{{< fa external-link-alt >}} Visit Stacks Website](http://creskolab.uoregon.edu/stacks/)
+
+------------------------------------------------------------------------
+
+## The Synteny Database
+
+**A system for detecting conserved synteny across genomes**
+
+The Synteny Database is a system built to detect conserved synteny — the tendency of neighboring genes to retain their relative positions and orders on chromosomes over evolutionary time (synteny: syn, same; tene, thread).
+
+Given a source genome and an outgroup genome, the Synteny Database can detect regions of conserved synteny within the source genome (paralogons), or between the source and outgroup genomes. The system was built with special care to detect paralogons originating from whole-genome duplication.
+
+**Applications:**
+
+-   Detection of conserved syntenic regions
+-   Identification of paralogons from whole-genome duplications
+-   Evolutionary history analysis of gene families
+-   Cross-species comparative genomics
+
+[{{< fa external-link-alt >}} Visit Synteny Database](http://syntenydb.uoregon.edu/)
+
+------------------------------------------------------------------------
+
+## Code and Resources
+
+Additional code, pipelines, and analysis scripts are available through our GitHub repository:
+
+[{{< fa brands github >}} GitHub Repository](https://github.com/creskolab)
+:::

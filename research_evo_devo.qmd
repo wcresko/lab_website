@@ -1,0 +1,102 @@
+---
+title: "Evolution of Development"
+description: "Investigating the genetic basis of phenotypic evolution across evolutionary time scales"
+page-layout: article
+toc: true
+---
+
+## Overview
+
+The evolution of development is central to questions of how old forms are modified and how apparent novelties originate. The Cresko Lab investigates the genetic basis of phenotypic evolution over shallow and deep time scales, using comparative approaches and cutting-edge molecular techniques to understand how developmental processes evolve to produce morphological diversity.
+
+## Rapid Phenotypic Evolution in Stickleback
+
+Stickleback populations have diversified in phenotype, sometimes over remarkably short periods—in some cases, in a matter of decades. Some of the most striking morphological differences can be observed when comparing freshwater and marine fish, whose skeletons may differ in:
+
+- **Size and scaling**: Overall body size and proportions
+- **Shape variations**: Cranial bone morphology and body streamlining
+- **Element number**: Lateral plate counts and gill raker numbers
+- **Robustness**: Bone thickness and mineralization patterns
+
+Rich phenotypic variation is seen in populations where these ecotypes have interbred, providing natural experiments in the genetics of complex traits.
+
+## Morphometric Analysis and Genomic Mapping
+
+Lab members are tracing morphological differences to specific genomic regions using:
+
+### Quantitative Approaches
+- **Morphometric analysis**: High-resolution shape analysis of cranial bones and other skeletal elements
+- **Genome-wide association studies (GWAS)**: Mapping trait variation in natural populations
+- **QTL mapping**: Fine-scale genetic dissection using laboratory crosses
+
+### Functional Validation
+- **Gene expression analysis**: In situ hybridization to examine spatiotemporal expression patterns during development
+- **CRISPR genome editing**: Functional alteration of candidate genes to test causal relationships
+- **Developmental time series**: Tracking ontogenetic changes in gene expression and morphology
+
+## Deep Evolutionary Time: Syngnathid Innovations
+
+On a much deeper evolutionary time scale, we investigate the evolution of novel morphology in the syngnathid fishes (seahorses, pipefishes, and seadragons), which display remarkable derived traits:
+
+### Unique Morphological Features
+- **Specialized feeding apparatus**: Derived head shape adapted for "pipette" suction feeding
+- **Body plan modifications**: Elongated body encased in dermal armor plates
+- **Fin evolution**: Loss of pelvic fins and modifications to other fin structures
+- **Male pregnancy**: Evolution of specialized, placenta-like brooding structures in males
+
+### Genomic Resource Development
+
+We are building comprehensive genomic resources for *Syngnathus scovelli* (Gulf pipefish):
+
+- **Annotated genome assembly**: High-quality reference genome with gene annotations
+- **Integrated genetic map**: Linkage mapping to anchor genomic scaffolds
+- **Transcriptomic resources**: RNA-seq data from multiple tissues and developmental stages
+- **Comparative genomics**: Cross-species comparisons to identify genomic innovations
+
+## Current Projects
+
+### Skeletal Evolution and Development
+- Identifying the genetic basis of bone shape variation in natural populations
+- Understanding how changes in developmental timing affect adult morphology
+- Exploring the role of bone morphogenetic proteins (BMPs) in skeletal diversity
+
+### Evolutionary Constraints and Flexibility
+- Investigating genetic correlations between traits
+- Understanding developmental bias in evolutionary trajectories
+- Examining the repeatability of evolutionary solutions
+
+### Syngnathid Specializations
+- Genomic basis of male pregnancy and brood pouch development
+- Evolution of armor plating and body elongation
+- Molecular mechanisms underlying feeding apparatus modifications
+
+## Collaborations
+
+This research involves collaborations with:
+- Developmental biologists studying bone formation
+- Computational biologists developing morphometric methods
+- International syngnathid research groups
+- Museums and aquariums maintaining breeding populations
+
+## Key Publications
+
+Recent publications from this research area focus on:
+- The genetic architecture of skeletal traits
+- Developmental mechanisms of morphological evolution
+- Comparative genomics of syngnathid innovations
+- The role of gene regulatory evolution in phenotypic change
+
+## Future Directions
+
+Our ongoing and future work aims to:
+- Integrate single-cell sequencing to understand cell-type-specific gene expression during development
+- Develop new CRISPR tools for manipulating developmental gene regulatory networks
+- Expand comparative work across the syngnathid phylogeny
+- Connect molecular developmental changes to fitness consequences in nature
+
+## Learn More
+
+For more information about our evolution of development research:
+- [Contact the Cresko Lab →](mailto:wcresko@uoregon.edu)
+- [View our publications →](/publications)
+- [Meet the team →](/team)

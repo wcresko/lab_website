@@ -12,88 +12,90 @@ The Cresko Laboratory advances our understanding of evolutionary processes throu
 
 We believe that understanding evolution requires a multi-faceted approach:
 
-- **Field Studies**: We conduct long-term monitoring of natural populations across the Pacific Northwest
-- **Laboratory Experiments**: We use controlled experiments to test evolutionary hypotheses
-- **Computational Biology**: We develop and apply cutting-edge bioinformatic tools
-- **Open Science**: We share our data, code, and methods openly with the scientific community
+-   **Field Studies**: We conduct long-term monitoring of natural populations across the Pacific Northwest
+-   **Laboratory Experiments**: We use controlled experiments to test evolutionary hypotheses
+-   **Computational Biology**: We develop and apply cutting-edge bioinformatic tools
+-   **Open Science**: We share our data, code, and methods openly with the scientific community
 
 ## Our History
 
-The Cresko Laboratory was established in [year] when Bill Cresko joined the University of Oregon faculty. Since then, we have:
+The Cresko Laboratory was established in 2005 when Bill Cresko joined the University of Oregon faculty. Since then, we have:
 
-- Published nearly 100 peer-reviewed papers
-- Developed RAD-seq technology, revolutionizing population genomics
-- Created Stacks, now used by over 5,000 researchers worldwide
-- Trained dozens of graduate students and postdocs
-- Secured continuous funding from NSF, NIH, and other agencies
+-   Published nearly 150 peer-reviewed papers
+-   Developed RAD-seq technology, revolutionizing population genomics
+-   Created Stacks, now used by over 5,000 researchers worldwide
+-   Trained dozens of graduate students and postdocs
+-   Secured continuous funding from NSF, NIH, and private foundations such as Keck and Moore
 
 ## Our Values
 
 ### Excellence in Science
+
 We strive for rigorous, reproducible research that advances fundamental knowledge while addressing real-world challenges.
 
 ### Inclusive Community
+
 We foster a diverse, supportive environment where all members can thrive and contribute their unique perspectives.
 
 ### Collaborative Spirit
+
 We actively collaborate with researchers worldwide, believing that the best science emerges from diverse partnerships.
 
 ### Mentorship & Training
+
 We are committed to training the next generation of scientists through hands-on research experience and professional development.
 
 ## Our Impact
 
 ### Scientific Contributions
-- **RAD-seq Technology**: Enabled genome-wide studies in thousands of non-model organisms
-- **Stacks Software**: Democratized population genomics analyses for the global research community
-- **Evolutionary Insights**: Advanced understanding of parallel evolution and adaptation
+
+-   **RAD-seq Technology**: Enabled genome-wide studies in thousands of non-model organisms
+-   **Stacks Software**: Democratized population genomics analyses for the global research community
+-   **Evolutionary Insights**: Advanced understanding of parallel evolution and adaptation
 
 ### Education & Outreach
-- Trained over 50 undergraduate researchers
-- Mentored 25+ graduate students and 15+ postdocs
-- Engaged with K-12 students through outreach programs
-- Contributed to science communication and public understanding
+
+-   Trained over 50 undergraduate researchers
+-   Mentored 25+ graduate students and 15+ postdocs
+-   Engaged with K-12 students through outreach programs
+-   Contributed to science communication and public understanding
 
 ## Our Location
 
 We are located in the Institute of Ecology and Evolution at the University of Oregon in Eugene, Oregon. Our facilities include:
 
-- State-of-the-art molecular biology laboratories
-- High-performance computing resources
-- Aquatic animal care facilities
-- Access to diverse field sites throughout Oregon
+-   State-of-the-art molecular biology laboratories
+-   High-performance computing resources
+-   Aquatic animal care facilities
+-   Access to diverse field sites throughout Oregon
 
-The University of Oregon provides an exceptional environment for evolutionary research, with strengths in:
-- Genomics and bioinformatics
-- Ecology and evolution
-- Data science
-- Environmental sciences
+The University of Oregon provides an exceptional environment for evolutionary research, with strengths in: - Genomics and bioinformatics - Ecology and evolution - Data science - Environmental sciences
 
 ## Funding & Support
 
 Our research is generously supported by:
 
-- National Science Foundation (NSF)
-- National Institutes of Health (NIH)
-- Gordon and Betty Moore Foundation
-- M.J. Murdock Charitable Trust
-- University of Oregon
+-   National Science Foundation (NSF)
+-   National Institutes of Health (NIH)
+-   Gordon and Betty Moore Foundation
+-   M.J. Murdock Charitable Trust
+-   University of Oregon
 
 ## Contact Us
 
 We welcome collaborations, inquiries about our research, and applications from prospective team members.
 
-**William A. Cresko, Ph.D.**  
-Principal Investigator  
-[wcresko@uoregon.edu](mailto:wcresko@uoregon.edu)
+**William A. Cresko, Ph.D.**\
+Principal Investigator\
+[wcresko\@uoregon.edu](mailto:wcresko@uoregon.edu)
 
-**Laboratory Address:**  
-Cresko Laboratory  
-Institute of Ecology and Evolution  
-312 Pacific Hall  
-University of Oregon  
+**Laboratory Address:**\
+Cresko Laboratory\
+Institute of Ecology and Evolution\
+312 Pacific Hall\
+University of Oregon\
 Eugene, OR 97403-5289
 
-**Phone:** (541) 346-4779  
-**Twitter:** [@creskolab](https://twitter.com/creskolab)  
+**Phone:** (541) 346-4779\
+**Twitter:** [\@creskolab](https://twitter.com/creskolab)\
 **GitHub:** [github.com/wcresko](https://github.com/wcresko)

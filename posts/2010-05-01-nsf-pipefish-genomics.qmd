@@ -1,0 +1,124 @@
+---
+title: "NSF Funds Genomic Resource Development for Pipefish Research"
+author: "Cresko Lab"
+date: "2010-05-01"
+categories: [news, funding, NSF, genomics, syngnathids, pipefish]
+image: "nsf-pipefish-genomics.jpg"
+draft: false
+---
+
+The National Science Foundation has awarded funding to create comprehensive genomic resources for pipefish using next-generation sequencing!
+
+This grant will support the development of essential genomic tools for studying the remarkable evolutionary innovations of syngnathid fishes, including male pregnancy, loss of pelvic fins, and unique body morphology.
+
+## Project Goals
+
+The grant will support:
+- Genome sequencing efforts
+- Transcriptome characterization
+- RAD-seq marker development
+- Comparative genomics
+- Resource dissemination
+
+## Syngnathid Significance
+
+Pipefish offer insights into:
+- Male pregnancy evolution
+- Sex role reversal
+- Morphological innovation
+- Immune system adaptation
+- Reproductive strategies
+
+## Genomic Resources
+
+We will develop:
+- Reference sequences
+- Gene annotations
+- Expression profiles
+- Genetic markers
+- Bioinformatic tools
+
+## Technology Application
+
+Using NGS approaches:
+- Illumina sequencing
+- RAD-seq protocols
+- RNA-seq methods
+- De novo assembly
+- Comparative analysis
+
+## Research Questions
+
+The resources will address:
+- How male pregnancy evolved
+- Genetic basis of trait loss
+- Immune system modifications
+- Developmental innovations
+- Sex determination mechanisms
+
+## Collaborative Approach
+
+Working with:
+- Syngnathid research community
+- Museum collections
+- International partners
+- Genome consortiums
+- Database resources
+
+## Broader Impacts
+
+This project enables:
+- Community resource creation
+- Student training
+- Method development
+- Conservation genetics
+- Evolutionary studies
+
+## Male Pregnancy Focus
+
+Understanding unique aspects:
+- Brood pouch development
+- Embryo nurturing
+- Immune tolerance
+- Nutrient transfer
+- Hormonal control
+
+## Evolutionary Innovation
+
+Pipefish demonstrate:
+- Extreme morphological change
+- Novel reproductive modes
+- Trait loss and gain
+- Adaptive radiation
+- Convergent evolution
+
+## Resource Accessibility
+
+All data will be:
+- Publicly available
+- Well-documented
+- User-friendly
+- Regularly updated
+- Community-maintained
+
+## Training Opportunities
+
+The grant provides:
+- Graduate student support
+- Bioinformatics training
+- Method development experience
+- Publication opportunities
+- Career advancement
+
+## Expected Outcomes
+
+Deliverables include:
+- Published genomes
+- Analysis pipelines
+- Research publications
+- Training materials
+- Community tools
+
+This NSF support launches our syngnathid genomics program into a new era!
+
+[NSF Award Search →](https://www.nsf.gov/awardsearch/)

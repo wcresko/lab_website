@@ -230,4 +230,60 @@ toc: false
 
 ------------------------------------------------------------------------
 
+## Invited Faculty
+
+### 2019
+
+**European School of Genomics** — *Workshop Faculty* Genomics Workshop, Cesky Krumlov, Czech Republic \| Invited Faculty
+
+### 2018
+
+**European School of Genomics** — *Workshop Faculty* Genomics Workshop, Cesky Krumlov, Czech Republic \| Invited Faculty
+
+### 2017
+
+**European School of Genomics** — *Workshop Faculty* Genomics Workshop, Cesky Krumlov, Czech Republic \| Invited Faculty
+
+### 2016
+
+**European School of Genomics** — *Workshop Faculty* Genomics Workshop, Cesky Krumlov, Czech Republic \| Invited Faculty
+
+### 2015
+
+**GENECO RAD-seq Workshop** — *Workshop Faculty* Lund University, Lund, Sweden \| Invited Faculty
+
+**European School of Genomics** — *Workshop Faculty* Genomics Workshop, Cesky Krumlov, Czech Republic \| Invited Faculty
+
+### 2014
+
+**Sanger Center Genomics Workshop** — *Workshop Faculty* Wellcome Sanger Institute, Exeter, UK \| Invited Faculty
+
+**European School of Genomics** — *Workshop Faculty* Genomics Workshop, Cesky Krumlov, Czech Republic \| Invited Faculty
+
+### 2013
+
+**European School of Genomics** — *Workshop Faculty* Genomics Workshop, Cesky Krumlov, Czech Republic \| Invited Faculty
+
+### 2012
+
+**First Pacific-America Science Institute** — *Workshop Faculty* Silliman University, Dumaguete, Philippines \| Invited Faculty
+
+**GENECO RAD-seq Workshop** — *Workshop Faculty* Lund University, Lund, Sweden \| Invited Faculty
+
+**Switzerland RAD-seq Conference** — *Workshop Faculty* University of Neuchatel, Switzerland \| Invited Faculty
+
+### 2011
+
+**Population Genomics Workshop** — *Workshop Faculty* University of Puerto Rico, San Juan, PR \| Invited Faculty
+
+**NESCENT RAD-seq Workshop** — *Workshop Faculty* National Evolutionary Synthesis Center, Durham, NC \| Invited Faculty
+
+### 2010
+
+**Summer School on Genome Evolution** — *Workshop Faculty* Frauenchiemsee, Germany \| Invited Faculty
+
+**UK RAD Sequencing Conference** — *Workshop Faculty* University of Edinburgh, Scotland, UK \| Invited Faculty
+
+------------------------------------------------------------------------
+
 *For slides or recordings: [wcresko\@uoregon.edu](mailto:wcresko@uoregon.edu)*

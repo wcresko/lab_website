@@ -1,0 +1,295 @@
+---
+title: "Population Genomics Methods Development"
+description: "Developing computational tools and genomic technologies for evolutionary biology"
+page-layout: article
+toc: true
+---
+
+## Overview
+
+The Cresko Laboratory has been at the forefront of developing genomic tools and computational methods that have transformed evolutionary biology research. Our innovations have enabled cost-effective, high-resolution genomic studies in both model and non-model organisms, democratizing population genomics research worldwide.
+
+## RAD-seq Technology Development
+
+### Revolutionary Innovation
+
+Restriction site Associated DNA sequencing (RAD-seq), developed through a collaboration between the Cresko and Johnson labs at the University of Oregon, has fundamentally changed how we study population genomics:
+
+#### Core Advantages
+- **Genome-wide coverage**: Thousands to millions of markers across the genome
+- **De novo discovery**: No requirement for prior genomic resources
+- **Cost effectiveness**: Orders of magnitude cheaper than whole-genome sequencing
+- **Scalability**: From individuals to thousands of samples
+- **Flexibility**: Adjustable marker density for different applications
+
+### Methodological Refinements
+
+Our continued development of RAD-seq methods includes:
+
+#### Technical Improvements
+- **2bRAD**: Simplified library preparation with uniform fragment sizes
+- **ddRAD**: Double-digest RAD for improved repeatability
+- **Paired-end RAD**: Enabling haplotype reconstruction and improved mapping
+- **HDR-seq**: High-density RAD for fine-scale mapping
+- **Rapture**: RAD-capture for targeted sequencing of specific loci
+
+#### Protocol Optimization
+- Enzyme selection strategies for different genome sizes
+- Multiplexing approaches for cost reduction
+- Size selection protocols for consistent coverage
+- Quality control metrics and best practices
+- Troubleshooting guides for common issues
+
+## Stacks Software Pipeline
+
+### Comprehensive Analysis Platform
+
+Stacks, our flagship software package, provides an integrated pipeline for RAD-seq data analysis:
+
+#### Core Functionality
+- **De novo assembly**: Building loci without a reference genome
+- **Reference alignment**: Mapping reads to existing genome assemblies
+- **SNP discovery**: Identifying and genotyping polymorphic sites
+- **Population statistics**: Calculating FST, π, and other metrics
+- **Data export**: Multiple output formats for downstream analyses
+
+[Visit the Stacks website →](http://catchenlab.life.illinois.edu/stacks/)
+
+### Algorithm Development
+
+Key algorithmic innovations in Stacks include:
+
+#### Assembly Algorithms
+- Maximum likelihood framework for locus assembly
+- Error correction for sequencing mistakes
+- Paralogy detection and filtering
+- Coverage-based genotype calling
+- Population-aware genotyping models
+
+#### Statistical Methods
+- Kernel-smoothed FST calculations
+- Sliding window analyses
+- Bootstrap confidence intervals
+- Correction for multiple testing
+- Effective population size estimation
+
+### Community Impact
+
+Stacks is now used by thousands of researchers worldwide:
+- **10,000+ citations**: Widely adopted across diverse fields
+- **Active user community**: Support forum and mailing list
+- **Regular updates**: Continuous improvement and bug fixes
+- **Comprehensive documentation**: Tutorials, protocols, and examples
+- **Workshop training**: Regular courses on RAD-seq analysis
+
+## New Computational Approaches
+
+### Machine Learning Applications
+
+We're pioneering the use of machine learning in population genomics:
+
+#### Deep Learning Models
+- Neural networks for genotype imputation
+- Convolutional networks for selection detection
+- Recurrent networks for demographic inference
+- Autoencoders for dimensionality reduction
+- Generative models for simulation
+
+#### Applications
+- Predicting adaptive potential
+- Classifying selection signatures
+- Inferring population structure
+- Detecting hybridization
+- Identifying technical artifacts
+
+### Graph-based Methods
+
+Moving beyond linear reference genomes:
+
+#### Pangenome Approaches
+- Graph construction from population data
+- Variation graphs for complex regions
+- Structural variant detection
+- Haplotype-resolved assembly
+- Population-specific references
+
+#### Network Analyses
+- Gene regulatory network inference
+- Epistatic interaction networks
+- Population connectivity graphs
+- Phylogenetic networks
+- Coexpression networks
+
+## Long-read Sequencing Integration
+
+### Hybrid Approaches
+
+Combining short and long-read technologies:
+
+#### Method Development
+- Linked-read RAD-seq protocols
+- Long-read validation of RAD loci
+- Phasing using long-read data
+- Structural variant discovery
+- Gap filling in genome assemblies
+
+#### Computational Tools
+- Read simulation and validation
+- Hybrid assembly pipelines
+- Error correction algorithms
+- Variant calling methods
+- Visualization tools
+
+## Single-cell Genomics Methods
+
+### Population-level Single-cell Studies
+
+Extending population genomics to the cellular level:
+
+#### Technical Development
+- Single-cell RAD-seq protocols
+- Cell-type-specific genotyping
+- Allele-specific expression in single cells
+- Somatic mutation detection
+- Lineage tracing methods
+
+#### Analytical Frameworks
+- Population genetics of somatic variation
+- Cell-type evolution models
+- Developmental trajectory inference
+- Integration with bulk sequencing
+- Multi-modal data integration
+
+## Environmental DNA Methods
+
+### eDNA for Population Genomics
+
+Developing methods for population studies using environmental samples:
+
+#### Protocol Development
+- Species-specific eDNA capture
+- Population-level eDNA genotyping
+- Quantitative eDNA methods
+- Temporal sampling strategies
+- Spatial distribution mapping
+
+#### Computational Approaches
+- Allele frequency estimation from eDNA
+- Population size inference
+- Community composition analysis
+- Contamination detection
+- Quality control metrics
+
+## Software Ecosystem
+
+### Additional Tools Developed
+
+Beyond Stacks, we've created numerous specialized tools:
+
+#### Population Genetics Software
+- **PopGen Pipeline**: Automated population genetics workflows
+- **Selection Scanner**: Genome-wide selection detection
+- **Demography Inferencer**: Coalescent-based demographic modeling
+- **Hybrid Detector**: Identifying admixed individuals
+- **Phylo Constructor**: Phylogenetic tree building from RAD data
+
+#### Visualization Tools
+- **RAD Viewer**: Interactive exploration of RAD loci
+- **Population Structure Plotter**: Advanced STRUCTURE-like plots
+- **Genome Scanner**: Sliding window visualization
+- **Network Visualizer**: Population connectivity graphics
+- **Tree Annotator**: Phylogenetic tree decoration
+
+## Best Practices and Standards
+
+### Method Standardization
+
+We contribute to community standards for genomic methods:
+
+#### Protocol Guidelines
+- Sample collection and preservation
+- DNA extraction optimization
+- Library preparation standards
+- Sequencing depth recommendations
+- Replication and validation strategies
+
+#### Analytical Standards
+- Quality filtering thresholds
+- Statistical significance criteria
+- Multiple testing corrections
+- Reproducibility requirements
+- Data sharing formats
+
+## Training and Education
+
+### Capacity Building
+
+We're committed to training the next generation:
+
+#### Educational Resources
+- Online tutorials and videos
+- Comprehensive user manuals
+- Example datasets and workflows
+- Troubleshooting guides
+- FAQ compilations
+
+#### Workshops and Courses
+- Annual RAD-seq workshops
+- Bioinformatics boot camps
+- Software-specific training
+- Custom institutional workshops
+- Virtual learning modules
+
+## Current Development Projects
+
+### Active Software Projects
+- Cloud-based RAD-seq processing
+- Real-time data quality monitoring
+- Automated parameter optimization
+- Integration with Galaxy platform
+- Mobile app for field data collection
+
+### Method Innovation
+- Ultra-low input protocols
+- Ancient DNA applications
+- Methylation-sensitive RAD-seq
+- Chromatin accessibility mapping
+- Expression-RAD integration
+
+## Collaborations
+
+Our methods development involves:
+- Computer scientists and software engineers
+- Statisticians and mathematicians
+- Molecular biologists and biochemists
+- Field biologists and ecologists
+- Conservation practitioners
+
+## Impact and Applications
+
+Our methods have been applied to:
+- Conservation genetics of endangered species
+- Agricultural crop improvement
+- Fisheries stock assessment
+- Human disease gene mapping
+- Microbial community analysis
+- Ancient DNA studies
+- Forensic genetics
+- Invasion biology
+
+## Future Directions
+
+Ongoing and planned developments include:
+- Quantum computing applications
+- Blockchain for data integrity
+- Federated learning approaches
+- Automated experimental design
+- Real-time sequencing analysis
+
+## Learn More
+
+For more information about our methods development:
+- [Download Stacks →](http://catchenlab.life.illinois.edu/stacks/)
+- [View tutorials →](/tutorials)
+- [Contact us →](mailto:wcresko@uoregon.edu)
+- [Join our mailing list →](/community)

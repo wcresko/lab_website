@@ -700,6 +700,19 @@ Allendorf FW, **Bassham S**, **Cresko WA**, Limborg MT, Seeb LW, Seeb JE. *Journ
 :::
 ::::::
 
+:::::: publication-item
+::: publication-title
+[Unbroken: RADseq remains a powerful tool for understanding the genetics of adaptation in natural populations](https://doi.org/10.1111/1755-0998.12669)
+:::
+
+::: publication-citation
+Catchen JM, Hohenlohe PA, Bernatchez L, Funk WC, Andrews KR, Allendorf FW, **Cresko WA**. *Molecular Ecology Resources* 17(3):362-365.
+:::
+
+::: publication-journal
+:::
+::::::
+
 ## 2014
 
 :::::: publication-item
@@ -722,6 +735,32 @@ Allendorf FW, **Bassham S**, **Cresko WA**, Limborg MT, Seeb LW, Seeb JE. *Journ
 
 ::: publication-citation
 **Sikkink KL**, **Ituarte CM**, Reynolds RM, **Cresko WA**, Phillips PC. *Genomics* 104:438-446.
+:::
+
+::: publication-journal
+:::
+::::::
+
+:::::: publication-item
+::: publication-title
+[Evolutionary change in the developmental timing of an adaptive phenotype](https://doi.org/10.1111/evo.12522)
+:::
+
+::: publication-citation
+**Reynolds RM**, **Temiyasathit S**, **Reedy MM**, **Ruedi EA**, **Drnevich JM**, **Leips J**, **Cresko WA**. *Evolution* 68(12):3607-3616.
+:::
+
+::: publication-journal
+:::
+::::::
+
+:::::: publication-item
+::: publication-title
+[Admixture mapping of male nuptial color and body shape in a recently formed hybrid population of threespine stickleback](https://doi.org/10.1111/j.1365-294X.2012.05660.x)
+:::
+
+::: publication-citation
+**Malek TB**, **Boughman JW**, **Dworkin I**, **Peichel CL**, **Cresko WA**. *Molecular Ecology* 21(21):5265-5279.
 :::
 
 ::: publication-journal

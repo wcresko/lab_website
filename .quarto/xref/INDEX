@@ -364,5 +364,128 @@
   },
   "people/woods.qmd": {
     "woods.html": "59db9661"
+  },
+  "press_coverage_updated.qmd": {
+    "press_coverage_updated.html": "dfee5eb3"
+  },
+  "press_coverage.qmd": {
+    "press_coverage.html": "e99188a6"
+  },
+  "prospective_students.qmd": {
+    "prospective_students.html": "daad3035"
+  },
+  "press_coverage_old_2.qmd": {
+    "press_coverage_old_2.html": "eada56ce"
+  },
+  "prospective_students_2.qmd": {
+    "prospective_students_2.html": "2fd30acf"
+  },
+  "software_2.qmd": {
+    "software_2.html": "25cb72a0"
+  },
+  "software.qmd": {
+    "software.html": "84d28391"
+  },
+  "press_coverage_old.qmd": {
+    "press_coverage_old.html": "c40bb112"
+  },
+  "research_old.qmd": {
+    "research_old.html": "21f07adb"
+  },
+  "research_host_microbiome.qmd": {
+    "research_host_microbiome.html": "dad1d764"
+  },
+  "research_climate_change.qmd": {
+    "research_climate_change.html": "b5033128"
+  },
+  "research_evolutionary_genomics.qmd": {
+    "research_evolutionary_genomics.html": "16f5403f"
+  },
+  "research_methods_development.qmd": {
+    "research_methods_development.html": "69a97da9"
+  },
+  "research_evo_devo.qmd": {
+    "research_evo_devo.html": "05114d3e"
+  },
+  "posts/2010-03-15-genome-scan-publication.qmd": {
+    "2010-03-15-genome-scan-publication.html": "99df3183"
+  },
+  "posts/2017-09-01-martin-stervander-joins.qmd": {
+    "2017-09-01-martin-stervander-joins.html": "62efa87b"
+  },
+  "posts/2016-11-21-bill-cresko-aaas-fellow.qmd": {
+    "2016-11-21-bill-cresko-aaas-fellow.html": "5870a978"
+  },
+  "posts/2017-01-15-allison-fuiten-nsf-ddig.qmd": {
+    "2017-01-15-allison-fuiten-nsf-ddig.html": "80346634"
+  },
+  "posts/2010-07-01-julian-catchen-nih-fellowship.qmd": {
+    "2010-07-01-julian-catchen-nih-fellowship.html": "d8599b8f"
+  },
+  "posts/2017-01-10-emily-beck-evomics-workshop.qmd": {
+    "2017-01-10-emily-beck-evomics-workshop.html": "58d6bb6e"
+  },
+  "posts/2015-12-22-pnas-rapid-evolution.qmd": {
+    "2015-12-22-pnas-rapid-evolution.html": "49c28c57"
+  },
+  "posts/2010-12-17-science-breakthrough-area-to-watch.qmd": {
+    "2010-12-17-science-breakthrough-area-to-watch.html": "aa961e64"
+  },
+  "posts/2016-12-22-gulf-pipefish-genome-published.qmd": {
+    "2016-12-22-gulf-pipefish-genome-published.html": "3b8da200"
+  },
+  "posts/2015-10-20-ray-troll-visit.qmd": {
+    "2015-10-20-ray-troll-visit.html": "44228942"
+  },
+  "posts/2009-05-01-kristin-sikkink-nsf-grfp.qmd": {
+    "2009-05-01-kristin-sikkink-nsf-grfp.html": "ec666653"
+  },
+  "posts/2017-01-20-kristin-alligood-phd-defense.qmd": {
+    "2017-01-20-kristin-alligood-phd-defense.html": "ec79a1e4"
+  },
+  "posts/2010-05-01-nsf-pipefish-genomics.qmd": {
+    "2010-05-01-nsf-pipefish-genomics.html": "f6695e84"
+  },
+  "posts/2015-10-15-plos-genetics-top-cited.qmd": {
+    "2015-10-15-plos-genetics-top-cited.html": "8428dcc5"
+  },
+  "posts/2016-02-15-bassham-scientific-american.qmd": {
+    "2016-02-15-bassham-scientific-american.html": "2a82bdbb"
+  },
+  "posts/2015-01-20-thom-nelson-nsf-ddig.qmd": {
+    "2015-01-20-thom-nelson-nsf-ddig.html": "f7052521"
+  },
+  "posts/2014-03-15-kristin-alligood-nsf-ddig.qmd": {
+    "2014-03-15-kristin-alligood-nsf-ddig.html": "bf38b070"
+  },
+  "posts/2009-10-01-nsf-genomics-alaska-stickleback.qmd": {
+    "2009-10-01-nsf-genomics-alaska-stickleback.html": "194074b1"
+  },
+  "posts/2016-01-20-bassham-jefferson-radio.qmd": {
+    "2016-01-20-bassham-jefferson-radio.html": "955d3f69"
+  },
+  "posts/2011-02-25-science-human-genome-anniversary.qmd": {
+    "2011-02-25-science-human-genome-anniversary.html": "06fa82fa"
+  },
+  "posts/2015-10-01-emily-beck-joins.qmd": {
+    "2015-10-01-emily-beck-joins.html": "6036ab75"
+  },
+  "posts/2012-02-20-kristin-sikkink-nsf-ddig.qmd": {
+    "2012-02-20-kristin-sikkink-nsf-ddig.html": "f9604cff"
+  },
+  "posts/2012-11-01-clay-small-joins.qmd": {
+    "2012-11-01-clay-small-joins.html": "dcbd9b35"
+  },
+  "posts/2012-09-01-nih-systems-biology-center.qmd": {
+    "2012-09-01-nih-systems-biology-center.html": "630ce110"
+  },
+  "posts/2016-04-25-evo-wibo-sweep.qmd": {
+    "2016-04-25-evo-wibo-sweep.html": "0c38f352"
+  },
+  "posts/2012-08-10-stickleback-conference-awards.qmd": {
+    "2012-08-10-stickleback-conference-awards.html": "d7ab33d5"
+  },
+  "posts/2016-07-15-thom-nelson-allied-genetics.qmd": {
+    "2016-07-15-thom-nelson-allied-genetics.html": "37ccf390"
   }
 }

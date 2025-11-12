@@ -1,0 +1,124 @@
+---
+title: "Thom Nelson Awarded NSF Doctoral Dissertation Improvement Grant"
+author: "Cresko Lab"
+date: "2015-01-20"
+categories: [news, funding, NSF, DDIG, student success, genomics]
+image: "thom-nelson-ddig.jpg"
+draft: false
+---
+
+Congratulations to Thom Nelson on receiving a prestigious NSF Doctoral Dissertation Improvement Grant!
+
+This competitive award will support Thom's innovative research using genome-wide coalescent analyses to identify adaptation through standing genetic variation in threespine stickleback populations. This funding recognizes the exceptional quality and innovation of his dissertation research.
+
+## Research Focus
+
+The DDIG supports:
+- Genome-wide coalescent analyses
+- Standing genetic variation detection
+- Adaptation mechanisms
+- Population history reconstruction
+- Selection identification methods
+
+## Project Innovation
+
+Thom's approach features:
+- Novel analytical methods
+- Computational genomics
+- Theoretical framework
+- Big data approaches
+- Statistical innovations
+
+## Standing Variation Importance
+
+This research addresses:
+- Rapid adaptation sources
+- Pre-existing alleles
+- Selection on variation
+- Evolutionary potential
+- Predictability of evolution
+
+## Methodological Development
+
+The grant enables:
+- New software development
+- Pipeline creation
+- Method validation
+- Tool distribution
+- Community resources
+
+## Stickleback System
+
+Using stickleback to study:
+- Parallel evolution
+- Marine-freshwater transitions
+- Repeated adaptation
+- Genomic architecture
+- Natural selection
+
+## Computational Approaches
+
+The project employs:
+- Coalescent theory
+- Population genetics models
+- Machine learning
+- High-performance computing
+- Statistical inference
+
+## Training Opportunities
+
+The DDIG provides:
+- Research independence
+- Grant management experience
+- Project leadership
+- Publication opportunities
+- Career development
+
+## Expected Outcomes
+
+Anticipated results include:
+- Method publications
+- Software releases
+- Biological discoveries
+- Conference presentations
+- Dissertation completion
+
+## Broader Impacts
+
+This work will:
+- Advance evolutionary theory
+- Provide analytical tools
+- Train next generation
+- Enable other studies
+- Inform conservation
+
+## Lab Excellence
+
+This award reflects:
+- Strong mentorship
+- Research environment
+- Collaborative culture
+- Technical resources
+- Training quality
+
+## Career Development
+
+The DDIG supports:
+- Professional growth
+- Network building
+- Skill development
+- Academic preparation
+- Research visibility
+
+## Recognition Pattern
+
+Continues lab success with:
+- Multiple DDIG awards
+- Strong funding record
+- Student achievements
+- Research excellence
+- National recognition
+
+Excellent work, Thom! This award recognizes your innovative approach to understanding evolutionary adaptation.
+
+[Learn about NSF DDIG →](http://www.nsf.gov/pubs/2005/nsf05607/nsf05607.htm)

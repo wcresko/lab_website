@@ -489,58 +489,6 @@
   <media:content url="https://wcresko.github.io/posts/cresko-lokey-chair.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
-  <title>Lab Receives $2.5M NIH Grant for Host-Microbiome Research</title>
-  <dc:creator>Cresko Lab</dc:creator>
-  <link>https://wcresko.github.io/posts/2022-09-01-nih-grant.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>The National Institutes of Health has awarded our lab a five-year, $2.5 million R01 grant to investigate how host genetics shapes microbiome composition and function. This award will support multiple graduate students and a postdoc position.</p>
-<section id="project-overview" class="level2">
-<h2 data-anchor-id="project-overview">Project Overview</h2>
-<p>The grant, titled “Host Genetic Control of Microbiome Assembly and Function,” will investigate:</p>
-<ul>
-<li><strong>Aim 1</strong>: Identify host genetic variants affecting microbiome composition using GWAS</li>
-<li><strong>Aim 2</strong>: Determine mechanisms through which host genes influence microbes</li>
-<li><strong>Aim 3</strong>: Test evolutionary dynamics of host-microbiome interactions</li>
-</ul>
-</section>
-<section id="novel-approaches" class="level2">
-<h2 data-anchor-id="novel-approaches">Novel Approaches</h2>
-<p>Our project combines several innovative approaches: - Gnotobiotic stickleback system for controlled experiments - Single-cell sequencing to measure cell-type-specific responses - CRISPR validation of candidate genes - Experimental evolution with defined microbial communities</p>
-</section>
-<section id="collaborative-team" class="level2">
-<h2 data-anchor-id="collaborative-team">Collaborative Team</h2>
-<p>The project involves collaborations with: - <strong>Brendan Bohannan</strong> (UO) - Microbial ecology expertise - <strong>Karen Guillemin</strong> (UO) - Host-microbe interactions - <strong>Meta Center</strong> - Systems biology of microbiomes</p>
-</section>
-<section id="training-opportunities" class="level2">
-<h2 data-anchor-id="training-opportunities">Training Opportunities</h2>
-<p>This grant will provide: - Support for 2-3 graduate students - One postdoctoral position - Summer undergraduate research positions - Training in microbiome methods and bioinformatics</p>
-</section>
-<section id="broader-impacts" class="level2">
-<h2 data-anchor-id="broader-impacts">Broader Impacts</h2>
-<p>Understanding how host genetics shapes microbiomes has implications for: - Precision medicine approaches - Agricultural applications - Conservation biology - Evolutionary theory</p>
-</section>
-<section id="open-positions" class="level2">
-<h2 data-anchor-id="open-positions">Open Positions</h2>
-<p>We’re recruiting for this project! We seek motivated individuals with interests in: - Microbial ecology - Population genetics - Bioinformatics - Experimental evolution</p>
-<p><a href="people.qmd#join-our-lab">View position details</a> | <a href="mailto:wcresko@uoregon.edu">Contact Dr.&nbsp;Cresko</a></p>
-<p>“This award recognizes our lab’s unique position to address fundamental questions in host-microbiome biology,” says Bill Cresko. “The natural variation in stickleback provides an unprecedented opportunity to understand these complex interactions.”</p>
-<p>We thank NIH/NIGMS for this support and look forward to advancing the field of host-microbiome interactions!</p>
-
-
-</section>
-
- ]]></description>
-  <category>funding</category>
-  <category>research</category>
-  <category>microbiome</category>
-  <guid>https://wcresko.github.io/posts/2022-09-01-nih-grant.html</guid>
-  <pubDate>Thu, 01 Sep 2022 07:00:00 GMT</pubDate>
-</item>
-<item>
   <title>Seadragon Genome Research Featured in New York Times</title>
   <dc:creator>Cresko Lab</dc:creator>
   <link>https://wcresko.github.io/posts/2022-07-07-seadragon-nytimes.html</link>
@@ -1115,6 +1063,74 @@
   <guid>https://wcresko.github.io/posts/2020-02-20-stervander-marie-curie.html</guid>
   <pubDate>Thu, 20 Feb 2020 08:00:00 GMT</pubDate>
   <media:content url="https://wcresko.github.io/posts/stervander-marie-curie.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>New Publication: Chromonomer Tool for Genome Assembly Enhancement</title>
+  <dc:creator>Cresko Lab</dc:creator>
+  <link>https://wcresko.github.io/posts/2020-02-05-chromonomer-tool.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Exciting preprint on bioRxiv introduces Chromonomer, a powerful tool set for repairing and enhancing genome assemblies!</p>
+<p>Julian Catchen, Angel Amores, and Susan Bassham present Chromonomer, which integrates genetic maps and conserved synteny information to construct improved reference genomes called “chromonomes.” This tool addresses critical challenges in genome assembly, particularly for non-model organisms.</p>
+<section id="tool-innovation" class="level2">
+<h2 data-anchor-id="tool-innovation">Tool Innovation</h2>
+<p>Chromonomer provides: - Genome assembly improvement - Genetic map integration - Conserved synteny utilization - Chromosome-level scaffolding - Assembly error correction</p>
+</section>
+<section id="technical-features" class="level2">
+<h2 data-anchor-id="technical-features">Technical Features</h2>
+<p>Key capabilities include: - Reference genome refinement - Marker map alignment - Synteny-based validation - Scaffold ordering and orientation - Gap identification and resolution</p>
+</section>
+<section id="performance-excellence" class="level2">
+<h2 data-anchor-id="performance-excellence">Performance Excellence</h2>
+<p>The tool demonstrates: - Robust performance across quality levels - Handling of disparate data types - Flexible parameter options - Scalability to large genomes - Accuracy validation methods</p>
+</section>
+<section id="application-breadth" class="level2">
+<h2 data-anchor-id="application-breadth">Application Breadth</h2>
+<p>Chromonomer works with: - Draft genome assemblies - Various genetic map types - RAD-seq derived maps - Different quality levels - Diverse organisms</p>
+</section>
+<section id="bioinformatics-contribution" class="level2">
+<h2 data-anchor-id="bioinformatics-contribution">Bioinformatics Contribution</h2>
+<p>This work provides: - Open-source software - Comprehensive documentation - Test datasets - User tutorials - Community support</p>
+</section>
+<section id="genome-science-impact" class="level2">
+<h2 data-anchor-id="genome-science-impact">Genome Science Impact</h2>
+<p>Applications include: - Non-model organism genomics - Comparative genomics studies - Population genomics projects - Conservation genetics - Agricultural genomics</p>
+</section>
+<section id="validation-approach" class="level2">
+<h2 data-anchor-id="validation-approach">Validation Approach</h2>
+<p>The paper demonstrates: - Multiple test cases - Quality metrics - Comparison with other tools - Real-world applications - Performance benchmarks</p>
+</section>
+<section id="community-resource" class="level2">
+<h2 data-anchor-id="community-resource">Community Resource</h2>
+<p>Chromonomer offers: - GitHub repository - Easy installation - Active development - User feedback integration - Regular updates</p>
+</section>
+<section id="future-genomics" class="level2">
+<h2 data-anchor-id="future-genomics">Future Genomics</h2>
+<p>This tool enables: - Better genome assemblies - More accurate analyses - Faster research progress - Broader organism coverage - Democratized genomics</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://wcresko.github.io/posts/20200128_Fig_1_chrr_method.jpg" class="img-fluid figure-img"></p>
+<figcaption>Chromonomer Method</figcaption>
+</figure>
+</div>
+<p><a href="https://www.biorxiv.org/content/10.1101/2020.02.04.934711v1">Read the preprint →</a></p>
+
+
+</section>
+
+ ]]></description>
+  <category>news</category>
+  <category>publication</category>
+  <category>journal article</category>
+  <category>bioinformatics</category>
+  <category>genome assembly</category>
+  <category>bioRxiv</category>
+  <guid>https://wcresko.github.io/posts/2020-02-05-chromonomer-tool.html</guid>
+  <pubDate>Wed, 05 Feb 2020 08:00:00 GMT</pubDate>
+  <media:content url="https://wcresko.github.io/posts/chromonomer-tool.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>

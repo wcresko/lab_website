@@ -1,0 +1,149 @@
+---
+title: "Host-Microbiome Coevolution"
+description: "Understanding how host genetics shapes microbial communities and their coevolutionary dynamics"
+page-layout: article
+toc: true
+---
+
+## Overview
+
+Surprisingly little is known about the processes by which microbial communities populate and persist in host environments. This is an important problem, as recent work makes a strong case for microbial influences on many aspects of human health, including inflammation of the gastrointestinal tract, metabolic disorders, and immune system development. The Cresko Lab leverages the threespine stickleback as a powerful model system to understand the complex interactions between host genetics and microbial communities.
+
+## Key Research Questions
+
+Our research addresses fundamental questions about host-microbiome interactions:
+
+### Host Genetic Control
+- How does host genetic variation influence microbiome composition?
+- What host genes regulate microbial community assembly?
+- How heritable is the microbiome across host populations?
+
+### Microbial Influences on Host Biology
+- How do microbes affect host development and physiology?
+- What role does the microbiome play in host adaptation to new environments?
+- How do host immune responses vary with different microbial communities?
+
+### Coevolutionary Dynamics
+- How do hosts and microbes coevolve?
+- What maintains stability in host-microbiome associations?
+- How do environmental changes affect coevolutionary trajectories?
+
+## Experimental Approaches
+
+We use a combination of natural variation and controlled experiments to dissect host-microbiome interactions:
+
+### Leveraging Natural Variation
+- **Population comparisons**: Examining microbiome variation across genetically distinct stickleback populations
+- **Transplant experiments**: Testing how microbiomes change when hosts move between environments
+- **Seasonal sampling**: Understanding temporal dynamics of host-microbiome associations
+
+### Controlled Laboratory Studies
+- **Gnotobiotic fish**: Creating germ-free stickleback to study controlled microbial colonization
+- **Common garden experiments**: Raising different host genotypes under identical conditions
+- **Microbial manipulation**: Experimental addition or removal of specific bacterial taxa
+
+## Measuring Host Responses
+
+We quantify multiple aspects of how hosts respond to their microbiomes:
+
+### Immune and Inflammatory Responses
+- **Neutrophil influx**: Using flow cytometry as a proxy for gut inflammation
+- **Cytokine expression**: Measuring immune signaling molecules
+- **Histological analysis**: Examining tissue-level changes in gut morphology
+
+### Transcriptional Phenotypes
+- **RNA-seq profiling**: Genome-wide gene expression analysis
+- **Single-cell sequencing**: Cell-type-specific responses to microbes
+- **Temporal dynamics**: Time-course experiments tracking host responses
+
+### Metabolic Interactions
+- **Metabolomics**: Profiling host and microbial metabolites
+- **Nutrient processing**: Understanding how microbes affect host nutrition
+- **Energy allocation**: Measuring growth and reproduction under different microbial states
+
+## Genomic Approaches
+
+We employ cutting-edge genomic tools to identify the genetic basis of host-microbiome interactions:
+
+### Mapping Genetic Variation
+- **GWAS approaches**: Genome-wide association studies linking host variants to microbiome traits
+- **QTL mapping**: Using controlled crosses to identify quantitative trait loci
+- **Comparative genomics**: Examining evolution of host-microbiome interactions across populations
+
+### Functional Validation
+- **CRISPR mutagenesis**: Perturbing candidate genes to verify phenotypic consequences
+- **Gene regulatory networks**: Understanding how host genes coordinate responses to microbes
+- **Pathway analysis**: Identifying biological processes underlying host-microbiome interactions
+
+## Integration with Systems Biology
+
+Our host-microbiome research is an integral component of the NIH-funded META Center for Systems Biology at the University of Oregon, where we collaborate to:
+
+### Multi-scale Integration
+- Connect molecular mechanisms to ecosystem-level processes
+- Develop predictive models of host-microbiome dynamics
+- Understand emergent properties of host-microbiome systems
+
+### Interdisciplinary Approaches
+- Combine microbiology, immunology, and evolutionary biology
+- Develop new computational tools for microbiome analysis
+- Create standardized protocols for host-microbiome studies
+
+## Current Projects
+
+### Host Genetic Architecture of the Microbiome
+- Identifying host genes that control microbiome composition
+- Understanding the evolutionary history of host-microbiome associations
+- Examining parallel evolution of host-microbiome interactions
+
+### Microbiome-Mediated Adaptation
+- Role of microbes in host adaptation to temperature
+- Microbial contributions to dietary specialization
+- Microbiome effects on host tolerance to environmental stressors
+
+### Immune-Microbiome Crosstalk
+- Development of mucosal immunity in the presence of different microbes
+- Evolution of immune tolerance and resistance
+- Trade-offs between pathogen defense and beneficial microbe maintenance
+
+## Applications and Implications
+
+Our research has broad implications for:
+
+### Human Health
+- Understanding inflammatory bowel diseases
+- Developing microbiome-based therapies
+- Predicting individual responses to microbial interventions
+
+### Conservation Biology
+- Assessing microbiome impacts on species conservation
+- Understanding disease emergence in wild populations
+- Managing captive breeding programs
+
+### Evolutionary Theory
+- Testing theories of holobiont evolution
+- Understanding units of selection
+- Exploring eco-evolutionary dynamics
+
+## Collaborations
+
+This research involves extensive collaborations:
+- META Center for Systems Biology members
+- Microbial ecologists and microbiome researchers
+- Immunologists and developmental biologists
+- Computational biologists and bioinformaticians
+
+## Future Directions
+
+Our ongoing and future research aims to:
+- Develop predictive models of microbiome assembly
+- Understand transgenerational inheritance of microbiomes
+- Explore therapeutic applications of host-microbiome research
+- Integrate microbiome data with climate change responses
+
+## Learn More
+
+For more information about our host-microbiome research:
+- [META Center website →](https://meta.uoregon.edu/)
+- [Contact the Cresko Lab →](mailto:wcresko@uoregon.edu)
+- [View our publications →](/publications)

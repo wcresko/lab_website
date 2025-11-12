@@ -1,0 +1,124 @@
+---
+title: "Genome Scan Publication Illuminates Patterns of Selection in Stickleback"
+author: "Cresko Lab"
+date: "2010-03-15"
+categories: [news, publication, genomics, media coverage, natural selection, stickleback]
+image: "genome-scan-2010.jpg"
+draft: false
+---
+
+Our comprehensive genome scan of stickleback populations has been published, revealing patterns of natural selection and generating significant media attention!
+
+This landmark study identifies genomic regions under selection across multiple stickleback populations, providing unprecedented insights into how natural selection shapes genomes during adaptive evolution. The work has been featured in university news highlighting its importance for understanding evolution.
+
+## Major Findings
+
+The genome scan revealed:
+- Selection signatures across populations
+- Parallel evolution patterns
+- Adaptive genomic regions
+- Candidate genes for adaptation
+- Evolutionary hotspots
+
+## Methodological Innovation
+
+The study employed:
+- RAD-seq technology
+- Population genomics
+- Statistical methods
+- Comparative approaches
+- High-throughput sequencing
+
+## Selection Patterns
+
+We discovered:
+- Repeated selection targets
+- Population-specific adaptations
+- Genomic architecture of adaptation
+- Selection strength variation
+- Evolutionary constraints
+
+## Media Coverage
+
+The work received:
+- University press release
+- Science news coverage
+- Educational features
+- Public engagement
+- Research highlights
+
+## Scientific Impact
+
+This publication:
+- Advances evolutionary theory
+- Demonstrates RAD-seq power
+- Identifies candidate genes
+- Enables future studies
+- Sets new standards
+
+## Collaborative Effort
+
+The project involved:
+- Multiple populations
+- Extensive sampling
+- Team coordination
+- Technical innovation
+- Statistical expertise
+
+## Evolutionary Insights
+
+Key discoveries include:
+- How genomes evolve
+- Selection mechanisms
+- Adaptation genetics
+- Parallel evolution
+- Evolutionary predictability
+
+## Technology Showcase
+
+The work demonstrates:
+- RAD-seq capabilities
+- Genomic scanning power
+- Population-level analysis
+- Cost-effective genomics
+- Accessible methods
+
+## Educational Value
+
+The publication provides:
+- Teaching examples
+- Evolution evidence
+- Method demonstration
+- Public understanding
+- Student inspiration
+
+## Future Directions
+
+This work enables:
+- Functional validation
+- Fine-mapping studies
+- Comparative genomics
+- Prediction testing
+- Conservation applications
+
+## Lab Achievement
+
+The publication represents:
+- Major milestone
+- Method validation
+- Team success
+- Innovation recognition
+- Field leadership
+
+## Broader Significance
+
+Understanding selection helps:
+- Predict evolutionary responses
+- Inform conservation
+- Guide breeding programs
+- Understand adaptation
+- Address climate change
+
+This genome scan shines a bright light on the genomic basis of evolution!
+
+[Read the news coverage →](http://uonews.uoregon.edu/archive/news-release/2010/2/stickleback-genomes-shining-bright-light-evolution)

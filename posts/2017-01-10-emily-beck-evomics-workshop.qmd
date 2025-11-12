@@ -1,0 +1,115 @@
+---
+title: "Emily Beck Attends Prestigious Evomics Workshop in Czech Republic"
+author: "Cresko Lab"
+date: "2017-01-10"
+categories: [news, training, workshop, genomics, international, professional development]
+image: "evomics-cesky-krumlov.jpg"
+draft: false
+---
+
+Emily Beck represented the Cresko Lab at the prestigious Workshop on Genomics in Český Krumlov, Czech Republic!
+
+This intensive two-week workshop provides cutting-edge training in genomic techniques and bioinformatics, bringing together leading instructors and selected participants from around the world in the beautiful medieval setting of Český Krumlov.
+
+## Workshop Overview
+
+The Evomics Workshop featured:
+- Hands-on computational training
+- Next-generation sequencing analyses
+- Population genomics methods
+- Phylogenomics approaches
+- Leading international faculty
+
+## Training Components
+
+Emily participated in:
+- RAD-seq data analysis
+- Genome assembly techniques
+- Population genetics theory
+- Bioinformatics pipelines
+- Statistical genomics methods
+
+## World-Class Faculty
+
+Instruction from experts including:
+- Leaders in evolutionary genomics
+- Bioinformatics tool developers
+- Population genetics theorists
+- Computational biology innovators
+- Our own lab alumni as instructors
+
+## Intensive Learning Environment
+
+The workshop provided:
+- Full-day instruction sessions
+- Evening tutorials and discussions
+- Hands-on data analysis
+- Real-world problem solving
+- Collaborative learning experiences
+
+## International Networking
+
+Emily connected with:
+- Graduate students worldwide
+- Postdocs from top institutions
+- Faculty from multiple continents
+- Industry representatives
+- Future collaborators
+
+## Skills Development
+
+Key skills gained include:
+- Command-line proficiency
+- Programming for genomics
+- Statistical analysis methods
+- Data visualization techniques
+- Reproducible research practices
+
+## Český Krumlov Setting
+
+The historic venue offered:
+- UNESCO World Heritage site
+- Inspiring medieval architecture
+- Focused learning environment
+- Cultural exchange opportunities
+- Memorable scientific community building
+
+## Applications to Research
+
+Emily will apply these skills to:
+- Ongoing dissertation research
+- Lab computational pipelines
+- Teaching other lab members
+- Collaborative projects
+- Future grant proposals
+
+## Lab Benefits
+
+This training brings back:
+- Latest analytical methods
+- New computational approaches
+- International perspectives
+- Networking connections
+- Teaching materials to share
+
+## Continuing the Tradition
+
+The Cresko Lab's involvement with Evomics:
+- Bill and Julian taught there in 2013
+- Multiple lab members have attended
+- Strengthens international ties
+- Promotes method dissemination
+- Builds genomics community
+
+## Knowledge Transfer
+
+Emily will share her experience through:
+- Lab presentations
+- Methods workshops
+- Protocol documentation
+- Peer mentoring
+- Collaborative projects
+
+This exceptional training opportunity strengthens both Emily's research capabilities and the lab's computational expertise!
+
+[Learn more about Evomics →](http://evomics.org/workshops/workshop-on-genomics/2017-workshop-on-genomics-cesky-krumlov/)

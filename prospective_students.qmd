@@ -1,0 +1,85 @@
+---
+title: "Prospective Students"
+page-layout: full
+toc: false
+---
+
+![](images/cushman_slough_header.jpg){.banner fig-alt="Cushman Slough, Siuslaw River" fig-align="center" width="800"}
+
+### Information for prospective graduate students interested in joining our evolutionary genomics research program
+
+:::::::::::: prospective-container
+
+I am pleased that you are interested in graduate study at the University of Oregon. You will find that UO offers outstanding opportunities in graduate studies in all manner of quantitative ecology and evolution. There are many aspects of our graduate program that receive international recognition for excellence. I encourage you to visit the department's and institute's web pages to learn more about the faculty, post-docs, students, and their current projects.
+
+## Research Focus
+
+The work in my lab is conceptually-driven research at the interface of evolution, ecology, and development with specific focus on quantitative genomics. Much of the work in our laboratory utilizes cutting edge genomic tools in the laboratory (some of which we developed), as well as advanced quantitative approaches. To learn more about the latest research projects in the lab visit the [research page](projects.qmd), and also see the recent papers from the laboratory under [publications](publications.qmd).
+
+## My Expectations of Graduate Students
+
+I seek students who are:
+
+- **Highly motivated** and serious about science
+- **Productive and creative** in their approach to research
+- View their work as **continuing progress** driven by constant expansion of knowledge and ability
+- Able to **present their work and ideas** in clear and succinct manner
+- Interested in designing **interesting and non-trivial research programs**
+
+While you can expect me to be very helpful in these areas, I am not particularly interested in intervening into minute details of your daily graduate work or progress. I am however, very interested in providing you with time and resources to develop and conduct your own study. Generally, I encourage my students to have a significant empirical component in their projects, but also value and support the development and use of theory and simulations.
+
+## My Commitments to You
+
+I invest a great deal of time in helping such students to succeed. I commit to:
+
+- **Ensuring critical resources** necessary to succeed, including space and money for research
+- **Providing time and guidance** — perhaps the most important resource
+- **Timely degree completion** — ensuring all students can complete their degrees in a reasonable timeframe
+- **Professional skills development** — helping you acquire necessary skills and build a professional network
+- **Respectful environment** — maintaining a laboratory environment that values diversity of life experiences and thought
+
+## How to Apply
+
+If you are interested in becoming a member of my lab, you should:
+
+### 1. Review Our Research
+Read the statement of research interests and the research statements of all people currently working in the lab.
+
+### 2. Read Our Publications
+Read some of the papers that my students, collaborators and I have published in recent years. The more papers you read, the better understanding you will have of research and approaches that we are using in our work.
+
+### 3. Contact Me
+If, after steps 1 and 2, you still think that our research interests are similar, please send me a detailed letter that includes:
+
+**Required Information:**
+
+- The reasons for your interest in graduate research in general and in my lab in particular
+- Why do you want to be a scientist? What excites you about science?
+- Your resume/CV
+- Any publications (or references to published work)
+- Relevant qualifications and classes
+- Any additional material (e.g., proposals) that you think may be useful
+- Names and institutions of people you will ask for letters of recommendation (letters not necessary at this time)
+- Your GPA and list of math/statistics classes taken
+- Any experience with molecular/physiological and other laboratory techniques and methods
+
+### 4. Follow Up
+About a week after you send the materials above, please email me to inquire about your suitability and likelihood of acceptance to the lab. Please note however that ranking and acceptance decisions are made by the entire faculty.
+
+### 5. Submit Your Application
+Go ahead and apply! For general information on the graduate school, application forms, required exams, and related materials, please consult the University of Oregon and Biology graduate school web pages.
+
+---
+
+## Contact Information
+
+**Please do not hesitate to contact me or any of the lab members if you have any questions.**
+
+**William A. Cresko, Ph.D.**  
+{{< fa envelope >}} [wcresko@uoregon.edu](mailto:wcresko@uoregon.edu)  
+{{< fa building >}} Institute of Ecology and Evolution  
+{{< fa map-marker-alt >}} University of Oregon, Eugene, OR
+
+[{{< fa home >}} Return to Lab Homepage](index.qmd) | [{{< fa users >}} Meet Our Team](people.qmd) | [{{< fa flask >}} Current Research](projects.qmd)
+
+::::::::::::

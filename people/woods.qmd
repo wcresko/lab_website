@@ -1,7 +1,7 @@
 ---
 title: "Micah Woods"
 subtitle: "Post-Baccalaureate Scholar"
-image: "/images/woods-profile.jpg"
+image: "../images/lab_folks/Woods_Micah.jpg"
 about:
   template: trestles
   image-shape: rounded
@@ -22,74 +22,69 @@ Micah Woods is a Post-Baccalaureate Scholar in the Cresko Laboratory, where they
 
 ## Education
 
-- **B.A./B.S.**, University of Oregon
-  - Robert D. Clark Award for thesis in philosophy of biology
-  - Knight Campus Undergraduate Scholar
+-   **B.A./B.S.**, University of Oregon
+    -   Robert D. Clark Award for thesis in philosophy of biology
+    -   Knight Campus Undergraduate Scholar
 
 ## Honors & Awards
 
-- **2023**: Published article in Ms. Magazine on Dr. Katalin Karikó
-- **Robert D. Clark Award**: For excellence in undergraduate thesis (Philosophy of Biology)
-- **Knight Campus Undergraduate Scholar**: Competitive research fellowship
+-   **2023**: Published article in Ms. Magazine on Dr. Katalin Karikó
+-   **Robert D. Clark Award**: For excellence in undergraduate thesis (Philosophy of Biology)
+-   **Knight Campus Undergraduate Scholar**: Competitive research fellowship
 
 ## Research Experience
 
 ### Current Projects
-As a Post-Baccalaureate Scholar, I assist with various projects including:
-- Population genomics of stickleback
-- Host-microbiome interactions
-- Bioinformatic pipeline development
-- Data analysis and visualization
+
+As a Post-Baccalaureate Scholar, I assist with various projects including: - Population genomics of stickleback - Host-microbiome interactions - Bioinformatic pipeline development - Data analysis and visualization
 
 ### Previous Research
-As a Knight Campus Undergraduate Scholar, I used in situ hybridization to explore the expression of key genes involved in the craniofacial development of:
-- Zebrafish
-- Threespine stickleback  
+
+As a Knight Campus Undergraduate Scholar, I used in situ hybridization to explore the expression of key genes involved in the craniofacial development of: - Zebrafish - Threespine stickleback\
 - Pipefish
 
 ## Research Interests
 
-- **Evolutionary Developmental Biology**: Understanding how development evolves
-- **Philosophy of Biology**: Theoretical frameworks in evolutionary biology
-- **Science Communication**: Making science accessible to broader audiences
-- **Comparative Genomics**: Cross-species developmental comparisons
+-   **Evolutionary Developmental Biology**: Understanding how development evolves
+-   **Philosophy of Biology**: Theoretical frameworks in evolutionary biology
+-   **Science Communication**: Making science accessible to broader audiences
+-   **Comparative Genomics**: Cross-species developmental comparisons
 
 ## Publications & Writing
 
-- Woods, M. (2023). Article on Dr. Katalin Karikó and mRNA vaccine development. *Ms. Magazine*.
-- Undergraduate thesis in philosophy of biology (Robert D. Clark Award)
+-   Woods, M. (2023). Article on Dr. Katalin Karikó and mRNA vaccine development. *Ms. Magazine*.
+-   Undergraduate thesis in philosophy of biology (Robert D. Clark Award)
 
 ## Skills
 
 ### Laboratory Techniques
-- In situ hybridization
-- Molecular biology techniques
-- Microscopy
-- Sample preparation
+
+-   In situ hybridization
+-   Molecular biology techniques
+-   Microscopy
+-   Sample preparation
 
 ### Computational Skills
-- Bioinformatics
-- Data analysis
-- Pipeline development
-- Scientific visualization
+
+-   Bioinformatics
+-   Data analysis
+-   Pipeline development
+-   Scientific visualization
 
 ### Communication
-- Science writing
-- Public engagement
-- Interdisciplinary thinking
-- Mentoring
+
+-   Science writing
+-   Public engagement
+-   Interdisciplinary thinking
+-   Mentoring
 
 ## Professional Activities
 
-- Science communication and outreach
-- Mentoring undergraduate researchers
-- Laboratory management support
-- Protocol development
+-   Science communication and outreach
+-   Mentoring undergraduate researchers
+-   Laboratory management support
+-   Protocol development
 
 ## Future Directions
 
-Preparing for graduate studies at the intersection of:
-- Evolutionary biology
-- Philosophy of science
-- Science communication
-- Developmental biology
+Preparing for graduate studies at the intersection of: - Evolutionary biology - Philosophy of science - Science communication - Developmental biology
