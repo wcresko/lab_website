@@ -8,89 +8,21 @@ format:
 
 ## Press and Review Article Coverage
 
-### 2024
-
-**Cresko Named UO Director for Center for Biomedical Data Science** • *UO Knight Campus*
-
-### 2023
-
-**The Big Pivot: Lasting Lessons of the UO's COVID-19 Testing Lab** • *UO Research and Innovation*
-
-### 2022
-
-**New Methods Tripled COVID-19 Testing in Latinx Communities** • *Medical Xpress*
-
-**Crunching the Numbers with Data Science** • *Oregon Quarterly*
-
-**Effectiveness of a COVID-19 Testing Outreach Intervention for Latinx Communities** • *JAMA Network Open*
-
-**Evolution Gone Wild: What makes seadragons so strange** • *New York Times*
-
-**Leafy and Weedy Seadragon Genomes Connect Genic and Repetitive DNA Features to the Extravagant Biology of Syngnathid Fishes** • *Proceedings of the National Academy of Sciences*
-
-### 2021
-
-**UO faculty members receives grant to better understand symbiosis** • *Around the O*
-
-**Genome Spotlight: Mandarinfish (*Synchiropus splendidus*)** • *The Scientist*
-
-**Study looks at how the human microbiome varies with location** • *Around the O*
-
-**Research project examines male pregnancy and microbes in fish** • *Around the O*
-
-**Research project examines male pregnancy and microbes in fish** • *Technology Org*
-
-**Seadragon genome analysis provides insights into its phenotype and sex determination locus** • Zhang et al. • *Science Advances*
-
-### 2020
-
-**Gift will rapidly expand UO, state COVID-19 testing** • *Around the O*
-
-**Experimental COVID-19 test at UO replaces nasal swab with saliva sample** • *Oregon Public Broadcasting*
-
-**New grant will expand COVID-19 testing in Latinx communities** • *Around the O*
-
-### 2019
-
-**UO, OHSU will partner on opioid research with $10M grant** • *Around the O*
-
-**Three UO undergraduates awarded Goldwater Scholarships** • *Around the O*
-
-**Knight Campus Program Gives Undergrads Real-World Research Experience** • *Around the O*
-
 ### 2018
-
-**UO postdoc solves mystery of isolated Atlantic island birds** • *Around the O*
 
 **How an earthquake shook up stickleback genomes** • *Genes to Genomes GSA Blog* • [Link](http://genestogenomes.org/how-an-earthquake-shook-up-stickleback-genomes/)
 
-### 2019
-
-**Stacks 2: Analytical methods for paired‐end sequencing improve RADseq‐based population genomics** • Rochette et al. • *Molecular Ecology*
-
 ### 2017
-
-**Deriving genotypes from RAD-seq short-read data using Stacks** • Rochette & Catchen • *Nature Protocols*
 
 **Hold your (sea)horses – here's the pipefish genome** • *BioMed Central* • [Link](https://blogs.biomedcentral.com/on-biology/2016/12/20/pipefishgenome/)
 
 ### 2016
-
-**Oregon researchers publish reference genome of gulf pipefish** • *EurekAlert, AAAS*
-
-**UO team unspools the genome of a seahorse relative** • *Around the O*
-
-**The genome of the Gulf pipefish enables understanding of evolutionary innovations** • Small et al. • *Genome Biology*
-
-**UO's Cresko chosen as fellow of world's largest scientific group** • *Around the O*
 
 **Harnessing the power of RADseq for ecological and evolutionary genomics** • Andrews et al. • *Nature Reviews Genetics* • [Link](https://www.nature.com/articles/nrg.2015.28)
 
 **Earthquakes and rapid evolution** • *The Molecular Ecologist* • [Link](https://www.molecularecologist.com/2016/01/earthquakes-and-rapid-evolution/)
 
 ### 2015
-
-**Our 2010 PloS Genetics paper was chosen one of the 10 most important papers ever in PLoS Genetics** • *PLoS Genetics*
 
 **A decad(e) of reasons to contribute to a PLoS community-run Journal** • Copenhaver & Barsh • *PLoS Genetics* • [Link](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005557)\
 *Commentary on our 2010 paper (Hohenlohe, Bassham et al.) chosen as one of the 10 most important papers in PLoS Genetics' first decade*
@@ -103,8 +35,6 @@ format:
 
 **Catastrophic Earthquake Drove Fish Evolution In Just 50 Years** • Fang, J. • *IFL Science* • [Link](https://www.iflscience.com/plants-and-animals/catastrophic-earthquake-drove-fish-evolution-just-50-years/)
 
-**Interview on Jefferson Public Radio about stickleback evolution** • *OPB*
-
 **Earthquake forced rapid evolution in fish** • Kiger, P.J. • *Discovery News* • [Link](https://www.seeker.com/earthquake-forced-rapid-evolution-in-fish-1770617657.html)
 
 **Small fish species evolved rapidly following 1964 Alaska earthquake** • *Phys.Org* • [Link](https://phys.org/news/2015-12-small-fish-species-evolved-rapidly.html)
@@ -113,37 +43,19 @@ format:
 
 **Stickleback fish evolved rapidly to living in freshwater ponds following major earthquake** • Mathewson, S. • *Nature World News* • [Link](https://www.natureworldnews.com/articles/18779/20151215/stickleback-fish-rapidly-evolved-living-freshwater-ponds-following-major-earthquake.htm)
 
-**UO-led study shows fish evolved rapidly after 1964 Alaska quake** • *Around the O*
-
-**Genetics journal names paper led by UO's Cresko as among its Top 10 of all time** • *Around the O*
-
-### 2014
-
-**Lost in parameter space: a road map for Stacks** • Paris et al. • *Methods in Ecology and Evolution*
-
 ### 2013
 
 **Julian Catchen helps us dig into Stacks** • *The Molecular Ecologist* • [Link](https://www.molecularecologist.com/2013/04/qa-julian-catchen-helps-us-dig-into-stacks/)
 
-### 2012
-
-**Population genomic analysis of model and non-model organisms using sequenced RAD tags** • Hohenlohe, Catchen & Cresko • *Methods in Molecular Biology*
-
 ### 2011
 
-**Fast-Forwarding Mendel** • *Around the O*
-
 **RAD-Tagging is demystifying genome sequencing** • *NewsWise* • [Link](https://www.newswise.com/articles/rad-tagging-technology-is-demystifying-genome-sequencing)
-
-**Using DNA to Reveal a Mosquito's History** • *Science* 331:1006-1007
 
 ### 2010
 
 **Adaptation Genomics: the next generation** • Stapley et al. • *Trends in Ecology and Evolution* 25: 705-712 • [Link](https://www.ncbi.nlm.nih.gov/pubmed/20952088)
 
 **Genomic Study IDs Parallel Adaptations in Independent Stickleback Populations** • *GenomeWeb* • [Link](https://www.genomeweb.com/sequencing/genomic-study-ids-parallel-adaptations-independent-stickleback-populations)
-
-**Genomic Study IDs Parallel Adaptations in Independent Stickleback Pops** • *GenomeWeb Daily*
 
 **Stickleback Genomes Shining Bright Light on Evolution** • *ScienceDaily* • [Link](https://www.sciencedaily.com/releases/2010/02/100225214757.htm)
 
@@ -160,8 +72,6 @@ format:
 **Biology's next top model** • Maher, B. • *Nature* 458: 695-698 • [Link](https://www.nature.com/articles/458695a)
 
 ### 2008
-
-**Science & Swing: Steve Perry's career a blend of swing, ska, punk…and evolutionary developmental biology** • *Around the O*
 
 **Fitness in a changing world** • *NSF Press Release* • [Link](https://www.nsf.gov/news/news_summ.jsp?cntn_id=112436)
 

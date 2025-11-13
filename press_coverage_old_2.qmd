@@ -8,45 +8,25 @@ format:
 
 ## Press and Review Article Coverage
 
-### 2024
-
-**Cresko Named UO Director for Center for Biomedical Data Science** • *UO Knight Campus*
-
-### 2023
-
-**The Big Pivot: Lasting Lessons of the UO's COVID-19 Testing Lab** • *UO Research and Innovation*
-
 ### 2022
 
-**New Methods Tripled COVID-19 Testing in Latinx Communities** • *Medical Xpress*
-
-**Crunching the Numbers with Data Science** • *Oregon Quarterly*
-
-**Effectiveness of a COVID-19 Testing Outreach Intervention for Latinx Communities** • *JAMA Network Open*
-
 **Evolution Gone Wild: What makes seadragons so strange** • *New York Times*
-
-**Leafy and Weedy Seadragon Genomes Connect Genic and Repetitive DNA Features to the Extravagant Biology of Syngnathid Fishes** • *Proceedings of the National Academy of Sciences*
 
 ### 2021
 
 **UO faculty members receives grant to better understand symbiosis** • *Around the O*
 
-**Genome Spotlight: Mandarinfish (*Synchiropus splendidus*)** • *The Scientist*
+**Genome Spotlight: Mandarinfish (Synchiropus splendidus)** • *The Scientist*
 
 **Study looks at how the human microbiome varies with location** • *Around the O*
 
 **Research project examines male pregnancy and microbes in fish** • *Around the O*
 
-**Research project examines male pregnancy and microbes in fish** • *Technology Org*
-
-**Seadragon genome analysis provides insights into its phenotype and sex determination locus** • Zhang et al. • *Science Advances*
-
 ### 2020
 
 **Gift will rapidly expand UO, state COVID-19 testing** • *Around the O*
 
-**Experimental COVID-19 test at UO replaces nasal swab with saliva sample** • *Oregon Public Broadcasting*
+**Experimental COVID-19 test at UO replaces nasal swab with saliva sample** • *OPB Blog*
 
 **New grant will expand COVID-19 testing in Latinx communities** • *Around the O*
 
@@ -64,13 +44,7 @@ format:
 
 **How an earthquake shook up stickleback genomes** • *Genes to Genomes GSA Blog* • [Link](http://genestogenomes.org/how-an-earthquake-shook-up-stickleback-genomes/)
 
-### 2019
-
-**Stacks 2: Analytical methods for paired‐end sequencing improve RADseq‐based population genomics** • Rochette et al. • *Molecular Ecology*
-
 ### 2017
-
-**Deriving genotypes from RAD-seq short-read data using Stacks** • Rochette & Catchen • *Nature Protocols*
 
 **Hold your (sea)horses – here's the pipefish genome** • *BioMed Central* • [Link](https://blogs.biomedcentral.com/on-biology/2016/12/20/pipefishgenome/)
 
@@ -79,8 +53,6 @@ format:
 **Oregon researchers publish reference genome of gulf pipefish** • *EurekAlert, AAAS*
 
 **UO team unspools the genome of a seahorse relative** • *Around the O*
-
-**The genome of the Gulf pipefish enables understanding of evolutionary innovations** • Small et al. • *Genome Biology*
 
 **UO's Cresko chosen as fellow of world's largest scientific group** • *Around the O*
 
@@ -117,17 +89,9 @@ format:
 
 **Genetics journal names paper led by UO's Cresko as among its Top 10 of all time** • *Around the O*
 
-### 2014
-
-**Lost in parameter space: a road map for Stacks** • Paris et al. • *Methods in Ecology and Evolution*
-
 ### 2013
 
 **Julian Catchen helps us dig into Stacks** • *The Molecular Ecologist* • [Link](https://www.molecularecologist.com/2013/04/qa-julian-catchen-helps-us-dig-into-stacks/)
-
-### 2012
-
-**Population genomic analysis of model and non-model organisms using sequenced RAD tags** • Hohenlohe, Catchen & Cresko • *Methods in Molecular Biology*
 
 ### 2011
 
