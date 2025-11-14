@@ -1,0 +1,68 @@
+---
+title: "Expectations"
+format: html
+---
+
+Co-lab expectations
+We in the Cresko Laboratory are committed to maintaining an environment in which every one of us can learn, thrive, and build the skills we need to further our career paths in academia, industry, teaching, and beyond. We are proud to be a diverse group that strives to support a multitude of nationalities, religions, genders, sexual orientations, cultures, and intellectual backgrounds within the lab. As part of this mission, we have developed this set of expectations for our group, so that there is transparent documentation of what we should expect from one another.
+
+Respect
+We are here to learn and do science first and foremost. This can only happen effectively in an environment of mutual respect. Everyone comes with a different knowledge base and unique intellectual strengths. Our goal is to establish an environment where all of our contributions and abilities are celebrated, and where it is safe to be wrong, make mistakes, and learn from them. We require all members to treat others how they themselves would wish to be treated– listening to the ideas of others, making sure that everyone has a voice at the table, and making sure that the entire group feels supported. This includes using preferred pronouns, pronouncing names correctly, providing constructive feedback (rather than scathing criticism), and actively listening. Intellectual bullying and inappropriate comments will not be tolerated, including those about appearance, race, gender, religion, ability/disability, sexual orientation, or identity.
+
+Work Expectations
+Showing up / hours
+Ultimately what we do here is a job. We expect that you will treat your position in the group as such. While many jobs require strict hours in the workplace, it is relatively easy for us, as computational biologists, to have a lot more freedom. While that is so, one your responsibilities is to the group, and participation in the intellectual activities the group is important. We find this works best if all members are physically present for a reasonable number of hours during the week, which will change depending on circumstances such as the pandemic or long distance relationships. There are also exceptions possible in the case of remote work. When physical presence is not possible during the work day, we expect members to be responsive to virtual communication. We expect everyone to attend lab meetings and journal clubs in-person or virtually. Moreover we expect all members the group to take vacations and generally take time off to be involved in other activities and to enjoy their own personal lives in this incredible part the world.
+
+We recognize that overworking has deleterious effects and we do not expect you to work outside your normal work hours. Burnout is common and we want to avoid it. We support members in prioritizing mental and physical health. We often like to hang out as an inclusive group (with kids, partners, etc.) doing things such as mushroom hunting or potluck dinners, however there is no obligation to join these events. We also invite member to share their own interests with the group (e.g., goatmynship).
+
+What we expect from one another
+With the recognition that there are a number different roles in our co-lab, each with a different collection of investments and responsibility, it is useful to establish explicitly what we can expect from one another.
+
+As PIs, Peter and Andy are expected to maintain grant support for the group, at a level that allows for all our research, publications, salary support, travel, etc. to continue. We are firmly committed to the career development our group members, thus you can expect us to work with you on:
+
+defining research questions,
+writing and reviewing code,
+sharing code openly via Github or similar,
+discussing and interpreting analyses,
+writing and editing manuscripts,
+seeking your own external funding, and
+weekly one-on-one meetings from either or both us if desired.
+mitigating conflicts (interpersonal or scientific) that arise in the lab
+we also acknowledge that as two white dudes we might not be prepared to handle all issues that come up in the group and welcome outside mentorship / advise / etc.
+Staff Scientists in the group play a special role in supporting research at all levels, from maintaining computational resources, to collating datasets, to providing analysis/code/etc on individual projects. Responsibilities of staff folks include
+
+writing and reviewing code,
+analyzing and interpreting analysis data and/or simulations,
+providing help to postdocs and Ph.D. students with their own research
+sharing code openly with the group at all stages completion,
+disseminating production code openly via Github or similar,
+reading and discussing papers in journal club.
+The Postdocs or Ph.D. students in the group are expected to actively develop and pursue our own research in the group in consultation with Andy and/or Peter, and generally in collaboration with others. Recognizing that more junior lab members need more support initially than do more senior members, our expectations trainees include:
+
+reading relevant literature,
+writing and reviewing code,
+sharing code openly with the group at all stages completion,
+disseminating production code openly via Github or similar,
+analyzing and interpreting analysis data and/or simulations,
+reading and discussing papers in journal club,
+leading lab meeting to discuss your work in progress approximately quarterly (as scheduling allows),
+drafting, editing, and eventually submitting manuscripts,
+presenting results at annual (inter)national meetings,
+seeking your own external funding and/or other future career opportunities, and
+providing constructive feedback to other lab members on papers, presentations, proposals, etc.
+The Undergraduate researchers in the group generally are paired with a particular postdoc or Ph.D. student, advancing projects under a mentorship umbrella. Their responsibilities include:
+
+reading relevant literature,
+writing and reviewing code,
+sharing code openly with the group at all stages completion,
+disseminating production code openly via Github or similar,
+analyzing and interpreting analysis data and/or simulations,
+and potentially reading and discussing papers in journal club.
+IE2 membership
+The co-lab is housed within the greater community scholars that is the Institute Ecology and Evolution (IE2). We expect members our group to interact and contribute to the IE2 community as well. This helps to situate our research in the broader context, and to introduce new ideas and collaboration into our work. Some ways to do this are attending weekly IE2 seminar, being part IE2 journal clubs (e.g., EvoGen journal club), as well as being present for the regular social engagements such as Tea Time that act to bind the IE2 community together.
+
+Conferences
+All members the group are encouraged to present their research at national and/or international conferences during the year. Some our favorite conferences include ProbGen, SMBE, Evolution, and PEQG. We aim for funding to be available for co-lab members to present at at least one conference each year, and encourage and support advanced trainees (particularly postdocs) attending more than this.
+
+Open science
+We are working to make knowledge available to everyone, and so are deeply committed to sharing our code and publications freely and transparently with the world. All code written is open source, generally using MIT, GPL, or CC-BY licensing, and shared via Github. All our publications are preprinted to servers such as bioRxiv (where Andy is an Affiliate) before submission to journals. Upon journal acceptance we strongly prefer open access publication, and try not to publish in journals that paywall publications. Our central goal is to further the collective knowledge of humans around the globe– practicing open science helps us to achieve this goal.

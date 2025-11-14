@@ -1,13 +1,11 @@
 ---
 title: "Cresko Laboratory"
-subtitle: "Evolutionary Genomics Research at the University of Oregon"
+subtitle: "We study the genomic basis of evolutionary change. Our research combines field studies, laboratory experiments, and computational approaches to understand how organisms adapt to changing environments"
 page-layout: full
 toc: false
 ---
 
 ![](images/willamette_river_header2.jpg){.banner fig-alt="Williamette River in Eugene Oregon" fig-align="center" width="800"}
-
-### We study the genomic basis of evolutionary change. Our research combines field studies, laboratory experiments, and computational approaches to understand how organisms adapt to changing environments.
 
 :::::::::::: home-container
 ## Research Areas
@@ -50,7 +48,7 @@ toc: false
 ::: {.column width="50%"}
 ### Team
 
-Led by **Bill Cresko**, our lab includes research scientists, postdoctoral scholars, graduate students, and undergraduates working together on evolutionary questions.
+Our lab includes research scientists, postdoctoral scholars, graduate students, and undergraduates working together on evolutionary genomic questions.
 
 [Meet our team →](people.qmd)
 :::
@@ -60,7 +58,7 @@ Led by **Bill Cresko**, our lab includes research scientists, postdoctoral schol
 
 I welcome inquiries from prospective graduate students, postdocs, and undergraduates interested in:
 
-[Open positions →](people.qmd#join-our-lab)
+[Join the lab →](people.qmd#join-our-lab)
 :::
 :::::
 

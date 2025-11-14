@@ -1,0 +1,180 @@
+---
+title: "Laboratory Expectations"
+description: "Expectations and guidelines for members of the Cresko Laboratory"
+format: html
+---
+
+## Cresko Laboratory Expectations
+
+We in the Cresko Laboratory are committed to maintaining an environment in which every one of us can learn, thrive, and build the skills we need to further our career paths in academia, industry, teaching, and beyond. We are proud to be a diverse group that strives to support a multitude of nationalities, religions, genders, sexual orientations, cultures, and intellectual backgrounds within the lab. As part of our mission to advance evolutionary genomics through rigorous science and inclusive collaboration, we have developed this set of expectations for our group, so that there is transparent documentation of what we should expect from one another.
+
+## Respect
+
+We are here to learn and do science first and foremost. This can only happen effectively in an environment of mutual respect. Everyone comes with a different knowledge base and unique intellectual strengths. Our goal is to establish an environment where all of our contributions and abilities are celebrated, and where it is safe to be wrong, make mistakes, and learn from them. We require all members to treat others how they themselves would wish to be treated, including:
+
+-   Listening to the ideas of others
+-   Making sure that everyone has a voice at the table
+-   Making sure that the entire group feels supported
+-   Using preferred pronouns
+-   Pronouncing names correctly
+-   Providing constructive feedback (rather than scathing criticism)
+-   Actively listening to all perspectives
+
+Intellectual bullying and inappropriate comments will not be tolerated, including those about appearance, race, gender, religion, ability/disability, sexual orientation, or identity.
+
+## Work Expectations
+
+### Showing Up / Hours
+
+Ultimately what we do here is a job. We expect that you will treat your position in the group as such. While many jobs require strict hours in the workplace, it is relatively easy for us, as computational and evolutionary biologists, to have a lot more freedom. While that is so, one of your responsibilities is to the group, and participation in the intellectual activities of the group is important. We find this works best if all members are physically present for a reasonable number of hours during the week, which will change depending on circumstances such as remote work arrangements or field work commitments. When physical presence is not possible during the work day, we expect members to be responsive to virtual communication.
+
+We expect everyone to: - Attend lab meetings and journal clubs in-person or virtually - Be present for group seminars and presentations - Participate in collaborative discussions - Take vacations and time off to maintain work-life balance - Enjoy the incredible outdoor opportunities of the Pacific Northwest
+
+We recognize that overworking has deleterious effects and we do not expect you to work outside your normal work hours. Burnout is common and we want to avoid it. We support members in prioritizing mental and physical health. We often organize inclusive group activities (with families, partners, etc.) such as field trips, mushroom hunting, or potluck dinners, however there is no obligation to join these events. We encourage members to share their own interests with the group.
+
+## What We Expect from One Another
+
+With the recognition that there are a number of different roles in our laboratory, each with a different collection of responsibilities, it is useful to establish explicitly what we can expect from one another.
+
+### Principal Investigator (Bill Cresko)
+
+As PI, Bill is expected to maintain grant support for the group at a level that allows for all our research, publications, salary support, travel, etc. to continue. He is firmly committed to the career development of group members. You can expect him to work with you on:
+
+-   Defining research questions
+-   Writing and reviewing code
+-   Discussing and interpreting analyses
+-   Writing and editing manuscripts
+-   Seeking your own external funding
+-   Weekly one-on-one meetings if desired
+-   Mitigating conflicts (interpersonal or scientific) that arise in the lab
+-   Connecting you with additional mentorship and resources as needed
+-   Supporting your professional development and career goals
+
+### Staff Scientists (Research Associates and Research Scientists)
+
+Staff Scientists in the group play a special role in supporting research at all levels, from maintaining computational resources, to managing genomic datasets, to providing analysis support on individual projects. Responsibilities of staff include:
+
+-   Writing and reviewing code
+-   Analyzing and interpreting genomic data and/or simulations
+-   Providing help to postdocs and graduate students with their research
+-   Maintaining laboratory resources and infrastructure
+-   Sharing code openly with the group at all stages of completion
+-   Disseminating production code openly via GitHub or similar platforms
+-   Reading and discussing papers in journal club
+-   Contributing to method development and protocol optimization
+
+### Postdoctoral Researchers and Graduate Students
+
+Postdocs and graduate students in the group are expected to actively develop and pursue their own research in consultation with Bill and in collaboration with others. Recognizing that more junior lab members need more support initially than do more senior members, our expectations for trainees include:
+
+-   Reading relevant literature in evolutionary genomics and related fields
+-   Writing and reviewing code for analyses
+-   Sharing code openly with the group at all stages of completion
+-   Disseminating production code openly via GitHub or similar platforms
+-   Analyzing and interpreting genomic data and/or simulations
+-   Reading and discussing papers in journal club
+-   Leading lab meeting to discuss your work in progress approximately quarterly
+-   Drafting, editing, and eventually submitting manuscripts
+-   Presenting results at annual (inter)national meetings
+-   Seeking your own external funding and/or other future career opportunities
+-   Providing constructive feedback to other lab members on papers, presentations, proposals, etc.
+-   Contributing to the mentorship of junior lab members
+
+### Undergraduate Researchers
+
+Undergraduate researchers in the group generally are paired with a particular postdoc or graduate student, advancing projects under a mentorship umbrella. Their responsibilities include:
+
+-   Reading relevant literature
+-   Writing and reviewing code
+-   Sharing code openly with the group at all stages of completion
+-   Disseminating production code openly via GitHub or similar platforms
+-   Analyzing and interpreting data and/or simulations
+-   Participating in journal club when schedule permits
+-   Presenting research progress in lab meetings
+-   Contributing to manuscript preparation when appropriate
+
+## Institute of Ecology and Evolution (IE2) Membership
+
+The Cresko Laboratory is housed within the greater community of scholars that is the Institute of Ecology and Evolution (IE2). We expect members of our group to interact with and contribute to the IE2 community as well. This helps to situate our research in the broader context and to introduce new ideas and collaborations into our work. Some ways to participate include:
+
+-   Attending weekly IE2 seminars
+-   Being part of IE2 journal clubs (e.g., EvoGen journal club, Microbiome journal club)
+-   Participating in regular social engagements such as Tea Time
+-   Contributing to IE2 symposia and research days
+-   Collaborating with other IE2 labs
+-   Supporting IE2 outreach and education initiatives
+
+## Conferences
+
+All members of the group are encouraged to present their research at national and/or international conferences during the year. Some of our favorite conferences include:
+
+-   Society for Molecular Biology and Evolution (SMBE)
+-   Evolution
+-   Population, Evolutionary and Quantitative Genetics (PEQG)
+-   Genetics Society of America conferences
+-   American Society for Microbiology (for microbiome work)
+-   Gordon Research Conferences
+-   Regional meetings (e.g., Northwest Evolution and Ecology)
+
+We aim for funding to be available for lab members to present at at least one conference each year, and encourage and support advanced trainees (particularly postdocs) attending more than this when funding permits.
+
+## Open Science
+
+We are working to make knowledge available to everyone, and so are deeply committed to sharing our code and publications freely and transparently with the world. Our open science practices include:
+
+-   All code written is open source, generally using MIT, GPL, or CC-BY licensing
+-   Code is shared via GitHub throughout development
+-   All our publications are preprinted to servers such as bioRxiv before submission to journals
+-   Upon journal acceptance we strongly prefer open access publication
+-   We avoid publishing in journals that paywall publications when possible
+-   All genomic data is deposited in public repositories (e.g., NCBI, Dryad)
+-   We maintain detailed protocols and methods documentation
+-   We actively contribute to community resources like Stacks
+
+Our central goal is to further the collective knowledge of humans around the globe – practicing open science helps us to achieve this goal.
+
+## Data Management and Reproducibility
+
+Members of the Cresko Laboratory are expected to maintain high standards of data management and reproducibility:
+
+-   Keep detailed laboratory notebooks (physical or electronic)
+-   Document all computational analyses with version control
+-   Create reproducible workflows and pipelines
+-   Archive data according to lab protocols
+-   Follow FAIR principles (Findable, Accessible, Interoperable, Reusable)
+-   Participate in regular data management training
+
+## Professional Development
+
+We are committed to supporting the professional development of all lab members:
+
+-   Regular opportunities for skill development workshops
+-   Support for teaching and mentoring experiences
+-   Grant writing training and support
+-   Career planning discussions
+-   Networking opportunities
+-   Leadership development
+-   Science communication training
+
+## Safety and Compliance
+
+All laboratory members must:
+
+-   Complete required safety training
+-   Follow all university and laboratory safety protocols
+-   Maintain clean and organized work spaces
+-   Report any safety concerns immediately
+-   Complete required compliance training (e.g., animal care, human subjects)
+-   Adhere to ethical guidelines for research
+
+## Communication
+
+Clear and regular communication is essential for our success:
+
+-   Respond to emails and messages in a timely manner (typically within 48 hours)
+-   Keep the PI and collaborators informed of research progress
+-   Communicate any challenges or concerns early
+-   Maintain open channels of communication with lab members
+-   Document and share research progress regularly
+-   Contribute to lab documentation and wikis
+
