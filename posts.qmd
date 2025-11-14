@@ -1,5 +1,7 @@
 ---
-title: "Blog"
+title: "News"
+page-layout: full
+toc: false
 listing:
   contents: posts
   sort: "date desc"
@@ -9,7 +11,87 @@ listing:
   date-format: "MMMM D, YYYY"
   max-items: 200
   feed: true
-page-layout: article
 ---
 
+```{=html}
+<style>
+/* Override default Quarto listing styles to match publications */
+#quarto-margin-sidebar {
+  display: none;
+}
+
+.quarto-listing {
+  padding: 0;
+}
+
+.quarto-listing-default {
+  border: none !important;
+}
+
+.quarto-listing-default .list {
+  padding-left: 0;
+  border: none;
+}
+
+.quarto-listing-default .list .quarto-grid-item {
+  border: none;
+  padding: 0.75rem 0;
+  border-bottom: 1px solid #e0e0e0;
+  display: grid;
+  grid-template-columns: 70% 30%;
+  gap: 1.5rem;
+  align-items: start;
+}
+
+.quarto-listing-default .list .quarto-grid-item:last-child {
+  border-bottom: none;
+}
+
+.listing-title {
+  font-size: 0.95rem !important;
+  line-height: 1.5 !important;
+  font-weight: 500 !important;
+  margin: 0 !important;
+}
+
+.listing-description {
+  font-size: 0.9rem !important;
+  line-height: 1.5 !important;
+  color: #555 !important;
+  margin: 0.25rem 0 0 0 !important;
+}
+
+.listing-date {
+  font-size: 0.9rem !important;
+  line-height: 1.5 !important;
+  color: #555 !important;
+  text-align: right !important;
+  margin: 0 !important;
+}
+
+.listing-item-img-placeholder {
+  display: none;
+}
+
+.listing-categories {
+  display: none;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .quarto-listing-default .list .quarto-grid-item {
+    grid-template-columns: 1fr;
+    gap: 0.5rem;
+  }
+
+  .listing-date {
+    text-align: left !important;
+  }
+}
+</style>
+```
+
 Recent news, research updates, and highlights from the Cresko Laboratory.
+
+::: {#listing}
+:::
