@@ -163,5 +163,4 @@ Our ongoing and future work aims to:
 
 For more information about our evolutionary genomics research:
 - [Contact the Cresko Lab →](mailto:wcresko@uoregon.edu)
-- [View our publications →](/publications)
-- [Access our data →](/data)
+- [View our publications →](/publications.qmd)

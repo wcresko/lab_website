@@ -146,4 +146,4 @@ Our ongoing and future research aims to:
 For more information about our host-microbiome research:
 - [META Center website →](https://meta.uoregon.edu/)
 - [Contact the Cresko Lab →](mailto:wcresko@uoregon.edu)
-- [View our publications →](/publications)
+- [View our publications →](/publications.qmd)
