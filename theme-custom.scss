@@ -67,7 +67,8 @@ $card-box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06
 
 // Global styles
 body {
-  font-size: 0.95rem !important;  // Explicitly set body font size
+  font-family: $font-family-sans-serif !important;  // Explicitly set Work Sans
+  font-size: 0.95rem !important;
   font-weight: 400;
   letter-spacing: -0.011em;
   line-height: 1.6;
@@ -75,6 +76,7 @@ body {
 
 // Typography improvements
 p {
+  font-family: $font-family-sans-serif !important;  // Explicitly set Work Sans for paragraphs
   margin-bottom: 1rem;
   line-height: 1.6;
   font-size: 0.95rem;
@@ -278,17 +280,20 @@ h4, h5, h6, .h4, .h5, .h6 {
 
 // List improvements
 ul, ol {
+  font-family: $font-family-sans-serif !important;
   margin-bottom: 1rem;
   line-height: 1.6;
   font-size: 0.95rem;
 }
 
 li {
+  font-family: $font-family-sans-serif !important;
   margin-bottom: 0.4rem;
 }
 
 // Blockquotes
 blockquote {
+  font-family: $font-family-sans-serif !important;
   border-left: 4px solid $primary;
   padding-left: 1.25rem;
   margin: 1.5rem 0;
