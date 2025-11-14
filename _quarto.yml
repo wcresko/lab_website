@@ -63,9 +63,7 @@ website:
 format:
   html:
     fontawesome: true
-    theme: 
-      - litera
-      - theme-custom.scss
+    theme: theme-custom.scss
     fontsize: 0.95rem
     linestretch: 1.6
     toc: false
