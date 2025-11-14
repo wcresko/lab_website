@@ -290,6 +290,4 @@ Ongoing and planned developments include:
 
 For more information about our methods development:
 - [Download Stacks →](http://catchenlab.life.illinois.edu/stacks/)
-- [View tutorials →](/tutorials)
 - [Contact us →](mailto:wcresko@uoregon.edu)
-- [Join our mailing list →](/community)

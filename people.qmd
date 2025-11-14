@@ -21,7 +21,7 @@ University of Oregon
 Bill Cresko is Lorry Lokey Chair and Professor of Bioengineering, and a member of the Institute of Ecology and Evolution (IE2) at the University of Oregon. He has had leadership roles on campus as the director of IE2, associate vice president of research (2014-2018), and the executive director of the Presidential Initiative in Data Science (2018-2023). He is currently the UO Director of the Center for Biomedical Data Science. Cresko studies the genomic basis of evolutionary change using comparative studies of natural populations in the wild and experimental approaches in the laboratory. He uses the threespine stickleback fish as his primary model to understand how molecular genetic variation can modify networks of genes and proteins to produce variation in evolutionarily important traits.
 
 **Contact:** wcresko\@uoregon.edu\
-[Full Profile](people/cresko.qmd) \| [Google Scholar](https://scholar.google.com/citations?user=USERID) \| [ORCID](https://orcid.org/0000-0000-0000-0000)
+[Full Profile](people/cresko.qmd) \| [Google Scholar](https://scholar.google.com/citations?user=JtjdERoAAAAJ) \| [ORCID](https://orcid.org/0000-0002-3496-8074)
 :::
 ::::::
 
@@ -42,7 +42,7 @@ University of Oregon
 Susie is interested in understanding the vast variety of life. How is morphological variation, seen in populations of the same species, partitioned among different environments and what are the genetic and genomic factors associated with this partitioning? She uses a variety of molecular genetic tools to uncover genome-scale patterns that underlie phenotypic variation in wild populations of fish, and directs this knowledge to the study of developmental pathways that contribute to novel or modified morphologies.
 
 **Contact:** sbassham\@uoregon.edu\
-[Full Profile](people/bassham.qmd) \| [Publications](publications.html#bassham)
+[Full Profile](people/bassham.qmd) \| [Publications](publications.qmd#bassham)
 :::
 ::::::
 
@@ -62,7 +62,7 @@ University of Oregon
 Mark's research investigates the genetic and genomic basis of evolutionary change in natural populations. He uses computational approaches to analyze large-scale genomic datasets and understand patterns of genetic variation that contribute to adaptation and speciation.
 
 **Contact:** mcurrey\@uoregon.edu\
-[Full Profile](people/currey.qmd) \| [Publications](publications.html#currey)
+[Full Profile](people/currey.qmd) \| [Publications](publications.qmd#currey)
 :::
 ::::::
 
@@ -97,11 +97,11 @@ Shannon is a graduate student studying the transcriptional and epigenetic basis 
 :::
 
 ::: {.g-col-12 .g-col-md-8}
-**Emerita Faculty**\
+**Emeritus Faculty**\
 Department of Biology\
 University of Oregon
 
-Chuck is....
+Chuck Kimmel is a Professor Emeritus who pioneered the use of zebrafish as a model organism for developmental biology. His groundbreaking work on vertebrate development has made zebrafish one of the most important model systems in biology. Chuck continues to collaborate with the Cresko Lab on projects involving craniofacial development and evolutionary developmental biology.
 
 **Contact:** ckimmel\@uoregon.edu
 :::
@@ -121,10 +121,9 @@ Chuck is....
 Department of Biology\
 University of Oregon
 
-Lily is....
+Lily is an undergraduate researcher studying evolutionary genomics and adaptation in natural populations. She is gaining hands-on experience with molecular biology techniques and computational analysis of genomic data.
 
-**Contact:** ssnyder3\@uoregon.edu\
-[Full Profile](healey.html)
+**Contact:** lrice\@uoregon.edu
 :::
 ::::::
 
@@ -142,10 +141,9 @@ Lily is....
 Department of Biology\
 University of Oregon
 
-Bruno is....
+Bruno is an undergraduate researcher working on host-microbiome interactions and their role in adaptation. He is learning laboratory techniques and contributing to ongoing research projects in the lab.
 
-**Contact:** ssnyder3\@uoregon.edu\
-[Full Profile](healey.html)
+**Contact:** bbelafort\@uoregon.edu
 :::
 ::::::
 
@@ -163,7 +161,7 @@ Bruno is....
 -   **Gavin Woodruff, Ph.D.** (2015-2020) - Supported by Grant Funding
 -   **Ann Petersen, Ph.D.** (2014-2019) - Supported by Grant Funding
 -   **Stacey Wagner, Ph.D.** (2013-2018) - Supported by NIH Ruth Kirchstein NRSA Fellowship
--   **Clayton Small, Ph.D.** (2012-2021) - Supported by Grant Funding. Now Assistant Research Professor at University of Oregon. **Contact:** csmall\@uoregon.edu [Research](research.html#small)
+-   **Clayton Small, Ph.D.** (2012-2021) - Supported by Grant Funding. Now Assistant Research Professor at University of Oregon. **Contact:** csmall\@uoregon.edu [Research](research.qmd#small)
 -   **Rui Galvao, Ph.D.** (2012-2015) - Supported by Grant Funding
 -   **Roger Voelker, Ph.D.** (2012-2013) - Supported by Grant Funding
 -   **Kat Milligan-Myhre, Ph.D.** (2009-2015) - Supported by NIH Ruth Kirchstein NRSA Fellowship. Now Assistant Professor at University of Alaska Anchorage
@@ -286,7 +284,7 @@ The Cresko Lab has mentored 77 undergraduate researchers since 2004, including 2
 
 ## Join Our Team
 
-If you are interested in joining the Cresko Lab as an undergraduate researcher, graduate student, or postdoctoral scholar, please read our [recent publications](publications.html) and then email Dr. Cresko with your CV and a statement of research interests.
+If you are interested in joining the Cresko Lab as an undergraduate researcher, graduate student, or postdoctoral scholar, please read our [recent publications](publications.qmd) and then email Dr. Cresko with your CV and a statement of research interests.
 
 ### Current Opportunities:
 
