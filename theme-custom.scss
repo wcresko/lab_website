@@ -1,10 +1,10 @@
 /*-- scss:defaults --*/
 
-// Fonts - Clean, modern typography like Silvia's site
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=DM+Serif+Display&family=JetBrains+Mono:wght@300;400&display=swap');
+// Fonts - Clean, modern sans-serif typography
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;600;700&family=JetBrains+Mono:wght@300;400&display=swap');
 
 $font-family-sans-serif: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-$font-family-serif: 'DM Serif Display', Georgia, serif;
+$font-family-headings: 'Outfit', 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
 $font-family-monospace: 'JetBrains Mono', SFMono-Regular, Consolas, monospace;
 
 // Color palette - Warm and professional
@@ -29,8 +29,8 @@ $link-hover-color: darken($primary, 15%);
 $link-hover-decoration: none;
 
 // Headings
-$headings-font-family: $font-family-serif;
-$headings-font-weight: 400;
+$headings-font-family: $font-family-headings;
+$headings-font-weight: 500;
 $headings-line-height: 1.2;
 $headings-color: #2D3748;
 
@@ -125,17 +125,17 @@ h4, h5, h6, .h4, .h5, .h6 {
 
 // Navbar brand/title styling
 .navbar-brand {
-  font-family: $font-family-serif !important;
+  font-family: $font-family-headings !important;
   font-size: 1.25rem !important;
-  font-weight: 400 !important;
+  font-weight: 500 !important;
   color: $headings-color !important;
   margin-right: 1.5rem;
 }
 
 .navbar-title {
-  font-family: $font-family-serif !important;
+  font-family: $font-family-headings !important;
   font-size: 1.25rem !important;
-  font-weight: 400 !important;
+  font-weight: 500 !important;
   color: $headings-color !important;
 }
 
@@ -178,12 +178,12 @@ h4, h5, h6, .h4, .h5, .h6 {
 }
 
 .hero-title {
-  font-family: $font-family-serif;
+  font-family: $font-family-headings;
   font-size: 2.25rem;
-  font-weight: 400;
+  font-weight: 500;
   margin-bottom: 0.75rem;
   color: $headings-color;
-  letter-spacing: -0.03em;
+  letter-spacing: -0.02em;
 }
 
 .hero-subtitle {
@@ -434,8 +434,9 @@ tbody td {
 }
 
 .publication-year {
-  font-family: $font-family-serif;
+  font-family: $font-family-headings;
   font-size: 1.25rem;
+  font-weight: 600;
   color: $primary;
   margin: 1.5rem 0 0.75rem;
 }

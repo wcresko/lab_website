@@ -154,7 +154,7 @@ toc: true
 
 #### RAD-seq Workshop
 
-Annual workshop on RAD-seq library preparation and data analysis using Stacks. - [Workshop Materials](files/pdfs/radseq-workshop-2024.pdf) - [Video Tutorials](https://youtube.com/)
+Annual workshop on RAD-seq library preparation and data analysis using Stacks. Contact us at [wcresko@uoregon.edu](mailto:wcresko@uoregon.edu) for information about upcoming workshops.
 
 #### Bioinformatics Bootcamp
 
@@ -164,11 +164,11 @@ Intensive one-week introduction to command-line tools and genomic data analysis.
 
 #### Stacks Tutorials
 
-Comprehensive tutorials for population genomics analysis: - [Getting Started with Stacks](http://catchenlab.life.illinois.edu/stacks/manual/) - [RAD-seq Data Processing](files/tutorials/radseq-processing.html) - [Population Structure Analysis](files/tutorials/population-structure.html)
+Comprehensive tutorials for population genomics analysis are available through the [Stacks manual](http://catchenlab.life.illinois.edu/stacks/manual/).
 
 #### Lecture Materials
 
-Selected lecture slides and materials (password protected for enrolled students): - [Evolution Lecture Slides](https://canvas.uoregon.edu/) - [Genomics Lab Protocols](files/protocols/)
+Selected lecture slides and materials are available to enrolled students through [Canvas](https://canvas.uoregon.edu/).
 
 ## Teaching Philosophy and Awards
 
@@ -234,17 +234,7 @@ Lab members regularly visit local schools to: - Present hands-on science activit
 
 ## Resources for Students
 
-### Getting Started in Research
-
--   [How to Contact Faculty about Research Opportunities](files/guides/contacting-faculty.pdf)
--   [Writing a Research Proposal](files/guides/research-proposal.pdf)
--   [Fellowship and Grant Opportunities](files/guides/funding-opportunities.pdf)
-
-### Career Development
-
--   [Academic Job Search Timeline](files/guides/academic-job-search.pdf)
--   [Industry Careers in Genomics](files/guides/industry-careers.pdf)
--   [CV and Resume Templates](files/templates/)
+For information about research opportunities, fellowship applications, and career development resources, please contact [wcresko@uoregon.edu](mailto:wcresko@uoregon.edu).
 
 ## Teaching Timeline
 
