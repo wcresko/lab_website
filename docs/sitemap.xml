@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://wcresko.github.io/index.html</loc>
-    <lastmod>2025-11-12T19:49:28.801Z</lastmod>
+    <lastmod>2025-11-14T21:46:39.362Z</lastmod>
   </url>
   <url>
     <loc>https://wcresko.github.io/research_evo_devo.html</loc>
@@ -33,12 +33,12 @@
     <lastmod>2025-11-12T19:54:27.594Z</lastmod>
   </url>
   <url>
-    <loc>https://wcresko.github.io/about.html</loc>
-    <lastmod>2025-11-12T20:41:16.465Z</lastmod>
+    <loc>https://wcresko.github.io/expectations.html</loc>
+    <lastmod>2025-11-14T21:56:56.410Z</lastmod>
   </url>
   <url>
-    <loc>https://wcresko.github.io/projects.html</loc>
-    <lastmod>2025-11-06T02:09:46.323Z</lastmod>
+    <loc>https://wcresko.github.io/publications.html</loc>
+    <lastmod>2025-11-12T18:41:42.146Z</lastmod>
   </url>
   <url>
     <loc>https://wcresko.github.io/research_evolutionary_genomics.html</loc>
@@ -293,6 +293,10 @@
     <lastmod>2025-11-05T18:34:03.253Z</lastmod>
   </url>
   <url>
+    <loc>https://wcresko.github.io/expectations_old.html</loc>
+    <lastmod>2025-11-14T21:46:34.890Z</lastmod>
+  </url>
+  <url>
     <loc>https://wcresko.github.io/research.html</loc>
     <lastmod>2025-11-12T19:50:20.179Z</lastmod>
   </url>
@@ -541,12 +545,12 @@
     <lastmod>2025-11-13T03:19:38.000Z</lastmod>
   </url>
   <url>
-    <loc>https://wcresko.github.io/press_coverage_old_2.html</loc>
-    <lastmod>2025-11-13T02:30:56.786Z</lastmod>
+    <loc>https://wcresko.github.io/projects.html</loc>
+    <lastmod>2025-11-06T02:09:46.323Z</lastmod>
   </url>
   <url>
-    <loc>https://wcresko.github.io/publications.html</loc>
-    <lastmod>2025-11-12T18:41:42.146Z</lastmod>
+    <loc>https://wcresko.github.io/about.html</loc>
+    <lastmod>2025-11-14T21:54:20.655Z</lastmod>
   </url>
   <url>
     <loc>https://wcresko.github.io/research_methods_development.html</loc>

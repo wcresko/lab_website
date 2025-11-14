@@ -8,6 +8,8 @@ page-layout: article
 
 The Cresko Laboratory advances our understanding of evolutionary processes through integrative genomic research. We seek to uncover the molecular mechanisms underlying adaptation, the dynamics of host-microbiome interactions, and the genomic basis of evolutionary change.
 
+Read about our [laboratory expectations](expectations.qmd).
+
 ## Our Approach
 
 We believe that understanding evolution requires a multi-faceted approach:
@@ -44,6 +46,8 @@ We actively collaborate with researchers worldwide, believing that the best scie
 ### Mentorship & Training
 
 We are committed to training the next generation of scientists through hands-on research experience and professional development.
+
+Read
 
 ## Our Impact
 
