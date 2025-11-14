@@ -11,9 +11,9 @@
 /* Navbar title styling */
 .navbar-brand,
 .navbar-title {
-  font-family: 'DM Serif Display', Georgia, serif !important;
+  font-family: 'Outfit', 'Inter', -apple-system, BlinkMacSystemFont, sans-serif !important;
   font-size: 1.5rem !important;
-  font-weight: 400 !important;
+  font-weight: 500 !important;
   color: #2D3748 !important;
 }
 
@@ -78,8 +78,9 @@
 }
 
 .profile-text h1 {
-  font-family: 'DM Serif Display', Georgia, serif;
+  font-family: 'Outfit', 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
   font-size: 1.875rem;
+  font-weight: 500;
   margin-bottom: 0.5rem;
   color: #2D3748;
 }
@@ -186,8 +187,9 @@ img {
 /* Column headers specifically for Recent Highlights */
 .columns h3 {
   color: #2D3748;
-  font-family: 'DM Serif Display', Georgia, serif;
+  font-family: 'Outfit', 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
   font-size: 1.25rem;
+  font-weight: 600;
   border-bottom: 2px solid #663399;
   padding-bottom: 0.5rem;
   margin-bottom: 1rem;
