@@ -1,8 +1,8 @@
 ---
 title: "Research"
 description: "Research areas and current projects in the Cresko Laboratory"
-page-layout: article
-toc: true
+page-layout: full
+toc: false
 ---
 
 ## Overview
