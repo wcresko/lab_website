@@ -1,5 +1,5 @@
 ---
-title: "Ethan Contreras Presents at SACNAS"
+title: "LyAndra Lujan defends her dissertation!"
 author: "Cresko Lab"
 date: "2025-11-20"
 categories: [dissertation, defense, achievement, graduate]
@@ -8,5 +8,3 @@ draft: false
 ---
 
 Congratulations to honorary graduate student member of the Cresko LyAndra Lujan for successfully defending her PhD!
-
-
