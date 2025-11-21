@@ -1,0 +1,12 @@
+---
+title: "Ethan Contreras Presents at SACNAS"
+author: "Cresko Lab"
+date: "2025-11-20"
+categories: [dissertation, defense, achievement, graduate]
+image: "micah-woods.jpg"
+draft: false
+---
+
+Congratulations to honorary graduate student member of the Cresko LyAndra Lujan for successfully defending her PhD!
+
+
