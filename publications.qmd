@@ -1,1290 +1,304 @@
 ---
 title: "Publications"
-page-layout: full
-toc: false
 ---
 
-```{=html}
-<style>
-.publications-container {
-  width: 100%;
-}
-
-.publication-item {
-  display: grid;
-  grid-template-columns: 40% 40% 20%;
-  gap: 1.5rem;
-  padding: 0.75rem 0;
-  border-bottom: 1px solid #e0e0e0;
-  align-items: start;
-}
-
-.publication-item:last-child {
-  border-bottom: none;
-}
-
-.publication-title {
-  font-size: 0.95rem;
-  line-height: 1.5;
-}
-
-.publication-citation {
-  font-size: 0.9rem;
-  line-height: 1.5;
-  color: #555;
-}
-
-.publication-journal {
-  /* Placeholder for future journal icons */
-  text-align: center;
-}
-
-h2 {
-  margin-top: 2rem;
-  margin-bottom: 1rem;
-  color: #333;
-  font-size: 1.5rem;
-  font-weight: 600;
-}
-
-.metrics-section {
-  margin-top: 3rem;
-  padding-top: 2rem;
-  border-top: 2px solid #ccc;
-}
-
-@media (max-width: 768px) {
-  .publication-item {
-    grid-template-columns: 1fr;
-    gap: 0.5rem;
-  }
-  
-  .publication-journal {
-    display: none;
-  }
-}
-</style>
-```
-
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: publications-container
 ## 2025
 
-:::::: publication-item
-::: publication-title
-[Quantitative genetics of microbiome-mediated traits](https://doi.org/10.1093/evolut/qpaf171)
-:::
+1. Week B, Ralph PL, Tavalire HF, **Cresko WA**, Bohannan BJM. (2025). [Quantitative genetics of microbiome-mediated traits](https://doi.org/10.1093/evolut/qpaf171). *Evolution* qpaf171.
 
-::: publication-citation
-Week B, Ralph PL, Tavalire HF, **Cresko WA**, Bohannan BJM. *Evolution* qpaf171.
-:::
+2. Leve LD, DeGarmo DS, Searcy J, Budd EL, Ramírez García JI, Mauricio AM, **Cresko WA**. (2025). [Attendance of Underserved Populations at Field-Based Health Services Events](https://doi.org/10.1007/s11121-024-01627-8). *Prevention Science* 1-11.
 
-::: publication-journal
-:::
-::::::
+3. **Barker EM**, **Small CM**, **Bassham S**, **Beck EA**, **Currey MC**, **Healey HM**, Johnson BD, **Cresko WA**, Jones AG. (2025). [Signatures and likely sources of the male pregnancy microbiome in wild bay pipefish](https://doi.org/10.1186/s42523-025-00339-3). *Animal Microbiome* 7(1):112.
 
-:::::: publication-item
-::: publication-title
-[Attendance of Underserved Populations at Field-Based Health Services Events](https://doi.org/10.1007/s11121-024-01627-8)
-:::
+4. **Healey HM**, **Penn HB**, **Small CM**, **Bassham S**, **Goyal V**, **Woods MA**, **Cresko WA**. (2025). [Single-cell sequencing provides clues about the developmental genetic basis of evolutionary adaptations in syngnathid fishes](https://doi.org/10.7554/elife.97764). *eLife* 13:RP97764.
 
-::: publication-citation
-Leve LD, DeGarmo DS, Searcy J, Budd EL, Ramírez García JI, Mauricio AM, **Cresko WA**. *Prevention Science* 1-11.
-:::
+5. **Snyder SN**, **Meyer WC**, **Jorgenson SL**, **Contreras EB**, **Bland T**, **Cresko WA**. (2025). Predator induced phenotypes are inherited over four generations in genetically identical Daphnia lumholtzi. *bioRxiv and in review at Evolution*.
 
-::: publication-journal
-:::
-::::::
+6. **Beck EA**, **Smith CA**, **Currey MC**, **Small CM**, Bohannan BJM, **Cresko WA**. (2025). Spontaneous mutant in threespine stickleback connects endosome trafficking disorders and inflammatory bowel diseases. *bioRxiv and in review at G3*.
 
-:::::: publication-item
-::: publication-title
-[Signatures and likely sources of the male pregnancy microbiome in wild bay pipefish](https://doi.org/10.1186/s42523-025-00339-3)
-:::
-
-::: publication-citation
-**Barker EM**, **Small CM**, **Bassham S**, **Beck EA**, **Currey MC**, **Healey HM**, Johnson BD, **Cresko WA**, Jones AG. *Animal Microbiome* 7(1):112.
-:::
-
-::: publication-journal
-:::
-::::::
-
-:::::: publication-item
-::: publication-title
-[Single-cell sequencing provides clues about the developmental genetic basis of evolutionary adaptations in syngnathid fishes](https://doi.org/10.7554/elife.97764)
-:::
-
-::: publication-citation
-**Healey HM**, **Penn HB**, **Small CM**, **Bassham S**, **Goyal V**, **Woods MA**, **Cresko WA**. *eLife* 13:RP97764.
-:::
-
-::: publication-journal
-:::
-::::::
-
-:::::: publication-item
-::: publication-title
-Predator induced phenotypes are inherited over four generations in genetically identical Daphnia lumholtzi
-:::
-
-::: publication-citation
-**Snyder SN**, **Meyer WC**, **Jorgenson SL**, **Contreras EB**, **Bland T**, **Cresko WA**. *bioRxiv and in review at Evolution*.
-:::
-
-::: publication-journal
-:::
-::::::
-
-:::::: publication-item
-::: publication-title
-Spontaneous mutant in threespine stickleback connects endosome trafficking disorders and inflammatory bowel diseases
-:::
-
-::: publication-citation
-**Beck EA**, **Smith CA**, **Currey MC**, **Small CM**, Bohannan BJM, **Cresko WA**. *bioRxiv and in review at G3*.
-:::
-
-::: publication-journal
-:::
-::::::
+---
 
 ## 2024
 
-:::::: publication-item
-::: publication-title
-Chromosome-scale genome assemblies for 10 syngnathiform fishes produced using a standardized sequencing and annotation workflow
-:::
+1. Ramesh B, **Small CM**, **Bassham S**, Johnson B, **Barker E**, Rose E, **Currey MC**, **Healey HM**, Myers M, Ahnesjö I, Kvarnemo L, Monteiro N, **Cresko WA**, Jones AG. (2024). Chromosome-scale genome assemblies for 10 syngnathiform fishes produced using a standardized sequencing and annotation workflow. *bioRxiv and in review at Molecular Ecology*.
 
-::: publication-citation
-Ramesh B, **Small CM**, **Bassham S**, Johnson B, **Barker E**, Rose E, **Currey MC**, **Healey HM**, Myers M, Ahnesjö I, Kvarnemo L, Monteiro N, **Cresko WA**, Jones AG. *bioRxiv and in review at Molecular Ecology*.
-:::
-
-::: publication-journal
-:::
-::::::
+---
 
 ## 2023
 
-:::::: publication-item
-::: publication-title
-[Host genomic variation shapes gut microbiome diversity in threespine stickleback fish](https://doi.org/10.1128/mbio.00219-23)
-:::
+1. **Small CM**, **Beck EA**, **Currey MC**, Tavalire HF, **Bassham S**, **Cresko WA**. (2023). [Host genomic variation shapes gut microbiome diversity in threespine stickleback fish](https://doi.org/10.1128/mbio.00219-23). *mBio* 14:e0021923.
 
-::: publication-citation
-**Small CM**, **Beck EA**, **Currey MC**, Tavalire HF, **Bassham S**, **Cresko WA**. *mBio* 14:e0021923.
-:::
+2. **Currey MC**, Walker C, **Bassham S**, **Healey HM**, **Beck EA**, **Cresko WA**. (2023). [Genome-wide analysis facilitates estimation of male contribution in meiotic gynogenesis](https://doi.org/10.1111/jfb.15349). *Journal of Fish Biology* 102(4):844-855.
 
-::: publication-journal
-:::
-::::::
+3. Ramesh B, **Small CM**, **Healey HM**, Johnson B, **Barker E**, **Currey MC**, **Bassham S**, Myers M, **Cresko WA**, Jones AG. (2023). [Improvements to the Gulf pipefish genome](https://doi.org/10.46471/gigabyte.76). *GigaByte* 2023:gigabyte76.
 
-:::::: publication-item
-::: publication-title
-[Genome-wide analysis facilitates estimation of male contribution in meiotic gynogenesis](https://doi.org/10.1111/jfb.15349)
-:::
+4. Searcy JA, **Cioffi CC**, Tavalire HF, Budd EL, **Cresko WA**, DeGarmo DS, Leve LD. (2023). [Reaching Latinx communities with algorithmic optimization for SARS-CoV-2 testing locations](https://doi.org/10.1007/s11121-023-01556-2). *Prevention Science* 24:1249-1260.
 
-::: publication-citation
-**Currey MC**, Walker C, **Bassham S**, **Healey HM**, **Beck EA**, **Cresko WA**. *Journal of Fish Biology* 102(4):844-855.
-:::
+5. **Frantz SI**, **Small CM**, **Cresko WA**, Singh ND. (2023). [Ovarian transcriptional response to Wolbachia infection in D. melanogaster](https://doi.org/10.1093/g3journal/jkad047). *G3: Genes|Genomes|Genetics* 13(5):jkad047.
 
-::: publication-journal
-:::
-::::::
-
-:::::: publication-item
-::: publication-title
-[Improvements to the Gulf pipefish genome](https://doi.org/10.46471/gigabyte.76)
-:::
-
-::: publication-citation
-Ramesh B, **Small CM**, **Healey HM**, Johnson B, **Barker E**, **Currey MC**, **Bassham S**, Myers M, **Cresko WA**, Jones AG. *GigaByte* 2023:gigabyte76.
-:::
-
-::: publication-journal
-:::
-::::::
-
-:::::: publication-item
-::: publication-title
-[Reaching Latinx communities with algorithmic optimization for SARS-CoV-2 testing locations](https://doi.org/10.1007/s11121-023-01556-2)
-:::
-
-::: publication-citation
-Searcy JA, **Cioffi CC**, Tavalire HF, Budd EL, **Cresko WA**, DeGarmo DS, Leve LD. *Prevention Science* 24:1249-1260.
-:::
-
-::: publication-journal
-:::
-::::::
-
-:::::: publication-item
-::: publication-title
-[Ovarian transcriptional response to Wolbachia infection in D. melanogaster](https://doi.org/10.1093/g3journal/jkad047)
-:::
-
-::: publication-citation
-**Frantz SI**, **Small CM**, **Cresko WA**, Singh ND. *G3: Genes|Genomes|Genetics* 13(5):jkad047.
-:::
-
-::: publication-journal
-:::
-::::::
+---
 
 ## 2022
 
-:::::: publication-item
-::: publication-title
-[Extreme intraspecific divergence in mitochondrial haplotypes makes threespine stickleback an emerging evolutionary model](https://doi.org/10.3389/fgene.2022.925786)
-:::
+1. **Beck EA**, **Bassham S**, **Cresko WA**. (2022). [Extreme intraspecific divergence in mitochondrial haplotypes makes threespine stickleback an emerging evolutionary model](https://doi.org/10.3389/fgene.2022.925786). *Frontiers in Genetics* 13:925786.
 
-::: publication-citation
-**Beck EA**, **Bassham S**, **Cresko WA**. *Frontiers in Genetics* 13:925786.
-:::
+2. **Small CM**, **Healey HM**, **Currey MC**, **Beck EA**, Catchen J, Lin ASP, **Cresko WA**, **Bassham S**. (2022). [Leafy and weedy seadragon genomes connect genic and repetitive DNA to syngnathid biology](https://doi.org/10.1073/pnas.2119602119). *PNAS* 119(26):e2119602119.
 
-::: publication-journal
-:::
-::::::
+3. **Healey HM**, **Bassham S**, **Cresko WA**. (2022). [Single-cell Iso-Sequencing enables rapid genome annotation for scRNAseq analysis](https://doi.org/10.1093/genetics/iyac017). *Genetics* 220(3):iyac017.
 
-:::::: publication-item
-::: publication-title
-[Leafy and weedy seadragon genomes connect genic and repetitive DNA to syngnathid biology](https://doi.org/10.1073/pnas.2119602119)
-:::
+4. **Beck EA**, **Healey HM**, **Small CM**, **Currey MC**, Desvignes T, **Cresko WA**, Postlethwait JH. (2022). [Advancing human disease research with fish evolutionary mutant models](https://doi.org/10.1016/j.tig.2021.07.002). *Trends in Genetics* 38:22-44.
 
-::: publication-citation
-**Small CM**, **Healey HM**, **Currey MC**, **Beck EA**, Catchen J, Lin ASP, **Cresko WA**, **Bassham S**. *PNAS* 119(26):e2119602119.
-:::
+5. Budd EL, McWhirter EH, De Anda S, Mauricio AM, Mueller MV, **Cioffi CC**, Nash A, Van Brocklin K, Yarris K, Jackson A, Terral H, García JR, **Cresko WA**, DeGarmo DS, Leve LD. (2022). [Development and design of a culturally tailored intervention to address COVID-19 disparities](https://doi.org/10.3389/fpubh.2022.962862). *Frontiers in Public Health* 10:962862.
 
-::: publication-journal
-:::
-::::::
+6. De Anda S, Budd EL, Halvorson S, Mauricio AM, McWhirter EH, **Cioffi CC**, García JR, **Cresko WA**, Leve LD, DeGarmo DS. (2022). [Effects of a health education intervention for COVID-19 prevention in Latinx communities](https://doi.org/10.2105/AJPH.2022.307074). *American Journal of Public Health* 112:S923-S927.
 
-:::::: publication-item
-::: publication-title
-[Single-cell Iso-Sequencing enables rapid genome annotation for scRNAseq analysis](https://doi.org/10.1093/genetics/iyac017)
-:::
+7. DeGarmo DS, De Anda S, **Cioffi CC**, Tavalire HF, Searcy JA, Budd EL, McWhirter EH, Mauricio AM, Halvorson S, **Beck EA**, Fernandes L, **Currey MC**, García JR, **Cresko WA**, Leve LD. (2022). [Effectiveness of a COVID-19 testing outreach intervention for Latinx communities](https://doi.org/10.1001/jamanetworkopen.2022.16796). *JAMA Network Open* 5:e2216796.
 
-::: publication-citation
-**Healey HM**, **Bassham S**, **Cresko WA**. *Genetics* 220(3):iyac017.
-:::
+8. Petersen AM, **Small CM**, Yan YL, Wilson C, Batzel P, Bremiller RA, Buck CL, von Hippel FA, **Cresko WA**, Postlethwait JH. (2022). [Evolution and developmental expression of the sodium-iodide symporter gene family](https://doi.org/10.1111/eva.13428). *Evolutionary Applications* 15:1079-1098.
 
-::: publication-journal
-:::
-::::::
-
-:::::: publication-item
-::: publication-title
-[Advancing human disease research with fish evolutionary mutant models](https://doi.org/10.1016/j.tig.2021.07.002)
-:::
-
-::: publication-citation
-**Beck EA**, **Healey HM**, **Small CM**, **Currey MC**, Desvignes T, **Cresko WA**, Postlethwait JH. *Trends in Genetics* 38:22-44.
-:::
-
-::: publication-journal
-:::
-::::::
-
-:::::: publication-item
-::: publication-title
-[Development and design of a culturally tailored intervention to address COVID-19 disparities](https://doi.org/10.3389/fpubh.2022.962862)
-:::
-
-::: publication-citation
-Budd EL, McWhirter EH, De Anda S, Mauricio AM, Mueller MV, **Cioffi CC**, Nash A, Van Brocklin K, Yarris K, Jackson A, Terral H, García JR, **Cresko WA**, DeGarmo DS, Leve LD. *Frontiers in Public Health* 10:962862.
-:::
-
-::: publication-journal
-:::
-::::::
-
-:::::: publication-item
-::: publication-title
-[Effects of a health education intervention for COVID-19 prevention in Latinx communities](https://doi.org/10.2105/AJPH.2022.307074)
-:::
-
-::: publication-citation
-De Anda S, Budd EL, Halvorson S, Mauricio AM, McWhirter EH, **Cioffi CC**, García JR, **Cresko WA**, Leve LD, DeGarmo DS. *American Journal of Public Health* 112:S923-S927.
-:::
-
-::: publication-journal
-:::
-::::::
-
-:::::: publication-item
-::: publication-title
-[Effectiveness of a COVID-19 testing outreach intervention for Latinx communities](https://doi.org/10.1001/jamanetworkopen.2022.16796)
-:::
-
-::: publication-citation
-DeGarmo DS, De Anda S, **Cioffi CC**, Tavalire HF, Searcy JA, Budd EL, McWhirter EH, Mauricio AM, Halvorson S, **Beck EA**, Fernandes L, **Currey MC**, García JR, **Cresko WA**, Leve LD. *JAMA Network Open* 5:e2216796.
-:::
-
-::: publication-journal
-:::
-::::::
-
-:::::: publication-item
-::: publication-title
-[Evolution and developmental expression of the sodium-iodide symporter gene family](https://doi.org/10.1111/eva.13428)
-:::
-
-::: publication-citation
-Petersen AM, **Small CM**, Yan YL, Wilson C, Batzel P, Bremiller RA, Buck CL, von Hippel FA, **Cresko WA**, Postlethwait JH. *Evolutionary Applications* 15:1079-1098.
-:::
-
-::: publication-journal
-:::
-::::::
+---
 
 ## 2021
 
-:::::: publication-item
-::: publication-title
-[Shared environment and genetics shape the gut microbiome after infant adoption](https://doi.org/10.1128/mBio.00548-21)
-:::
+1. Tavalire HF, Christie DM, Leve LD, Ting N, **Cresko WA**, Bohannan BJM. (2021). [Shared environment and genetics shape the gut microbiome after infant adoption](https://doi.org/10.1128/mBio.00548-21). *mBio* 12(2):e00548-21.
 
-::: publication-citation
-Tavalire HF, Christie DM, Leve LD, Ting N, **Cresko WA**, Bohannan BJM. *mBio* 12(2):e00548-21.
-:::
+2. **O'Connor CH**, **Sikkink KL**, **Nelson TC**, Fierst JL, **Cresko WA**, Phillips PC. (2021). [Complex pleiotropic genetic architecture of evolved heat stress and oxidative stress resistance](https://doi.org/10.1093/g3journal/jkab045). *G3: Genes|Genomes|Genetics* 11(4):jkab045.
 
-::: publication-journal
-:::
-::::::
+3. **Fuiten AM**, **Cresko WA**. (2021). [Evolutionary divergence of a Hoxa2b hindbrain enhancer in syngnathids](https://doi.org/10.1007/s00427-021-00675-y). *Development, Genes and Evolution* 231:57-71.
 
-:::::: publication-item
-::: publication-title
-[Complex pleiotropic genetic architecture of evolved heat stress and oxidative stress resistance](https://doi.org/10.1093/g3journal/jkab045)
-:::
+4. Rengefors K, Gollnisch R, Sassenhagen I, Härnström Aloisi K, Svensson M, Lebret K, Čertnerová D, **Cresko WA**, **Bassham S**, Ahrén D. (2021). [Genome-wide single nucleotide polymorphism markers reveal population structure](https://doi.org/10.1111/mec.15770). *Molecular Ecology* 30:912-925.
 
-::: publication-citation
-**O'Connor CH**, **Sikkink KL**, **Nelson TC**, Fierst JL, **Cresko WA**, Phillips PC. *G3: Genes|Genomes|Genetics* 11(4):jkab045.
-:::
+5. **Stervander M**, **Cresko WA**. (2021). [A highly contiguous nuclear genome assembly of the mandarinfish](https://doi.org/10.1093/g3journal/jkab306). *G3: Genes|Genomes|Genetics* 11(12):jkab306.
 
-::: publication-journal
-:::
-::::::
-
-:::::: publication-item
-::: publication-title
-[Evolutionary divergence of a Hoxa2b hindbrain enhancer in syngnathids](https://doi.org/10.1007/s00427-021-00675-y)
-:::
-
-::: publication-citation
-**Fuiten AM**, **Cresko WA**. *Development, Genes and Evolution* 231:57-71.
-:::
-
-::: publication-journal
-:::
-::::::
-
-:::::: publication-item
-::: publication-title
-[Genome-wide single nucleotide polymorphism markers reveal population structure](https://doi.org/10.1111/mec.15770)
-:::
-
-::: publication-citation
-Rengefors K, Gollnisch R, Sassenhagen I, Härnström Aloisi K, Svensson M, Lebret K, Čertnerová D, **Cresko WA**, **Bassham S**, Ahrén D. *Molecular Ecology* 30:912-925.
-:::
-
-::: publication-journal
-:::
-::::::
-
-:::::: publication-item
-::: publication-title
-[A highly contiguous nuclear genome assembly of the mandarinfish](https://doi.org/10.1093/g3journal/jkab306)
-:::
-
-::: publication-citation
-**Stervander M**, **Cresko WA**. *G3: Genes|Genomes|Genetics* 11(12):jkab306.
-:::
-
-::: publication-journal
-:::
-::::::
+---
 
 ## 2020
 
-:::::: publication-item
-::: publication-title
-[QTL mapping of intestinal neutrophil variation in threespine stickleback](https://doi.org/10.1534/g3.119.400685)
-:::
+1. **Beck EA**, **Currey MC**, **Small CM**, **Cresko WA**. (2020). [QTL mapping of intestinal neutrophil variation in threespine stickleback](https://doi.org/10.1534/g3.119.400685). *G3: Genes|Genomes|Genetics* 10(2):613-622.
 
-::: publication-citation
-**Beck EA**, **Currey MC**, **Small CM**, **Cresko WA**. *G3: Genes|Genomes|Genetics* 10(2):613-622.
-:::
+2. **Galloway J**, **Cresko WA**, Ralph P. (2020). [A few stickleback suffice for the transport of alleles to new lakes](https://doi.org/10.1534/g3.119.400564). *G3: Genes|Genomes|Genetics* 10(2):505-514.
 
-::: publication-journal
-:::
-::::::
-
-:::::: publication-item
-::: publication-title
-[A few stickleback suffice for the transport of alleles to new lakes](https://doi.org/10.1534/g3.119.400564)
-:::
-
-::: publication-citation
-**Galloway J**, **Cresko WA**, Ralph P. *G3: Genes|Genomes|Genetics* 10(2):505-514.
-:::
-
-::: publication-journal
-:::
-::::::
+---
 
 ## 2019
 
-:::::: publication-item
-::: publication-title
-[Highly reproducible 16S sequencing facilitates measurement of host genetic influences on the stickleback gut microbiome](https://doi.org/10.1128/mSystems.00331-19)
-:::
+1. **Small CM**, **Currey MC**, **Beck EA**, **Bassham S**, **Cresko WA**. (2019). [Highly reproducible 16S sequencing facilitates measurement of host genetic influences on the stickleback gut microbiome](https://doi.org/10.1128/mSystems.00331-19). *mSystems* 4(4):e00331-19.
 
-::: publication-citation
-**Small CM**, **Currey MC**, **Beck EA**, **Bassham S**, **Cresko WA**. *mSystems* 4(4):e00331-19.
-:::
+2. **Currey MC**, **Bassham S**, **Cresko WA**. (2019). [Genetic divergence outpaces phenotypic evolution among threespine stickleback populations](https://doi.org/10.1093/biolinnean/blz106). *Biological Journal of the Linnean Society* 128(2):415-434.
 
-::: publication-journal
-:::
-::::::
+3. **Steury RA**, **Currey MC**, **Cresko WA**, Bohannan BJM. (2019). [Population genetic divergence and environment influence the gut microbiome](https://doi.org/10.3390/genes10070484). *Genes* 10(7):484.
 
-:::::: publication-item
-::: publication-title
-[Genetic divergence outpaces phenotypic evolution among threespine stickleback populations](https://doi.org/10.1093/biolinnean/blz106)
-:::
+4. **Nelson TC**, **Crandall JG**, **Ituarte CM**, Catchen JM, **Cresko WA**. (2019). [Selection, linkage, and population structure interact to shape genetic variation](https://doi.org/10.1534/genetics.119.302154). *Genetics* 212:1367-1382.
 
-::: publication-citation
-**Currey MC**, **Bassham S**, **Cresko WA**. *Biological Journal of the Linnean Society* 128(2):415-434.
-:::
+5. **Sikkink KL**, Reynolds RM, **Ituarte CM**, **Cresko WA**, Phillips PC. (2019). [Environmental and evolutionary drivers of the modular gene regulatory network](https://doi.org/10.1534/g3.118.200863). *G3: Genes|Genomes|Genetics* 9(3):969-982.
 
-::: publication-journal
-:::
-::::::
+6. Tavalire HF, **Cresko WA**, Leve LD. (2019). [Determining the contributions of stress and inflammation to child health](https://doi.org/10.1007/s10519-019-09975-6). *Behavior Genetics* 49(6):504-505.
 
-:::::: publication-item
-::: publication-title
-[Population genetic divergence and environment influence the gut microbiome](https://doi.org/10.3390/genes10070484)
-:::
-
-::: publication-citation
-**Steury RA**, **Currey MC**, **Cresko WA**, Bohannan BJM. *Genes* 10(7):484.
-:::
-
-::: publication-journal
-:::
-::::::
-
-:::::: publication-item
-::: publication-title
-[Selection, linkage, and population structure interact to shape genetic variation](https://doi.org/10.1534/genetics.119.302154)
-:::
-
-::: publication-citation
-**Nelson TC**, **Crandall JG**, **Ituarte CM**, Catchen JM, **Cresko WA**. *Genetics* 212:1367-1382.
-:::
-
-::: publication-journal
-:::
-::::::
-
-:::::: publication-item
-::: publication-title
-[Environmental and evolutionary drivers of the modular gene regulatory network](https://doi.org/10.1534/g3.118.200863)
-:::
-
-::: publication-citation
-**Sikkink KL**, Reynolds RM, **Ituarte CM**, **Cresko WA**, Phillips PC. *G3: Genes|Genomes|Genetics* 9(3):969-982.
-:::
-
-::: publication-journal
-:::
-::::::
-
-:::::: publication-item
-::: publication-title
-[Determining the contributions of stress and inflammation to child health](https://doi.org/10.1007/s10519-019-09975-6)
-:::
-
-::: publication-citation
-Tavalire HF, **Cresko WA**, Leve LD. *Behavior Genetics* 49(6):504-505.
-:::
-
-::: publication-journal
-:::
-::::::
+---
 
 ## 2018
 
-:::::: publication-item
-::: publication-title
-[Repeated selection of alternatively adapted haplotypes creates sweeping genomic remodeling](https://doi.org/10.1534/genetics.117.300610)
-:::
+1. **Bassham S**, Catchen J, **Lescak E**, von Hippel FA, **Cresko WA**. (2018). [Repeated selection of alternatively adapted haplotypes creates sweeping genomic remodeling](https://doi.org/10.1534/genetics.117.300610). *Genetics* 209(3):921-939.
 
-::: publication-citation
-**Bassham S**, Catchen J, **Lescak E**, von Hippel FA, **Cresko WA**. *Genetics* 209(3):921-939.
-:::
+2. **Nelson TC**, **Cresko WA**. (2018). [Ancient genomic variation underlies repeated ecological adaptation in young stickleback populations](https://doi.org/10.1002/evl3.37). *Evolution Letters* 2(1):9-21.
 
-::: publication-journal
-:::
-::::::
+3. Leve LD, Neiderhiser JM, Harold GT, Natsuaki MN, Bohannan BJM, **Cresko WA**. (2018). [Naturalistic experimental designs as tools for understanding the role of genes and the environment](https://doi.org/10.1007/s11121-017-0778-0). *Prevention Science* 19(1):68-78.
 
-:::::: publication-item
-::: publication-title
-[Ancient genomic variation underlies repeated ecological adaptation in young stickleback populations](https://doi.org/10.1002/evl3.37)
-:::
-
-::: publication-citation
-**Nelson TC**, **Cresko WA**. *Evolution Letters* 2(1):9-21.
-:::
-
-::: publication-journal
-:::
-::::::
-
-:::::: publication-item
-::: publication-title
-[Naturalistic experimental designs as tools for understanding the role of genes and the environment](https://doi.org/10.1007/s11121-017-0778-0)
-:::
-
-::: publication-citation
-Leve LD, Neiderhiser JM, Harold GT, Natsuaki MN, Bohannan BJM, **Cresko WA**. *Prevention Science* 19(1):68-78.
-:::
-
-::: publication-journal
-:::
-::::::
+---
 
 ## 2017
 
-:::::: publication-item
-::: publication-title
-[Host genotype and microbiota contribute asymmetrically to transcriptional variation](https://doi.org/10.1093/gbe/evx014)
-:::
+1. **Small CM**, Milligan-Myhre K, **Bassham S**, Guillemin K, **Cresko WA**. (2017). [Host genotype and microbiota contribute asymmetrically to transcriptional variation](https://doi.org/10.1093/gbe/evx014). *Genome Biology and Evolution* 9(3):504-520.
 
-::: publication-citation
-**Small CM**, Milligan-Myhre K, **Bassham S**, Guillemin K, **Cresko WA**. *Genome Biology and Evolution* 9(3):504-520.
-:::
+2. **Gardell AM**, von Hippel FA, Adams EM, **Dillon DM**, Petersen AM, Postlethwait JH, **Cresko WA**, Buck CL. (2017). [Exogenous iodide ameliorates perchlorate-induced thyroid phenotypes in stickleback](https://doi.org/10.1016/j.ygcen.2016.10.014). *General and Comparative Endocrinology* 243:60-69.
 
-::: publication-journal
-:::
-::::::
+3. **Currey MC**, **Bassham S**, **Perry S**, **Cresko WA**. (2017). [Developmental timing differences underlie armor loss across threespine stickleback populations](https://doi.org/10.1111/ede.12241). *Evolution and Development* 19(6):231-243.
 
-:::::: publication-item
-::: publication-title
-[Exogenous iodide ameliorates perchlorate-induced thyroid phenotypes in stickleback](https://doi.org/10.1016/j.ygcen.2016.10.014)
-:::
+4. **Lescak EA**, Wund MA, **Bassham S**, Catchen J, Prince DJ, Lucas R, Dominguez G, von Hippel FA, **Cresko WA**. (2017). [Ancient three-spined stickleback mtDNA lineages are not associated with phenotypic or nuclear genetic variation](https://doi.org/10.1093/biolinnean/blx087). *Biological Journal of the Linnean Society* 122(3):579-588.
 
-::: publication-citation
-**Gardell AM**, von Hippel FA, Adams EM, **Dillon DM**, Petersen AM, Postlethwait JH, **Cresko WA**, Buck CL. *General and Comparative Endocrinology* 243:60-69.
-:::
-
-::: publication-journal
-:::
-::::::
-
-:::::: publication-item
-::: publication-title
-[Developmental timing differences underlie armor loss across threespine stickleback populations](https://doi.org/10.1111/ede.12241)
-:::
-
-::: publication-citation
-**Currey MC**, **Bassham S**, **Perry S**, **Cresko WA**. *Evolution and Development* 19(6):231-243.
-:::
-
-::: publication-journal
-:::
-::::::
-
-:::::: publication-item
-::: publication-title
-[Ancient three-spined stickleback mtDNA lineages are not associated with phenotypic or nuclear genetic variation](https://doi.org/10.1093/biolinnean/blx087)
-:::
-
-::: publication-citation
-**Lescak EA**, Wund MA, **Bassham S**, Catchen J, Prince DJ, Lucas R, Dominguez G, von Hippel FA, **Cresko WA**. *Biological Journal of the Linnean Society* 122(3):579-588.
-:::
-
-::: publication-journal
-:::
-::::::
+---
 
 ## 2016
 
-:::::: publication-item
-::: publication-title
-[The genome of the Gulf pipefish enables understanding of evolutionary innovations](https://doi.org/10.1186/s13059-016-1126-6)
-:::
+1. **Small CM**, **Bassham S**, Catchen J, Amores A, **Fuiten AM**, **Brown RS**, Jones AG, **Cresko WA**. (2016). [The genome of the Gulf pipefish enables understanding of evolutionary innovations](https://doi.org/10.1186/s13059-016-1126-6). *Genome Biology* 17:258.
 
-::: publication-citation
-**Small CM**, **Bassham S**, Catchen J, Amores A, **Fuiten AM**, **Brown RS**, Jones AG, **Cresko WA**. *Genome Biology* 17:258.
-:::
+2. Milligan-Myhre K, **Small CM**, **Agarwal M**, Mittge EK, **Cresko WA**, Guillemin K. (2016). [Innate immune responses to gut microbiota differ between threespine stickleback populations](https://doi.org/10.1242/dmm.021881). *Disease Models and Mechanisms* 9(2):187-198.
 
-::: publication-journal
-:::
-::::::
+3. Petersen AM, **Earp N**, **Redmond M**, Postlethwait JH, von Hippel FA, Buck CL, **Cresko WA**. (2016). [Perchlorate exposure reduces primary germ cell number in female stickleback](https://doi.org/10.1371/journal.pone.0157792). *PLoS One* 11(7):e0157792.
 
-:::::: publication-item
-::: publication-title
-[Innate immune responses to gut microbiota differ between threespine stickleback populations](https://doi.org/10.1242/dmm.021881)
-:::
-
-::: publication-citation
-Milligan-Myhre K, **Small CM**, **Agarwal M**, Mittge EK, **Cresko WA**, Guillemin K. *Disease Models and Mechanisms* 9(2):187-198.
-:::
-
-::: publication-journal
-:::
-::::::
-
-:::::: publication-item
-::: publication-title
-[Perchlorate exposure reduces primary germ cell number in female stickleback](https://doi.org/10.1371/journal.pone.0157792)
-:::
-
-::: publication-citation
-Petersen AM, **Earp N**, **Redmond M**, Postlethwait JH, von Hippel FA, Buck CL, **Cresko WA**. *PLoS One* 11(7):e0157792.
-:::
-
-::: publication-journal
-:::
-::::::
+---
 
 ## 2015
 
-:::::: publication-item
-::: publication-title
-[Evolution of stickleback in 50 years on earthquake-uplifted islands](https://doi.org/10.1073/pnas.1512020112)
-:::
+1. **Lescak EA**, **Bassham S**, Catchen J, Gelmond O, **Sherbick ML**, von Hippel FA, **Cresko WA**. (2015). [Evolution of stickleback in 50 years on earthquake-uplifted islands](https://doi.org/10.1073/pnas.1512020112). *PNAS* 112(52):E7204-E7212.
 
-::: publication-citation
-**Lescak EA**, **Bassham S**, Catchen J, Gelmond O, **Sherbick ML**, von Hippel FA, **Cresko WA**. *PNAS* 112(52):E7204-E7212.
-:::
+2. Petersen AM, **Dillon D**, **Bernhardt RR**, **Torunsky R**, Postlethwait JH, von Hippel FA, Buck CL, **Cresko WA**. (2015). [Perchlorate disrupts embryonic androgen synthesis without changing thyroid hormone](https://doi.org/10.1016/j.ygcen.2014.11.015). *General and Comparative Endocrinology* 210:130-144.
 
-::: publication-journal
-:::
-::::::
+3. **Sikkink KL**, Reynolds RM, **Cresko WA**, Phillips PC. (2015). [Environmentally induced changes in correlated responses to selection reveal variable pleiotropy](https://doi.org/10.1111/evo.12651). *Evolution* 69:1128-1142.
 
-:::::: publication-item
-::: publication-title
-[Perchlorate disrupts embryonic androgen synthesis without changing thyroid hormone](https://doi.org/10.1016/j.ygcen.2014.11.015)
-:::
+4. Allendorf FW, **Bassham S**, **Cresko WA**, Limborg MT, Seeb LW, Seeb JE. (2015). [Effects of crossovers between homeologs on inheritance and population genomics in polyploid-derived salmonid fishes](https://doi.org/10.1093/jhered/esv015). *Journal of Heredity* 106:217-227.
 
-::: publication-citation
-Petersen AM, **Dillon D**, **Bernhardt RR**, **Torunsky R**, Postlethwait JH, von Hippel FA, Buck CL, **Cresko WA**. *General and Comparative Endocrinology* 210:130-144.
-:::
+5. Catchen JM, Hohenlohe PA, Bernatchez L, Funk WC, Andrews KR, Allendorf FW, **Cresko WA**. (2015). [Unbroken: RADseq remains a powerful tool for understanding the genetics of adaptation in natural populations](https://doi.org/10.1111/1755-0998.12669). *Molecular Ecology Resources* 17(3):362-365.
 
-::: publication-journal
-:::
-::::::
-
-:::::: publication-item
-::: publication-title
-[Environmentally induced changes in correlated responses to selection reveal variable pleiotropy](https://doi.org/10.1111/evo.12651)
-:::
-
-::: publication-citation
-**Sikkink KL**, Reynolds RM, **Cresko WA**, Phillips PC. *Evolution* 69:1128-1142.
-:::
-
-::: publication-journal
-:::
-::::::
-
-:::::: publication-item
-::: publication-title
-[Effects of crossovers between homeologs on inheritance and population genomics in polyploid-derived salmonid fishes](https://doi.org/10.1093/jhered/esv015)
-:::
-
-::: publication-citation
-Allendorf FW, **Bassham S**, **Cresko WA**, Limborg MT, Seeb LW, Seeb JE. *Journal of Heredity* 106:217-227.
-:::
-
-::: publication-journal
-:::
-::::::
-
-:::::: publication-item
-::: publication-title
-[Unbroken: RADseq remains a powerful tool for understanding the genetics of adaptation in natural populations](https://doi.org/10.1111/1755-0998.12669)
-:::
-
-::: publication-citation
-Catchen JM, Hohenlohe PA, Bernatchez L, Funk WC, Andrews KR, Allendorf FW, **Cresko WA**. *Molecular Ecology Resources* 17(3):362-365.
-:::
-
-::: publication-journal
-:::
-::::::
+---
 
 ## 2014
 
-:::::: publication-item
-::: publication-title
-[Rapid evolution of phenotypic plasticity and shifting thresholds of genetic assimilation](https://doi.org/10.1534/g3.114.010876)
-:::
+1. **Sikkink KL**, Reynolds RM, **Ituarte CM**, **Cresko WA**, Phillips PC. (2014). [Rapid evolution of phenotypic plasticity and shifting thresholds of genetic assimilation](https://doi.org/10.1534/g3.114.010876). *G3: Genes|Genomes|Genetics* 4(6):1103-1112.
 
-::: publication-citation
-**Sikkink KL**, Reynolds RM, **Ituarte CM**, **Cresko WA**, Phillips PC. *G3: Genes|Genomes|Genetics* 4(6):1103-1112.
-:::
+2. **Sikkink KL**, **Ituarte CM**, Reynolds RM, **Cresko WA**, Phillips PC. (2014). [The transgenerational effects of heat stress in the nematode Caenorhabditis remanei](https://doi.org/10.1016/j.genomics.2014.09.014). *Genomics* 104:438-446.
 
-::: publication-journal
-:::
-::::::
+3. **Reynolds RM**, **Temiyasathit S**, **Reedy MM**, **Ruedi EA**, **Drnevich JM**, **Leips J**, **Cresko WA**. (2014). [Evolutionary change in the developmental timing of an adaptive phenotype](https://doi.org/10.1111/evo.12522). *Evolution* 68(12):3607-3616.
 
-:::::: publication-item
-::: publication-title
-[The transgenerational effects of heat stress in the nematode Caenorhabditis remanei](https://doi.org/10.1016/j.genomics.2014.09.014)
-:::
+4. **Malek TB**, **Boughman JW**, **Dworkin I**, **Peichel CL**, **Cresko WA**. (2014). [Admixture mapping of male nuptial color and body shape in a recently formed hybrid population of threespine stickleback](https://doi.org/10.1111/j.1365-294X.2012.05660.x). *Molecular Ecology* 21(21):5265-5279.
 
-::: publication-citation
-**Sikkink KL**, **Ituarte CM**, Reynolds RM, **Cresko WA**, Phillips PC. *Genomics* 104:438-446.
-:::
-
-::: publication-journal
-:::
-::::::
-
-:::::: publication-item
-::: publication-title
-[Evolutionary change in the developmental timing of an adaptive phenotype](https://doi.org/10.1111/evo.12522)
-:::
-
-::: publication-citation
-**Reynolds RM**, **Temiyasathit S**, **Reedy MM**, **Ruedi EA**, **Drnevich JM**, **Leips J**, **Cresko WA**. *Evolution* 68(12):3607-3616.
-:::
-
-::: publication-journal
-:::
-::::::
-
-:::::: publication-item
-::: publication-title
-[Admixture mapping of male nuptial color and body shape in a recently formed hybrid population of threespine stickleback](https://doi.org/10.1111/j.1365-294X.2012.05660.x)
-:::
-
-::: publication-citation
-**Malek TB**, **Boughman JW**, **Dworkin I**, **Peichel CL**, **Cresko WA**. *Molecular Ecology* 21(21):5265-5279.
-:::
-
-::: publication-journal
-:::
-::::::
+---
 
 ## 2013
 
-:::::: publication-item
-::: publication-title
-[The population structure and recent colonization history of Oregon threespine stickleback](https://doi.org/10.1111/mec.12330)
-:::
+1. Catchen J, **Bassham S**, Wilson T, **Currey MC**, **O'Brien C**, **Yeates Q**, **Cresko WA**. (2013). [The population structure and recent colonization history of Oregon threespine stickleback](https://doi.org/10.1111/mec.12330). *Molecular Ecology* 22(11):2864-2883.
 
-::: publication-citation
-Catchen J, **Bassham S**, Wilson T, **Currey MC**, **O'Brien C**, **Yeates Q**, **Cresko WA**. *Molecular Ecology* 22(11):2864-2883.
-:::
+2. Catchen J, Hohenlohe PA, **Bassham S**, Amores A, **Cresko WA**. (2013). [Stacks: an analysis tool set for population genomics](https://doi.org/10.1111/mec.12354). *Molecular Ecology* 22(11):3124-3140.
 
-::: publication-journal
-:::
-::::::
+3. **O'Brien CS**, **Unruh L**, Zimmerman C, Bradshaw WE, Holzapfel CM, **Cresko WA**. (2013). [Geography of the circadian gene clock and photoperiodic response in western North American populations](https://doi.org/10.1111/jfb.12024). *Journal of Fish Biology* 82(3):827-839.
 
-:::::: publication-item
-::: publication-title
-[Stacks: an analysis tool set for population genomics](https://doi.org/10.1111/mec.12354)
-:::
-
-::: publication-citation
-Catchen J, Hohenlohe PA, **Bassham S**, Amores A, **Cresko WA**. *Molecular Ecology* 22(11):3124-3140.
-:::
-
-::: publication-journal
-:::
-::::::
-
-:::::: publication-item
-::: publication-title
-[Geography of the circadian gene clock and photoperiodic response in western North American populations](https://doi.org/10.1111/jfb.12024)
-:::
-
-::: publication-citation
-**O'Brien CS**, **Unruh L**, Zimmerman C, Bradshaw WE, Holzapfel CM, **Cresko WA**. *Journal of Fish Biology* 82(3):827-839.
-:::
-
-::: publication-journal
-:::
-::::::
+---
 
 ## 2012
 
-:::::: publication-item
-::: publication-title
-[Developmental dissociation in morphological evolution of the stickleback opercle](https://doi.org/10.1111/j.1525-142X.2012.00548.x)
-:::
+1. Kimmel CB, Hohenlohe PA, Ullmann B, **Currey MC**, **Cresko WA**. (2012). [Developmental dissociation in morphological evolution of the stickleback opercle](https://doi.org/10.1111/j.1525-142X.2012.00548.x). *Evolution and Development* 14(4):326-337.
 
-::: publication-citation
-Kimmel CB, Hohenlohe PA, Ullmann B, **Currey MC**, **Cresko WA**. *Evolution and Development* 14(4):326-337.
-:::
+2. Hohenlohe PA, **Bassham S**, **Currey MC**, **Cresko WA**. (2012). [Extensive linkage disequilibrium and parallel adaptive divergence across threespine stickleback genomes](https://doi.org/10.1098/rstb.2011.0245). *Philosophical Transactions of the Royal Society B* 367(1587):395-408.
 
-::: publication-journal
-:::
-::::::
+3. Hohenlohe PA, Catchen J, **Cresko WA**. (2012). [Population genomic analysis of model and nonmodel organisms using sequenced RAD tags](https://doi.org/10.1007/978-1-61779-870-2_14). *Methods in Molecular Biology* 888:235-260.
 
-:::::: publication-item
-::: publication-title
-[Extensive linkage disequilibrium and parallel adaptive divergence across threespine stickleback genomes](https://doi.org/10.1098/rstb.2011.0245)
-:::
+4. Kimmel CB, McGuigan K, Phillips PC, Ullmann B, **Currey MC**, von Hippel FA, Kristjánsson BK, Gelmond O, **Cresko WA**. (2012). [Independent axes of genetic variation and parallel evolutionary divergence of opercle bone shape](https://doi.org/10.1111/j.1558-5646.2011.01441.x). *Evolution* 66(2):419-434.
 
-::: publication-citation
-Hohenlohe PA, **Bassham S**, **Currey MC**, **Cresko WA**. *Philosophical Transactions of the Royal Society B* 367(1587):395-408.
-:::
+5. **O'Brien CS**, **Bourdo R**, Bradshaw WE, Holzapfel CM, **Cresko WA**. (2012). [Conservation of the photoperiodic neuroendocrine axis among vertebrates](https://doi.org/10.1016/j.ygcen.2012.04.015). *General and Comparative Endocrinology* 178:19-27.
 
-::: publication-journal
-:::
-::::::
-
-:::::: publication-item
-::: publication-title
-[Population genomic analysis of model and nonmodel organisms using sequenced RAD tags](https://doi.org/10.1007/978-1-61779-870-2_14)
-:::
-
-::: publication-citation
-Hohenlohe PA, Catchen J, **Cresko WA**. *Methods in Molecular Biology* 888:235-260.
-:::
-
-::: publication-journal
-:::
-::::::
-
-:::::: publication-item
-::: publication-title
-[Independent axes of genetic variation and parallel evolutionary divergence of opercle bone shape](https://doi.org/10.1111/j.1558-5646.2011.01441.x)
-:::
-
-::: publication-citation
-Kimmel CB, McGuigan K, Phillips PC, Ullmann B, **Currey MC**, von Hippel FA, Kristjánsson BK, Gelmond O, **Cresko WA**. *Evolution* 66(2):419-434.
-:::
-
-::: publication-journal
-:::
-::::::
-
-:::::: publication-item
-::: publication-title
-[Conservation of the photoperiodic neuroendocrine axis among vertebrates](https://doi.org/10.1016/j.ygcen.2012.04.015)
-:::
-
-::: publication-citation
-**O'Brien CS**, **Bourdo R**, Bradshaw WE, Holzapfel CM, **Cresko WA**. *General and Comparative Endocrinology* 178:19-27.
-:::
-
-::: publication-journal
-:::
-::::::
+---
 
 ## 2011
 
-:::::: publication-item
-::: publication-title
-[Cryptic genetic variation and body size evolution in threespine stickleback](https://doi.org/10.1111/j.1558-5646.2010.01195.x)
-:::
+1. McGuigan K, **Nishimura N**, **Currey MC**, **Hurwit D**, **Cresko WA**. (2011). [Cryptic genetic variation and body size evolution in threespine stickleback](https://doi.org/10.1111/j.1558-5646.2010.01195.x). *Evolution* 65:1203-1211.
 
-::: publication-citation
-McGuigan K, **Nishimura N**, **Currey MC**, **Hurwit D**, **Cresko WA**. *Evolution* 65:1203-1211.
-:::
+2. Etter PD, **Bassham S**, Hohenlohe PA, Johnson EA, **Cresko WA**. (2011). [SNP discovery and genotyping for evolutionary genetics using RAD sequencing](https://doi.org/10.1007/978-1-61779-228-1_9). *Methods in Molecular Biology* 772:157-178.
 
-::: publication-journal
-:::
-::::::
+3. Catchen JM, Amores A, Hohenlohe PA, **Cresko WA**, Postlethwait JH. (2011). [Stacks: building and genotyping loci de novo from short-read sequences](https://doi.org/10.1534/g3.111.000240). *G3: Genes|Genomes|Genetics* 1:171-182.
 
-:::::: publication-item
-::: publication-title
-[SNP discovery and genotyping for evolutionary genetics using RAD sequencing](https://doi.org/10.1007/978-1-61779-228-1_9)
-:::
+4. Etter P, **Preston J**, **Bassham S**, **Cresko WA**, Johnson EA. (2011). [Local de novo assembly of RAD paired-end contigs using short sequencing reads](https://doi.org/10.1371/journal.pone.0018561). *PLoS One* 6(4):e18561.
 
-::: publication-citation
-Etter PD, **Bassham S**, Hohenlohe PA, Johnson EA, **Cresko WA**. *Methods in Molecular Biology* 772:157-178.
-:::
+5. **Nishimura N**, Heins D, **Anderson R**, Barber I, **Cresko WA**. (2011). [Distinct lineages of Schistocephalus parasites in threespine and ninespine stickleback hosts](https://doi.org/10.1371/journal.pone.0022505). *PLoS One* 6(7):e22505.
 
-::: publication-journal
-:::
-::::::
-
-:::::: publication-item
-::: publication-title
-[Stacks: building and genotyping loci de novo from short-read sequences](https://doi.org/10.1534/g3.111.000240)
-:::
-
-::: publication-citation
-Catchen JM, Amores A, Hohenlohe PA, **Cresko WA**, Postlethwait JH. *G3: Genes|Genomes|Genetics* 1:171-182.
-:::
-
-::: publication-journal
-:::
-::::::
-
-:::::: publication-item
-::: publication-title
-[Local de novo assembly of RAD paired-end contigs using short sequencing reads](https://doi.org/10.1371/journal.pone.0018561)
-:::
-
-::: publication-citation
-Etter P, **Preston J**, **Bassham S**, **Cresko WA**, Johnson EA. *PLoS One* 6(4):e18561.
-:::
-
-::: publication-journal
-:::
-::::::
-
-:::::: publication-item
-::: publication-title
-[Distinct lineages of Schistocephalus parasites in threespine and ninespine stickleback hosts](https://doi.org/10.1371/journal.pone.0022505)
-:::
-
-::: publication-citation
-**Nishimura N**, Heins D, **Anderson R**, Barber I, **Cresko WA**. *PLoS One* 6(7):e22505.
-:::
-
-::: publication-journal
-:::
-::::::
+---
 
 ## 2010
 
-:::::: publication-item
-::: publication-title
-[Population genomics of parallel adaptation in threespine stickleback using sequenced RAD tags](https://doi.org/10.1371/journal.pgen.1000862)
-:::
+1. Hohenlohe PA, **Bassham S**, Etter PD, Stiffler N, Johnson EA, **Cresko WA**. (2010). [Population genomics of parallel adaptation in threespine stickleback using sequenced RAD tags](https://doi.org/10.1371/journal.pgen.1000862). *PLoS Genetics* 6(2):e1000862.
 
-::: publication-citation
-Hohenlohe PA, **Bassham S**, Etter PD, Stiffler N, Johnson EA, **Cresko WA**. *PLoS Genetics* 6(2):e1000862.
-:::
+2. Hohenlohe PA, Phillips PC, **Cresko WA**. (2010). [Using population genomics to detect selection in natural populations](https://doi.org/10.1086/656306). *International Journal of Plant Sciences* 171(9):1059-1071.
 
-::: publication-journal
-:::
-::::::
+3. **Emerson KJ**, **Merz CR**, Catchen JM, Hohenlohe PA, **Cresko WA**, Bradshaw WE, Holzapfel CM. (2010). [Resolving postglacial phylogeography using high-throughput sequencing](https://doi.org/10.1073/pnas.1006538107). *PNAS* 107(37):16196-16200.
 
-:::::: publication-item
-::: publication-title
-[Using population genomics to detect selection in natural populations](https://doi.org/10.1086/656306)
-:::
+4. McGuigan K, **Nishimura N**, **Currey MC**, **Hurwit D**, **Cresko WA**. (2010). [Quantitative genetic variation in static allometry in threespine stickleback](https://doi.org/10.1093/icb/icq026). *Integrative and Comparative Biology* 50(6):1067-1080.
 
-::: publication-citation
-Hohenlohe PA, Phillips PC, **Cresko WA**. *International Journal of Plant Sciences* 171(9):1059-1071.
-:::
-
-::: publication-journal
-:::
-::::::
-
-:::::: publication-item
-::: publication-title
-[Resolving postglacial phylogeography using high-throughput sequencing](https://doi.org/10.1073/pnas.1006538107)
-:::
-
-::: publication-citation
-**Emerson KJ**, **Merz CR**, Catchen JM, Hohenlohe PA, **Cresko WA**, Bradshaw WE, Holzapfel CM. *PNAS* 107(37):16196-16200.
-:::
-
-::: publication-journal
-:::
-::::::
-
-:::::: publication-item
-::: publication-title
-[Quantitative genetic variation in static allometry in threespine stickleback](https://doi.org/10.1093/icb/icq026)
-:::
-
-::: publication-citation
-McGuigan K, **Nishimura N**, **Currey MC**, **Hurwit D**, **Cresko WA**. *Integrative and Comparative Biology* 50(6):1067-1080.
-:::
-
-::: publication-journal
-:::
-::::::
+---
 
 ## 2009
 
-:::::: publication-item
-::: publication-title
-[Evolutionary mutant models for human disease](https://doi.org/10.1016/j.tig.2008.11.006)
-:::
+1. Albertson RC, **Cresko WA**, Dietrich HW III, Postlethwait JH. (2009). [Evolutionary mutant models for human disease](https://doi.org/10.1016/j.tig.2008.11.006). *Trends in Genetics* 25(2):74-81.
 
-::: publication-citation
-Albertson RC, **Cresko WA**, Dietrich HW III, Postlethwait JH. *Trends in Genetics* 25(2):74-81.
-:::
+2. **Yeates-Burghart QS**, **O'Brien CS**, **Cresko WA**, Holzapfel CM, Bradshaw WE. (2009). [Latitudinal variation in photoperiodic response of the three-spined stickleback](https://doi.org/10.1111/j.1095-8649.2009.02419.x). *Journal of Fish Biology* 75:2075-2081.
 
-::: publication-journal
-:::
-::::::
-
-:::::: publication-item
-::: publication-title
-[Latitudinal variation in photoperiodic response of the three-spined stickleback](https://doi.org/10.1111/j.1095-8649.2009.02419.x)
-:::
-
-::: publication-citation
-**Yeates-Burghart QS**, **O'Brien CS**, **Cresko WA**, Holzapfel CM, Bradshaw WE. *Journal of Fish Biology* 75:2075-2081.
-:::
-
-::: publication-journal
-:::
-::::::
+---
 
 ## 2008
 
-:::::: publication-item
-::: publication-title
-[Rapid SNP discovery and genetic mapping using sequenced RAD markers](https://doi.org/10.1371/journal.pone.0003376)
-:::
+1. Baird NA, Etter PD, Atwood TS, **Currey MC**, **Shiver AL**, **Lewis ZA**, Selker EU, **Cresko WA**, Johnson EA. (2008). [Rapid SNP discovery and genetic mapping using sequenced RAD markers](https://doi.org/10.1371/journal.pone.0003376). *PLoS One* 3(10):e3376.
 
-::: publication-citation
-Baird NA, Etter PD, Atwood TS, **Currey MC**, **Shiver AL**, **Lewis ZA**, Selker EU, **Cresko WA**, Johnson EA. *PLoS One* 3(10):e3376.
-:::
+2. **Cresko WA**. (2008). [Armor Development and Fitness](https://doi.org/10.1126/science.1163648). *Science* 322:204-206.
 
-::: publication-journal
-:::
-::::::
+3. **Cresko WA**. (2008). [Special issue on stickleback behavior and evolution: Preface](https://doi.org/10.1163/156853908783929151). *Behaviour* 145:409-411.
 
-:::::: publication-item
-::: publication-title
-[Armor Development and Fitness](https://doi.org/10.1126/science.1163648)
-:::
+4. Kimmel CB, Ullmann B, **Currey MC**, **Aguirre WE**, **Cresko WA**. (2008). [Heterotopy explains opercular shape evolution in Alaskan threespine sticklebacks](https://doi.org/10.1163/156853908783929160). *Behaviour* 145:669-691.
 
-::: publication-citation
-**Cresko WA**. *Science* 322:204-206.
-:::
+5. **Lewis ZR**, McClellan MC, Postlethwait JH, **Cresko WA**, Kaplan RH. (2008). [Female-specific increases in primordial germ cells marks sex differentiation in threespine stickleback](https://doi.org/10.1002/jmor.10644). *Journal of Morphology* 269:909-921.
 
-::: publication-journal
-:::
-::::::
-
-:::::: publication-item
-::: publication-title
-[Special issue on stickleback behavior and evolution: Preface](https://doi.org/10.1163/156853908783929151)
-:::
-
-::: publication-citation
-**Cresko WA**. *Behaviour* 145:409-411.
-:::
-
-::: publication-journal
-:::
-::::::
-
-:::::: publication-item
-::: publication-title
-[Heterotopy explains opercular shape evolution in Alaskan threespine sticklebacks](https://doi.org/10.1163/156853908783929160)
-:::
-
-::: publication-citation
-Kimmel CB, Ullmann B, **Currey MC**, **Aguirre WE**, **Cresko WA**. *Behaviour* 145:669-691.
-:::
-
-::: publication-journal
-:::
-::::::
-
-:::::: publication-item
-::: publication-title
-[Female-specific increases in primordial germ cells marks sex differentiation in threespine stickleback](https://doi.org/10.1002/jmor.10644)
-:::
-
-::: publication-citation
-**Lewis ZR**, McClellan MC, Postlethwait JH, **Cresko WA**, Kaplan RH. *Journal of Morphology* 269:909-921.
-:::
-
-::: publication-journal
-:::
-::::::
+---
 
 ## 2007
 
-:::::: publication-item
-::: publication-title
-[Rapid and cost-effective polymorphism identification and genotyping using RAD markers](https://doi.org/10.1101/gr.5681207)
-:::
+1. **Miller MR**, **Dunham JP**, Amores A, **Cresko WA**, Johnson EA. (2007). [Rapid and cost-effective polymorphism identification and genotyping using RAD markers](https://doi.org/10.1101/gr.5681207). *Genome Research* 17(2):240-248.
 
-::: publication-citation
-**Miller MR**, **Dunham JP**, Amores A, **Cresko WA**, Johnson EA. *Genome Research* 17(2):240-248.
-:::
+2. **Cresko WA**, McGuigan K, Phillips PC, Postlethwait JH. (2007). [Developmental basis of microevolution in threespine stickleback](https://doi.org/10.1007/s10709-006-9116-3). *Genetica* 129(1):105-126.
 
-::: publication-journal
-:::
-::::::
-
-:::::: publication-item
-::: publication-title
-[Developmental basis of microevolution in threespine stickleback](https://doi.org/10.1007/s10709-006-9116-3)
-:::
-
-::: publication-citation
-**Cresko WA**, McGuigan K, Phillips PC, Postlethwait JH. *Genetica* 129(1):105-126.
-:::
-
-::: publication-journal
-:::
-::::::
+---
 
 ## 2006
 
-:::::: publication-item
-::: publication-title
-[Perchlorate induces hermaphroditism in threespine stickleback](https://doi.org/10.1897/05-454R.1)
-:::
+1. **Bernhardt RR**, von Hippel FA, **Cresko WA**. (2006). [Perchlorate induces hermaphroditism in threespine stickleback](https://doi.org/10.1897/05-454R.1). *Environmental Toxicology and Chemistry* 25(8):2087-2096.
 
-::: publication-citation
-**Bernhardt RR**, von Hippel FA, **Cresko WA**. *Environmental Toxicology and Chemistry* 25(8):2087-2096.
-:::
-
-::: publication-journal
-:::
-::::::
+---
 
 ## 2005
 
-:::::: publication-item
-::: publication-title
-[Evolution and development of facial bone morphology in threespine sticklebacks](https://doi.org/10.1073/pnas.0408533102)
-:::
+1. Kimmel CB, Ullmann B, Walker C, Wilson C, **Currey MC**, Phillips PC, Bell MA, Postlethwait JH, **Cresko WA**. (2005). [Evolution and development of facial bone morphology in threespine sticklebacks](https://doi.org/10.1073/pnas.0408533102). *PNAS* 102(16):5791-5796.
 
-::: publication-citation
-Kimmel CB, Ullmann B, Walker C, Wilson C, **Currey MC**, Phillips PC, Bell MA, Postlethwait JH, **Cresko WA**. *PNAS* 102(16):5791-5796.
-:::
+2. Force A, **Cresko WA**, Pickett FB, Proulx SR, Amemiya C, Lynch M. (2005). [The origin of subfunctions and modular gene regulation](https://doi.org/10.1534/genetics.104.027607). *Genetics* 170:433-446.
 
-::: publication-journal
-:::
-::::::
-
-:::::: publication-item
-::: publication-title
-[The origin of subfunctions and modular gene regulation](https://doi.org/10.1534/genetics.104.027607)
-:::
-
-::: publication-citation
-Force A, **Cresko WA**, Pickett FB, Proulx SR, Amemiya C, Lynch M. *Genetics* 170:433-446.
-:::
-
-::: publication-journal
-:::
-::::::
+---
 
 ## 2004
 
-:::::: publication-item
-::: publication-title
-[Parallel genetic basis for repeated evolution of armor loss in Alaskan threespine stickleback](https://doi.org/10.1073/pnas.0308479101)
-:::
+1. **Cresko WA**, Amores A, Wilson C, Murphy J, **Currey MC**, Phillips P, Bell MA, Kimmel CB, Postlethwait JH. (2004). [Parallel genetic basis for repeated evolution of armor loss in Alaskan threespine stickleback](https://doi.org/10.1073/pnas.0308479101). *PNAS* 101(16):6050-6055.
 
-::: publication-citation
-**Cresko WA**, Amores A, Wilson C, Murphy J, **Currey MC**, Phillips P, Bell MA, Kimmel CB, Postlethwait JH. *PNAS* 101(16):6050-6055.
-:::
+2. Postlethwait JH, Amores A, **Cresko WA**, Yan Y. (2004). [Evolutionary and developmental consequences of teleost genome duplication](https://doi.org/10.1016/j.tig.2004.08.007). *Trends in Genetics* 20(10):481-490.
 
-::: publication-journal
-:::
-::::::
-
-:::::: publication-item
-::: publication-title
-[Evolutionary and developmental consequences of teleost genome duplication](https://doi.org/10.1016/j.tig.2004.08.007)
-:::
-
-::: publication-citation
-Postlethwait JH, Amores A, **Cresko WA**, Yan Y. *Trends in Genetics* 20(10):481-490.
-:::
-
-::: publication-journal
-:::
-::::::
+---
 
 ## 2003
 
-:::::: publication-item
-::: publication-title
-[Genome duplication, subfunction partitioning, and lineage divergence: Sox9 in stickleback and zebrafish](https://doi.org/10.1002/dvdy.10424)
-:::
+1. **Cresko WA**, Yan Y, **Baltrus D**, Amores A, Singer A, **Rodriguez-Mari A**, Postlethwait JH. (2003). [Genome duplication, subfunction partitioning, and lineage divergence: Sox9 in stickleback and zebrafish](https://doi.org/10.1002/dvdy.10424). *Developmental Dynamics* 228:480-489.
 
-::: publication-citation
-**Cresko WA**, Yan Y, **Baltrus D**, Amores A, Singer A, **Rodriguez-Mari A**, Postlethwait JH. *Developmental Dynamics* 228:480-489.
-:::
-
-::: publication-journal
-:::
-::::::
+---
 
 ## 2000
 
-:::::: publication-item
-::: publication-title
-The ecology and geography of speciation: A case study using an adaptive radiation of threespine stickleback in Alaska
-:::
+1. **Cresko WA**. (2000). The ecology and geography of speciation: A case study using an adaptive radiation of threespine stickleback in Alaska. *PhD Dissertation*, Clark University, Worcester, MA.
 
-::: publication-citation
-**Cresko WA**. *PhD Dissertation*, Clark University, Worcester, MA.
-:::
-
-::: publication-journal
-:::
-::::::
+---
 
 ## 1998
 
-:::::: publication-item
-::: publication-title
-[Nested biological variation and speciation](https://doi.org/10.1098/rstb.1998.0203)
-:::
+1. Foster SA, Scott R, **Cresko WA**. (1998). [Nested biological variation and speciation](https://doi.org/10.1098/rstb.1998.0203). *Philosophical Transactions of the Royal Society of London B* 353:207-218.
 
-::: publication-citation
-Foster SA, Scott R, **Cresko WA**. *Philosophical Transactions of the Royal Society of London B* 353:207-218.
-:::
-
-::: publication-journal
-:::
-::::::
+---
 
 ## 1997
 
-:::::: publication-item
-::: publication-title
-[Diamondback terrapin mortality in crab pots](https://doi.org/10.1111/j.1523-1739.1997.96155.x)
-:::
+1. Roosenburg WM, **Cresko WA**, **Modesitte M**, **Robbins MB**. (1997). [Diamondback terrapin mortality in crab pots](https://doi.org/10.1111/j.1523-1739.1997.96155.x). *Conservation Biology* 11:1166-1172.
 
-::: publication-citation
-Roosenburg WM, **Cresko WA**, **Modesitte M**, **Robbins MB**. *Conservation Biology* 11:1166-1172.
-:::
-
-::: publication-journal
-:::
-::::::
+---
 
 ## 1996
 
-:::::: publication-item
-::: publication-title
-[Two morphotypes of lacustrine threespine stickleback in Benka Lake, Alaska](https://doi.org/10.1007/BF00114394)
-:::
+1. **Cresko WA**, Baker JA. (1996). [Two morphotypes of lacustrine threespine stickleback in Benka Lake, Alaska](https://doi.org/10.1007/BF00114394). *Environmental Biology of Fishes* 45:343-350.
 
-::: publication-citation
-**Cresko WA**, Baker JA. *Environmental Biology of Fishes* 45:343-350.
-:::
+2. Cameron S, Whitfield J, **Hulslander C**, **Cresko WA**, **Isenberg S**, **King R**. (1996). [Nesting biology and foraging patterns of the solitary bee Melissodes rustica](https://www.jstor.org/stable/25085714). *Journal of the Kansas Entomological Society* 69(4):260-273.
 
-::: publication-journal
-:::
-::::::
+---
 
-:::::: publication-item
-::: publication-title
-[Nesting biology and foraging patterns of the solitary bee Melissodes rustica](https://www.jstor.org/stable/25085714)
-:::
+## Publication Profiles
 
-::: publication-citation
-Cameron S, Whitfield J, **Hulslander C**, **Cresko WA**, **Isenberg S**, **King R**. *Journal of the Kansas Entomological Society* 69(4):260-273.
-:::
+- [{{< fa brands google-scholar >}} Google Scholar](https://scholar.google.com/citations?user=kMq60q8AAAAJ)
+- [ORCID](https://orcid.org/0000-0002-0734-3346)
 
-::: publication-journal
-:::
-::::::
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-------------------------------------------------------------------------
+---
 
 ::: metrics-section
 ## Metrics
 
-**100+** publications | **15,000+** citations | **h-index: 52** | [{{< fa brands google-scholar >}} Google Scholar](https://scholar.google.com/citations?user=kMq60q8AAAAJ)
+**100+** publications | **15,000+** citations | **h-index: 52**
 :::
 
 *Lab members in bold*

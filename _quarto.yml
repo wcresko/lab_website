@@ -11,8 +11,7 @@ website:
   page-navigation: true
   
   navbar:
-    background: "#ffffff"
-    foreground: "#404040"
+    background: primary
     title: "Cresko Laboratory"
     logo: /images/lab_logo.png
     logo-alt: "Cresko Laboratory"
