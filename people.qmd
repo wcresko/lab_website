@@ -82,7 +82,7 @@ University of Oregon
 
 Shannon is a graduate student studying the transcriptional and epigenetic basis of transgenerational inheritence using the freshwater microcrustacean *Daphnia*. Shannon earned her undergraduate and Masters degrees at Arizona State University under the tutelage of Dr. Mike Lynch. Shannon was awarded support from the NIH T32 Genetics Training Program.
 
-**Contact:** ssnyder3\@uoregon.edu\
+**Contact:** ssnyder\@uoregon.edu\
 [Full Profile](people/snyder.qmd)
 :::
 ::::::
@@ -201,7 +201,7 @@ Bruno is an undergraduate researcher working on host-microbiome interactions and
 
 ### Post-Baccalaureate Scholar
 
--   **Jillian Vogel** (2024-2025) - Jillian was a postdoctoral scholar in the laboratory.
+-   **Jillian Vogel** (2024-2025) - Post-Baccalaureate Scholar
 -   **Hayden Penn** (2024-2025) - Post-baccalaureate Scholar
 -   **Micah Woods** (2023-2024) - Micah assisted with a range of projects throughout the lab. Before their role as a Post-Baccalaureate Scholar, they worked as a Knight Campus Undergraduate Scholar exploring gene expression in craniofacial development of zebrafish, stickleback, and pipefish using in situ hybridization. They wrote, defended, and earned the Robert D. Clark Award for their thesis in philosophy of biology. Recently published in Ms. Magazine highlighting the contributions of Dr. Kata Karáth. [Full Profile](people/woods.qmd)
 

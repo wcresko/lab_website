@@ -9,9 +9,6 @@ about:
     - icon: envelope
       text: Email
       href: mailto:sbassham@uoregon.edu
-    - icon: google
-      text: Scholar
-      href: https://scholar.google.com/citations?user=USERID
 page-layout: full
 toc: true
 ---

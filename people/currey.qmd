@@ -1,6 +1,6 @@
 ---
 title: "Mark Currey"
-subtitle: "Senior Research Assistant"
+subtitle: "Senior Research Scientist"
 image: "../images/lab_folks/Currey_Mark_1.jpg"
 about:
   template: trestles
@@ -9,9 +9,6 @@ about:
     - icon: envelope
       text: Email
       href: mailto:mcurrey@uoregon.edu
-    - icon: google
-      text: Scholar
-      href: https://scholar.google.com/citations?user=USERID
 page-layout: full
 toc: true
 ---
