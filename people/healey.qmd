@@ -1,6 +1,6 @@
 ---
 title: "Hope Healey"
-subtitle: "Graduate Student"
+subtitle: "Ph.D. (2024)"
 image: "../images/lab_folks/Healey_Hope_1.jpg"
 about:
   template: trestles
@@ -15,9 +15,6 @@ about:
     - icon: envelope
       text: Email
       href: mailto:hhealey@uoregon.edu
-    - icon: google
-      text: Scholar
-      href: https://scholar.google.com/citations?user=USERID
 page-layout: full
 toc: true
 ---

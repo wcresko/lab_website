@@ -9,9 +9,6 @@ about:
     - icon: envelope
       text: Email
       href: mailto:ssnyder@uoregon.edu
-    - icon: google
-      text: Scholar
-      href: https://scholar.google.com/citations?user=USERID
 page-layout: full
 toc: true
 ---
@@ -23,7 +20,8 @@ Shannon Snyder is a graduate student in the Cresko Laboratory focusing on the ev
 ## Education
 
 -   **Ph.D. Candidate, Biology**, University of Oregon (in progress)
--   **B.S.**, \[Previous Institution\]
+-   **M.S.**, Arizona State University
+-   **B.S.**, Arizona State University
 
 ## Research Interests
 

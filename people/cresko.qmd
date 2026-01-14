@@ -1,6 +1,6 @@
 ---
 title: "William A. Cresko"
-subtitle: "Professor of Biology | Lorry Lokey Chair in Bioengineering | Associate Vice President for Research"
+subtitle: "Lorry Lokey Chair and Professor of Bioengineering | Director Center for Biomedical Data Science"
 image: "../images/lab_folks/Cresko_Bill_1.jpg"
 about:
   template: trestles
@@ -11,7 +11,7 @@ about:
       href: mailto:wcresko@uoregon.edu
     - icon: google
       text: Scholar
-      href: https://scholar.google.com/citations?user=USERID
+      href: https://scholar.google.com/citations?user=JtjdERoAAAAJ
     - icon: twitter
       text: Twitter
       href: https://twitter.com/wcresko

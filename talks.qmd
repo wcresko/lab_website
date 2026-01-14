@@ -64,7 +64,7 @@ toc: false
 
 **Genomics and Adaptation** — *Keynote* Genomics and Adaptation in an NGS Age, Lund University, Lund, Sweden \| Keynote Speaker
 
-**Charles Henry Gilber Lecture** — *Named Lecture* Gilbert Icthyological Meeting, Corvallis, OR \| Keynote Speaker
+**Charles Henry Gilbert Lecture** — *Named Lecture* Gilbert Icthyological Meeting, Corvallis, OR \| Keynote Speaker
 
 **IGERT Capstone** — *Plenary* IGERT Capstone Conference, University of Arizona, Tucson, AZ \| Plenary Speaker
 
