@@ -18,6 +18,8 @@ about:
     - icon: google
       text: Scholar
       href: https://scholar.google.com/citations?user=3U6A3kMAAAAJ
+    - text: ORCID
+      href: https://orcid.org/0000-0001-9978-1553
 page-layout: full
 toc: true
 ---
