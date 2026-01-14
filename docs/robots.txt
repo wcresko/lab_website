@@ -1,1 +1,1 @@
-Sitemap: https://wcresko.github.io/sitemap.xml
+Sitemap: https://wcresko.github.io/Cresko_Lab_Website/sitemap.xml
