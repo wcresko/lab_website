@@ -9,6 +9,11 @@ about:
     - icon: envelope
       text: Email
       href: mailto:mcurrey@uoregon.edu
+    - icon: google
+      text: Scholar
+      href: https://scholar.google.com/citations?user=SDhEBPMAAAAJ
+    - text: ORCID
+      href: https://orcid.org/0000-0003-3688-7208
 page-layout: full
 toc: true
 ---
