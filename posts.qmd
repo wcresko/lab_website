@@ -38,7 +38,7 @@ listing:
   padding: 0.75rem 0;
   border-bottom: 1px solid #e0e0e0;
   display: grid;
-  grid-template-columns: 50% 50%;
+  grid-template-columns: 20% 80%;
   gap: 1.5rem;
   align-items: start;
 }
