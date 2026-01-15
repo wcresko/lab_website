@@ -8,7 +8,7 @@ about:
   links:
     - icon: globe
       text: Website
-      href: http://www.stervander.com
+      href: https://www.stervander.com
     - icon: twitter
       text: Twitter
       href: https://twitter.com/nesospiza
@@ -19,7 +19,7 @@ about:
       text: Email
       href: mailto:mste@uoregon.edu
     - text: ORCID
-      href: http://orcid.org/0000-0002-6139-7828
+      href: https://orcid.org/0000-0002-6139-7828
     - text: Publons
       href: https://publons.com/researcher/1370305/martin-stervander/
     - text: ResearchGate

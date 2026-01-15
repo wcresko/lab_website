@@ -15,17 +15,22 @@ about:
     - icon: envelope
       text: Email
       href: mailto:hhealey@uoregon.edu
+    - icon: google
+      text: Scholar
+      href: https://scholar.google.com/citations?user=3U6A3kMAAAAJ
+    - text: ORCID
+      href: https://orcid.org/0000-0001-9978-1553
 page-layout: full
 toc: true
 ---
 
 ## Biography
 
-Hope Healey is a graduate student in the Cresko Laboratory where she conducts research on syngnathid fishes. She received her bachelor's degree in zoology from Michigan State University (MSU) in 2018. While at MSU, she worked with Dr. Scott Peacor on Michigan zooplankton and Dr. Jason Gallant on electric fish. She developed a love for teleost fishes while in the Gallant lab and is fortunate to continue working with unique fish models in the Cresko Lab.
+Hope Healey received her Ph.D. in Biology from the University of Oregon in September 2024, where she conducted research on syngnathid fishes in the Cresko Laboratory. She is now a Bioinformatics Lecturer for the Bioinformatics and Genomics program within the Knight Campus Graduate Internship Program. She received her bachelor's degree in zoology from Michigan State University (MSU) in 2018. While at MSU, she worked with Dr. Scott Peacor on Michigan zooplankton and Dr. Jason Gallant on electric fish. She developed a love for teleost fishes while in the Gallant lab and continued working with unique fish models in the Cresko Lab.
 
 ## Education
 
--   **Ph.D. Candidate, Biology**, University of Oregon (in progress)
+-   **Ph.D. Biology**, University of Oregon (2024)
 -   **B.S. Zoology**, Michigan State University (2018)
 
 ## Honors & Awards

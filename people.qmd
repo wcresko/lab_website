@@ -42,7 +42,7 @@ University of Oregon
 Susie is interested in understanding the vast variety of life. How is morphological variation, seen in populations of the same species, partitioned among different environments and what are the genetic and genomic factors associated with this partitioning? She uses a variety of molecular genetic tools to uncover genome-scale patterns that underlie phenotypic variation in wild populations of fish, and directs this knowledge to the study of developmental pathways that contribute to novel or modified morphologies.
 
 **Contact:** sbassham\@uoregon.edu\
-[Full Profile](people/bassham.qmd) \| [Publications](publications.qmd#bassham)
+[Full Profile](people/bassham.qmd) \| [Google Scholar](https://scholar.google.com/citations?user=E7h_lTYAAAAJ) \| [ORCID](https://orcid.org/0000-0002-7309-2095)
 :::
 ::::::
 
@@ -62,7 +62,7 @@ University of Oregon
 Mark's research investigates the genetic and genomic basis of evolutionary change in natural populations. He uses computational approaches to analyze large-scale genomic datasets and understand patterns of genetic variation that contribute to adaptation and speciation.
 
 **Contact:** mcurrey\@uoregon.edu\
-[Full Profile](people/currey.qmd) \| [Publications](publications.qmd#currey)
+[Full Profile](people/currey.qmd) \| [Google Scholar](https://scholar.google.com/citations?user=SDhEBPMAAAAJ) \| [ORCID](https://orcid.org/0000-0003-3688-7208)
 :::
 ::::::
 

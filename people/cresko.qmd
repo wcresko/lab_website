@@ -18,6 +18,8 @@ about:
     - icon: github
       text: GitHub
       href: https://github.com/wcresko
+    - text: ORCID
+      href: https://orcid.org/0000-0002-3496-8074
 page-layout: full
 toc: true
 ---
