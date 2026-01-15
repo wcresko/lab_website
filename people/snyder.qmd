@@ -9,6 +9,8 @@ about:
     - icon: envelope
       text: Email
       href: mailto:ssnyder@uoregon.edu
+    - text: ORCID
+      href: https://orcid.org/0000-0001-7049-2950
 page-layout: full
 toc: true
 ---
