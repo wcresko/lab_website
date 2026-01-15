@@ -12,8 +12,8 @@ toc: false
 
 .press-item {
   display: grid;
-  grid-template-columns: 70% 30%;
-  gap: 1.5rem;
+  grid-template-columns: 10% 65% 25%;
+  gap: 1rem;
   padding: 0.75rem 0;
   border-bottom: 1px solid #e0e0e0;
   align-items: start;
@@ -21,6 +21,13 @@ toc: false
 
 .press-item:last-child {
   border-bottom: none;
+}
+
+.press-year {
+  font-size: 0.95rem;
+  line-height: 1.5;
+  font-weight: 500;
+  color: #333;
 }
 
 .press-title {
@@ -33,20 +40,13 @@ toc: false
   line-height: 1.5;
   color: #555;
   text-align: right;
-}
-
-h2 {
-  margin-top: 2rem;
-  margin-bottom: 1rem;
-  color: #333;
-  font-size: 1.5rem;
-  font-weight: 600;
+  font-style: italic;
 }
 
 @media (max-width: 768px) {
   .press-item {
     grid-template-columns: 1fr;
-    gap: 0.5rem;
+    gap: 0.25rem;
   }
 
   .press-source {
@@ -56,385 +56,750 @@ h2 {
 </style>
 ```
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: press-container
-## 2024
+::: press-container
 
 :::::: press-item
+::: press-year
+2024
+:::
 ::: press-title
-**Cresko Named UO Director for Center for Biomedical Data Science**
+Cresko Named UO Director for Center for Biomedical Data Science
 :::
-
 ::: press-source
-*UO Knight Campus*
-:::
-::::::
-
-## 2023
-
-:::::: press-item
-::: press-title
-**The Big Pivot: Lasting Lessons of the UO's COVID-19 Testing Lab**
-:::
-
-::: press-source
-*UO Research and Innovation*
-:::
-::::::
-
-## 2022
-
-:::::: press-item
-::: press-title
-**New Methods Tripled COVID-19 Testing in Latinx Communities**
-:::
-
-::: press-source
-*Medical Xpress*
+UO Knight Campus
 :::
 ::::::
 
 :::::: press-item
-::: press-title
-**Crunching the Numbers with Data Science**
+::: press-year
+2023
 :::
-
+::: press-title
+The Big Pivot: Lasting Lessons of the UO's COVID-19 Testing Lab
+:::
 ::: press-source
-*Oregon Quarterly*
+UO Research and Innovation
 :::
 ::::::
 
 :::::: press-item
-::: press-title
-**Effectiveness of a COVID-19 Testing Outreach Intervention for Latinx Communities**
+::: press-year
+2022
 :::
-
+::: press-title
+New Methods Tripled COVID-19 Testing in Latinx Communities
+:::
 ::: press-source
-*JAMA Network Open*
+Medical Xpress
 :::
 ::::::
 
 :::::: press-item
-::: press-title
-**Evolution Gone Wild: What makes seadragons so strange**
+::: press-year
+2022
 :::
-
+::: press-title
+Crunching the Numbers with Data Science
+:::
 ::: press-source
-*New York Times*
+Oregon Quarterly
 :::
 ::::::
 
 :::::: press-item
+::: press-year
+2022
+:::
 ::: press-title
-**Leafy and Weedy Seadragon Genomes Connect Genic and Repetitive DNA Features to the Extravagant Biology of Syngnathid Fishes**
+Effectiveness of a COVID-19 Testing Outreach Intervention for Latinx Communities
 :::
-
 ::: press-source
-*Proceedings of the National Academy of Sciences*
-:::
-::::::
-
-## 2021
-
-:::::: press-item
-::: press-title
-**UO faculty member receives grant to better understand symbiosis**
-:::
-
-::: press-source
-*Around the O*
+JAMA Network Open
 :::
 ::::::
 
 :::::: press-item
-::: press-title
-**Genome Spotlight: Mandarinfish (*Synchiropus splendidus*)**
+::: press-year
+2022
 :::
-
+::: press-title
+Evolution Gone Wild: What makes seadragons so strange
+:::
 ::: press-source
-*The Scientist*
+New York Times
 :::
 ::::::
 
 :::::: press-item
-::: press-title
-**Study looks at how the human microbiome varies with location**
+::: press-year
+2022
 :::
-
+::: press-title
+Leafy and Weedy Seadragon Genomes Connect Genic and Repetitive DNA Features to the Extravagant Biology of Syngnathid Fishes
+:::
 ::: press-source
-*Around the O*
+PNAS
 :::
 ::::::
 
 :::::: press-item
-::: press-title
-**Research project examines male pregnancy and microbes in fish**
+::: press-year
+2021
 :::
-
+::: press-title
+UO faculty member receives grant to better understand symbiosis
+:::
 ::: press-source
-*Around the O*
+Around the O
 :::
 ::::::
 
 :::::: press-item
-::: press-title
-**Research project examines male pregnancy and microbes in fish**
+::: press-year
+2021
 :::
-
+::: press-title
+Genome Spotlight: Mandarinfish (*Synchiropus splendidus*)
+:::
 ::: press-source
-*Technology Org*
+The Scientist
 :::
 ::::::
 
 :::::: press-item
+::: press-year
+2021
+:::
 ::: press-title
-**Seadragon genome analysis provides insights into its phenotype and sex determination locus** • Zhang et al.
+Study looks at how the human microbiome varies with location
 :::
-
 ::: press-source
-*Science Advances*
-:::
-::::::
-
-## 2020
-
-:::::: press-item
-::: press-title
-**Gift will rapidly expand UO, state COVID-19 testing**
-:::
-
-::: press-source
-*Around the O*
+Around the O
 :::
 ::::::
 
 :::::: press-item
-::: press-title
-**Experimental COVID-19 test at UO replaces nasal swab with saliva sample**
+::: press-year
+2021
 :::
-
+::: press-title
+Research project examines male pregnancy and microbes in fish
+:::
 ::: press-source
-*Oregon Public Broadcasting*
+Around the O
 :::
 ::::::
 
 :::::: press-item
+::: press-year
+2021
+:::
 ::: press-title
-**New grant will expand COVID-19 testing in Latinx communities**
+Seadragon genome analysis provides insights into its phenotype and sex determination locus
 :::
-
 ::: press-source
-*Around the O*
-:::
-::::::
-
-## 2019
-
-:::::: press-item
-::: press-title
-**UO, OHSU will partner on opioid research with $10M grant**
-:::
-
-::: press-source
-*Around the O*
+Science Advances
 :::
 ::::::
 
 :::::: press-item
-::: press-title
-**Three UO undergraduates awarded Goldwater Scholarships**
+::: press-year
+2020
 :::
-
+::: press-title
+Gift will rapidly expand UO, state COVID-19 testing
+:::
 ::: press-source
-*Around the O*
+Around the O
 :::
 ::::::
 
 :::::: press-item
-::: press-title
-**Knight Campus Program Gives Undergrads Real-World Research Experience**
+::: press-year
+2020
 :::
-
+::: press-title
+Experimental COVID-19 test at UO replaces nasal swab with saliva sample
+:::
 ::: press-source
-*Around the O*
+Oregon Public Broadcasting
 :::
 ::::::
 
 :::::: press-item
+::: press-year
+2020
+:::
 ::: press-title
-**Stacks 2: Analytical methods for paired‐end sequencing improve RADseq‐based population genomics** • Rochette et al.
+New grant will expand COVID-19 testing in Latinx communities
 :::
-
 ::: press-source
-*Molecular Ecology*
-:::
-::::::
-
-## 2018
-
-:::::: press-item
-::: press-title
-**UO postdoc solves mystery of isolated Atlantic island birds**
-:::
-
-::: press-source
-*Around the O*
+Around the O
 :::
 ::::::
 
 :::::: press-item
+::: press-year
+2019
+:::
+::: press-title
+UO, OHSU will partner on opioid research with $10M grant
+:::
+::: press-source
+Around the O
+:::
+::::::
+
+:::::: press-item
+::: press-year
+2019
+:::
+::: press-title
+Three UO undergraduates awarded Goldwater Scholarships
+:::
+::: press-source
+Around the O
+:::
+::::::
+
+:::::: press-item
+::: press-year
+2019
+:::
+::: press-title
+Knight Campus Program Gives Undergrads Real-World Research Experience
+:::
+::: press-source
+Around the O
+:::
+::::::
+
+:::::: press-item
+::: press-year
+2019
+:::
+::: press-title
+Stacks 2: Analytical methods for paired-end sequencing improve RADseq-based population genomics
+:::
+::: press-source
+Molecular Ecology
+:::
+::::::
+
+:::::: press-item
+::: press-year
+2018
+:::
+::: press-title
+UO postdoc solves mystery of isolated Atlantic island birds
+:::
+::: press-source
+Around the O
+:::
+::::::
+
+:::::: press-item
+::: press-year
+2018
+:::
 ::: press-title
 [How an earthquake shook up stickleback genomes](http://genestogenomes.org/how-an-earthquake-shook-up-stickleback-genomes/)
 :::
-
 ::: press-source
-*Genes to Genomes GSA Blog*
+GSA Blog
 :::
 ::::::
 
-## 2017
-
 :::::: press-item
-::: press-title
-**Deriving genotypes from RAD-seq short-read data using Stacks** • Rochette & Catchen
+::: press-year
+2017
 :::
-
-::: press-source
-*Nature Protocols*
-:::
-::::::
-
-## 2016
-
-:::::: press-item
 ::: press-title
 [Hold your (sea)horses – here's the pipefish genome](https://blogs.biomedcentral.com/on-biology/2016/12/20/pipefishgenome/)
 :::
-
 ::: press-source
-*BioMed Central*
+BioMed Central
 :::
 ::::::
 
 :::::: press-item
+::: press-year
+2017
+:::
 ::: press-title
-**Oregon researchers publish reference genome of gulf pipefish**
+Deriving genotypes from RAD-seq short-read data using Stacks
 :::
-
 ::: press-source
-*EurekAlert, AAAS*
+Nature Protocols
 :::
 ::::::
 
 :::::: press-item
+::: press-year
+2016
+:::
 ::: press-title
-**UO team unspools the genome of a seahorse relative**
+[Harnessing the power of RADseq for ecological and evolutionary genomics](https://www.nature.com/articles/nrg.2015.28)
 :::
-
 ::: press-source
-*Around the O*
+Nature Reviews Genetics
 :::
 ::::::
 
 :::::: press-item
-::: press-title
-**The genome of the Gulf pipefish enables understanding of evolutionary innovations** • Small et al.
+::: press-year
+2016
 :::
-
-::: press-source
-*Genome Biology*
-:::
-::::::
-
-:::::: press-item
-::: press-title
-**UO's Cresko chosen as fellow of world's largest scientific group**
-:::
-
-::: press-source
-*Around the O*
-:::
-::::::
-
-:::::: press-item
-::: press-title
-[Harnessing the power of RADseq for ecological and evolutionary genomics](https://www.nature.com/articles/nrg.2015.28) • Andrews et al.
-:::
-
-::: press-source
-*Nature Reviews Genetics*
-:::
-::::::
-
-:::::: press-item
 ::: press-title
 [Earthquakes and rapid evolution](https://www.molecularecologist.com/2016/01/earthquakes-and-rapid-evolution/)
 :::
-
 ::: press-source
-*The Molecular Ecologist*
+Molecular Ecologist
 :::
 ::::::
 
-## 2015
-
 :::::: press-item
+::: press-year
+2016
+:::
 ::: press-title
-**Our 2010 PloS Genetics paper was chosen one of the 10 most important papers ever in PLoS Genetics**
+Oregon researchers publish reference genome of gulf pipefish
 :::
-
 ::: press-source
-*PLoS Genetics*
+EurekAlert, AAAS
 :::
 ::::::
 
 :::::: press-item
+::: press-year
+2016
+:::
 ::: press-title
-[A decad(e) of reasons to contribute to a PLoS community-run Journal](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005557) • Copenhaver & Barsh
+UO team unspools the genome of a seahorse relative
 :::
-
 ::: press-source
-*PLoS Genetics*
+Around the O
 :::
 ::::::
 
 :::::: press-item
+::: press-year
+2016
+:::
+::: press-title
+The genome of the Gulf pipefish enables understanding of evolutionary innovations
+:::
+::: press-source
+Genome Biology
+:::
+::::::
+
+:::::: press-item
+::: press-year
+2016
+:::
+::: press-title
+UO's Cresko chosen as fellow of world's largest scientific group
+:::
+::: press-source
+Around the O
+:::
+::::::
+
+:::::: press-item
+::: press-year
+2015
+:::
+::: press-title
+[A decad(e) of reasons to contribute to a PLoS community-run Journal](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005557)
+:::
+::: press-source
+PLoS Genetics
+:::
+::::::
+
+:::::: press-item
+::: press-year
+2015
+:::
+::: press-title
+Our 2010 PLoS Genetics paper was chosen one of the 10 most important papers ever in PLoS Genetics
+:::
+::: press-source
+PLoS Genetics
+:::
+::::::
+
+:::::: press-item
+::: press-year
+2015
+:::
 ::: press-title
 [Interview on Oregon Public Broadcasting's Think Out Loud about stickleback evolution](https://www.opb.org/radio/programs/thinkoutloud/segment/evolution-can-happen-quicker-than-previously-thought/)
 :::
-
 ::: press-source
-*OPB*
+OPB
 :::
 ::::::
 
 :::::: press-item
+::: press-year
+2015
+:::
 ::: press-title
-[Small fish takes evolution fast track](https://www.scientificamerican.com/video/fish-on-evolution-s-fast-track/) • Interview with Dr. Susie Bassham
+[Small fish takes evolution fast track](https://www.scientificamerican.com/video/fish-on-evolution-s-fast-track/) – Interview with Dr. Susie Bassham
 :::
-
 ::: press-source
-*Scientific American*
+Scientific American
 :::
 ::::::
 
 :::::: press-item
+::: press-year
+2015
+:::
 ::: press-title
-[Earthquake forced rapid evolution in fish](https://www.seeker.com/earthquake-forced-rapid-evolution-in-fish-1770617657.html) • Kiger, P.J.
+Small fish species evolved rapidly following 1964 Alaska earthquake
 :::
-
 ::: press-source
-*Discovery News*
+ScienceDaily
 :::
 ::::::
 
 :::::: press-item
+::: press-year
+2015
+:::
+::: press-title
+Catastrophic Earthquake Drove Fish Evolution In Just 50 Years
+:::
+::: press-source
+IFL Science
+:::
+::::::
+
+:::::: press-item
+::: press-year
+2015
+:::
+::: press-title
+Interview on Jefferson Public Radio about stickleback evolution
+:::
+::: press-source
+OPB
+:::
+::::::
+
+:::::: press-item
+::: press-year
+2015
+:::
+::: press-title
+[Earthquake forced rapid evolution in fish](https://www.seeker.com/earthquake-forced-rapid-evolution-in-fish-1770617657.html)
+:::
+::: press-source
+Discovery News
+:::
+::::::
+
+:::::: press-item
+::: press-year
+2015
+:::
 ::: press-title
 [Small fish species evolved rapidly following 1964 Alaska earthquake](https://phys.org/news/2015-12-small-fish-species-evolved-rapidly.html)
 :::
-
 ::: press-source
-*Phys.Org*
+Phys.Org
 :::
 ::::::
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::: press-item
+::: press-year
+2015
+:::
+::: press-title
+Big Earthquake jolted fish into fast evolution
+:::
+::: press-source
+Futurity
+:::
+::::::
+
+:::::: press-item
+::: press-year
+2015
+:::
+::: press-title
+Stickleback fish evolved rapidly to living in freshwater ponds following major earthquake
+:::
+::: press-source
+Nature World News
+:::
+::::::
+
+:::::: press-item
+::: press-year
+2015
+:::
+::: press-title
+UO-led study shows fish evolved rapidly after 1964 Alaska quake
+:::
+::: press-source
+Around the O
+:::
+::::::
+
+:::::: press-item
+::: press-year
+2015
+:::
+::: press-title
+Genetics journal names paper led by UO's Cresko as among its Top 10 of all time
+:::
+::: press-source
+Around the O
+:::
+::::::
+
+:::::: press-item
+::: press-year
+2011
+:::
+::: press-title
+Fast-Forwarding Mendel
+:::
+::: press-source
+Around the O
+:::
+::::::
+
+:::::: press-item
+::: press-year
+2011
+:::
+::: press-title
+RAD-Tagging is demystifying genome sequencing
+:::
+::: press-source
+NewsWise
+:::
+::::::
+
+:::::: press-item
+::: press-year
+2011
+:::
+::: press-title
+Using DNA to Reveal a Mosquito's History. *Science* 331:1006-1007
+:::
+::: press-source
+Science
+:::
+::::::
+
+:::::: press-item
+::: press-year
+2010
+:::
+::: press-title
+Genomic Study IDs Parallel Adaptations in Independent Stickleback Populations
+:::
+::: press-source
+GenomeWeb
+:::
+::::::
+
+:::::: press-item
+::: press-year
+2010
+:::
+::: press-title
+Stickleback Genomes Shining Bright Light on Evolution
+:::
+::: press-source
+ScienceDaily
+:::
+::::::
+
+:::::: press-item
+::: press-year
+2010
+:::
+::: press-title
+Stickleback Genomes Shining Bright Light on Evolution
+:::
+::: press-source
+NSF Press Release
+:::
+::::::
+
+:::::: press-item
+::: press-year
+2010
+:::
+::: press-title
+The parallel lives of threespine stickleback
+:::
+::: press-source
+Discover
+:::
+::::::
+
+:::::: press-item
+::: press-year
+2010
+:::
+::: press-title
+Adaptation Genomics: the next generation. 25:705-712
+:::
+::: press-source
+TREE
+:::
+::::::
+
+:::::: press-item
+::: press-year
+2010
+:::
+::: press-title
+Genetic Structure of First Animal to Show Evolutionary Response to Climate Change Determined
+:::
+::: press-source
+NSF Press Release
+:::
+::::::
+
+:::::: press-item
+::: press-year
+2010
+:::
+::: press-title
+Mosquitoes: Genetic Structure of First Animal to Show Evolutionary Response to Climate Change Determined
+:::
+::: press-source
+ScienceDaily
+:::
+::::::
+
+:::::: press-item
+::: press-year
+2009
+:::
+::: press-title
+Biology's next top model. *Nature* 458:695-698
+:::
+::: press-source
+Nature
+:::
+::::::
+
+:::::: press-item
+::: press-year
+2008
+:::
+::: press-title
+Science & Swing: Steve Perry's career a blend of swing, ska, punk…and evolutionary developmental biology
+:::
+::: press-source
+Around the O
+:::
+::::::
+
+:::::: press-item
+::: press-year
+2008
+:::
+::: press-title
+Fitness in a changing world
+:::
+::: press-source
+NSF Press Release
+:::
+::::::
+
+:::::: press-item
+::: press-year
+2006
+:::
+::: press-title
+Macroevolution: Alive and well in sticklebacks. *The American Biology Teacher* 68:5-6
+:::
+::: press-source
+ABT
+:::
+::::::
+
+:::::: press-item
+::: press-year
+2006
+:::
+::: press-title
+Perchlorate affects stickleback sexual development
+:::
+::: press-source
+Environmental Health Perspectives
+:::
+::::::
+
+:::::: press-item
+::: press-year
+2006
+:::
+::: press-title
+Macho moms: Perchlorate pollutant masculinizes fish. *Science News* 170(7)
+:::
+::: press-source
+Science News
+:::
+::::::
+
+:::::: press-item
+::: press-year
+2004
+:::
+::: press-title
+Evolution in parallel: new insights from a classic system. 19:456-459
+:::
+::: press-source
+TREE
+:::
+::::::
+
+:::::: press-item
+::: press-year
+2004
+:::
+::: press-title
+Evolutionary Biology: Changing fish's bony armor in the wink of a gene. *Science* 304:1737-1739
+:::
+::: press-source
+Science
+:::
+::::::
+
+:::::: press-item
+::: press-year
+2004
+:::
+::: press-title
+Big cross lands sticklebacks in the spotlight. *The Scientist* 18(21):16
+:::
+::: press-source
+The Scientist
+:::
+::::::
+
+:::::: press-item
+::: press-year
+2004
+:::
+::: press-title
+Morphological Diversity: Taking the spine out of three-spine stickleback. 14(11):422-424
+:::
+::: press-source
+Current Biology
+:::
+::::::
+
+:::
