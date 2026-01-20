@@ -11,8 +11,6 @@ toc: false
 ::: software-container
 ## Stacks
 
-[![Stacks](stacks/images/stacks_logo_small.png){width="200"}](http://creskolab.uoregon.edu/stacks/)
-
 **A software pipeline for building loci from short-read sequences**
 
 Stacks is a software pipeline for building loci out of a set of short-read sequenced samples. Stacks was developed for the purpose of building genetic maps from RAD-Tag Illumina sequence data, but can also be readily applied to population studies, and phylogeography.

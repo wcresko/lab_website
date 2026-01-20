@@ -95,7 +95,7 @@ Ray's art serves:
 ## Lab Photo
 
 The team gathered for:
-- [Group photo with Ray](people/Cresko_lab_fall2015.jpeg)
+- ![Group photo with Ray](/images/Cresko_lab_fall2015.jpeg)
 - Memorable moment
 - Lab culture celebration
 - Visitor appreciation

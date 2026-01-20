@@ -98,5 +98,5 @@ Our ongoing and future work aims to:
 
 For more information about our evolution of development research:
 - [Contact the Cresko Lab →](mailto:wcresko@uoregon.edu)
-- [View our publications →](/publications)
-- [Meet the team →](/team)
+- [View our publications →](/publications.qmd)
+- [Meet the team →](/people.qmd)

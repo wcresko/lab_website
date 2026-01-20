@@ -83,4 +83,4 @@ Advances understanding of:
 - Speciation processes
 - Genome interactions
 
-[Download the paper →]({{ site.url }}{{ site.baseurl }}/assets/publications/2022_Beck_FIG.pdf)
+[Download the paper →](/publications/2022-Beck-FIG.pdf)

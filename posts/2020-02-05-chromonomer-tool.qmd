@@ -92,6 +92,4 @@ This tool enables:
 - Broader organism coverage
 - Democratized genomics
 
-![Chromonomer Method](20200128_Fig_1_chrr_method.jpg)
-
 [Read the preprint →](https://www.biorxiv.org/content/10.1101/2020.02.04.934711v1)

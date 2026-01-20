@@ -161,7 +161,7 @@ Bruno is an undergraduate researcher working on host-microbiome interactions and
 -   **Gavin Woodruff, Ph.D.** (2015-2020) - Supported by Grant Funding
 -   **Ann Petersen, Ph.D.** (2014-2019) - Supported by Grant Funding
 -   **Stacey Wagner, Ph.D.** (2013-2018) - Supported by NIH Ruth Kirchstein NRSA Fellowship
--   **Clayton Small, Ph.D.** (2012-2021) - Supported by Grant Funding. Now Assistant Research Professor at University of Oregon. **Contact:** csmall\@uoregon.edu [Research](research.qmd#small)
+-   **Clayton Small, Ph.D.** (2012-2021) - Supported by Grant Funding. Now Assistant Research Professor at University of Oregon. **Contact:** csmall@uoregon.edu
 -   **Rui Galvao, Ph.D.** (2012-2015) - Supported by Grant Funding
 -   **Roger Voelker, Ph.D.** (2012-2013) - Supported by Grant Funding
 -   **Kat Milligan-Myhre, Ph.D.** (2009-2015) - Supported by NIH Ruth Kirchstein NRSA Fellowship. Now Assistant Professor at University of Alaska Anchorage

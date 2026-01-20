@@ -83,4 +83,4 @@ This enables:
 - Therapeutic targets
 - Precision medicine
 
-[Download the paper →]({{ site.url }}{{ site.baseurl }}/assets/publications/2022_Healey_Genetics.pdf)
+[Download the paper →](/publications/2022_Healey_Genetics.pdf)

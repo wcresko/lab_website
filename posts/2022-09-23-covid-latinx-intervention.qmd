@@ -92,4 +92,4 @@ This model informs:
 - Equity-centered research
 - Public health preparedness
 
-[Download the paper →]({{ site.url }}{{ site.baseurl }}/assets/publications/2022_Budd_FiPH.pdf)
+[Download the paper →](/publications/2022_Budd_FiPH.pdf)

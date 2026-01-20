@@ -5,7 +5,6 @@ project:
 website:
   title: "Cresko Laboratory"
   description: "An evolutionary genomics laboratory at the University of Oregon"
-  favicon: files/images/favicon.ico
   site-url: https://wcresko.github.io/Cresko_Lab_Website/
   repo-url: https://github.com/wcresko/Cresko_Lab_Website
   page-navigation: true
