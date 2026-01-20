@@ -103,4 +103,4 @@ This publication sets the stage for:
 
 Congratulations Hope and Susan on this outstanding contribution to the field!
 
-[Download the paper →]({{ site.url }}{{ site.baseurl }}/assets/publications/2022_Healey_Genetics.pdf)
+[Download the paper →](/publications/2022_Healey_Genetics.pdf)
