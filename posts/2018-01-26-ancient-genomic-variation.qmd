@@ -14,6 +14,7 @@ Thom Nelson and Bill Cresko demonstrate that the genomic variation driving recen
 ## Major Discovery
 
 The research reveals:
+
 - Ancient variation drives modern adaptation
 - 15-million-year-old genomic divergence persists
 - Multiple chromosomal inversions maintained
@@ -23,6 +24,7 @@ The research reveals:
 ## Evolutionary Time Scales
 
 Key findings show:
+
 - Deep divergence enables rapid adaptation
 - Standing variation has ancient origins
 - Long-term balancing selection operates
@@ -32,6 +34,7 @@ Key findings show:
 ## Genomic Architecture
 
 The study documents:
+
 - Large regions of ancient ancestry
 - Multiple chromosomal inversions
 - Suppressed recombination zones
@@ -41,6 +44,7 @@ The study documents:
 ## RAD-seq Innovation
 
 Technical advances include:
+
 - High-resolution population genomics
 - Inversion detection methods
 - Divergence dating approaches
@@ -50,6 +54,7 @@ Technical advances include:
 ## Theoretical Implications
 
 This work demonstrates:
+
 - Importance of standing variation
 - Role of structural variants
 - Long-term maintenance of diversity
@@ -59,6 +64,7 @@ This work demonstrates:
 ## Speciation Insights
 
 Findings illuminate:
+
 - Speciation with gene flow
 - Ecological speciation mechanisms
 - Genomic island formation
@@ -68,6 +74,7 @@ Findings illuminate:
 ## Conservation Relevance
 
 Applications include:
+
 - Understanding adaptive potential
 - Predicting climate change responses
 - Managing genetic diversity
@@ -77,6 +84,7 @@ Applications include:
 ## Future Directions
 
 This research enables:
+
 - Functional validation studies
 - Comparative genomics across species
 - Understanding adaptation mechanisms

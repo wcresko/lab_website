@@ -14,6 +14,7 @@ This marks Bill's continued engagement with Lund University, one of Scandinavia'
 ## Swedish Academic Traditions
 
 The Swedish doctoral defense represents one of academia's most rigorous examinations:
+
 - Public defense lasting several hours
 - Detailed questioning by the opponent
 - Discussion of theoretical and methodological aspects
@@ -23,6 +24,7 @@ The Swedish doctoral defense represents one of academia's most rigorous examinat
 ## Max Lundberg's Research
 
 Max's thesis work explored evolutionary biology themes connected to the Cresko Lab's research:
+
 - Adaptive evolution in natural populations
 - Genomic approaches to studying adaptation
 - Population genetic theory and application
@@ -31,6 +33,7 @@ Max's thesis work explored evolutionary biology themes connected to the Cresko L
 ## Strengthening Connections
 
 Bill's role as opponent continues to build bridges between:
+
 - University of Oregon and Lund University
 - North American and European research traditions
 - Different approaches to evolutionary questions
@@ -39,6 +42,7 @@ Bill's role as opponent continues to build bridges between:
 ## Lund University's Excellence
 
 Lund University is:
+
 - One of Europe's oldest universities (founded 1666)
 - A leading center for evolutionary biology
 - Home to innovative genomics research
@@ -47,6 +51,7 @@ Lund University is:
 ## Benefits for the Cresko Lab
 
 These international connections provide:
+
 - Opportunities for student exchanges
 - Access to European research networks
 - Collaborative grant possibilities
@@ -55,6 +60,7 @@ These international connections provide:
 ## Academic Diplomacy
 
 Serving as international thesis opponent:
+
 - Enhances Oregon's global reputation
 - Creates lasting professional relationships
 - Facilitates knowledge exchange
@@ -63,11 +69,12 @@ Serving as international thesis opponent:
 ## Long-term Impact
 
 These engagements have led to:
+
 - Joint publications
 - Shared methodologies
 - Student visits
 - Continued collaboration
 
-![Max Lundberg's thesis](lundberg_thesis.jpg)
+![Max Lundberg's thesis](/images/news/lundberg_thesis.jpg)
 
 Congratulations to Dr. Max Lundberg on joining the international community of evolutionary biologists!

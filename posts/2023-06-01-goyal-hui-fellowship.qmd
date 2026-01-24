@@ -14,6 +14,7 @@ This competitive fellowship will support Vithika's innovative research studying 
 ## About the Hui Fellowship
 
 The Hui Undergraduate Research Fellowship:
+
 - Supports outstanding undergraduate research
 - Provides funding for independent projects
 - Recognizes research excellence
@@ -23,6 +24,7 @@ The Hui Undergraduate Research Fellowship:
 ## Vithika's Research Project
 
 Vithika is investigating:
+
 - Genetic diversity in Oregon Bay pipefish populations
 - Population structure along the coast
 - Gene flow between populations
@@ -32,6 +34,7 @@ Vithika is investigating:
 ## Bay Pipefish Biology
 
 Bay pipefish (Syngnathus leptorhynchus) are:
+
 - Common in Oregon's estuaries and bays
 - Important members of seagrass communities
 - Exhibiting male pregnancy like all syngnathids
@@ -41,6 +44,7 @@ Bay pipefish (Syngnathus leptorhynchus) are:
 ## Research Approach
 
 Vithika's project employs:
+
 - Population sampling across Oregon coast
 - DNA extraction and sequencing
 - RAD-seq genotyping methods
@@ -50,6 +54,7 @@ Vithika's project employs:
 ## Scientific Questions
 
 The research addresses:
+
 - How genetically connected are populations?
 - Is there evidence of local adaptation?
 - What environmental factors drive differentiation?
@@ -59,6 +64,7 @@ The research addresses:
 ## Field Work Component
 
 Vithika's research includes:
+
 - Sampling expeditions to Oregon estuaries
 - Habitat assessment and documentation
 - Specimen collection and preservation
@@ -68,6 +74,7 @@ Vithika's research includes:
 ## Laboratory Skills
 
 Through this project, Vithika is mastering:
+
 - Molecular biology techniques
 - DNA sequencing preparation
 - Bioinformatics analysis
@@ -77,6 +84,7 @@ Through this project, Vithika is mastering:
 ## Conservation Relevance
 
 This work informs:
+
 - Marine protected area design
 - Habitat conservation priorities
 - Climate change impact predictions
@@ -86,6 +94,7 @@ This work informs:
 ## Syngnathid Research Program
 
 Vithika's work contributes to our lab's:
+
 - Comprehensive syngnathid genomics initiative
 - Understanding of pipefish evolution
 - Conservation genetics efforts
@@ -95,6 +104,7 @@ Vithika's work contributes to our lab's:
 ## Professional Development
 
 The fellowship enables Vithika to:
+
 - Conduct independent research
 - Present at scientific conferences
 - Prepare scientific manuscripts
@@ -104,6 +114,7 @@ The fellowship enables Vithika to:
 ## Mentorship Team
 
 Vithika receives guidance from:
+
 - Faculty advisors
 - Graduate student mentors
 - Postdoctoral researchers
@@ -113,6 +124,7 @@ Vithika receives guidance from:
 ## Expected Outcomes
 
 This research will produce:
+
 - First population genetic study of Oregon Bay pipefish
 - Conservation recommendations
 - Scientific presentations

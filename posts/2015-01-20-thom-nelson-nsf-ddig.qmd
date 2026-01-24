@@ -14,6 +14,7 @@ This competitive award will support Thom's innovative research using genome-wide
 ## Research Focus
 
 The DDIG supports:
+
 - Genome-wide coalescent analyses
 - Standing genetic variation detection
 - Adaptation mechanisms
@@ -23,6 +24,7 @@ The DDIG supports:
 ## Project Innovation
 
 Thom's approach features:
+
 - Novel analytical methods
 - Computational genomics
 - Theoretical framework
@@ -32,6 +34,7 @@ Thom's approach features:
 ## Standing Variation Importance
 
 This research addresses:
+
 - Rapid adaptation sources
 - Pre-existing alleles
 - Selection on variation
@@ -41,6 +44,7 @@ This research addresses:
 ## Methodological Development
 
 The grant enables:
+
 - New software development
 - Pipeline creation
 - Method validation
@@ -50,6 +54,7 @@ The grant enables:
 ## Stickleback System
 
 Using stickleback to study:
+
 - Parallel evolution
 - Marine-freshwater transitions
 - Repeated adaptation
@@ -59,6 +64,7 @@ Using stickleback to study:
 ## Computational Approaches
 
 The project employs:
+
 - Coalescent theory
 - Population genetics models
 - Machine learning
@@ -68,6 +74,7 @@ The project employs:
 ## Training Opportunities
 
 The DDIG provides:
+
 - Research independence
 - Grant management experience
 - Project leadership
@@ -77,6 +84,7 @@ The DDIG provides:
 ## Expected Outcomes
 
 Anticipated results include:
+
 - Method publications
 - Software releases
 - Biological discoveries
@@ -86,6 +94,7 @@ Anticipated results include:
 ## Broader Impacts
 
 This work will:
+
 - Advance evolutionary theory
 - Provide analytical tools
 - Train next generation
@@ -95,6 +104,7 @@ This work will:
 ## Lab Excellence
 
 This award reflects:
+
 - Strong mentorship
 - Research environment
 - Collaborative culture
@@ -104,6 +114,7 @@ This award reflects:
 ## Career Development
 
 The DDIG supports:
+
 - Professional growth
 - Network building
 - Skill development
@@ -113,6 +124,7 @@ The DDIG supports:
 ## Recognition Pattern
 
 Continues lab success with:
+
 - Multiple DDIG awards
 - Strong funding record
 - Student achievements

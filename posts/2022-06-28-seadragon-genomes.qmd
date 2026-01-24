@@ -11,6 +11,7 @@ Our collaborative team has published the first high-quality genomes of leafy and
 ## Evolutionary Marvels
 
 Syngnathid fishes (seahorses, pipefishes, and seadragons) exhibit some of nature's most remarkable adaptations:
+
 - Male pregnancy - unique among vertebrates
 - Loss of pelvic fins and ribs
 - Elaborate leaf-like appendages in seadragons
@@ -33,6 +34,7 @@ Our analysis revealed:
 
 ### Comparative Insights
 Comparing seadragons with seahorses and pipefish revealed:
+
 - Convergent gene losses across lineages
 - Lineage-specific innovations for unique traits
 - Rapid evolution of reproductive genes
@@ -40,6 +42,7 @@ Comparing seadragons with seahorses and pipefish revealed:
 ## Team Effort
 
 This project represents six years of collaboration involving:
+
 - **Lead authors**: Clayton Small, Hope Healey, Mark Currey
 - **International partners**: Australia, Germany, Sweden
 - **Sequencing**: PacBio long-reads plus Hi-C scaffolding
@@ -48,6 +51,7 @@ This project represents six years of collaboration involving:
 ## Conservation Implications
 
 Both seadragon species are near-threatened. Our genomic resources will aid:
+
 - Population genetics for conservation management
 - Understanding adaptive potential
 - Identifying populations at risk
@@ -56,6 +60,7 @@ Both seadragon species are near-threatened. Our genomic resources will aid:
 ## Open Data
 
 All data are publicly available:
+
 - Genome assemblies on NCBI
 - Annotation files on FigShare
 - Analysis code on GitHub

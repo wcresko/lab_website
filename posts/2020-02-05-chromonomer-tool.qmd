@@ -14,6 +14,7 @@ Julian Catchen, Angel Amores, and Susan Bassham present Chromonomer, which integ
 ## Tool Innovation
 
 Chromonomer provides:
+
 - Genome assembly improvement
 - Genetic map integration
 - Conserved synteny utilization
@@ -23,6 +24,7 @@ Chromonomer provides:
 ## Technical Features
 
 Key capabilities include:
+
 - Reference genome refinement
 - Marker map alignment
 - Synteny-based validation
@@ -32,6 +34,7 @@ Key capabilities include:
 ## Performance Excellence
 
 The tool demonstrates:
+
 - Robust performance across quality levels
 - Handling of disparate data types
 - Flexible parameter options
@@ -41,6 +44,7 @@ The tool demonstrates:
 ## Application Breadth
 
 Chromonomer works with:
+
 - Draft genome assemblies
 - Various genetic map types
 - RAD-seq derived maps
@@ -50,6 +54,7 @@ Chromonomer works with:
 ## Bioinformatics Contribution
 
 This work provides:
+
 - Open-source software
 - Comprehensive documentation
 - Test datasets
@@ -59,6 +64,7 @@ This work provides:
 ## Genome Science Impact
 
 Applications include:
+
 - Non-model organism genomics
 - Comparative genomics studies
 - Population genomics projects
@@ -68,6 +74,7 @@ Applications include:
 ## Validation Approach
 
 The paper demonstrates:
+
 - Multiple test cases
 - Quality metrics
 - Comparison with other tools
@@ -77,6 +84,7 @@ The paper demonstrates:
 ## Community Resource
 
 Chromonomer offers:
+
 - GitHub repository
 - Easy installation
 - Active development
@@ -86,6 +94,7 @@ Chromonomer offers:
 ## Future Genomics
 
 This tool enables:
+
 - Better genome assemblies
 - More accurate analyses
 - Faster research progress

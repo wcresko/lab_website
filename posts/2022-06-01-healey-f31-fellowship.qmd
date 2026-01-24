@@ -14,6 +14,7 @@ This highly competitive National Research Service Award (NRSA) from the National
 ## About the F31 Fellowship
 
 The Ruth L. Kirschstein F31 is:
+
 - NIH's premier predoctoral fellowship
 - Highly competitive with ~20% success rate
 - Three years of full support
@@ -23,6 +24,7 @@ The Ruth L. Kirschstein F31 is:
 ## Hope's Research Program
 
 The fellowship supports investigation of:
+
 - Evolution of craniofacial development in syngnathids
 - Single-cell transcriptomics of head and jaw development
 - CRISPR functional validation of candidate genes
@@ -32,6 +34,7 @@ The fellowship supports investigation of:
 ## Why Syngnathids?
 
 Seahorses and pipefishes offer unique insights because:
+
 - Extreme modifications of vertebrate head structure
 - Novel feeding mechanisms
 - Diverse craniofacial morphologies
@@ -41,6 +44,7 @@ Seahorses and pipefishes offer unique insights because:
 ## Cutting-Edge Approaches
 
 Hope's fellowship combines:
+
 - Single-cell RNA sequencing
 - CRISPR/Cas9 genome editing
 - Comparative transcriptomics
@@ -50,6 +54,7 @@ Hope's fellowship combines:
 ## NIDCR Mission Alignment
 
 This research addresses NIDCR priorities by:
+
 - Understanding craniofacial development
 - Identifying genetic mechanisms of morphogenesis
 - Providing evolutionary context for human biology
@@ -59,6 +64,7 @@ This research addresses NIDCR priorities by:
 ## Technical Innovation
 
 Hope's work pioneers:
+
 - Single-cell methods in non-model organisms
 - CRISPR applications in syngnathids
 - Integration of evolution and development
@@ -68,6 +74,7 @@ Hope's work pioneers:
 ## Career Development
 
 The F31 provides Hope with:
+
 - Financial independence for research
 - Grant writing experience
 - NIH training opportunities
@@ -77,6 +84,7 @@ The F31 provides Hope with:
 ## Mentorship Team
 
 Hope's success reflects excellent mentorship from:
+
 - Bill Cresko (Primary Advisor)
 - Susan Bassham (Co-mentor)
 - Committee members
@@ -86,6 +94,7 @@ Hope's success reflects excellent mentorship from:
 ## Research Impact
 
 This work will advance understanding of:
+
 - Vertebrate head evolution
 - Developmental constraints and flexibility
 - Genetic basis of morphological innovation
@@ -95,6 +104,7 @@ This work will advance understanding of:
 ## Building on Success
 
 This fellowship follows Hope's:
+
 - First-author Genetics publication
 - Conference presentations
 - Technical innovations
@@ -104,6 +114,7 @@ This fellowship follows Hope's:
 ## Lab Excellence
 
 Hope's F31 continues our tradition of:
+
 - Successful federal grant applications
 - Supporting graduate student independence
 - Innovative research programs

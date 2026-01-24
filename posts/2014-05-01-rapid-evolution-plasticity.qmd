@@ -14,6 +14,7 @@ Dr. Kristin Sikkink, with co-authors Robert Reynolds, Kate Ituarte, Patrick Phil
 ## Major Findings
 
 The research reveals:
+
 - Rapid evolution of plasticity thresholds
 - Variable genetic assimilation patterns across environments
 - Complex interactions between genes and environment
@@ -23,6 +24,7 @@ The research reveals:
 ## Research Innovation
 
 This study pioneered:
+
 - Experimental evolution approaches in C. remanei
 - Multi-environment selection experiments
 - Analysis of shifting induction thresholds
@@ -32,6 +34,7 @@ This study pioneered:
 ## Evolutionary Significance
 
 The work demonstrates:
+
 - Plasticity can evolve remarkably quickly
 - Environmental context shapes evolutionary trajectories
 - Genetic assimilation is more complex than previously thought
@@ -41,6 +44,7 @@ The work demonstrates:
 ## Experimental Design
 
 The research employed:
+
 - Multiple replicate selection lines
 - Controlled temperature stress regimes
 - Multi-generation experimental evolution
@@ -50,6 +54,7 @@ The research employed:
 ## Broader Impacts
 
 This research informs:
+
 - Climate change adaptation predictions
 - Understanding organismal stress responses
 - Evolution in variable environments
@@ -59,6 +64,7 @@ This research informs:
 ## Collaborative Excellence
 
 This publication represents:
+
 - Cross-institutional collaboration
 - Integration of multiple expertise areas
 - Graduate student leadership
@@ -68,6 +74,7 @@ This publication represents:
 ## Heat Shock Response
 
 Key insights into:
+
 - Heat shock protein regulation
 - Stress response networks
 - Temperature adaptation mechanisms

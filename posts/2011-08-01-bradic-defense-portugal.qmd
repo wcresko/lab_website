@@ -14,6 +14,7 @@ This invitation to serve as opponent at one of Europe's leading biological resea
 ## The Portuguese Defense System
 
 The Portuguese doctoral examination features:
+
 - An international external examiner as opponent
 - Rigorous public defense
 - Detailed scientific discussion
@@ -23,6 +24,7 @@ The Portuguese doctoral examination features:
 ## Martina Bradic's Research
 
 Martina's doctoral research aligned with the Cresko Lab's interests in:
+
 - Population genomics and adaptation
 - Evolutionary responses to environmental challenges
 - Genomic approaches to evolutionary questions
@@ -31,6 +33,7 @@ Martina's doctoral research aligned with the Cresko Lab's interests in:
 ## The Gulbenkian Institute
 
 The Instituto Gulbenkian de Ciência is:
+
 - A leading European research institute
 - Known for excellence in evolutionary biology
 - Home to international graduate programs
@@ -39,6 +42,7 @@ The Instituto Gulbenkian de Ciência is:
 ## International Collaboration
 
 This engagement strengthens connections between:
+
 - US and European research communities
 - University of Oregon and Portuguese institutions
 - International networks in genomics
@@ -47,6 +51,7 @@ This engagement strengthens connections between:
 ## Building Research Networks
 
 International thesis examinations:
+
 - Foster collaborative opportunities
 - Exchange methodological expertise
 - Create student exchange possibilities
@@ -55,11 +60,12 @@ International thesis examinations:
 ## Cultural Exchange
 
 These international engagements also provide:
+
 - Cross-cultural scientific perspectives
 - Diverse approaches to research questions
 - International best practices in graduate training
 - Enhanced global reputation for UO
 
-![Martina Bradic's thesis defense](bradic_thesis.jpg)
+![Martina Bradic's thesis defense](/images/news/bradic_thesis.jpg)
 
 Congratulations to Dr. Martina Bradic on her successful defense and the beginning of her scientific career!

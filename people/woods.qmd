@@ -33,11 +33,19 @@ Micah Woods is a Post-Baccalaureate Scholar in the Cresko Laboratory, where they
 
 ### Current Projects
 
-As a Post-Baccalaureate Scholar, I assist with various projects including: - Population genomics of stickleback - Host-microbiome interactions - Bioinformatic pipeline development - Data analysis and visualization
+As a Post-Baccalaureate Scholar, I assist with various projects including:
+
+- Population genomics of stickleback
+- Host-microbiome interactions
+- Bioinformatic pipeline development
+- Data analysis and visualization
 
 ### Previous Research
 
-As a Knight Campus Undergraduate Scholar, I used in situ hybridization to explore the expression of key genes involved in the craniofacial development of: - Zebrafish - Threespine stickleback\
+As a Knight Campus Undergraduate Scholar, I used in situ hybridization to explore the expression of key genes involved in the craniofacial development of:
+
+- Zebrafish
+- Threespine stickleback
 - Pipefish
 
 ## Research Interests
@@ -84,4 +92,9 @@ As a Knight Campus Undergraduate Scholar, I used in situ hybridization to explor
 
 ## Future Directions
 
-Preparing for graduate studies at the intersection of: - Evolutionary biology - Philosophy of science - Science communication - Developmental biology
+Preparing for graduate studies at the intersection of:
+
+- Evolutionary biology
+- Philosophy of science
+- Science communication
+- Developmental biology

@@ -14,6 +14,7 @@ This intensive two-week workshop provides cutting-edge training in genomic techn
 ## Workshop Overview
 
 The Evomics Workshop featured:
+
 - Hands-on computational training
 - Next-generation sequencing analyses
 - Population genomics methods
@@ -23,6 +24,7 @@ The Evomics Workshop featured:
 ## Training Components
 
 Emily participated in:
+
 - RAD-seq data analysis
 - Genome assembly techniques
 - Population genetics theory
@@ -32,6 +34,7 @@ Emily participated in:
 ## World-Class Faculty
 
 Instruction from experts including:
+
 - Leaders in evolutionary genomics
 - Bioinformatics tool developers
 - Population genetics theorists
@@ -41,6 +44,7 @@ Instruction from experts including:
 ## Intensive Learning Environment
 
 The workshop provided:
+
 - Full-day instruction sessions
 - Evening tutorials and discussions
 - Hands-on data analysis
@@ -50,6 +54,7 @@ The workshop provided:
 ## International Networking
 
 Emily connected with:
+
 - Graduate students worldwide
 - Postdocs from top institutions
 - Faculty from multiple continents
@@ -59,6 +64,7 @@ Emily connected with:
 ## Skills Development
 
 Key skills gained include:
+
 - Command-line proficiency
 - Programming for genomics
 - Statistical analysis methods
@@ -68,6 +74,7 @@ Key skills gained include:
 ## Český Krumlov Setting
 
 The historic venue offered:
+
 - UNESCO World Heritage site
 - Inspiring medieval architecture
 - Focused learning environment
@@ -77,6 +84,7 @@ The historic venue offered:
 ## Applications to Research
 
 Emily will apply these skills to:
+
 - Ongoing dissertation research
 - Lab computational pipelines
 - Teaching other lab members
@@ -86,6 +94,7 @@ Emily will apply these skills to:
 ## Lab Benefits
 
 This training brings back:
+
 - Latest analytical methods
 - New computational approaches
 - International perspectives
@@ -95,6 +104,7 @@ This training brings back:
 ## Continuing the Tradition
 
 The Cresko Lab's involvement with Evomics:
+
 - Bill and Julian taught there in 2013
 - Multiple lab members have attended
 - Strengthens international ties
@@ -104,6 +114,7 @@ The Cresko Lab's involvement with Evomics:
 ## Knowledge Transfer
 
 Emily will share her experience through:
+
 - Lab presentations
 - Methods workshops
 - Protocol documentation

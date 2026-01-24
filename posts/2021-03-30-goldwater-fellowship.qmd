@@ -17,6 +17,7 @@ The Barry Goldwater Scholarship is the most prestigious undergraduate award in m
 Emily's thesis project focuses on understanding neutrophil variation between oceanic and freshwater stickleback populations. Using advanced microscopy and genetic techniques, she's investigating how immune responses evolve as fish adapt to different environments.
 
 Her work contributes to our broader understanding of:
+
 - Immune system evolution
 - Host-pathogen interactions
 - Rapid adaptation to environmental change

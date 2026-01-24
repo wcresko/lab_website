@@ -14,6 +14,7 @@ The Summer Program for Undergraduate Research (SCORE) brings talented undergradu
 ## About SCORE
 
 The SCORE program:
+
 - Provides intensive research experiences
 - Supports students from underrepresented backgrounds
 - Offers professional development opportunities
@@ -23,6 +24,7 @@ The SCORE program:
 ## Research Excellence
 
 Jade and Nia are conducting research on:
+
 - Population genomics of adaptation
 - Laboratory techniques in molecular biology
 - Bioinformatic analysis pipelines
@@ -32,6 +34,7 @@ Jade and Nia are conducting research on:
 ## Jade's Project
 
 Jade is investigating:
+
 - Genomic variation in natural populations
 - Environmental drivers of adaptation
 - Data analysis using R and Python
@@ -41,6 +44,7 @@ Jade is investigating:
 ## Nia's Research
 
 Nia is exploring:
+
 - Host-microbiome interactions
 - Molecular techniques for microbiome analysis
 - Developmental biology approaches
@@ -50,6 +54,7 @@ Nia is exploring:
 ## Program Impact
 
 SCORE provides students with:
+
 - Hands-on research experience
 - Mentorship from graduate students and faculty
 - GRE preparation and graduate school guidance
@@ -59,6 +64,7 @@ SCORE provides students with:
 ## Lab Mentorship
 
 Our lab supports SCORE students through:
+
 - One-on-one mentoring relationships
 - Integration into research teams
 - Professional development activities
@@ -68,6 +74,7 @@ Our lab supports SCORE students through:
 ## Building Community
 
 The SCORE cohort creates:
+
 - Peer support networks
 - Collaborative learning environments
 - Lasting professional relationships
@@ -77,6 +84,7 @@ The SCORE cohort creates:
 ## Success Stories
 
 Previous SCORE students from our lab have:
+
 - Entered top graduate programs
 - Published research findings
 - Presented at national conferences
@@ -86,12 +94,13 @@ Previous SCORE students from our lab have:
 ## Diversity in Science
 
 Programs like SCORE are essential for:
+
 - Increasing representation in STEM
 - Bringing diverse perspectives to research
 - Addressing disparities in science careers
 - Building inclusive scientific communities
 - Advancing scientific innovation
 
-![SCORE student cohort](score_group.jpg)
+![SCORE student cohort](/images/news/score_group.jpg)
 
 We're grateful for the energy, perspectives, and contributions that Jade, Nia, and all SCORE students bring to our research community!

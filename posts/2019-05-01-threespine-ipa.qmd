@@ -14,6 +14,7 @@ This unique collaboration between science and craft brewing celebrates our resea
 ## About Threespine IPA
 
 The beer features:
+
 - A hoppy Pacific Northwest IPA profile
 - Locally-sourced ingredients
 - Custom label featuring stickleback artwork
@@ -23,6 +24,7 @@ The beer features:
 ## The Science Behind the Name
 
 Threespine stickleback fish are:
+
 - Our lab's primary research organism
 - Masters of rapid evolution
 - Found throughout Oregon waters
@@ -32,6 +34,7 @@ Threespine stickleback fish are:
 ## Community Engagement
 
 This collaboration demonstrates:
+
 - Science reaching beyond the laboratory
 - Local businesses supporting research
 - Creative science communication
@@ -41,6 +44,7 @@ This collaboration demonstrates:
 ## Label Design
 
 The Threespine IPA label features:
+
 - Anatomically accurate stickleback illustration
 - Information about our research
 - Connection to Oregon's natural history
@@ -50,6 +54,7 @@ The Threespine IPA label features:
 ## Tasting Notes
 
 Just like our research subjects, Threespine IPA is:
+
 - Adaptable - pairs well with various foods
 - Bold - hop-forward flavor profile
 - Local - ingredients from Oregon
@@ -59,6 +64,7 @@ Just like our research subjects, Threespine IPA is:
 ## Science Outreach
 
 This partnership helps us:
+
 - Share our research with the community
 - Spark conversations about evolution
 - Support local business
@@ -68,6 +74,7 @@ This partnership helps us:
 ## Where to Find It
 
 Threespine IPA is available:
+
 - On tap at Elk Horn Brewery
 - At select Eugene establishments
 - During special university events
@@ -76,11 +83,12 @@ Threespine IPA is available:
 ## Lab Celebrations
 
 We're raising a glass to:
+
 - Innovative science communication
 - Community partnerships
 - Oregon's craft beer culture
 - Making science part of daily life
 
-![Threespine IPA](IPA.jpeg)
+![Threespine IPA](/images/news/IPA.jpeg)
 
 Next time you're at Elk Horn Brewery, try a Threespine IPA and toast to evolution, science, and the amazing stickleback fish that inspire our research!

@@ -18,6 +18,7 @@ The response clarifies key points from our original research and addresses misco
 ## Context
 
 This exchange highlights the ongoing scientific discussion about:
+
 - Interpretation of Wright's theoretical framework in polyploid systems
 - The complexity of homeolog pairing in salmonid genomes
 - Methodological approaches to studying polyploid population genetics

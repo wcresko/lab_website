@@ -18,6 +18,7 @@ Using RAD-seq technology, we performed STRUCTURE analyses to describe the phylog
 ## Key Discoveries
 
 Our research revealed:
+
 - Distinct genetic clusters corresponding to major geographic basins
 - Clear divergence between coastal and inland populations
 - Evidence of human-mediated fish introductions
@@ -37,6 +38,7 @@ Our research revealed:
 ## Field Work Highlights
 
 This project involved extensive field collections across Oregon, including:
+
 - Coastal streams from the Columbia River to the Coos Bay watershed
 - Willamette Valley populations
 - Central Oregon high desert lakes
@@ -45,6 +47,7 @@ This project involved extensive field collections across Oregon, including:
 ## Applications
 
 This baseline population genetic data is crucial for:
+
 - Conservation management decisions
 - Understanding invasion biology
 - Tracking climate change impacts on aquatic ecosystems

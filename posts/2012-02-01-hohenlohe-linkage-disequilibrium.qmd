@@ -18,6 +18,7 @@ Our genome-wide analyses reveal extensive linkage disequilibrium in stickleback 
 ## Key Insights
 
 The research demonstrates:
+
 - Unexpectedly high levels of linkage disequilibrium across the genome
 - Evidence for ongoing gene flow between marine and freshwater populations
 - A mechanism for rapid re-assembly of multi-locus genotypes
@@ -26,6 +27,7 @@ The research demonstrates:
 ## Evolutionary Model
 
 These results suggest a new model that may provide a mechanism for the rapid re-assembly and evolution of multi-locus genotypes in newly colonized freshwater habitats. This has important implications for understanding:
+
 - Rapid adaptation in nature
 - The genetic architecture of complex traits
 - Parallel evolution at the genomic level
@@ -40,6 +42,7 @@ These results suggest a new model that may provide a mechanism for the rapid re-
 ## Methods Innovation
 
 This study showcased:
+
 - Early application of RAD-seq for population genomics
 - Novel analytical approaches for detecting selection
 - Integration of population genetics theory with genomic data
@@ -47,6 +50,7 @@ This study showcased:
 ## Broader Implications
 
 This work contributes to our understanding of:
+
 - How organisms rapidly adapt to new environments
 - The role of standing genetic variation in evolution
 - The genetic basis of parallel phenotypic evolution

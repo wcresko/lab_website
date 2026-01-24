@@ -14,6 +14,7 @@ This landmark study identifies genomic regions under selection across multiple s
 ## Major Findings
 
 The genome scan revealed:
+
 - Selection signatures across populations
 - Parallel evolution patterns
 - Adaptive genomic regions
@@ -23,6 +24,7 @@ The genome scan revealed:
 ## Methodological Innovation
 
 The study employed:
+
 - RAD-seq technology
 - Population genomics
 - Statistical methods
@@ -32,6 +34,7 @@ The study employed:
 ## Selection Patterns
 
 We discovered:
+
 - Repeated selection targets
 - Population-specific adaptations
 - Genomic architecture of adaptation
@@ -41,6 +44,7 @@ We discovered:
 ## Media Coverage
 
 The work received:
+
 - University press release
 - Science news coverage
 - Educational features
@@ -50,6 +54,7 @@ The work received:
 ## Scientific Impact
 
 This publication:
+
 - Advances evolutionary theory
 - Demonstrates RAD-seq power
 - Identifies candidate genes
@@ -59,6 +64,7 @@ This publication:
 ## Collaborative Effort
 
 The project involved:
+
 - Multiple populations
 - Extensive sampling
 - Team coordination
@@ -68,6 +74,7 @@ The project involved:
 ## Evolutionary Insights
 
 Key discoveries include:
+
 - How genomes evolve
 - Selection mechanisms
 - Adaptation genetics
@@ -77,6 +84,7 @@ Key discoveries include:
 ## Technology Showcase
 
 The work demonstrates:
+
 - RAD-seq capabilities
 - Genomic scanning power
 - Population-level analysis
@@ -86,6 +94,7 @@ The work demonstrates:
 ## Educational Value
 
 The publication provides:
+
 - Teaching examples
 - Evolution evidence
 - Method demonstration
@@ -95,6 +104,7 @@ The publication provides:
 ## Future Directions
 
 This work enables:
+
 - Functional validation
 - Fine-mapping studies
 - Comparative genomics
@@ -104,6 +114,7 @@ This work enables:
 ## Lab Achievement
 
 The publication represents:
+
 - Major milestone
 - Method validation
 - Team success
@@ -113,6 +124,7 @@ The publication represents:
 ## Broader Significance
 
 Understanding selection helps:
+
 - Predict evolutionary responses
 - Inform conservation
 - Guide breeding programs

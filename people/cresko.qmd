@@ -127,11 +127,26 @@ Regular reviewer for Science, Nature, PNAS, Development, Developmental Biology, 
 
 ## Funding
 
-Bill has secured over \$60 million in research funding from: - National Institutes of Health (NIH) - National Science Foundation (NSF) - M.J. Murdock Charitable Trust - W.M. Keck Foundation - Other federal and private sources
+Bill has secured over \$60 million in research funding from:
+
+- National Institutes of Health (NIH)
+- National Science Foundation (NSF)
+- M.J. Murdock Charitable Trust
+- W.M. Keck Foundation
+- Other federal and private sources
 
 ## Publications
 
-Author of nearly 100 peer-reviewed publications with thousands of citations, including landmark papers in: - Science - Nature - PNAS - Genetics - PLoS Genetics - Molecular Ecology - Evolution - Genome Biology
+Author of nearly 100 peer-reviewed publications with thousands of citations, including landmark papers in:
+
+- Science
+- Nature
+- PNAS
+- Genetics
+- PLoS Genetics
+- Molecular Ecology
+- Evolution
+- Genome Biology
 
 ## Leadership & Service
 
@@ -150,4 +165,10 @@ Author of nearly 100 peer-reviewed publications with thousands of citations, inc
 
 ## Teaching
 
-Courses in: - Evolutionary Genomics - Computational Biology - Genetics - Data Science - Bioinformatics
+Courses in:
+
+- Evolutionary Genomics
+- Computational Biology
+- Genetics
+- Data Science
+- Bioinformatics

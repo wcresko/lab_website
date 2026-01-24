@@ -14,6 +14,7 @@ Emily Lescak, Matthew Wund, Susan Bassham, Julian Catchen, Daniel Prince, Ryan L
 ## Key Discovery
 
 The research reveals:
+
 - Ancient mtDNA divergence persists in populations
 - No association with phenotypic variation
 - No correlation with nuclear genetic patterns
@@ -23,6 +24,7 @@ The research reveals:
 ## Phylogeographic Insights
 
 The study demonstrates:
+
 - Deep mitochondrial lineage divergence
 - Geographic distribution of ancient clades
 - Lack of phenotypic correspondence
@@ -32,6 +34,7 @@ The study demonstrates:
 ## Implications for Evolution
 
 Findings suggest:
+
 - Mitochondrial evolution can be neutral
 - Nuclear genes drive phenotypes
 - Ancient polymorphisms persist without effect
@@ -41,6 +44,7 @@ Findings suggest:
 ## Population Genetics
 
 The work reveals:
+
 - Maintenance of ancient variation
 - Incomplete lineage sorting
 - Demographic history complexity
@@ -50,6 +54,7 @@ The work reveals:
 ## Methodological Rigor
 
 The study employed:
+
 - Comprehensive geographic sampling
 - Mitochondrial sequencing
 - Nuclear genomic analysis
@@ -59,6 +64,7 @@ The study employed:
 ## Evolutionary Theory
 
 This challenges assumptions about:
+
 - Mitochondrial functional importance
 - Cytonuclear coevolution
 - Adaptive significance of mtDNA
@@ -68,6 +74,7 @@ This challenges assumptions about:
 ## Conservation Applications
 
 Findings inform:
+
 - Management unit delineation
 - Genetic diversity assessment
 - Evolutionary potential evaluation
@@ -77,6 +84,7 @@ Findings inform:
 ## Broader Significance
 
 This work demonstrates:
+
 - Complexity of genome evolution
 - Importance of multi-marker approaches
 - Neutral evolution's role

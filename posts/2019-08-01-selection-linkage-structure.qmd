@@ -14,6 +14,7 @@ Thom Nelson, John Crandall, Kate Ituarte, Julian Catchen, and Bill Cresko demons
 ## Triple Interaction
 
 The research reveals:
+
 - Selection shapes local adaptation
 - Linkage creates correlated evolution
 - Population structure modulates gene flow
@@ -23,6 +24,7 @@ The research reveals:
 ## Linked Selection
 
 Key findings include:
+
 - Background selection effects
 - Selective sweeps detected
 - Hitchhiking of neutral variants
@@ -32,6 +34,7 @@ Key findings include:
 ## Population Structure Effects
 
 The study shows:
+
 - Gene flow patterns vary
 - Local adaptation persists
 - Metapopulation dynamics operate
@@ -41,6 +44,7 @@ The study shows:
 ## Genomic Architecture
 
 Discoveries reveal:
+
 - Recombination landscape importance
 - Chromosomal variation patterns
 - Genomic island formation
@@ -50,6 +54,7 @@ Discoveries reveal:
 ## Methodological Innovation
 
 Approaches include:
+
 - Genome-wide selection scans
 - Linkage analysis methods
 - Population structure inference
@@ -59,6 +64,7 @@ Approaches include:
 ## Evolutionary Theory
 
 This work advances:
+
 - Population genetics theory
 - Understanding of genome evolution
 - Selection in structured populations
@@ -68,6 +74,7 @@ This work advances:
 ## Stickleback Excellence
 
 The system provides:
+
 - Natural population replication
 - Genomic resources
 - Ecological context
@@ -77,6 +84,7 @@ The system provides:
 ## Broader Applications
 
 Findings apply to:
+
 - Conservation genetics
 - Crop improvement
 - Disease evolution
@@ -86,6 +94,7 @@ Findings apply to:
 ## Collaborative Achievement
 
 This publication showcases:
+
 - Graduate student leadership
 - Undergraduate contributions
 - Computational excellence

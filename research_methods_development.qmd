@@ -259,6 +259,7 @@ We're committed to training the next generation:
 ## Collaborations
 
 Our methods development involves:
+
 - Computer scientists and software engineers
 - Statisticians and mathematicians
 - Molecular biologists and biochemists
@@ -268,6 +269,7 @@ Our methods development involves:
 ## Impact and Applications
 
 Our methods have been applied to:
+
 - Conservation genetics of endangered species
 - Agricultural crop improvement
 - Fisheries stock assessment
@@ -280,6 +282,7 @@ Our methods have been applied to:
 ## Future Directions
 
 Ongoing and planned developments include:
+
 - Quantum computing applications
 - Blockchain for data integrity
 - Federated learning approaches

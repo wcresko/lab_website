@@ -14,6 +14,7 @@ Clay Small, Kathryn Milligan-Myhre, Susan Bassham, Karen Guillemin, and Bill Cre
 ## Major Discovery
 
 The research reveals:
+
 - Asymmetric contributions to transcriptional variation
 - Host genotype effects dominate overall
 - Microbiota influences specific pathways
@@ -23,6 +24,7 @@ The research reveals:
 ## Transcriptomic Innovation
 
 Key findings include:
+
 - RNA-seq analysis of gnotobiotic fish
 - Pathway-specific expression patterns
 - Statistical G×E interactions
@@ -32,6 +34,7 @@ Key findings include:
 ## Affected Pathways
 
 Microbiota influences:
+
 - Innate immunity responses
 - Coagulation cascades
 - Complement system
@@ -42,6 +45,7 @@ Microbiota influences:
 ## Gnotobiotic Excellence
 
 This work showcases:
+
 - Controlled microbiome experiments
 - Germ-free fish technology
 - Precise colonization protocols
@@ -51,6 +55,7 @@ This work showcases:
 ## Evolutionary Implications
 
 Findings suggest:
+
 - Co-evolution of host and microbes
 - Population-specific adaptations
 - Microbiome's role in local adaptation
@@ -60,6 +65,7 @@ Findings suggest:
 ## Methodological Advances
 
 The study employed:
+
 - Gnotobiotic experimental design
 - High-throughput RNA sequencing
 - Advanced statistical modeling
@@ -69,6 +75,7 @@ The study employed:
 ## Biomedical Relevance
 
 Applications include:
+
 - Understanding microbiome health effects
 - Personalized medicine approaches
 - Host genetic influences on microbiome
@@ -78,6 +85,7 @@ Applications include:
 ## Systems Biology
 
 This research demonstrates:
+
 - Multi-level biological integration
 - Host-microbe network interactions
 - Emergent system properties

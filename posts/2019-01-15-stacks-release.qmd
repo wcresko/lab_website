@@ -31,6 +31,7 @@ We're excited to announce the release of Stacks 2.0, a major update to our popul
 ## By the Numbers
 
 Since its initial release in 2013, Stacks has:
+
 - Been cited in over 3,000 publications
 - Processed data from 500+ species
 - Been downloaded 50,000+ times
@@ -39,6 +40,7 @@ Since its initial release in 2013, Stacks has:
 ## Community Contributions
 
 Stacks 2.0 includes contributions from users worldwide:
+
 - Bug reports and feature requests from hundreds of users
 - Code contributions from 15 external developers
 - Beta testing by 50+ research groups
@@ -47,6 +49,7 @@ Stacks 2.0 includes contributions from users worldwide:
 ## Training Opportunities
 
 We're offering workshops on Stacks 2.0:
+
 - **PAG 2019** (San Diego, January)
 - **Evolution 2019** (Providence, June)
 - **Online workshop** (March, registration required)
@@ -54,6 +57,7 @@ We're offering workshops on Stacks 2.0:
 ## Looking Forward
 
 Development continues with planned features:
+
 - Machine learning for parameter optimization
 - Integration with genome assembly tools
 - Enhanced visualization capabilities

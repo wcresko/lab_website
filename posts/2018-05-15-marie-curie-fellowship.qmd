@@ -15,6 +15,7 @@ The Marie Curie Actions are among Europe's most competitive and prestigious awar
 ## Research Plans
 
 Martin's project, "Evolutionary Innovations in Syngnathid Fishes," will investigate:
+
 - The genomic basis of male pregnancy
 - Evolution of elaborate morphological structures
 - Comparative genomics across seahorses, pipefishes, and seadragons

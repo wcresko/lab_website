@@ -23,6 +23,7 @@ The study also established highly reproducible methods for 16S sequencing in fis
 ## Broader Impacts
 
 This work contributes to understanding:
+
 - How host evolution shapes associated microbial communities
 - The heritability of microbiome traits
 - Potential for microbiome-based therapies

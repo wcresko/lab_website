@@ -14,6 +14,7 @@ Emily Beck, Susan Bassham, and Bill Cresko reveal extreme intraspecific divergen
 ## Revolutionary Discovery
 
 The research reveals:
+
 - Extreme mitochondrial haplotype divergence within species
 - Potential for mito-nuclear incompatibilities
 - Natural evolutionary experiments
@@ -23,6 +24,7 @@ The research reveals:
 ## Mitochondrial Diversity
 
 Key findings include:
+
 - Deep divergence between haplotypes
 - Geographic distribution patterns
 - Maintenance of ancient lineages
@@ -32,6 +34,7 @@ Key findings include:
 ## Model System Advantages
 
 Stickleback offer:
+
 - Natural mitochondrial variation
 - Controlled breeding capability
 - Genomic resources availability
@@ -41,6 +44,7 @@ Stickleback offer:
 ## Evolutionary Significance
 
 This work demonstrates:
+
 - Mito-nuclear co-evolution importance
 - Genetic incompatibility evolution
 - Speciation mechanisms
@@ -50,6 +54,7 @@ This work demonstrates:
 ## Biomedical Relevance
 
 Applications include:
+
 - Mitochondrial disease models
 - Aging research
 - Metabolic studies
@@ -59,6 +64,7 @@ Applications include:
 ## Comparative Genomics
 
 The study provides:
+
 - Cross-population comparisons
 - Sequence divergence analyses
 - Functional variant identification
@@ -68,6 +74,7 @@ The study provides:
 ## Future Research
 
 This enables:
+
 - Functional studies of incompatibilities
 - Hybrid crosses experiments
 - Metabolic phenotyping
@@ -77,6 +84,7 @@ This enables:
 ## Theoretical Contributions
 
 Advances understanding of:
+
 - Cytonuclear evolution
 - Genetic conflict
 - Co-adaptation mechanisms

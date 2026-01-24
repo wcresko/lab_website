@@ -14,6 +14,7 @@ Hope's paper, co-authored with Dr. Susan Bassham, uses single-cell Iso-Seq techn
 ## About the Publication
 
 The paper presents:
+
 - Revolutionary improvement in genome annotation
 - Single-cell Iso-Seq methodology for stickleback
 - Enhanced transcript identification
@@ -23,6 +24,7 @@ The paper presents:
 ## Technical Innovation
 
 Hope's work achieved:
+
 - Full-length transcript sequencing at single-cell resolution
 - Discovery of previously unknown isoforms
 - Correction of misannotated genes
@@ -32,6 +34,7 @@ Hope's work achieved:
 ## Research Impact
 
 This publication enables:
+
 - More accurate single-cell RNA sequencing studies
 - Better understanding of gene expression patterns
 - Improved functional genomics in stickleback
@@ -41,6 +44,7 @@ This publication enables:
 ## Methodological Advances
 
 The study demonstrates:
+
 - Power of long-read sequencing technology
 - Integration of multiple sequencing platforms
 - Computational pipelines for transcript discovery
@@ -50,6 +54,7 @@ The study demonstrates:
 ## Community Resource
 
 Hope's work provides:
+
 - Publicly available improved annotations
 - Computational tools for analysis
 - Protocols for implementation
@@ -59,6 +64,7 @@ Hope's work provides:
 ## Single-Cell Revolution
 
 This work is crucial because:
+
 - Single-cell approaches are transforming biology
 - Accurate annotation is essential for interpretation
 - Stickleback is a key evolutionary model
@@ -68,6 +74,7 @@ This work is crucial because:
 ## Collaborative Effort
 
 The publication reflects:
+
 - Mentorship from Susan Bassham
 - Support from the Cresko Lab team
 - Collaboration with genomics experts
@@ -77,6 +84,7 @@ The publication reflects:
 ## Hope's Research Program
 
 This publication advances Hope's broader research on:
+
 - Evolution of craniofacial development
 - Single-cell analysis of syngnathid fishes
 - Comparative developmental genomics
@@ -86,6 +94,7 @@ This publication advances Hope's broader research on:
 ## Career Milestone
 
 First-author publications in Genetics:
+
 - Mark significant research contributions
 - Demonstrate independent thinking
 - Strengthen graduate school progress
@@ -95,6 +104,7 @@ First-author publications in Genetics:
 ## Looking Forward
 
 This publication sets the stage for:
+
 - Additional high-impact papers
 - Expanded single-cell studies
 - New collaborative projects

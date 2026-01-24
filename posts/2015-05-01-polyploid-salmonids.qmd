@@ -14,6 +14,7 @@ Fred Allendorf, Susan Bassham, Bill Cresko, Morten Limborg, and Jim Seeb demonst
 ## Key Discoveries
 
 The research reveals:
+
 - Homeologous recombination near telomeres
 - Centromeric regions maintain disomic inheritance
 - Many genetic maps miss telomeric regions
@@ -23,6 +24,7 @@ The research reveals:
 ## Polyploid Complexity
 
 Important findings about:
+
 - Residual tetraploidy patterns
 - Chromosome pairing mechanisms
 - Inheritance mode variation
@@ -32,6 +34,7 @@ Important findings about:
 ## Mapping Implications
 
 This work shows:
+
 - SNP and microsatellite maps have gaps
 - Long chromosome sections poorly represented
 - Telomeric regions especially undersampled
@@ -41,6 +44,7 @@ This work shows:
 ## Conservation Applications
 
 Findings inform:
+
 - Population genetic analyses
 - Conservation unit delineation
 - Effective population size estimates
@@ -50,6 +54,7 @@ Findings inform:
 ## Evolutionary Insights
 
 The study reveals:
+
 - Rediploidization processes
 - Chromosome evolution patterns
 - Homeolog divergence mechanisms
@@ -59,6 +64,7 @@ The study reveals:
 ## Technical Innovation
 
 The research employed:
+
 - Comparative genomic approaches
 - Inheritance pattern analysis
 - Chromosome mapping techniques
@@ -68,6 +74,7 @@ The research employed:
 ## Salmonid Importance
 
 This work benefits:
+
 - Commercial fisheries management
 - Aquaculture breeding programs
 - Conservation efforts
@@ -77,6 +84,7 @@ This work benefits:
 ## Broader Impact
 
 Applications extend to:
+
 - Other polyploid species
 - Crop improvement programs
 - Understanding genome evolution

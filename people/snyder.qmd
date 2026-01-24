@@ -97,4 +97,9 @@ My dissertation work focuses on uncovering the molecular mechanisms governing wi
 
 ## Future Directions
 
-My research aims to: - Understand the molecular basis of adaptive plasticity - Predict evolutionary responses to environmental change - Apply findings to conservation and management - Bridge ecology, evolution, and molecular biology
+My research aims to:
+
+- Understand the molecular basis of adaptive plasticity
+- Predict evolutionary responses to environmental change
+- Apply findings to conservation and management
+- Bridge ecology, evolution, and molecular biology

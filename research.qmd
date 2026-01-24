@@ -44,7 +44,12 @@ We developed Restriction site Associated DNA sequencing (RAD-seq), a method that
 
 #### Stacks Software Pipeline
 
-We created Stacks, a software pipeline for building loci from short-read sequences. Stacks is now used by thousands of researchers worldwide for: - De novo and reference-based assembly of RAD-seq data - SNP discovery and genotyping - Population genomics analyses - Phylogenomics applications
+We created Stacks, a software pipeline for building loci from short-read sequences. Stacks is now used by thousands of researchers worldwide for:
+
+- De novo and reference-based assembly of RAD-seq data
+- SNP discovery and genotyping
+- Population genomics analyses
+- Phylogenomics applications
 
 [Learn more about our methods development →](/research_methods_development.qmd)
 
@@ -85,11 +90,28 @@ Our research takes us to diverse field sites across the Pacific Northwest and be
 
 Our research employs a wide range of modern techniques:
 
-**Field Methods** - Population sampling and ecological surveys - Environmental monitoring - Behavioral observations - Transplant experiments
+**Field Methods**
 
-**Laboratory Methods** - Whole genome sequencing - RNA-seq and gene expression analysis - CRISPR genome editing - Experimental evolution - Microbiome profiling (16S and metagenomics)
+- Population sampling and ecological surveys
+- Environmental monitoring
+- Behavioral observations
+- Transplant experiments
 
-**Computational Approaches** - Population genomics analyses - Phylogenomics - Genome-wide association studies (GWAS) - Machine learning applications - Bioinformatics pipeline development
+**Laboratory Methods**
+
+- Whole genome sequencing
+- RNA-seq and gene expression analysis
+- CRISPR genome editing
+- Experimental evolution
+- Microbiome profiling (16S and metagenomics)
+
+**Computational Approaches**
+
+- Population genomics analyses
+- Phylogenomics
+- Genome-wide association studies (GWAS)
+- Machine learning applications
+- Bioinformatics pipeline development
 
 ## Collaborations
 
@@ -103,6 +125,12 @@ We maintain active collaborations with researchers around the world:
 
 ## Join Our Research
 
-We welcome inquiries from prospective students and postdocs interested in: - Evolutionary genomics - Host-microbiome interactions - Bioinformatics and computational biology - Field ecology and evolution - Conservation genomics
+We welcome inquiries from prospective students and postdocs interested in:
+
+- Evolutionary genomics
+- Host-microbiome interactions
+- Bioinformatics and computational biology
+- Field ecology and evolution
+- Conservation genomics
 
 [Contact us to learn more →](mailto:wcresko@uoregon.edu)

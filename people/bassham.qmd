@@ -40,11 +40,21 @@ What are the developmental and genetic bases of evolution in natural populations
 
 ## Selected Publications
 
-Dr. Bassham has contributed to numerous high-impact publications, including work on: - Parallel evolution in stickleback populations - RAD-seq methodology development - Population genomics of adaptation - Developmental evolution of novel traits
+Dr. Bassham has contributed to numerous high-impact publications, including work on:
+
+- Parallel evolution in stickleback populations
+- RAD-seq methodology development
+- Population genomics of adaptation
+- Developmental evolution of novel traits
 
 ## Teaching and Mentorship
 
-Susan has mentored numerous undergraduate and graduate students in: - Molecular biology techniques - Bioinformatics and data analysis - Experimental design - Scientific writing and presentation
+Susan has mentored numerous undergraduate and graduate students in:
+
+- Molecular biology techniques
+- Bioinformatics and data analysis
+- Experimental design
+- Scientific writing and presentation
 
 ## Professional Service
 
