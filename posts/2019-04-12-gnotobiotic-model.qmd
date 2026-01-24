@@ -11,6 +11,7 @@ Our lab has successfully developed methods for generating and maintaining germ-f
 ## Why Gnotobiotic Fish?
 
 Gnotobiotic animals - those with no microbes or only known microbes - are essential for understanding:
+
 - How specific microbes affect host biology
 - The role of microbiomes in development and immunity
 - Host genetic effects on microbiome assembly
@@ -32,6 +33,7 @@ Our protocol, refined over two years, achieves >95% success rate in generating g
 ## Research Applications
 
 This system enables us to:
+
 - Test how specific host genes affect microbiome assembly
 - Measure microbe-specific effects on host gene expression
 - Study immune system development in the absence of microbes
@@ -40,6 +42,7 @@ This system enables us to:
 ## First Results
 
 Initial experiments reveal:
+
 - Germ-free stickleback have altered intestinal development
 - Immune gene expression differs dramatically without microbes
 - Colonization with different bacteria produces distinct host responses

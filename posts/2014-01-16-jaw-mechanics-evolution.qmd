@@ -14,6 +14,7 @@ This collaborative study with Heather Jamniczky, Emily Harper, Ryan Garner, Bill
 ## Key Discovery
 
 Our research reveals:
+
 - A modular boundary subdivides the jaw lever apparatus
 - This boundary corresponds to regions of prominent morphological evolution
 - Matched modular architecture facilitates rapid adaptation
@@ -23,6 +24,7 @@ Our research reveals:
 ## Evolutionary Innovation
 
 The study demonstrates:
+
 - Modular organization enables evolutionary flexibility
 - Functional constraints shape morphological evolution
 - Rapid transitions between habitats are facilitated by modularity
@@ -32,6 +34,7 @@ The study demonstrates:
 ## The Four-Bar System
 
 The opercular four-bar lever:
+
 - Controls jaw protrusion and suction feeding
 - Varies dramatically between populations
 - Responds to ecological pressures
@@ -41,6 +44,7 @@ The opercular four-bar lever:
 ## Methodological Approach
 
 We employed:
+
 - High-resolution morphometric analysis
 - Functional biomechanical modeling
 - Comparative phylogenetic methods
@@ -50,6 +54,7 @@ We employed:
 ## Ecological Significance
 
 This work explains:
+
 - How fish adapt feeding mechanics to new prey
 - Rapid evolution in colonized habitats
 - Trade-offs between feeding modes
@@ -59,6 +64,7 @@ This work explains:
 ## Evo-Devo Insights
 
 The research bridges:
+
 - Developmental biology and evolution
 - Functional morphology and ecology
 - Micro- and macroevolution
@@ -68,6 +74,7 @@ The research bridges:
 ## Collaborative Excellence
 
 This publication showcases:
+
 - International research collaboration
 - Integration of multiple disciplines
 - Advanced imaging and analysis techniques
@@ -77,6 +84,7 @@ This publication showcases:
 ## Broader Applications
 
 Findings apply to:
+
 - Understanding vertebrate skull evolution
 - Predicting evolutionary responses
 - Biomimetic design principles

@@ -14,6 +14,7 @@ Adam Gardell, Frank von Hippel, Aubrey Adams, Danielle Dillon, Ann Petersen, Joh
 ## Major Findings
 
 The research reveals:
+
 - Iodide supplementation protects against perchlorate damage
 - Follicle proliferation is significantly reduced
 - Colloid depletion is prevented
@@ -23,6 +24,7 @@ The research reveals:
 ## Mechanistic Insights
 
 Key discoveries about:
+
 - Sodium-iodide symporter (NIS) function
 - Competitive inhibition mechanisms
 - Iodide transport dynamics
@@ -32,6 +34,7 @@ Key discoveries about:
 ## Environmental Relevance
 
 This work addresses:
+
 - Widespread perchlorate contamination
 - Potential remediation strategies
 - Dietary intervention possibilities
@@ -41,6 +44,7 @@ This work addresses:
 ## Histopathological Analysis
 
 The study documents:
+
 - Follicle area restoration in adults
 - Reduced follicle proliferation
 - Colloid preservation
@@ -50,6 +54,7 @@ The study documents:
 ## Developmental Differences
 
 Findings reveal:
+
 - Adult versus subadult response variation
 - Stage-specific protective effects
 - Developmental timing importance
@@ -59,6 +64,7 @@ Findings reveal:
 ## Clinical Applications
 
 Potential implications for:
+
 - Human health protection strategies
 - Dietary supplementation guidelines
 - Risk mitigation approaches
@@ -68,6 +74,7 @@ Potential implications for:
 ## Obesogen Connection
 
 The research also explores:
+
 - Metabolic disruption aspects
 - Body weight regulation effects
 - Energy homeostasis impacts
@@ -77,6 +84,7 @@ The research also explores:
 ## Conservation Impact
 
 This work informs:
+
 - Wildlife protection strategies
 - Ecosystem health management
 - Contaminated habitat remediation

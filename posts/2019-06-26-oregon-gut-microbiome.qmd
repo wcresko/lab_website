@@ -14,6 +14,7 @@ Robert Steury, Mark Currey, Bill Cresko, and Brendan Bohannan demonstrate that p
 ## Key Discoveries
 
 The research reveals:
+
 - Host genetics influences microbiome composition
 - Environmental factors also shape communities
 - Population-specific microbiome signatures exist
@@ -23,6 +24,7 @@ The research reveals:
 ## Population Genomics Integration
 
 The study combines:
+
 - RAD-seq population genetics
 - 16S microbiome profiling
 - Environmental characterization
@@ -32,6 +34,7 @@ The study combines:
 ## Microbiome Patterns
 
 Findings show:
+
 - Population-specific bacterial communities
 - Core versus variable microbiome members
 - Environmental filtering effects
@@ -41,6 +44,7 @@ Findings show:
 ## Oregon System
 
 The research leverages:
+
 - Diverse stickleback populations
 - Environmental gradients
 - Genetic variation
@@ -50,6 +54,7 @@ The research leverages:
 ## Host-Microbe Evolution
 
 This work demonstrates:
+
 - Co-evolutionary dynamics
 - Local adaptation influences
 - Microbiome heritability
@@ -59,6 +64,7 @@ This work demonstrates:
 ## Methodological Excellence
 
 Approaches include:
+
 - Population sampling strategies
 - Microbiome standardization
 - Genetic analysis pipelines
@@ -68,6 +74,7 @@ Approaches include:
 ## Ecological Understanding
 
 The research illuminates:
+
 - Community ecology principles
 - Host-microbe interactions
 - Environmental drivers
@@ -77,6 +84,7 @@ The research illuminates:
 ## Conservation Applications
 
 Findings inform:
+
 - Population health assessment
 - Microbiome conservation
 - Habitat management

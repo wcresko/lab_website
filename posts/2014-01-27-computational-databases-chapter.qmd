@@ -14,6 +14,7 @@ This comprehensive guide by Richard Voelker, William Cresko, and Clayton Burglan
 ## Chapter Highlights
 
 The publication covers:
+
 - Introduction to primary genomic data repositories
 - Common file format specifications
 - Sequence annotation best practices
@@ -24,6 +25,7 @@ The publication covers:
 ## Practical Application
 
 A fully worked example demonstrates:
+
 - ChIP-seq data analysis
 - Annotation data integration
 - Query formulation strategies
@@ -33,6 +35,7 @@ A fully worked example demonstrates:
 ## Key Learning Objectives
 
 Readers will master:
+
 - Efficient data retrieval from public databases
 - File format conversions and manipulations
 - Command-line tools for genomic analysis
@@ -42,6 +45,7 @@ Readers will master:
 ## Essential Skills
 
 The chapter teaches:
+
 - Navigation of major genomic databases
 - Understanding of standardized file formats
 - Use of bedtools and related utilities
@@ -51,6 +55,7 @@ The chapter teaches:
 ## Target Audience
 
 This resource benefits:
+
 - Graduate students entering genomics
 - Researchers new to bioinformatics
 - Biologists transitioning to computational work
@@ -60,6 +65,7 @@ This resource benefits:
 ## Database Coverage
 
 Featured repositories include:
+
 - NCBI/GenBank
 - UCSC Genome Browser
 - Ensembl
@@ -69,6 +75,7 @@ Featured repositories include:
 ## Computational Tools
 
 Introduction to essential software:
+
 - Command-line utilities
 - Scripting approaches
 - Browser interfaces
@@ -78,6 +85,7 @@ Introduction to essential software:
 ## Educational Impact
 
 This chapter serves as:
+
 - Laboratory training material
 - Course curriculum content
 - Self-study resource

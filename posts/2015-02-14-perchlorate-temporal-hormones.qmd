@@ -14,6 +14,7 @@ Adam Gardell, Danielle Dillon, Leah Smayda, Frank von Hippel, Bill Cresko, John 
 ## Key Findings
 
 The study reveals:
+
 - Diel variations in 11-KT remain unaffected by perchlorate
 - Reproductive season hormone patterns persist despite exposure
 - T4 content increases across reproductive season
@@ -23,6 +24,7 @@ The study reveals:
 ## Temporal Dynamics
 
 Important discoveries about:
+
 - Daily hormone fluctuation patterns
 - Seasonal reproductive cycles
 - Circadian regulation of hormones
@@ -32,6 +34,7 @@ Important discoveries about:
 ## Behavioral Connections
 
 The research links:
+
 - 11-KT variations to reproductive behavior
 - Hormone patterns to breeding physiology
 - Daily rhythms to mating activities
@@ -41,6 +44,7 @@ The research links:
 ## Environmental Context
 
 This work addresses:
+
 - Chronic contaminant exposure effects
 - Natural variation versus pollution impacts
 - Robustness of biological rhythms
@@ -50,6 +54,7 @@ This work addresses:
 ## Life History Insights
 
 Findings reveal:
+
 - Increased T4 reflects reproductive investment
 - End-of-life reproductive effort
 - Trade-offs between survival and reproduction
@@ -59,6 +64,7 @@ Findings reveal:
 ## Methodological Rigor
 
 The study employed:
+
 - Time-series sampling designs
 - Multiple seasonal time points
 - Diel sampling protocols
@@ -68,6 +74,7 @@ The study employed:
 ## Conservation Relevance
 
 This research informs:
+
 - Understanding of pollution impacts
 - Natural baseline hormone variations
 - Timing of sensitive periods

@@ -18,6 +18,7 @@ Our analyses suggest that a long history of divergent selection and gene flow am
 ## Key Findings
 
 The research demonstrates:
+
 - Maintenance of alternatively adapted haplotypes through balancing selection
 - Rapid genomic remodeling during freshwater colonization
 - Evidence for evolution occurring within observable human timescales
@@ -32,6 +33,7 @@ The research demonstrates:
 ## Broader Impact
 
 This work has important implications for:
+
 - Understanding rapid adaptation to environmental change
 - Conservation genetics in changing climates
 - Evolutionary theory regarding the speed of adaptation

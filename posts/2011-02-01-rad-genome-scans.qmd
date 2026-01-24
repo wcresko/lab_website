@@ -14,6 +14,7 @@ This feature recognizes the transformative impact of RAD-seq technology on popul
 ## About the Highlight
 
 Science magazine features how RAD-seq is revolutionizing:
+
 - Population genomic studies in non-model organisms
 - Detection of signatures of natural selection
 - Genome-wide association studies (GWAS)
@@ -22,6 +23,7 @@ Science magazine features how RAD-seq is revolutionizing:
 ## Key Applications
 
 The highlighted work demonstrates RAD-seq's power for:
+
 - Identifying genomic regions under selection
 - Mapping traits in natural populations
 - Understanding population structure and gene flow
@@ -30,6 +32,7 @@ The highlighted work demonstrates RAD-seq's power for:
 ## Methodological Innovation
 
 RAD-seq enables researchers to:
+
 - Generate thousands of genetic markers economically
 - Study organisms without genomic resources
 - Conduct population-level sampling at genomic scales

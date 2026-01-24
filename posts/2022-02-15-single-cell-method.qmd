@@ -15,6 +15,7 @@ Genome annotation - identifying genes and their functions - remains a major bott
 ## Our Solution
 
 The team developed a pipeline combining:
+
 - Single-cell RNA sequencing (scRNA-seq) for cell-type-specific expression
 - Long-read Iso-Sequencing for full-length transcripts
 - Custom computational tools for integration
@@ -24,6 +25,7 @@ This approach identified hundreds of previously unannotated genes in the threesp
 ## Applications
 
 The method is particularly valuable for:
+
 - Evolutionary developmental biology studies
 - Understanding cell-type evolution
 - Improving genome resources for ecological model systems

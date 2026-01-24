@@ -14,6 +14,7 @@ Taylor has been an exceptional undergraduate researcher in the Cresko Lab, makin
 ## Research Contributions
 
 During their time in the lab, Taylor contributed to:
+
 - Field collections across Oregon watersheds
 - RAD-seq library preparation and optimization
 - Population genetic analyses
@@ -22,6 +23,7 @@ During their time in the lab, Taylor contributed to:
 ## Academic Excellence
 
 Taylor's achievements include:
+
 - Graduating with Highest Honors from Clark Honors College
 - Completion of an honors thesis on stickleback population genetics
 - Dean's List recognition throughout their undergraduate career

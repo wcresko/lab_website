@@ -14,6 +14,7 @@ Ann Petersen, Danielle Dillon, Richard Bernhardt, John Postlethwait, Frank von H
 ## Major Findings
 
 The research reveals:
+
 - Perchlorate disrupts embryonic androgen synthesis
 - Reproductive development is significantly affected
 - Whole-body thyroid hormone levels remain unchanged
@@ -23,6 +24,7 @@ The research reveals:
 ## Endocrine Disruption
 
 Key discoveries about:
+
 - 11-ketotestosterone synthesis disruption
 - Dose-response relationships in embryos
 - Steroid biogenesis pathway effects
@@ -32,6 +34,7 @@ Key discoveries about:
 ## Environmental Relevance
 
 This work addresses:
+
 - Widespread perchlorate contamination
 - Water quality impacts on fish populations
 - Endocrine disrupting chemicals in ecosystems
@@ -41,6 +44,7 @@ This work addresses:
 ## Mechanistic Insights
 
 The study reveals:
+
 - Decoupling of thyroid and reproductive effects
 - Tissue-specific hormone disruption
 - Developmental timing sensitivity
@@ -50,6 +54,7 @@ The study reveals:
 ## Conservation Implications
 
 Findings inform:
+
 - Risk assessment for aquatic organisms
 - Water quality standards
 - Population viability assessments
@@ -59,6 +64,7 @@ Findings inform:
 ## Methodological Excellence
 
 The research employed:
+
 - Controlled exposure experiments
 - Hormone quantification techniques
 - Histological analyses
@@ -68,6 +74,7 @@ The research employed:
 ## Research Team
 
 Collaborative effort involving:
+
 - Multiple universities
 - Environmental toxicology expertise
 - Endocrinology specialists
@@ -77,6 +84,7 @@ Collaborative effort involving:
 ## Broader Impacts
 
 This research contributes to:
+
 - Understanding endocrine disruption
 - Protecting aquatic ecosystems
 - Informing regulatory decisions

@@ -14,6 +14,7 @@ This major publication represents years of collaborative effort to sequence and 
 ## Major Findings
 
 The genome revealed:
+
 - Gene losses underlying trait evolution
 - Male pregnancy genetic mechanisms
 - Immune system modifications
@@ -23,6 +24,7 @@ The genome revealed:
 ## Genomic Resources
 
 We've produced:
+
 - High-quality genome assembly
 - Comprehensive gene annotations
 - Comparative genomic analyses
@@ -32,6 +34,7 @@ We've produced:
 ## Evolutionary Insights
 
 Key discoveries include:
+
 - Loss of genes for pelvic fin development
 - Modified immune genes for male pregnancy
 - Unique reproductive system adaptations
@@ -41,6 +44,7 @@ Key discoveries include:
 ## Collaborative Effort
 
 This project involved:
+
 - Multiple institutions
 - International collaboration
 - Years of sequencing work
@@ -50,6 +54,7 @@ This project involved:
 ## Syngnathid Biology
 
 The genome illuminates:
+
 - Male pregnancy evolution
 - Brood pouch development
 - Immune tolerance mechanisms
@@ -59,6 +64,7 @@ The genome illuminates:
 ## Technical Achievements
 
 Project milestones included:
+
 - De novo genome assembly
 - Transcriptome sequencing
 - Comparative genomics
@@ -68,6 +74,7 @@ Project milestones included:
 ## Research Impact
 
 This publication provides:
+
 - Foundation for syngnathid research
 - Insights into evolutionary innovation
 - Model for trait loss studies
@@ -77,6 +84,7 @@ This publication provides:
 ## Future Directions
 
 The genome enables:
+
 - Functional validation studies
 - Population genomics research
 - Conservation genetics applications
@@ -86,6 +94,7 @@ The genome enables:
 ## Community Resource
 
 Available data includes:
+
 - Genome assembly
 - Gene annotations
 - Expression data
@@ -95,6 +104,7 @@ Available data includes:
 ## Media Coverage
 
 The publication has garnered:
+
 - Scientific community interest
 - Press release coverage
 - Social media attention
@@ -104,6 +114,7 @@ The publication has garnered:
 ## Lab Achievement
 
 This publication represents:
+
 - Major lab milestone
 - Successful collaboration
 - Student training success

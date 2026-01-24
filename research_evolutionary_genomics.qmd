@@ -146,6 +146,7 @@ We develop and apply cutting-edge computational methods:
 ## Collaborations
 
 This research involves collaborations with:
+
 - Population geneticists worldwide
 - Computational biologists and bioinformaticians
 - Evolutionary ecologists
@@ -154,6 +155,7 @@ This research involves collaborations with:
 ## Future Directions
 
 Our ongoing and future work aims to:
+
 - Integrate long-read sequencing for improved genome assemblies
 - Develop pangenome resources for stickleback
 - Apply machine learning to predict adaptive outcomes

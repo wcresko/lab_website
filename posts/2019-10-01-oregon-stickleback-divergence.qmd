@@ -14,6 +14,7 @@ Senior Research Scientist Mark Currey, with Susan Bassham and Bill Cresko, demon
 ## Surprising Discovery
 
 The research reveals:
+
 - Genetic divergence exceeds phenotypic change
 - Older populations show this pattern most strongly
 - Morphology can be conserved despite genetic change
@@ -23,6 +24,7 @@ The research reveals:
 ## Population Structure Analysis
 
 Key findings include:
+
 - Strong genetic differentiation among populations
 - Principal component analysis reveals structure
 - RAD-seq provides genome-wide resolution
@@ -32,6 +34,7 @@ Key findings include:
 ## Phenotypic Patterns
 
 The study documents:
+
 - Morphological conservation in old habitats
 - Less phenotypic variation than expected
 - Trait stability despite genetic change
@@ -41,6 +44,7 @@ The study documents:
 ## Evolutionary Implications
 
 This work demonstrates:
+
 - Genotype-phenotype relationship complexity
 - Neutral evolution's importance
 - Selection relaxation in stable environments
@@ -50,6 +54,7 @@ This work demonstrates:
 ## Oregon Stickleback System
 
 The research leverages:
+
 - Ancient freshwater populations
 - Known colonization histories
 - Environmental gradients
@@ -59,6 +64,7 @@ The research leverages:
 ## Methodological Excellence
 
 Approaches include:
+
 - Comprehensive population sampling
 - RAD-seq genotyping
 - Morphometric analyses
@@ -68,6 +74,7 @@ Approaches include:
 ## Conservation Relevance
 
 Findings inform:
+
 - Genetic diversity patterns
 - Evolutionary potential assessment
 - Population uniqueness
@@ -77,6 +84,7 @@ Findings inform:
 ## Theoretical Contributions
 
 The work advances:
+
 - Understanding evolutionary rates
 - Neutral theory applications
 - Population genetics theory

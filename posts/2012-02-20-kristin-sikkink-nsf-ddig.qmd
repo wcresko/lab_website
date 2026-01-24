@@ -14,6 +14,7 @@ This competitive award supports Kristin's innovative research using transcriptom
 ## Research Innovation
 
 The DDIG supports:
+
 - RNA-seq experiments
 - Cryptic variation discovery
 - Gene expression evolution
@@ -23,6 +24,7 @@ The DDIG supports:
 ## Cryptic Variation Importance
 
 This hidden variation:
+
 - Provides evolutionary potential
 - Enables rapid adaptation
 - Buffers against change
@@ -32,6 +34,7 @@ This hidden variation:
 ## Methodological Approach
 
 Kristin will employ:
+
 - Transcriptome sequencing
 - Differential expression analysis
 - Network approaches
@@ -41,6 +44,7 @@ Kristin will employ:
 ## Theoretical Framework
 
 The research tests:
+
 - Evolutionary capacitance
 - Genetic accommodation
 - Phenotypic plasticity
@@ -50,6 +54,7 @@ The research tests:
 ## RNA-seq Technology
 
 Using cutting-edge:
+
 - Next-generation sequencing
 - Transcriptome profiling
 - Expression quantification
@@ -59,6 +64,7 @@ Using cutting-edge:
 ## Experimental Design
 
 The project includes:
+
 - Multiple populations
 - Environmental treatments
 - Replicated experiments
@@ -68,6 +74,7 @@ The project includes:
 ## Expected Discoveries
 
 Anticipated findings:
+
 - Hidden variation patterns
 - Expression network changes
 - Stress response mechanisms
@@ -77,6 +84,7 @@ Anticipated findings:
 ## Career Development
 
 The DDIG provides:
+
 - Research independence
 - Technical expertise
 - Grant experience
@@ -86,6 +94,7 @@ The DDIG provides:
 ## Broader Impacts
 
 This work informs:
+
 - Evolutionary theory
 - Climate change responses
 - Conservation strategies
@@ -95,6 +104,7 @@ This work informs:
 ## Conference Success
 
 Adding to recent achievements:
+
 - Best poster at IGERT conference
 - International presentations
 - Publication record
@@ -104,6 +114,7 @@ Adding to recent achievements:
 ## Training Environment
 
 Success reflects:
+
 - Mentorship quality
 - Lab resources
 - Collaborative culture
@@ -113,6 +124,7 @@ Success reflects:
 ## Future Directions
 
 This research enables:
+
 - Novel discoveries
 - Method development
 - Theory advancement

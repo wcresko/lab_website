@@ -14,6 +14,7 @@ Kristin Sikkink, Robert Reynolds, Kate Ituarte, Patrick Phillips, and Bill Cresk
 ## Major Discoveries
 
 The research reveals:
+
 - Transgenerational effects can be rapidly eliminated by selection
 - Parental heat stress negatively affects offspring
 - Weak correspondence between parental and larval stress responses
@@ -23,6 +24,7 @@ The research reveals:
 ## Genomic Innovation
 
 Whole genome analysis shows:
+
 - Distinct transcriptional responses to stress timing
 - Limited overlap in stress response pathways
 - Stage-specific gene expression patterns
@@ -32,6 +34,7 @@ Whole genome analysis shows:
 ## Evolutionary Implications
 
 This work demonstrates:
+
 - Parental effects can evolve very rapidly
 - Selection on offspring can override parental influences
 - Transgenerational plasticity is not always adaptive
@@ -41,6 +44,7 @@ This work demonstrates:
 ## Experimental Design
 
 The study employed:
+
 - Multi-generation selection experiments
 - Controlled heat stress treatments
 - Whole genome RNA sequencing
@@ -50,6 +54,7 @@ The study employed:
 ## Stress Response Networks
 
 Key findings about:
+
 - Heat shock protein regulation
 - Stress resistance mechanisms
 - Hormetic responses
@@ -59,6 +64,7 @@ Key findings about:
 ## Broader Significance
 
 This research informs:
+
 - Climate change adaptation
 - Transgenerational inheritance mechanisms
 - Stress biology and evolution
@@ -68,6 +74,7 @@ This research informs:
 ## Methodological Advances
 
 The work showcases:
+
 - Integration of genomics and experimental evolution
 - Multi-generational experimental design
 - Transcriptomic analysis of evolved lines

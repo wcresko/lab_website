@@ -18,6 +18,7 @@ This pioneering study generated continuous measures of divergence across the gen
 ## Revolutionary Impact
 
 This publication marked several firsts:
+
 - First genome-wide population genomic study using RAD-seq in natural populations
 - Demonstration of parallel genomic evolution at unprecedented resolution
 - Development of analytical frameworks still used today
@@ -26,6 +27,7 @@ This publication marked several firsts:
 ## Key Findings
 
 The research revealed:
+
 - Genomic regions under parallel selection across populations
 - Patterns of genomic divergence associated with freshwater adaptation
 - The genetic architecture underlying parallel phenotypic evolution
@@ -43,6 +45,7 @@ The research revealed:
 ## Methods Innovation
 
 This study introduced:
+
 - RAD-seq as a powerful tool for population genomics
 - Novel bioinformatic pipelines for RAD data analysis
 - Statistical approaches for detecting parallel selection
@@ -51,6 +54,7 @@ This study introduced:
 ## Legacy and Impact
 
 Since publication, this paper has:
+
 - Been cited over 1,500 times
 - Inspired hundreds of RAD-seq studies across diverse taxa
 - Contributed to the democratization of genomics research
@@ -59,6 +63,7 @@ Since publication, this paper has:
 ## Applications
 
 The approaches developed here are now used for:
+
 - Conservation genomics
 - Crop and livestock improvement
 - Understanding disease resistance evolution

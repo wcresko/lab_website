@@ -20,6 +20,7 @@ Ray Troll has spent decades creating art that celebrates fish evolution and pale
 ## Hands-On Experience
 
 During his visit, Ray:
+
 - Examined stickleback under the microscope, sketching their defensive spines and armor plates
 - Learned about RAD-seq and how we visualize genomic data
 - Discussed the intersection of art and science in communicating evolution

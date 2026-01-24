@@ -14,6 +14,7 @@ Hope Healey, Susan Bassham, and Bill Cresko present a revolutionary approach tha
 ## Technical Breakthrough
 
 The research achieves:
+
 - Single-cell resolution transcript sequencing
 - Full-length isoform identification
 - Rapid genome annotation improvement
@@ -23,6 +24,7 @@ The research achieves:
 ## Innovation Impact
 
 Key advances include:
+
 - Complete transcript structures
 - Previously unknown isoforms
 - Corrected gene boundaries
@@ -32,6 +34,7 @@ Key advances include:
 ## Single-cell Revolution
 
 This work enables:
+
 - More accurate cell type identification
 - Better trajectory analysis
 - Improved differential expression
@@ -41,6 +44,7 @@ This work enables:
 ## Methodological Excellence
 
 The approach combines:
+
 - Long-read sequencing technology
 - Single-cell isolation techniques
 - Computational pipeline development
@@ -50,6 +54,7 @@ The approach combines:
 ## Resource Development
 
 The publication provides:
+
 - Updated genome annotations
 - Analysis pipelines
 - Quality metrics
@@ -59,6 +64,7 @@ The publication provides:
 ## Stickleback Applications
 
 Immediate benefits for:
+
 - Developmental studies
 - Cell atlas projects
 - Disease modeling
@@ -68,6 +74,7 @@ Immediate benefits for:
 ## Broader Significance
 
 Applications extend to:
+
 - Other non-model organisms
 - Clinical research
 - Agricultural genomics
@@ -77,6 +84,7 @@ Applications extend to:
 ## Future Directions
 
 This enables:
+
 - Comprehensive cell atlases
 - Developmental trajectories
 - Disease mechanisms

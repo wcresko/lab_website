@@ -18,6 +18,7 @@ The piece explores how Dr. Karáth's groundbreaking research has influenced mode
 ## Micah's Research
 
 In addition to science writing, Micah has been conducting research in our laboratory on:
+
 - Population genomics of Oregon stickleback populations
 - Host-microbiome interactions
 - Bioinformatic pipeline development

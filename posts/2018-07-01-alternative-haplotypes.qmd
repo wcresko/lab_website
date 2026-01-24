@@ -14,6 +14,7 @@ Susan Bassham, Julian Catchen, Emily Lescak, Frank von Hippel, and Bill Cresko i
 ## Groundbreaking Discovery
 
 The research reveals:
+
 - Alternatively adapted haplotypes drive evolution
 - Sweeping genomic remodeling occurs repeatedly
 - Parallel evolution uses same genetic variants
@@ -23,6 +24,7 @@ The research reveals:
 ## Haplotype Architecture
 
 Key findings include:
+
 - Large haplotype blocks under selection
 - Alternative allelic combinations maintained
 - Frequency shifts drive adaptation
@@ -32,6 +34,7 @@ Key findings include:
 ## Natural Laboratory
 
 Alaska's volcanic islands provide:
+
 - Recent colonization events
 - Known geological timing
 - Replicated evolution
@@ -41,6 +44,7 @@ Alaska's volcanic islands provide:
 ## Population Genomics
 
 The study demonstrates:
+
 - Genome-wide selection scans
 - Haplotype frequency dynamics
 - Gene flow and selection balance
@@ -50,6 +54,7 @@ The study demonstrates:
 ## Evolutionary Speed
 
 Findings show:
+
 - Adaptation within decades
 - Rapid genomic reorganization
 - Parallel changes across populations
@@ -59,6 +64,7 @@ Findings show:
 ## Mechanism of Adaptation
 
 The work reveals:
+
 - Pre-existing adaptive variation
 - Haplotype sorting during colonization
 - Selection on linked variants
@@ -68,6 +74,7 @@ The work reveals:
 ## Conservation Applications
 
 This research informs:
+
 - Adaptive potential assessment
 - Climate change response predictions
 - Population resilience evaluation
@@ -77,6 +84,7 @@ This research informs:
 ## Theoretical Advances
 
 Contributions include:
+
 - Understanding parallel evolution
 - Role of standing variation
 - Genomic architecture evolution
@@ -86,6 +94,7 @@ Contributions include:
 ## Publication Impact
 
 Published in Genetics, this work:
+
 - Advances population genomics theory
 - Provides empirical validation
 - Influences evolutionary biology

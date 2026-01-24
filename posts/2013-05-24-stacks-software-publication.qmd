@@ -14,6 +14,7 @@ Led by Dr. Julian Catchen with contributions from Paul Hohenlohe, Susan Bassham,
 ## About Stacks
 
 Stacks is an open-source software pipeline for:
+
 - Processing RAD-seq and related genotyping-by-sequencing data
 - Identifying SNPs and genotypes in non-model organisms
 - Calculating population genomic statistics
@@ -23,6 +24,7 @@ Stacks is an open-source software pipeline for:
 ## New Capabilities
 
 The publication describes major enhancements including:
+
 - Population genomic summary statistics calculations
 - SNP-by-SNP statistical tests
 - Improved algorithms for genotype calling
@@ -32,6 +34,7 @@ The publication describes major enhancements including:
 ## Research Impact
 
 Stacks has become essential infrastructure for:
+
 - Conservation genomics projects
 - Evolutionary biology studies
 - Agricultural genomics
@@ -41,6 +44,7 @@ Stacks has become essential infrastructure for:
 ## Global Adoption
 
 Since its release, Stacks has:
+
 - Been downloaded thousands of times
 - Enabled hundreds of published studies
 - Supported research on diverse organisms
@@ -50,6 +54,7 @@ Since its release, Stacks has:
 ## Collaborative Development
 
 This software represents collaboration between:
+
 - Julian Catchen (now at University of Illinois)
 - Paul Hohenlohe (now at University of Idaho)
 - Susan Bassham (University of Oregon)
@@ -59,6 +64,7 @@ This software represents collaboration between:
 ## Technical Innovation
 
 Stacks addresses key challenges in:
+
 - Handling massive sequencing datasets
 - Accounting for sequencing errors
 - Identifying paralogs
@@ -68,6 +74,7 @@ Stacks addresses key challenges in:
 ## Open Science
 
 The Stacks project exemplifies open science through:
+
 - Free and open-source code
 - Comprehensive documentation
 - Active user community
@@ -77,6 +84,7 @@ The Stacks project exemplifies open science through:
 ## Training and Support
 
 We provide extensive resources including:
+
 - Detailed tutorials
 - Workshop materials
 - User forums

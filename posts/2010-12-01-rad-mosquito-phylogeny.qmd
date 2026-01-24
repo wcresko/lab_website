@@ -14,6 +14,7 @@ This publication demonstrates the expanding applications of RAD-seq technology b
 ## About the Research
 
 The featured work demonstrates how RAD sequencing enables:
+
 - Resolution of complex phylogenetic relationships in mosquitos
 - Generation of thousands of phylogenetically informative markers
 - Cost-effective genomic approaches for non-model organisms
@@ -22,6 +23,7 @@ The featured work demonstrates how RAD sequencing enables:
 ## Significance for Public Health
 
 Understanding mosquito phylogenetics is crucial for:
+
 - Tracking disease transmission patterns
 - Developing targeted vector control strategies
 - Understanding the evolution of insecticide resistance
@@ -30,6 +32,7 @@ Understanding mosquito phylogenetics is crucial for:
 ## RAD-seq Innovation
 
 This application shows the versatility of RAD-seq for:
+
 - Systematic biology studies
 - Species delimitation
 - Phylogeographic analyses

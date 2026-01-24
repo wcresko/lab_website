@@ -41,7 +41,12 @@ Hope Healey received her Ph.D. in Biology from the University of Oregon in Septe
 
 ## Research Interests
 
-My research focuses on understanding the evolution of development in syngnathid fishes, particularly: - **Fish Evolution**: Comparative genomics and development across teleost species - **Gene Duplication**: Understanding the fate and function of duplicated genes - **Development**: Craniofacial and skeletal development in syngnathids - **Single-cell Genomics**: Applying cutting-edge techniques to understand cell fate
+My research focuses on understanding the evolution of development in syngnathid fishes, particularly:
+
+- **Fish Evolution**: Comparative genomics and development across teleost species
+- **Gene Duplication**: Understanding the fate and function of duplicated genes
+- **Development**: Craniofacial and skeletal development in syngnathids
+- **Single-cell Genomics**: Applying cutting-edge techniques to understand cell fate
 
 ## Current Projects
 

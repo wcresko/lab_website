@@ -128,6 +128,7 @@ Our research has broad implications for:
 ## Collaborations
 
 This research involves extensive collaborations:
+
 - META Center for Systems Biology members
 - Microbial ecologists and microbiome researchers
 - Immunologists and developmental biologists
@@ -136,6 +137,7 @@ This research involves extensive collaborations:
 ## Future Directions
 
 Our ongoing and future research aims to:
+
 - Develop predictive models of microbiome assembly
 - Understand transgenerational inheritance of microbiomes
 - Explore therapeutic applications of host-microbiome research

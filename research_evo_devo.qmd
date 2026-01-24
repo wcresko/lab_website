@@ -73,6 +73,7 @@ We are building comprehensive genomic resources for *Syngnathus scovelli* (Gulf 
 ## Collaborations
 
 This research involves collaborations with:
+
 - Developmental biologists studying bone formation
 - Computational biologists developing morphometric methods
 - International syngnathid research groups
@@ -81,6 +82,7 @@ This research involves collaborations with:
 ## Key Publications
 
 Recent publications from this research area focus on:
+
 - The genetic architecture of skeletal traits
 - Developmental mechanisms of morphological evolution
 - Comparative genomics of syngnathid innovations
@@ -89,6 +91,7 @@ Recent publications from this research area focus on:
 ## Future Directions
 
 Our ongoing and future work aims to:
+
 - Integrate single-cell sequencing to understand cell-type-specific gene expression during development
 - Develop new CRISPR tools for manipulating developmental gene regulatory networks
 - Expand comparative work across the syngnathid phylogeny

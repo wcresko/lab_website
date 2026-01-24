@@ -14,6 +14,7 @@ Jared Galloway, Bill Cresko, and Peter Ralph use spatially explicit simulations 
 ## Key Discovery
 
 The research reveals:
+
 - Few founders carry sufficient adaptive variation
 - Original colonizers contribute most adaptation
 - Subsequent gene flow less important than thought
@@ -23,6 +24,7 @@ The research reveals:
 ## Simulation Innovation
 
 The study employs:
+
 - SLiM forward-time simulations
 - Spatially explicit models
 - Individual-based approaches
@@ -32,6 +34,7 @@ The study employs:
 ## Population Dynamics
 
 Findings show:
+
 - Shared adaptive alleles across populations
 - Standing variation importance
 - Marine reservoir maintenance
@@ -41,6 +44,7 @@ Findings show:
 ## Evolutionary Insights
 
 This work demonstrates:
+
 - Rapid adaptation from standing variation
 - Importance of initial colonization
 - Limited ongoing gene flow needed
@@ -50,6 +54,7 @@ This work demonstrates:
 ## Model Validation
 
 Simulations match:
+
 - Observed allele sharing patterns
 - Population differentiation levels
 - Adaptive trait distributions
@@ -59,6 +64,7 @@ Simulations match:
 ## Conservation Applications
 
 Implications include:
+
 - Small founder populations can adapt
 - Genetic rescue considerations
 - Reintroduction strategies
@@ -68,6 +74,7 @@ Implications include:
 ## Theoretical Advances
 
 The work contributes to:
+
 - Adaptation theory
 - Colonization genetics
 - Gene flow models
@@ -77,6 +84,7 @@ The work contributes to:
 ## Collaborative Excellence
 
 This publication showcases:
+
 - Computational biology expertise
 - Evolutionary modeling skills
 - Empirical-theoretical integration

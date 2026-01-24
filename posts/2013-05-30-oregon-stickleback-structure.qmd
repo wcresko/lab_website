@@ -14,6 +14,7 @@ This comprehensive study, led by Julian Catchen with team members Susan Bassham,
 ## Key Discoveries
 
 Our genome-wide analysis revealed:
+
 - Complex patterns of population structure across Oregon
 - Evidence for introgressive hybridization in coastal populations  
 - Recent expansion in central Oregon populations
@@ -23,6 +24,7 @@ Our genome-wide analysis revealed:
 ## Research Significance
 
 This work demonstrates:
+
 - Power of RAD-seq for phylogeographic studies
 - Historical and recent colonization patterns
 - Role of gene flow in population differentiation
@@ -32,6 +34,7 @@ This work demonstrates:
 ## Comprehensive Sampling
 
 The study analyzed populations from:
+
 - Coastal watersheds from Columbia River to Coos Bay
 - Willamette Valley systems
 - Central Oregon lakes
@@ -41,6 +44,7 @@ The study analyzed populations from:
 ## Technical Innovation
 
 We employed cutting-edge approaches including:
+
 - Genome-wide genetic diversity (π) calculations
 - FIS analysis for population substructure
 - Tests for introgressive hybridization
@@ -50,6 +54,7 @@ We employed cutting-edge approaches including:
 ## Conservation Implications
 
 Our findings inform:
+
 - Management of native fish populations
 - Understanding invasion dynamics
 - Predicting responses to habitat change
@@ -59,6 +64,7 @@ Our findings inform:
 ## Evolutionary Insights
 
 The research reveals:
+
 - Rapid colonization of new habitats
 - Complex patterns of gene flow
 - Maintenance of genetic diversity
@@ -68,6 +74,7 @@ The research reveals:
 ## Research Team Excellence
 
 This publication showcases:
+
 - Collaborative field work across Oregon
 - Integration of genomics and ecology
 - Graduate and undergraduate training
@@ -77,6 +84,7 @@ This publication showcases:
 ## Data Availability
 
 Supporting open science:
+
 - Raw sequence data in public repositories
 - Analysis pipelines available
 - Detailed sampling information

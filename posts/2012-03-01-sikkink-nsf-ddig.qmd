@@ -14,6 +14,7 @@ This competitive award recognizes Kristin's exceptional research potential and t
 ## About the NSF DDIG Award
 
 The NSF Doctoral Dissertation Improvement Grant is one of the most competitive awards available to graduate students, with success rates typically below 15%. This grant:
+
 - Recognizes exceptional doctoral research projects
 - Provides funding for data collection, analysis, and dissemination
 - Enhances the scientific impact of dissertation research
@@ -22,6 +23,7 @@ The NSF Doctoral Dissertation Improvement Grant is one of the most competitive a
 ## Kristin's Research Project
 
 The funded research focuses on understanding:
+
 - Genomic mechanisms of rapid adaptation
 - Population genomic responses to environmental change
 - Integration of genomic and ecological data
@@ -30,6 +32,7 @@ The funded research focuses on understanding:
 ## Research Impact
 
 This award will enable Kristin to:
+
 - Expand her genomic dataset substantially
 - Develop new analytical tools for the field
 - Collaborate with researchers at other institutions
@@ -38,6 +41,7 @@ This award will enable Kristin to:
 ## Career Development
 
 Receiving an NSF DDIG is a significant career milestone that:
+
 - Demonstrates independent research capability
 - Provides grant writing experience
 - Enhances competitiveness for postdoctoral positions

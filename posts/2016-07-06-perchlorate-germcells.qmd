@@ -14,6 +14,7 @@ Ann Petersen, Nicole Earp, Shaun Redmond, John Postlethwait, Frank von Hippel, C
 ## Breakthrough Discovery
 
 The research reveals:
+
 - First evidence linking endocrine disruptor to PGC reduction
 - Female-specific effects on germ cells
 - Critical window during sex determination
@@ -23,6 +24,7 @@ The research reveals:
 ## Developmental Impact
 
 Key findings include:
+
 - Reduced primordial germ cell numbers
 - Effects occur before first meiosis
 - Sex-specific vulnerability
@@ -32,6 +34,7 @@ Key findings include:
 ## Mechanistic Insights
 
 The study shows:
+
 - Thyroid disruption affects germ cells
 - Sex determination period sensitivity
 - Female-biased effects
@@ -41,6 +44,7 @@ The study shows:
 ## Conservation Significance
 
 This work has implications for:
+
 - Population reproductive potential
 - Sex ratio effects
 - Recruitment impacts
@@ -50,6 +54,7 @@ This work has implications for:
 ## Comparative Biology
 
 Findings inform understanding in:
+
 - Vertebrate sex determination
 - Germ cell development
 - Endocrine disruption mechanisms
@@ -59,6 +64,7 @@ Findings inform understanding in:
 ## Environmental Relevance
 
 The research addresses:
+
 - Widespread perchlorate contamination
 - Reproductive impacts of pollution
 - Early life stage sensitivity
@@ -68,6 +74,7 @@ The research addresses:
 ## Technical Innovation
 
 Methods employed include:
+
 - Germ cell quantification techniques
 - Developmental staging precision
 - Sex-specific analysis
@@ -77,6 +84,7 @@ Methods employed include:
 ## Broader Applications
 
 This work contributes to:
+
 - Understanding reproductive disorders
 - Predicting pollution impacts
 - Developing biomarkers
@@ -86,6 +94,7 @@ This work contributes to:
 ## Research Excellence
 
 The publication demonstrates:
+
 - Novel discovery in reproductive biology
 - Environmental health significance
 - Developmental biology insights
