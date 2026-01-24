@@ -34,6 +34,7 @@ Our analysis revealed:
 
 ### Comparative Insights
 Comparing seadragons with seahorses and pipefish revealed:
+
 - Convergent gene losses across lineages
 - Lineage-specific innovations for unique traits
 - Rapid evolution of reproductive genes

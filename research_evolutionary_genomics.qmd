@@ -37,6 +37,7 @@ By richly genotyping wild populations and generating controlled laboratory cross
 
 ### Parallel Evolution at the Genomic Level
 Our research reveals that a large proportion of the stickleback genome bears signatures of natural selection in replicate adaptations to freshwater:
+
 - Identification of parallel genomic regions under selection
 - Discovery of regulatory vs. coding sequence evolution
 - Understanding the role of chromosomal inversions in adaptation
@@ -54,6 +55,7 @@ RAD-seq (Restriction site Associated DNA sequencing), a method pioneered at UO t
 
 ### Population Genetic Applications
 The method enables continuous genomic scans using population genetic statistics:
+
 - Detection of outlier loci under selection
 - Demographic inference and population structure analysis
 - Phylogeographic reconstruction
