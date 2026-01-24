@@ -56,6 +56,97 @@
   <media:content url="https://wcresko.github.io/Cresko_Lab_Website/posts/micah-woods.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
+  <title>Single Cell Sequencing Reveals Developmental Basis of Syngnathid Adaptations</title>
+  <dc:creator>Cresko Lab</dc:creator>
+  <link>https://wcresko.github.io/Cresko_Lab_Website/posts/2025-02-03-syngnathid-single-cell-elife.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Our team has published a groundbreaking study in eLife providing the first single cell RNA sequencing (scRNA-seq) atlas for syngnathid fishes, revealing the developmental genetic basis of their extraordinary evolutionary adaptations.</p>
+<section id="extraordinary-traits" class="level2">
+<h2 data-anchor-id="extraordinary-traits">Extraordinary Traits</h2>
+<p>Seahorses, pipefishes, and seadragons from the family Syngnathidae have evolved remarkable traits:</p>
+<ul>
+<li>Male pregnancy unique among vertebrates</li>
+<li>Elongated snouts</li>
+<li>Loss of teeth</li>
+<li>Dermal bony armor</li>
+<li>Extreme body elongation</li>
+</ul>
+</section>
+<section id="creating-the-atlas" class="level2">
+<h2 data-anchor-id="creating-the-atlas">Creating the Atlas</h2>
+<p>We created a developmental scRNA-seq atlas from late embryogenesis Gulf pipefish (<em>Syngnathus scovelli</em>), describing:</p>
+<ul>
+<li>38 distinct cell clusters</li>
+<li>35,785 individual cells</li>
+<li>Comprehensive gene expression profiles</li>
+<li>Developmental trajectories</li>
+</ul>
+</section>
+<section id="key-discoveries" class="level2">
+<h2 data-anchor-id="key-discoveries">Key Discoveries</h2>
+<section id="elongated-face-development" class="level3">
+<h3 data-anchor-id="elongated-face-development">Elongated Face Development</h3>
+<p>We identified osteochondrogenic mesenchymal cells in the elongating face that express key regulatory genes:</p>
+<ul>
+<li>bmp4</li>
+<li>sfrp1a</li>
+<li>prdm16</li>
+</ul>
+<p>These genes likely play important roles in the evolution of the characteristic syngnathid snout.</p>
+</section>
+<section id="toothlessness" class="level3">
+<h3 data-anchor-id="toothlessness">Toothlessness</h3>
+<p>Our analysis found no evidence for tooth primordia cells, consistent with the complete loss of teeth in this lineage.</p>
+</section>
+<section id="dermal-armor" class="level3">
+<h3 data-anchor-id="dermal-armor">Dermal Armor</h3>
+<p>We observed re-deployment of osteoblast genetic networks in developing dermal armor, revealing how existing developmental programs were modified to create these protective structures.</p>
+</section>
+<section id="brooding-pouch" class="level3">
+<h3 data-anchor-id="brooding-pouch">Brooding Pouch</h3>
+<p>Epidermal cells in our atlas expressed nutrient processing and environmental sensing genes, potentially relevant for the male brooding environment where embryos develop.</p>
+</section>
+</section>
+<section id="evolutionary-implications" class="level2">
+<h2 data-anchor-id="evolutionary-implications">Evolutionary Implications</h2>
+<p>Our results suggest that syngnathid evolutionary innovations are composed of recognizable cell types, indicating that derived features originate from changes within existing gene regulatory networks rather than entirely novel cell types.</p>
+</section>
+<section id="research-team" class="level2">
+<h2 data-anchor-id="research-team">Research Team</h2>
+<ul>
+<li>Hope M. Healey</li>
+<li>Hayden B. Penn</li>
+<li>Clayton M. Small</li>
+<li>Susan Bassham</li>
+<li>Vithika Goyal</li>
+<li>Micah A. Woods</li>
+<li>William A. Cresko</li>
+</ul>
+</section>
+<section id="resources" class="level2">
+<h2 data-anchor-id="resources">Resources</h2>
+<p>This atlas provides a valuable resource for the syngnathid research community and anyone interested in understanding how complex morphological traits evolve.</p>
+<p><strong>Publication</strong>: Healey HM, Penn HB, Small CM, Bassham S, Goyal V, Woods MA, Cresko WA (2025). Single cell sequencing provides clues about the developmental genetic basis of evolutionary adaptations in syngnathid fishes. <em>eLife</em> 13:RP97764.</p>
+<p><a href="https://doi.org/10.7554/eLife.97764">Read the paper</a></p>
+
+
+</section>
+
+ ]]></description>
+  <category>publication</category>
+  <category>syngnathids</category>
+  <category>single cell</category>
+  <category>genomics</category>
+  <category>evolution</category>
+  <category>development</category>
+  <guid>https://wcresko.github.io/Cresko_Lab_Website/posts/2025-02-03-syngnathid-single-cell-elife.html</guid>
+  <pubDate>Mon, 03 Feb 2025 08:00:00 GMT</pubDate>
+</item>
+<item>
   <title>Micah Woods Published in Ms. Magazine</title>
   <dc:creator>Cresko Lab</dc:creator>
   <link>https://wcresko.github.io/Cresko_Lab_Website/posts/2024-11-15-woods-ms-magazine.html</link>
@@ -120,6 +211,79 @@
   <guid>https://wcresko.github.io/Cresko_Lab_Website/posts/2024-10-01-lokey-chair.html</guid>
   <pubDate>Tue, 01 Oct 2024 07:00:00 GMT</pubDate>
   <media:content url="https://wcresko.github.io/Cresko_Lab_Website/posts/lokey-chair.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Bill Cresko Named Director of Center for Biomedical Data Science</title>
+  <dc:creator>Cresko Lab</dc:creator>
+  <link>https://wcresko.github.io/Cresko_Lab_Website/posts/2023-10-15-biomedical-data-science-director.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>The Phil and Penny Knight Campus for Accelerating Scientific Impact has announced that Bill Cresko will serve as director of the University of Oregon’s Center for Biomedical Data Science.</p>
+<section id="a-joint-effort" class="level2">
+<h2 data-anchor-id="a-joint-effort">A Joint Effort</h2>
+<p>The center is a collaboration with Oregon Health &amp; Science University (OHSU), founded with the goal of empowering researchers at both institutions to leverage biomedical data science to detect and fight deadly diseases caused by cellular dysfunction, such as cancer.</p>
+</section>
+<section id="generous-support" class="level2">
+<h2 data-anchor-id="generous-support">Generous Support</h2>
+<p>The UO center housed in the Knight Campus was fueled by a $10 million gift from Mary and Tim Boyle, demonstrating the importance of philanthropic support for cutting-edge research.</p>
+</section>
+<section id="leadership-partnership" class="level2">
+<h2 data-anchor-id="leadership-partnership">Leadership Partnership</h2>
+<p>Bill is working collaboratively with the Knight Cancer Institute’s Sadik Esener, who was named interim director of OHSU’s program. Together, they will coordinate recruitment, refine research directions, and submit a large grant proposal to develop a National Institutes of Health Center of Excellence.</p>
+</section>
+<section id="teaching-role" class="level2">
+<h2 data-anchor-id="teaching-role">Teaching Role</h2>
+<p>The position carries a faculty appointment in the Knight Campus Department of Bioengineering, where Bill will teach courses in:</p>
+<ul>
+<li>Biostatistics</li>
+<li>Foundations in machine learning</li>
+<li>Quantitative genomics for bioengineers</li>
+</ul>
+</section>
+<section id="building-the-team" class="level2">
+<h2 data-anchor-id="building-the-team">Building the Team</h2>
+<p>Between UO and OHSU, the center is expected to hire more than eight new faculty members, bringing together a group greater than 20 in total. At UO, hires will focus on:</p>
+<ul>
+<li>Genomics</li>
+<li>Computer science</li>
+<li>Applied mathematics</li>
+<li>Machine learning</li>
+</ul>
+</section>
+<section id="future-home" class="level2">
+<h2 data-anchor-id="future-home">Future Home</h2>
+<p>Building 2 of the Knight Campus, scheduled to open in 2026, will serve as the permanent home for the Center for Biomedical Data Science and is expected to house 17-20 research groups.</p>
+</section>
+<section id="bills-background" class="level2">
+<h2 data-anchor-id="bills-background">Bill’s Background</h2>
+<p>This appointment builds on Bill’s extensive experience:</p>
+<ul>
+<li>Founded the UO Data Science Initiative</li>
+<li>Served as executive director of the Presidential Initiative in Data Science</li>
+<li>Founded the Genomics and Bioinformatics program</li>
+<li>Holds the Lorry Lokey Chair in Biology</li>
+<li>Published over 100 papers cited thousands of times</li>
+</ul>
+</section>
+<section id="vision" class="level2">
+<h2 data-anchor-id="vision">Vision</h2>
+<p>The center aims to use computational approaches to understand disease at the molecular level, enabling earlier detection and more effective treatments. By combining UO’s strengths in data science with OHSU’s clinical expertise, we can accelerate the translation of research to patient benefit.</p>
+<p><a href="https://knightcampus.uoregon.edu/cresko-named-uo-director-center-biomedical-data-science">Read the Knight Campus announcement</a></p>
+
+
+</section>
+
+ ]]></description>
+  <category>news</category>
+  <category>leadership</category>
+  <category>data science</category>
+  <category>Knight Campus</category>
+  <category>cancer research</category>
+  <guid>https://wcresko.github.io/Cresko_Lab_Website/posts/2023-10-15-biomedical-data-science-director.html</guid>
+  <pubDate>Sun, 15 Oct 2023 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Micah Woods Published in Ms. Magazine</title>
@@ -1716,240 +1880,73 @@
   <pubDate>Tue, 15 Feb 2022 08:00:00 GMT</pubDate>
 </item>
 <item>
-  <title>Emily Niebergall Awarded Prestigious Goldwater Fellowship</title>
+  <title>Cresko Lab Receives I3 Award for Maternal Diet Research</title>
   <dc:creator>Cresko Lab</dc:creator>
-  <link>https://wcresko.github.io/Cresko_Lab_Website/posts/2021-03-30-goldwater-fellowship.html</link>
+  <link>https://wcresko.github.io/Cresko_Lab_Website/posts/2021-06-15-i3-maternal-diet-award.html</link>
   <description><![CDATA[ 
 
 
 
 
-<p>Clark Honors College undergraduate Emily Niebergall, who is working on her thesis in the laboratory with Emily Beck, has been awarded a prestigious Goldwater Fellowship for her outstanding undergraduate research.</p>
-<section id="about-the-award" class="level2">
-<h2 data-anchor-id="about-the-award">About the Award</h2>
-<p>The Barry Goldwater Scholarship is the most prestigious undergraduate award in mathematics, natural sciences, and engineering. Only 410 students nationwide receive this honor each year from a pool of over 5,000 nominees.</p>
+<p>We are excited to announce that our interdisciplinary research team has received an I3 (Incubating Interdisciplinary Initiatives) award from the University of Oregon!</p>
+<section id="the-project" class="level2">
+<h2 data-anchor-id="the-project">The Project</h2>
+<p>Our team received funding for the project “Understanding the effects of maternal high fat diet on egg quality and offspring health using an outbred fish model.”</p>
 </section>
-<section id="emilys-research" class="level2">
-<h2 data-anchor-id="emilys-research">Emily’s Research</h2>
-<p>Emily’s thesis project focuses on understanding neutrophil variation between oceanic and freshwater stickleback populations. Using advanced microscopy and genetic techniques, she’s investigating how immune responses evolve as fish adapt to different environments.</p>
-<p>Her work contributes to our broader understanding of:</p>
+<section id="research-team" class="level2">
+<h2 data-anchor-id="research-team">Research Team</h2>
+<p>This collaborative project brings together expertise from across the university:</p>
 <ul>
-<li>Immune system evolution</li>
-<li>Host-pathogen interactions</li>
-<li>Rapid adaptation to environmental change</li>
+<li><strong>Carrie McCurdy</strong> (Human Physiology) - expertise in metabolism and maternal-offspring health</li>
+<li><strong>William Cresko</strong> (Biology) - expertise in fish genomics and evolution</li>
+<li><strong>Emily Beck</strong> (Data Science) - expertise in computational biology and data analysis</li>
 </ul>
 </section>
-<section id="a-bright-future" class="level2">
-<h2 data-anchor-id="a-bright-future">A Bright Future</h2>
-<p>Emily plans to pursue a Ph.D.&nbsp;in evolutionary biology, with interests in combining genomics, immunology, and field ecology. The Goldwater Fellowship will provide support for her senior year and help launch her scientific career.</p>
-<p>“Emily exemplifies the best of undergraduate research,” says Dr.&nbsp;Cresko. “Her creativity, technical skills, and scientific thinking are already at a graduate level. We’re thrilled to see her recognized with this honor.”</p>
-<p>Congratulations, Emily! We look forward to seeing your continued success in science.</p>
-<p><a href="https://goldwaterscholarship.gov/">Learn more about the Goldwater Scholarship</a></p>
-
-
-</section>
-
- ]]></description>
-  <category>awards</category>
-  <category>undergraduate</category>
-  <category>fellowship</category>
-  <guid>https://wcresko.github.io/Cresko_Lab_Website/posts/2021-03-30-goldwater-fellowship.html</guid>
-  <pubDate>Tue, 30 Mar 2021 07:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Congratulations to Our New Ph.D. Graduates!</title>
-  <dc:creator>Cresko Lab</dc:creator>
-  <link>https://wcresko.github.io/Cresko_Lab_Website/posts/2020-06-15-thesis-defenses.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>We’re proud to announce that three lab members have successfully defended their Ph.D.&nbsp;dissertations this spring! Despite the challenges of remote defenses during COVID-19, they delivered outstanding presentations of their research.</p>
-<section id="dr.-emily-lescak" class="level2">
-<h2 data-anchor-id="dr.-emily-lescak">Dr.&nbsp;Emily Lescak</h2>
-<p><strong>Dissertation</strong>: “Ancient Mitochondrial Lineages and Contemporary Adaptation in Threespine Stickleback”</p>
-<p>Emily’s work revealed cryptic mitochondrial diversity in stickleback populations and demonstrated that ancient mtDNA lineages don’t constrain contemporary adaptive evolution. Her research combined phylogenetics, population genomics, and experimental approaches.</p>
-<p><strong>Next position</strong>: Research Scientist, Alaska Department of Fish and Game</p>
-</section>
-<section id="dr.-kristin-alisha-sikkink" class="level2">
-<h2 data-anchor-id="dr.-kristin-alisha-sikkink">Dr.&nbsp;Kristin Alisha Sikkink</h2>
-<p><strong>Dissertation</strong>: “The Evolutionary Genetics of Stress Response Networks”</p>
-<p>Kristin discovered that pleiotropy across stress response networks is highly sensitive to environmental conditions, with important implications for understanding evolutionary constraints and adaptation to multiple stressors.</p>
-<p><strong>Next position</strong>: Postdoctoral Fellow, University of Minnesota</p>
-</section>
-<section id="dr.-allison-fuiten" class="level2">
-<h2 data-anchor-id="dr.-allison-fuiten">Dr.&nbsp;Allison Fuiten</h2>
-<p><strong>Dissertation</strong>: “Genomic Architecture of Reproductive Isolation in Stickleback”</p>
-<p>Allison’s research identified genomic regions contributing to reproductive barriers between marine and freshwater stickleback, revealing how adaptation can lead to speciation.</p>
-<p><strong>Next position</strong>: Data Scientist, 23andMe</p>
-</section>
-<section id="virtual-celebrations" class="level2">
-<h2 data-anchor-id="virtual-celebrations">Virtual Celebrations</h2>
-<p>While we couldn’t gather in person, we celebrated with:</p>
+<section id="why-stickleback" class="level2">
+<h2 data-anchor-id="why-stickleback">Why Stickleback?</h2>
+<p>The threespine stickleback provides an ideal model for this research:</p>
 <ul>
-<li>Virtual defense parties with lab alumni joining from around the world</li>
-<li>Socially-distanced champagne toast outside the lab</li>
-<li>Commemorative lab t-shirts mailed to each graduate</li>
-<li>Video messages from former lab members</li>
+<li>Genetically diverse outbred populations</li>
+<li>Well-characterized developmental biology</li>
+<li>Amenable to dietary manipulation</li>
+<li>Established genomic resources</li>
+<li>Connection to microbiome research</li>
 </ul>
 </section>
-<section id="continuing-the-legacy" class="level2">
-<h2 data-anchor-id="continuing-the-legacy">Continuing the Legacy</h2>
-<p>These three join our growing community of Cresko Lab Ph.D.&nbsp;alumni who are making impacts in academia, government, and industry. Their success reflects not only their individual excellence but also the collaborative spirit of our lab.</p>
-<p>“Emily, Kristin, and Allison exemplify the integration of rigorous science with creative thinking that we strive for in the lab,” says Bill Cresko. “We’re excited to watch their continued success in their new positions.”</p>
-<p>Congratulations doctors! The Cresko Lab family is proud of you!</p>
-
-
-</section>
-
- ]]></description>
-  <category>students</category>
-  <category>graduation</category>
-  <category>achievements</category>
-  <guid>https://wcresko.github.io/Cresko_Lab_Website/posts/2020-06-15-thesis-defenses.html</guid>
-  <pubDate>Mon, 15 Jun 2020 07:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Martin Stervander Awarded Prestigious Marie Curie Fellowship</title>
-  <dc:creator>Cresko Lab</dc:creator>
-  <link>https://wcresko.github.io/Cresko_Lab_Website/posts/2020-02-20-stervander-marie-curie.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>Exceptional news! Dr.&nbsp;Martin Stervander has been awarded a highly prestigious Marie Skłodowska-Curie Actions (MSCA) Individual Fellowship by the European Union!</p>
-<p>Martin will spend two years at the Natural History Museum London studying the genomics of flight loss in birds, applying comparative genomics skills developed during his time in the Cresko Lab. His project, titled “The genomic underpinnings of convergent evolution: Repeated loss of flight in island rails, the greatest avian colonizers,” scored in the top 70 of 9,700 evaluated proposals - an extraordinary achievement!</p>
-<section id="about-marie-curie-fellowships" class="level2">
-<h2 data-anchor-id="about-marie-curie-fellowships">About Marie Curie Fellowships</h2>
-<p>Marie Skłodowska-Curie Actions fellowships are:</p>
+<section id="research-questions" class="level2">
+<h2 data-anchor-id="research-questions">Research Questions</h2>
+<p>The project aims to understand:</p>
 <ul>
-<li>Europe’s most prestigious postdoctoral awards</li>
-<li>Highly competitive with &lt;10% success rate</li>
-<li>Career-defining opportunities for researchers</li>
-<li>Pathways to research independence</li>
-<li>Recognition of scientific excellence</li>
+<li>How maternal diet affects egg quality</li>
+<li>Transgenerational effects on offspring health</li>
+<li>Molecular mechanisms linking diet to development</li>
+<li>Role of the microbiome in these processes</li>
 </ul>
 </section>
-<section id="outstanding-achievement" class="level2">
-<h2 data-anchor-id="outstanding-achievement">Outstanding Achievement</h2>
-<p>Martin’s proposal ranking:</p>
-<ul>
-<li>Top 70 out of 9,700 proposals evaluated</li>
-<li>Top 0.7% of all applications</li>
-<li>Exceptional score reflecting innovation and impact</li>
-<li>Recognition of world-class research potential</li>
-<li>Validation of comparative genomics approach</li>
-</ul>
+<section id="about-i3-awards" class="level2">
+<h2 data-anchor-id="about-i3-awards">About I3 Awards</h2>
+<p>The I3 program encourages interdisciplinary research at UO and provides seed funding of up to $50,000 to promising research teams. Since its launch in 2014, faculty members have been awarded more than $5 million in external funds resulting from research initiated under these seed grants.</p>
 </section>
-<section id="the-research-project" class="level2">
-<h2 data-anchor-id="the-research-project">The Research Project</h2>
-<p>Martin’s fellowship will investigate:</p>
-<ul>
-<li>Genomic basis of flight loss in island birds</li>
-<li>Convergent evolution across rail species</li>
-<li>Repeated colonization of islands</li>
-<li>Adaptation to island environments</li>
-<li>Evolutionary constraints and possibilities</li>
-</ul>
+<section id="significance" class="level2">
+<h2 data-anchor-id="significance">Significance</h2>
+<p>This research has implications for understanding how environmental factors, particularly diet, can affect not just individuals but also their offspring. The stickleback model allows us to address these questions with genetic and developmental precision.</p>
 </section>
-<section id="why-rails" class="level2">
-<h2 data-anchor-id="why-rails">Why Rails?</h2>
-<p>Rails are ideal for this study because:</p>
-<ul>
-<li>Multiple independent losses of flight</li>
-<li>Exceptional island colonizers</li>
-<li>Clear evolutionary patterns</li>
-<li>Available museum specimens</li>
-<li>Important for understanding convergent evolution</li>
-</ul>
-</section>
-<section id="skills-from-the-cresko-lab" class="level2">
-<h2 data-anchor-id="skills-from-the-cresko-lab">Skills from the Cresko Lab</h2>
-<p>Martin will apply expertise gained here in:</p>
-<ul>
-<li>Comparative genomics methodologies</li>
-<li>Analyzing morphological evolution</li>
-<li>Working with museum specimens</li>
-<li>Bioinformatic pipeline development</li>
-<li>Integration of development and evolution</li>
-</ul>
-</section>
-<section id="natural-history-museum-london" class="level2">
-<h2 data-anchor-id="natural-history-museum-london">Natural History Museum London</h2>
-<p>This prestigious institution offers:</p>
-<ul>
-<li>World-class ornithology collections</li>
-<li>State-of-the-art genomics facilities</li>
-<li>Leading evolutionary biologists</li>
-<li>Global research networks</li>
-<li>Historic scientific collections</li>
-</ul>
-</section>
-<section id="broader-impact" class="level2">
-<h2 data-anchor-id="broader-impact">Broader Impact</h2>
-<p>This research will advance understanding of:</p>
-<ul>
-<li>Mechanisms of convergent evolution</li>
-<li>Island biogeography patterns</li>
-<li>Conservation of flightless birds</li>
-<li>Predictability of evolution</li>
-<li>Genomic architecture of complex traits</li>
-</ul>
-</section>
-<section id="building-bridges" class="level2">
-<h2 data-anchor-id="building-bridges">Building Bridges</h2>
-<p>Martin’s fellowship strengthens connections between:</p>
-<ul>
-<li>Cresko Lab and European institutions</li>
-<li>Fish and bird genomics communities</li>
-<li>US and UK research networks</li>
-<li>Museum and university research</li>
-<li>Classic and modern evolutionary biology</li>
-</ul>
-</section>
-<section id="career-development" class="level2">
-<h2 data-anchor-id="career-development">Career Development</h2>
-<p>The Marie Curie Fellowship positions Martin for:</p>
-<ul>
-<li>Independent research career</li>
-<li>Faculty positions globally</li>
-<li>Leading international collaborations</li>
-<li>Major research grants</li>
-<li>Scientific leadership roles</li>
-</ul>
-</section>
-<section id="lab-pride" class="level2">
-<h2 data-anchor-id="lab-pride">Lab Pride</h2>
-<p>Martin’s success reflects:</p>
-<ul>
-<li>Quality of postdoctoral training in our lab</li>
-<li>International impact of our research</li>
-<li>Strength of comparative genomics approach</li>
-<li>Success of our alumni</li>
-</ul>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://wcresko.github.io/Cresko_Lab_Website/images/news/MSCA_logo.jpg" class="img-fluid figure-img"></p>
-<figcaption>MSCA Logo</figcaption>
-</figure>
-</div>
-<p>Congratulations Martin on this exceptional achievement! We’re proud of your success and excited to see your groundbreaking research on convergent evolution!</p>
+<section id="looking-forward" class="level2">
+<h2 data-anchor-id="looking-forward">Looking Forward</h2>
+<p>We anticipate this seed funding will enable preliminary data collection that will support future applications for larger external grants from NIH and NSF.</p>
 
 
 </section>
 
  ]]></description>
   <category>news</category>
-  <category>achievement</category>
-  <category>postdoc</category>
-  <category>fellowship</category>
-  <category>Marie Curie</category>
-  <category>international</category>
-  <guid>https://wcresko.github.io/Cresko_Lab_Website/posts/2020-02-20-stervander-marie-curie.html</guid>
-  <pubDate>Thu, 20 Feb 2020 08:00:00 GMT</pubDate>
-  <media:content url="https://wcresko.github.io/Cresko_Lab_Website/posts/stervander-marie-curie.jpg" medium="image" type="image/jpeg"/>
+  <category>funding</category>
+  <category>grant</category>
+  <category>collaboration</category>
+  <category>microbiome</category>
+  <category>research</category>
+  <guid>https://wcresko.github.io/Cresko_Lab_Website/posts/2021-06-15-i3-maternal-diet-award.html</guid>
+  <pubDate>Tue, 15 Jun 2021 07:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>

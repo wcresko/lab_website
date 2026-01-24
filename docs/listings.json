@@ -4,8 +4,10 @@
     "items": [
       "/posts/2025-11-20-lujan-defense.html",
       "/posts/2025-11-05-contreras-SACNAS.html",
+      "/posts/2025-02-03-syngnathid-single-cell-elife.html",
       "/posts/2024-11-15-woods-ms-magazine.html",
       "/posts/2024-10-01-lokey-chair.html",
+      "/posts/2023-10-15-biomedical-data-science-director.html",
       "/posts/2023-09-20-woods-ms-magazine.html",
       "/posts/2023-09-15-microbiome-genetics.html",
       "/posts/2023-06-01-goyal-hui-fellowship.html",
@@ -19,6 +21,9 @@
       "/posts/2022-04-01-beck-mito-nuclear.html",
       "/posts/2022-04-01-healey-genetics-paper.html",
       "/posts/2022-02-15-single-cell-method.html",
+      "/posts/2021-06-15-i3-maternal-diet-award.html",
+      "/posts/2021-05-15-beck-faculty-research-award.html",
+      "/posts/2021-04-30-male-pregnancy-microbiome-project.html",
       "/posts/2021-03-30-goldwater-fellowship.html",
       "/posts/2020-06-15-thesis-defenses.html",
       "/posts/2020-02-20-stervander-marie-curie.html",
@@ -44,6 +49,7 @@
       "/posts/2017-11-08-developmental-armor-loss.html",
       "/posts/2017-11-01-ancient-mtdna-lineages.html",
       "/posts/2017-10-20-ray-troll-visit.html",
+      "/posts/2017-09-15-data-science-initiative.html",
       "/posts/2017-09-01-stervander-joins-lab.html",
       "/posts/2017-03-01-iodide-perchlorate-thyroid.html",
       "/posts/2017-03-01-host-microbe-transcription.html",
@@ -83,6 +89,7 @@
       "/posts/2014-03-15-kristin-alligood-nsf-ddig.html",
       "/posts/2014-01-27-computational-databases-chapter.html",
       "/posts/2014-01-16-jaw-mechanics-evolution.html",
+      "/posts/2013-10-01-faculty-excellence-award.html",
       "/posts/2013-06-01-catchen-oregon-phylogeography.html",
       "/posts/2013-05-30-oregon-stickleback-structure.html",
       "/posts/2013-05-24-stacks-software-publication.html",
@@ -95,9 +102,15 @@
       "/posts/2011-08-01-bradic-defense-portugal.html",
       "/posts/2011-02-25-science-human-genome-anniversary.html",
       "/posts/2011-02-01-rad-genome-scans.html",
+      "/posts/2010-12-15-science-areas-to-watch.html",
       "/posts/2010-12-01-rad-mosquito-phylogeny.html",
       "/posts/2010-03-15-genome-scan-publication.html",
-      "/posts/2010-02-01-hohenlohe-radseq-landmark.html"
+      "/posts/2010-02-01-hohenlohe-radseq-landmark.html",
+      "/posts/2008-10-01-rad-seq-plos-one.html",
+      "/posts/2007-02-01-rad-markers-genome-research.html",
+      "/posts/2007-01-01-stickleback-evodevo-review.html",
+      "/posts/2005-04-19-facial-bone-evolution-pnas.html",
+      "/posts/2004-04-20-parallel-armor-loss-pnas.html"
     ]
   }
 ]
