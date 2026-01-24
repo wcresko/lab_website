@@ -14,6 +14,7 @@ Martin will spend two years at the Natural History Museum London studying the ge
 ## About Marie Curie Fellowships
 
 Marie Skłodowska-Curie Actions fellowships are:
+
 - Europe's most prestigious postdoctoral awards
 - Highly competitive with <10% success rate
 - Career-defining opportunities for researchers
@@ -23,6 +24,7 @@ Marie Skłodowska-Curie Actions fellowships are:
 ## Outstanding Achievement
 
 Martin's proposal ranking:
+
 - Top 70 out of 9,700 proposals evaluated
 - Top 0.7% of all applications
 - Exceptional score reflecting innovation and impact
@@ -32,6 +34,7 @@ Martin's proposal ranking:
 ## The Research Project
 
 Martin's fellowship will investigate:
+
 - Genomic basis of flight loss in island birds
 - Convergent evolution across rail species
 - Repeated colonization of islands
@@ -41,6 +44,7 @@ Martin's fellowship will investigate:
 ## Why Rails?
 
 Rails are ideal for this study because:
+
 - Multiple independent losses of flight
 - Exceptional island colonizers
 - Clear evolutionary patterns
@@ -50,6 +54,7 @@ Rails are ideal for this study because:
 ## Skills from the Cresko Lab
 
 Martin will apply expertise gained here in:
+
 - Comparative genomics methodologies
 - Analyzing morphological evolution
 - Working with museum specimens
@@ -59,6 +64,7 @@ Martin will apply expertise gained here in:
 ## Natural History Museum London
 
 This prestigious institution offers:
+
 - World-class ornithology collections
 - State-of-the-art genomics facilities
 - Leading evolutionary biologists
@@ -68,6 +74,7 @@ This prestigious institution offers:
 ## Broader Impact
 
 This research will advance understanding of:
+
 - Mechanisms of convergent evolution
 - Island biogeography patterns
 - Conservation of flightless birds
@@ -77,6 +84,7 @@ This research will advance understanding of:
 ## Building Bridges
 
 Martin's fellowship strengthens connections between:
+
 - Cresko Lab and European institutions
 - Fish and bird genomics communities
 - US and UK research networks
@@ -86,6 +94,7 @@ Martin's fellowship strengthens connections between:
 ## Career Development
 
 The Marie Curie Fellowship positions Martin for:
+
 - Independent research career
 - Faculty positions globally
 - Leading international collaborations
@@ -95,11 +104,12 @@ The Marie Curie Fellowship positions Martin for:
 ## Lab Pride
 
 Martin's success reflects:
+
 - Quality of postdoctoral training in our lab
 - International impact of our research
 - Strength of comparative genomics approach
 - Success of our alumni
 
-![MSCA Logo](MSCA_logo.jpg)
+![MSCA Logo](/images/news/MSCA_logo.jpg)
 
 Congratulations Martin on this exceptional achievement! We're proud of your success and excited to see your groundbreaking research on convergent evolution!

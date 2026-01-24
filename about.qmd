@@ -71,7 +71,12 @@ We are located in the Institute of Ecology and Evolution at the University of Or
 -   Aquatic animal care facilities
 -   Access to diverse field sites throughout Oregon
 
-The University of Oregon provides an exceptional environment for evolutionary research, with strengths in: - Genomics and bioinformatics - Ecology and evolution - Data science - Environmental sciences
+The University of Oregon provides an exceptional environment for evolutionary research, with strengths in:
+
+- Genomics and bioinformatics
+- Ecology and evolution
+- Data science
+- Environmental sciences
 
 ## Funding & Support
 
