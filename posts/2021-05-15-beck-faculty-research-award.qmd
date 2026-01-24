@@ -1,0 +1,55 @@
+---
+title: "Emily Beck Receives UO Faculty Research Award"
+description: "Research project establishes stickleback as model for mitochondrial disease studies"
+author: "Cresko Lab"
+date: "2021-05-15"
+categories: [news, award, research, mitochondrial, Emily Beck]
+---
+
+Congratulations to Dr. Emily Beck, assistant research professor in data science, who has received a 2021 Faculty Research Award from the University of Oregon!
+
+## Award Recognition
+
+Emily received the award for her project "Threespine Stickleback Fish: A New Model for Mitochondrial Diseases." This recognition highlights the innovative potential of using stickleback fish to study human disease mechanisms.
+
+## Research Focus
+
+The project aims to establish threespine stickleback as a model system for understanding mitochondrial diseases, which affect millions of people worldwide. Key aspects include:
+
+- Leveraging natural genetic variation in stickleback populations
+- Developing new assays for mitochondrial function
+- Connecting genetic variants to disease-relevant phenotypes
+- Building translational research approaches
+
+## Why Stickleback?
+
+Stickleback offer unique advantages for this research:
+
+- Natural populations with diverse genetic backgrounds
+- Well-characterized genomes and developmental biology
+- Tractable laboratory system
+- Established genomic resources from the Cresko Lab
+- Ability to study population-level variation
+
+## Mito-Nuclear Interactions
+
+This work builds on Emily's research on mito-nuclear interactions, exploring how mitochondrial and nuclear genomes work together and how disruptions in this coordination can lead to disease.
+
+## About the Award
+
+The Faculty Research Awards are open to tenure track and full-time non-tenure-track faculty members engaged in substantial research. A committee of UO faculty members provides peer review of proposal merit.
+
+## Emily's Background
+
+Emily joined the Cresko Lab in 2015 and has contributed to research on:
+
+- Host-microbiome interactions
+- Population genomics
+- Data science approaches to biology
+- Mitochondrial biology
+
+## Broader Impact
+
+This award supports the development of stickleback as a biomedical model organism, extending the system's utility beyond evolutionary and ecological research into direct biomedical applications.
+
+Congratulations Emily on this well-deserved recognition!

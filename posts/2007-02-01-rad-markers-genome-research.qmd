@@ -1,0 +1,62 @@
+---
+title: "RAD Marker Technology Published in Genome Research"
+description: "Groundbreaking method for rapid and cost-effective genetic marker discovery using Restriction site Associated DNA"
+author: "Cresko Lab"
+date: "2007-02-01"
+categories: [publication, methods, RAD-seq, genomics, technology]
+---
+
+We are thrilled to announce a groundbreaking methodological publication in Genome Research that introduces Restriction site Associated DNA (RAD) markers for rapid genetic analysis.
+
+## The Innovation
+
+Working with Eric Johnson's lab at the UO Institute of Molecular Biology, we developed a technique that enables rapid and cost-effective polymorphism identification and genotyping in any organism. This technology, called RAD (Restriction site Associated DNA) markers, represents a major advance in genetic analysis.
+
+## How RAD Works
+
+The method uses:
+
+- Restriction enzyme digestion to sample consistent genomic locations
+- Short DNA tags adjacent to restriction sites
+- Microarray or sequencing-based genotyping
+- Thousands of genetic markers from a single experiment
+
+## Advantages
+
+RAD markers offer several key advantages:
+
+- Works in any organism without prior sequence knowledge
+- Identifies thousands of polymorphisms simultaneously
+- Cost-effective compared to traditional methods
+- Enables population-scale studies
+- Useful for genetic mapping and population genetics
+
+## Applications
+
+This technology opens new possibilities for:
+
+- Genetic mapping in non-model organisms
+- Population genomics and conservation genetics
+- Association studies and QTL mapping
+- Phylogeography and evolutionary studies
+- Agricultural and aquaculture applications
+
+## Research Team
+
+- Michael R. Miller
+- Joseph P. Dunham
+- Angel Amores
+- William A. Cresko
+- Eric A. Johnson
+
+## Impact
+
+This publication launched a revolution in population genomics. The RAD technology and its derivatives (RAD-seq, ddRAD, 2bRAD, etc.) have been adopted by thousands of researchers worldwide, enabling genetic studies in virtually any organism.
+
+## Technology Transfer
+
+This innovation also led to the founding of Floragenex, a UO technology spinoff company that commercialized RAD genotyping services.
+
+**Publication**: Miller MR, Dunham JP, Amores A, Cresko WA, Johnson EA (2007). Rapid and cost-effective polymorphism identification and genotyping using Restriction site Associated DNA (RAD) markers. *Genome Research* 17(2):240-248.
+
+[Read the paper](https://doi.org/10.1101/gr.5681207)

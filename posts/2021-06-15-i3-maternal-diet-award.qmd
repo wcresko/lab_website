@@ -1,0 +1,52 @@
+---
+title: "Cresko Lab Receives I3 Award for Maternal Diet Research"
+description: "Interdisciplinary team to study effects of maternal high-fat diet on offspring using stickleback model"
+author: "Cresko Lab"
+date: "2021-06-15"
+categories: [news, funding, grant, collaboration, microbiome, research]
+---
+
+We are excited to announce that our interdisciplinary research team has received an I3 (Incubating Interdisciplinary Initiatives) award from the University of Oregon!
+
+## The Project
+
+Our team received funding for the project "Understanding the effects of maternal high fat diet on egg quality and offspring health using an outbred fish model."
+
+## Research Team
+
+This collaborative project brings together expertise from across the university:
+
+- **Carrie McCurdy** (Human Physiology) - expertise in metabolism and maternal-offspring health
+- **William Cresko** (Biology) - expertise in fish genomics and evolution
+- **Emily Beck** (Data Science) - expertise in computational biology and data analysis
+
+## Why Stickleback?
+
+The threespine stickleback provides an ideal model for this research:
+
+- Genetically diverse outbred populations
+- Well-characterized developmental biology
+- Amenable to dietary manipulation
+- Established genomic resources
+- Connection to microbiome research
+
+## Research Questions
+
+The project aims to understand:
+
+- How maternal diet affects egg quality
+- Transgenerational effects on offspring health
+- Molecular mechanisms linking diet to development
+- Role of the microbiome in these processes
+
+## About I3 Awards
+
+The I3 program encourages interdisciplinary research at UO and provides seed funding of up to $50,000 to promising research teams. Since its launch in 2014, faculty members have been awarded more than $5 million in external funds resulting from research initiated under these seed grants.
+
+## Significance
+
+This research has implications for understanding how environmental factors, particularly diet, can affect not just individuals but also their offspring. The stickleback model allows us to address these questions with genetic and developmental precision.
+
+## Looking Forward
+
+We anticipate this seed funding will enable preliminary data collection that will support future applications for larger external grants from NIH and NSF.

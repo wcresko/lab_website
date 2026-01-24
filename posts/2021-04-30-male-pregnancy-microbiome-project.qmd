@@ -1,0 +1,53 @@
+---
+title: "New Research Project Examines Male Pregnancy and Microbes in Fish"
+description: "Murdock Trust funds cutting-edge imaging to study syngnathid evolution and host-microbiome interactions"
+author: "Cresko Lab"
+date: "2021-04-30"
+categories: [news, research, syngnathids, microbiome, male pregnancy, funding]
+---
+
+Our lab is setting out to explore the effects of a remarkable evolutionary innovation: male pregnancy in seahorses, pipefish, and seadragons.
+
+## Project Overview
+
+This project on syngnathids, the family of about 300 species that includes seahorses, pipefish, and seadragons, will address larger questions about the developmental changes that underlie evolutionary innovations. We will also examine the ecological consequences for associated microbiomes, the communities of microorganisms that live inside these animals.
+
+## Research Team
+
+A team led by collaborating UO researchers Susie Bassham and Clay Small will sequence the genomes of syngnathids to better understand genomic changes linked to the evolution of novel traits, including:
+
+- Male pregnancy
+- Highly elongated bodies
+- Lack of pelvic fins and teeth
+- Elongated snouts
+- Other unusual morphological traits
+
+## Cutting-Edge Technology
+
+A powerful micro-CT instrument housed in the Phil and Penny Knight Campus, funded by a grant from the M.J. Murdock Charitable Trust, enables:
+
+- Ultra-high resolution 3D scanning
+- Virtual dissection of bony structures
+- Imaging of specialized male pregnancy cells
+- Detailed morphological analysis
+
+Susie Bassham has been working with Angela Lin, a senior research engineer in the Guldberg Lab who is a world expert on these microscopes, to acquire stunning images of seahorses and leafy sea dragons.
+
+## Student Involvement
+
+Hope Healey, a graduate student in the Cresko lab studying the evolution of deeply conserved developmental regulatory pathways in syngnathids, has also been collaborating on the imaging system.
+
+## Building on Our Work
+
+Our lab was the first to fully sequence a genome of any fish in this family in 2016 with the Gulf pipefish genome. This new project builds on that foundation to understand the molecular and developmental basis of syngnathid innovations.
+
+## Broader Impacts
+
+Understanding how male pregnancy evolved in syngnathids has implications for:
+
+- Understanding vertebrate reproductive biology
+- Conservation of threatened species
+- Evolution of host-microbiome interactions
+- Developmental biology of novel traits
+
+[Read the UO News article](https://news.uoregon.edu/content/research-project-examines-male-pregnancy-and-microbes-fish)

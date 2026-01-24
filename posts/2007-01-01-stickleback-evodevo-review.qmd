@@ -1,0 +1,57 @@
+---
+title: "Stickleback Developmental Evolution: Progress and Promise"
+description: "Comprehensive review establishes stickleback as a model for micro-evo-devo synthesis"
+author: "Cresko Lab"
+date: "2007-01-01"
+categories: [publication, review, stickleback, evo-devo, evolution, development]
+---
+
+Our comprehensive review published in Genetica establishes the threespine stickleback as a premier model system for integrating evolutionary and developmental biology.
+
+## The Micro-Evo-Devo Synthesis
+
+Studying the intersection of evolution and development (evo-devo) is a promising route for understanding the origin and diversification of organismal form. However, we identified a fundamental gap in the evo-devo synthesis: the integration of mathematical population and quantitative genetics with studies of how genetic variation in natural populations affects developmental processes.
+
+## Why Stickleback?
+
+The threespine stickleback offers unique advantages for this "micro-evo-devo synthesis":
+
+- Countless replicate natural experiments in adaptation
+- Phenotypic radiations within a single species
+- Extremely rapid evolution on contemporary timescales
+- Extant ancestral populations available for comparison
+- Genetic and developmental tractability in the laboratory
+
+## Research Progress
+
+We review how stickleback research has begun to address:
+
+- The genetic basis of morphological variation
+- Developmental mechanisms underlying phenotypic change
+- Sex determination evolution
+- Speciation genetics
+- Population genomics of adaptation
+
+## Key Insights
+
+The review highlights several important findings:
+
+- Major loci control many evolved phenotypes
+- The same genes are used repeatedly in parallel evolution
+- Developmental changes can be traced to specific genetic variants
+- Natural variation provides insights unavailable from lab studies
+
+## Future Directions
+
+We conclude that stickleback research is well-positioned to continue contributing to our understanding of how organismal diversity arises, bridging the gap between population genetics and developmental biology.
+
+## Research Team
+
+- William A. Cresko
+- Katrina L. McGuigan
+- Patrick C. Phillips
+- John H. Postlethwait
+
+**Publication**: Cresko WA, McGuigan KL, Phillips PC, Postlethwait JH (2007). Studies of threespine stickleback developmental evolution: progress and promise. *Genetica* 129(1):105-126.
+
+[Read the paper](https://doi.org/10.1007/s10709-006-0036-z)

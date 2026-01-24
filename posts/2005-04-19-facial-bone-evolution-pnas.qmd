@@ -1,0 +1,46 @@
+---
+title: "Evolution and Development of Facial Bone Morphology in Stickleback"
+description: "PNAS paper reveals genetic basis of craniofacial evolution in threespine stickleback"
+author: "Cresko Lab"
+date: "2005-04-19"
+categories: [publication, stickleback, evolution, development, craniofacial, genetics]
+---
+
+Our collaborative research published in PNAS explores the evolution and developmental genetics of facial bone morphology in threespine stickleback, revealing how changes in bone shape evolve in natural populations.
+
+## Research Focus
+
+Craniofacial bones in stickleback populations show striking variation, making them an excellent system for understanding the developmental genetic basis of morphological evolution. Our study focused on how these bones differ between populations and the genetic architecture underlying these differences.
+
+## Key Findings
+
+The research revealed:
+
+- Significant variation in facial bone morphology between marine and freshwater populations
+- Genetic mapping identified quantitative trait loci (QTL) affecting bone shape
+- Developmental changes in bone formation contribute to adult morphological differences
+- Both genetic and developmental mechanisms contribute to facial evolution
+
+## Evo-Devo Integration
+
+This work exemplifies the integration of evolutionary and developmental biology (evo-devo) to understand how phenotypic diversity arises. By combining genetic mapping with developmental analysis, we can trace how genetic variants affect developmental processes to produce evolved phenotypes.
+
+## Research Team
+
+- Charles B. Kimmel
+- Bonnie Ullmann
+- Charline Walker
+- Catherine Wilson
+- Mark Currey
+- Patrick C. Phillips
+- Michael A. Bell
+- John A. Postlethwait
+- William A. Cresko
+
+## Broader Impact
+
+This research demonstrates that stickleback provide a powerful model for understanding the developmental genetic basis of craniofacial variation, with implications for understanding both evolution and human craniofacial disorders.
+
+**Publication**: Kimmel CB, Ullmann B, Walker C, Wilson C, Currey M, Phillips PC, Bell MA, Postlethwait JH, Cresko WA (2005). Evolution and development of facial bone morphology in threespine sticklebacks. *PNAS* 102(16):5791-5796.
+
+[Read the paper](https://doi.org/10.1073/pnas.0408533102)

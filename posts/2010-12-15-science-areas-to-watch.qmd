@@ -1,0 +1,69 @@
+---
+title: "RAD-seq Named Science Magazine 'Area to Watch'"
+description: "Genome scans and RAD sequencing recognized in Science's Breakthrough of the Year feature"
+author: "Cresko Lab"
+date: "2010-12-15"
+categories: [news, recognition, RAD-seq, Science magazine, genomics]
+---
+
+We are thrilled to announce that genome scans and RAD sequencing have been named an "Area to Watch" in Science magazine's annual Breakthrough of the Year feature!
+
+## Major Recognition
+
+Science magazine, one of the world's most prestigious scientific publications, has recognized the transformative impact of RAD-seq and genome scan technologies on biological research. This recognition places our work among the most significant scientific developments of the year.
+
+## What This Means
+
+The "Areas to Watch" feature highlights technologies and research directions poised to transform their fields. For RAD-seq, this recognition validates:
+
+- The revolutionary impact on population genomics
+- Democratization of genomic analysis
+- Enabling research in non-model organisms
+- Cost-effective large-scale genetic studies
+
+## RAD-seq Revolution
+
+The RAD-seq technology developed at UO through collaboration between the Cresko and Johnson labs has:
+
+- Enabled genome-wide studies in any organism
+- Reduced costs by orders of magnitude
+- Been adopted by thousands of laboratories worldwide
+- Transformed evolutionary and conservation genetics
+
+## Genome Scans
+
+The ability to scan genomes for signatures of selection has opened new windows into:
+
+- Adaptive evolution in natural populations
+- Parallel evolution across independent lineages
+- Genetic architecture of complex traits
+- Conservation and management applications
+
+## Oregon Innovation
+
+This recognition highlights the innovative research environment at the University of Oregon, where collaboration between evolutionary biologists and molecular geneticists has produced tools now used globally.
+
+## Looking Forward
+
+This recognition comes as RAD-seq applications continue to expand. We anticipate the technology will continue to enable discoveries across:
+
+- Evolutionary biology
+- Conservation genetics
+- Agricultural improvement
+- Biomedical research
+
+## Research Team
+
+This recognition reflects the contributions of many researchers, including:
+
+- Eric Johnson (Institute of Molecular Biology)
+- Paul Hohenlohe (now at University of Idaho)
+- Nathan Baird
+- Angel Amores
+- Susan Bassham
+- Mark Currey
+- William Cresko
+
+Thank you to everyone who contributed to this achievement!
+
+[Read about Science's Breakthrough of the Year](https://www.sciencemag.org/news/2010/12/breakthrough-year-2010)
