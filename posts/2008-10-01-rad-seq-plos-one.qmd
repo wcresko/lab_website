@@ -1,0 +1,63 @@
+---
+title: "Rapid SNP Discovery Using Sequenced RAD Markers"
+description: "New method combines RAD with next-generation sequencing for high-throughput genetic analysis"
+author: "Cresko Lab"
+date: "2008-10-01"
+categories: [publication, methods, RAD-seq, genomics, next-generation sequencing, technology]
+---
+
+Building on our RAD marker technology, we have published a major advance that combines Restriction site Associated DNA (RAD) with next-generation sequencing for unprecedented power in genetic analysis.
+
+## The Innovation
+
+This paper describes "RAD-seq" - the combination of RAD markers with Illumina sequencing technology. This enables simultaneous discovery and genotyping of thousands of single nucleotide polymorphisms (SNPs) in any organism.
+
+## Key Advances
+
+The method provides:
+
+- Thousands of genetic markers without prior sequence information
+- Simultaneous SNP discovery and genotyping
+- Cost-effective analysis of many individuals
+- Applicable to any organism
+- Enables genetic mapping and population genomics
+
+## Applications Demonstrated
+
+We demonstrated the power of this approach for:
+
+- Genetic mapping in model and non-model organisms
+- QTL identification for complex traits
+- Population genetic studies
+- Rapid analysis of crosses and populations
+
+## Technical Details
+
+The approach uses:
+
+- Restriction enzyme digestion to sample consistent genomic locations
+- Illumina sequencing of RAD tags
+- Bioinformatic pipelines for SNP identification
+- Statistical methods for genotype calling
+
+## Research Team
+
+- Nathan A. Baird
+- Paul D. Etter
+- Tressa S. Atwood
+- Mark C. Currey
+- Anthony L. Shiver
+- Zachary A. Lewis
+- Eric U. Selker
+- William A. Cresko
+- Eric A. Johnson
+
+## Impact
+
+This paper helped launch the "RAD-seq revolution" in population genomics. The method has been adopted by thousands of laboratories worldwide and has enabled genetic studies in organisms from bacteria to vertebrates.
+
+The combination of RAD with next-generation sequencing democratized population genomics, making it accessible to researchers studying any organism, regardless of available genomic resources.
+
+**Publication**: Baird NA, Etter PD, Atwood TS, Currey MC, Shiver AL, Lewis ZA, Selker EU, Cresko WA, Johnson EA (2008). Rapid SNP discovery and genetic mapping using sequenced RAD markers. *PLoS ONE* 3(10):e3376.
+
+[Read the paper](https://doi.org/10.1371/journal.pone.0003376)

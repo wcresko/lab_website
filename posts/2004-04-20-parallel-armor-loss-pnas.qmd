@@ -1,0 +1,53 @@
+---
+title: "Parallel Genetic Basis for Armor Loss in Stickleback Published in PNAS"
+description: "Foundational paper reveals same genes control repeated evolution of armor loss across Alaskan stickleback populations"
+author: "Cresko Lab"
+date: "2004-04-20"
+categories: [publication, stickleback, evolution, genetics, parallel evolution, armor]
+---
+
+We are excited to announce a landmark publication in the Proceedings of the National Academy of Sciences that addresses one of the fundamental questions in evolutionary biology: do similar phenotypes evolve through the same or different genetic mechanisms?
+
+## Research Question
+
+Does adaptation occur through numerous alleles at many different loci, or through large-effect alleles at a small number of loci? This foundational question has been debated for decades, but the genetic basis of adaptation has been difficult to determine empirically.
+
+## Study Design
+
+We examined the genetic basis of bony armor loss in three freshwater populations of Alaskan threespine stickleback (*Gasterosteus aculeatus*) that evolved from fully armored anadromous populations in the last 14,000 years.
+
+## Key Findings
+
+Our genetic crosses between complete-armor and low-armor populations revealed:
+
+- A single Mendelian factor governs formation of all but the most anterior lateral plates
+- Another independently segregating factor largely determines pelvic armor
+- The lateral plate locus maps to linkage group VII
+- The pelvic phenotype locus maps to linkage group XVIII
+- Crosses among widely separated populations showed that both traits failed to fully complement
+
+## Significance
+
+These results demonstrate that rapid and repeated armor loss in Alaskan stickleback populations occurs through fixation of large-effect variants in the same genes. This challenges the traditional view that adaptation involves many small-effect mutations and suggests that parallel evolution may be more common than previously thought.
+
+## Research Team
+
+- William A. Cresko
+- Angel Amores
+- Catherine Wilson
+- Joy Murphy
+- Mark Currey
+- Patrick Phillips
+- Michael A. Bell
+- Charles B. Kimmel
+- John H. Postlethwait
+
+This research was conducted at the Institute of Neuroscience and Center for Ecology and Evolutionary Biology at the University of Oregon.
+
+## Impact
+
+This paper, along with related work by other groups, helped establish the threespine stickleback as a premier model system for evolutionary genetics and laid the groundwork for understanding the genetic architecture of adaptive evolution.
+
+**Publication**: Cresko WA, Amores A, Wilson C, Murphy J, Currey M, Phillips P, Bell MA, Kimmel CB, Postlethwait JH (2004). Parallel genetic basis for repeated evolution of armor loss in Alaskan threespine stickleback populations. *PNAS* 101(16):6050-6055.
+
+[Read the paper](https://doi.org/10.1073/pnas.0308479101)

@@ -1,0 +1,54 @@
+---
+title: "Bill Cresko Named Founding Director of UO Data Science Initiative"
+description: "New interdisciplinary initiative brings together faculty from across the university"
+author: "Cresko Lab"
+date: "2017-09-15"
+categories: [news, leadership, data science, university]
+---
+
+The University of Oregon has launched a new interdisciplinary initiative in data science and tapped Biology Professor Bill Cresko to lead its development as founding executive director.
+
+## A University-Wide Effort
+
+The data science initiative is the first UO program to connect faculty from every school and college under one academic umbrella. This cross-disciplinary effort brings together existing faculty members and recruits new ones across schools.
+
+## Vision and Scope
+
+Bill points to the breadth of data science applications across the university:
+
+- Digital humanities
+- Geographic information systems
+- Social media and business analytics
+- Data science for social equity
+- Computational genomics
+
+## Research and Education
+
+The initiative aims to:
+
+- Build interdisciplinary research teams
+- Develop data science curricula
+- Train the next generation of data scientists
+- Address societal challenges through data analysis
+- Create computing infrastructure for big data
+
+## Why Data Science?
+
+Modern research increasingly requires sophisticated data analysis skills. From genomics to social sciences, researchers need tools and training to handle complex datasets. This initiative ensures UO remains at the forefront of this revolution.
+
+## Bill's Background
+
+Bill brings extensive experience in data-intensive research:
+
+- Development of RAD-seq technology for population genomics
+- Creation of Stacks software used worldwide
+- Leadership in computational biology
+- Track record of interdisciplinary collaboration
+
+## Looking Forward
+
+The data science initiative represents a strategic investment in UO's research future. By breaking down disciplinary silos and building computational capacity, we can tackle challenges that no single department could address alone.
+
+This appointment adds to Bill's roles as Professor of Biology and researcher in the Institute of Ecology and Evolution.
+
+[Learn more about UO Data Science](https://datascience.uoregon.edu/)

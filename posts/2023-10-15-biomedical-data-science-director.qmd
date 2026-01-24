@@ -1,0 +1,58 @@
+---
+title: "Bill Cresko Named Director of Center for Biomedical Data Science"
+description: "Knight Campus center partners with OHSU to fight cancer and other diseases using data science"
+author: "Cresko Lab"
+date: "2023-10-15"
+categories: [news, leadership, data science, Knight Campus, cancer research]
+---
+
+The Phil and Penny Knight Campus for Accelerating Scientific Impact has announced that Bill Cresko will serve as director of the University of Oregon's Center for Biomedical Data Science.
+
+## A Joint Effort
+
+The center is a collaboration with Oregon Health & Science University (OHSU), founded with the goal of empowering researchers at both institutions to leverage biomedical data science to detect and fight deadly diseases caused by cellular dysfunction, such as cancer.
+
+## Generous Support
+
+The UO center housed in the Knight Campus was fueled by a $10 million gift from Mary and Tim Boyle, demonstrating the importance of philanthropic support for cutting-edge research.
+
+## Leadership Partnership
+
+Bill is working collaboratively with the Knight Cancer Institute's Sadik Esener, who was named interim director of OHSU's program. Together, they will coordinate recruitment, refine research directions, and submit a large grant proposal to develop a National Institutes of Health Center of Excellence.
+
+## Teaching Role
+
+The position carries a faculty appointment in the Knight Campus Department of Bioengineering, where Bill will teach courses in:
+
+- Biostatistics
+- Foundations in machine learning
+- Quantitative genomics for bioengineers
+
+## Building the Team
+
+Between UO and OHSU, the center is expected to hire more than eight new faculty members, bringing together a group greater than 20 in total. At UO, hires will focus on:
+
+- Genomics
+- Computer science
+- Applied mathematics
+- Machine learning
+
+## Future Home
+
+Building 2 of the Knight Campus, scheduled to open in 2026, will serve as the permanent home for the Center for Biomedical Data Science and is expected to house 17-20 research groups.
+
+## Bill's Background
+
+This appointment builds on Bill's extensive experience:
+
+- Founded the UO Data Science Initiative
+- Served as executive director of the Presidential Initiative in Data Science
+- Founded the Genomics and Bioinformatics program
+- Holds the Lorry Lokey Chair in Biology
+- Published over 100 papers cited thousands of times
+
+## Vision
+
+The center aims to use computational approaches to understand disease at the molecular level, enabling earlier detection and more effective treatments. By combining UO's strengths in data science with OHSU's clinical expertise, we can accelerate the translation of research to patient benefit.
+
+[Read the Knight Campus announcement](https://knightcampus.uoregon.edu/cresko-named-uo-director-center-biomedical-data-science)

@@ -1,0 +1,74 @@
+---
+title: "Single Cell Sequencing Reveals Developmental Basis of Syngnathid Adaptations"
+description: "First developmental scRNA-seq atlas for syngnathid fishes provides insights into seahorse and pipefish evolution"
+author: "Cresko Lab"
+date: "2025-02-03"
+categories: [publication, syngnathids, single cell, genomics, evolution, development]
+---
+
+Our team has published a groundbreaking study in eLife providing the first single cell RNA sequencing (scRNA-seq) atlas for syngnathid fishes, revealing the developmental genetic basis of their extraordinary evolutionary adaptations.
+
+## Extraordinary Traits
+
+Seahorses, pipefishes, and seadragons from the family Syngnathidae have evolved remarkable traits:
+
+- Male pregnancy unique among vertebrates
+- Elongated snouts
+- Loss of teeth
+- Dermal bony armor
+- Extreme body elongation
+
+## Creating the Atlas
+
+We created a developmental scRNA-seq atlas from late embryogenesis Gulf pipefish (*Syngnathus scovelli*), describing:
+
+- 38 distinct cell clusters
+- 35,785 individual cells
+- Comprehensive gene expression profiles
+- Developmental trajectories
+
+## Key Discoveries
+
+### Elongated Face Development
+
+We identified osteochondrogenic mesenchymal cells in the elongating face that express key regulatory genes:
+
+- bmp4
+- sfrp1a
+- prdm16
+
+These genes likely play important roles in the evolution of the characteristic syngnathid snout.
+
+### Toothlessness
+
+Our analysis found no evidence for tooth primordia cells, consistent with the complete loss of teeth in this lineage.
+
+### Dermal Armor
+
+We observed re-deployment of osteoblast genetic networks in developing dermal armor, revealing how existing developmental programs were modified to create these protective structures.
+
+### Brooding Pouch
+
+Epidermal cells in our atlas expressed nutrient processing and environmental sensing genes, potentially relevant for the male brooding environment where embryos develop.
+
+## Evolutionary Implications
+
+Our results suggest that syngnathid evolutionary innovations are composed of recognizable cell types, indicating that derived features originate from changes within existing gene regulatory networks rather than entirely novel cell types.
+
+## Research Team
+
+- Hope M. Healey
+- Hayden B. Penn
+- Clayton M. Small
+- Susan Bassham
+- Vithika Goyal
+- Micah A. Woods
+- William A. Cresko
+
+## Resources
+
+This atlas provides a valuable resource for the syngnathid research community and anyone interested in understanding how complex morphological traits evolve.
+
+**Publication**: Healey HM, Penn HB, Small CM, Bassham S, Goyal V, Woods MA, Cresko WA (2025). Single cell sequencing provides clues about the developmental genetic basis of evolutionary adaptations in syngnathid fishes. *eLife* 13:RP97764.
+
+[Read the paper](https://doi.org/10.7554/eLife.97764)
