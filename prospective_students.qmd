@@ -1,5 +1,6 @@
 ---
 title: "Prospective Students"
+description: "Information for prospective graduate students and postdocs interested in joining the Cresko Laboratory"
 page-layout: full
 toc: false
 ---

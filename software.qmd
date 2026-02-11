@@ -1,5 +1,6 @@
 ---
 title: "Software"
+description: "Computational tools and software developed by the Cresko Laboratory, including Stacks and the Synteny Database"
 page-layout: full
 toc: false
 ---

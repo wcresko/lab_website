@@ -1,5 +1,6 @@
 ---
 title: "Mark Currey"
+description: "Senior Research Scientist studying population genetics and stickleback biology in the Cresko Laboratory"
 subtitle: "Senior Research Scientist"
 image: "../images/lab_folks/Currey_Mark_1.jpg"
 about:

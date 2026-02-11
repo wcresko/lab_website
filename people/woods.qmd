@@ -1,5 +1,6 @@
 ---
 title: "Micah Woods"
+description: "Post-Baccalaureate Scholar studying evolutionary developmental biology in the Cresko Laboratory"
 subtitle: "Post-Baccalaureate Scholar"
 image: "../images/lab_folks/Woods_Micah.jpg"
 about:

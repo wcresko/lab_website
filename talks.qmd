@@ -1,5 +1,6 @@
 ---
 title: "Talks"
+description: "Invited talks, seminars, and conference presentations by Cresko Laboratory members"
 page-layout: full
 toc: false
 ---

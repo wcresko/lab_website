@@ -1,5 +1,6 @@
 ---
 title: "Susan Bassham"
+description: "Senior Research Associate studying evolutionary developmental biology and population genomics in the Cresko Laboratory"
 subtitle: "Senior Research Associate"
 image: "../images/lab_folks/Bassham_Susie_1.jpg"
 about:

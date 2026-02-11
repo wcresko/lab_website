@@ -1,5 +1,6 @@
 ---
 title: "Publications"
+description: "Peer-reviewed publications from the Cresko Laboratory on evolutionary genomics, population genetics, and host-microbiome interactions"
 ---
 
 ## 2025

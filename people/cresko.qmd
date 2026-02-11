@@ -1,5 +1,6 @@
 ---
 title: "William A. Cresko"
+description: "Professor of Biology and Lorry Lokey Chair at the University of Oregon, studying evolutionary genomics and adaptation"
 subtitle: "Lorry Lokey Chair and Professor of Bioengineering | Director Center for Biomedical Data Science"
 image: "../images/lab_folks/Cresko_Bill_1.jpg"
 about:
