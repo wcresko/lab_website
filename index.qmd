@@ -1,5 +1,6 @@
 ---
 title: "Cresko Laboratory"
+description: "Evolutionary genomics laboratory at the University of Oregon studying the genomic basis of adaptation, host-microbiome interactions, and phenotypic evolution"
 subtitle: "We study the genomic basis of evolutionary change. Our research combines field studies, laboratory experiments, and computational approaches to understand how organisms adapt to changing environments"
 page-layout: full
 toc: false

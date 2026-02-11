@@ -1,5 +1,6 @@
 ---
 title: "Hope Healey"
+description: "Ph.D. graduate studying syngnathid fish evolution and single-cell genomics in the Cresko Laboratory"
 subtitle: "Ph.D. (2024)"
 image: "../images/lab_folks/Healey_Hope_1.jpg"
 about:

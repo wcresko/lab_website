@@ -1,5 +1,6 @@
 ---
 title: "Press Coverage"
+description: "Media coverage and press mentions of the Cresko Laboratory's research"
 page-layout: full
 toc: false
 ---

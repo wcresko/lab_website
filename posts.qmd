@@ -1,5 +1,6 @@
 ---
 title: "News"
+description: "Latest news, publications, and updates from the Cresko Laboratory"
 page-layout: full
 toc: false
 listing:

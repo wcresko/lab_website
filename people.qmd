@@ -1,5 +1,6 @@
 ---
 title: "Present and Past Lab Members"
+description: "Current and former members of the Cresko Laboratory at the University of Oregon"
 ---
 
 ## Current Lab Members

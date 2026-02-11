@@ -1,5 +1,6 @@
 ---
 title: "Martin Stervander"
+description: "Postdoctoral Research Fellow studying comparative genomics of syngnathid fishes in the Cresko Laboratory"
 subtitle: "Postdoctoral Research Fellow"
 image: "../images/lab_folks/Stervander_Martin_1.jpg"
 about:

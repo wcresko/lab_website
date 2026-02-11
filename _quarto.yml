@@ -8,6 +8,12 @@ website:
   site-url: https://wcresko.github.io/Cresko_Lab_Website/
   repo-url: https://github.com/wcresko/Cresko_Lab_Website
   page-navigation: true
+  open-graph:
+    locale: en_US
+    site-name: "Cresko Laboratory"
+  twitter-card:
+    card-style: summary_large_image
+    site: "@wcresko"
   
   navbar:
     background: primary
@@ -52,7 +58,7 @@ website:
     background: "#ffffff"
     border: true
     left: |
-      © 2025 Cresko Laboratory
+      © 2026 Cresko Laboratory
     center: |
       Built with [Quarto](https://quarto.org/)
     right: |
@@ -74,6 +80,43 @@ format:
     include-in-header:
       - text: |
           <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+          <script type="application/ld+json">
+          {
+            "@context": "https://schema.org",
+            "@type": "ResearchOrganization",
+            "name": "Cresko Laboratory",
+            "description": "An evolutionary genomics laboratory at the University of Oregon",
+            "url": "https://wcresko.github.io/Cresko_Lab_Website/",
+            "logo": "https://wcresko.github.io/Cresko_Lab_Website/images/lab_logo.png",
+            "parentOrganization": {
+              "@type": "CollegeOrUniversity",
+              "name": "University of Oregon",
+              "url": "https://uoregon.edu"
+            },
+            "department": {
+              "@type": "Organization",
+              "name": "Institute of Ecology and Evolution"
+            },
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "312 Pacific Hall",
+              "addressLocality": "Eugene",
+              "addressRegion": "OR",
+              "postalCode": "97403",
+              "addressCountry": "US"
+            },
+            "contactPoint": {
+              "@type": "ContactPoint",
+              "email": "wcresko@uoregon.edu",
+              "telephone": "+1-541-346-4779",
+              "contactType": "Principal Investigator"
+            },
+            "sameAs": [
+              "https://github.com/creskolab",
+              "https://bsky.app/profile/creskolab.bsky.social"
+            ]
+          }
+          </script>
 
 execute:
   freeze: auto

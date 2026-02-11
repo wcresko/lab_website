@@ -1,5 +1,6 @@
 ---
 title: "Shannon Snyder"
+description: "Graduate student studying transgenerational phenotypic plasticity in Daphnia in the Cresko Laboratory"
 subtitle: "Graduate Student"
 image: "../images/lab_folks/Snyder_Shannon.jpg"
 about:
